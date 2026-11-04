@@ -1,0 +1,465 @@
+BEGIN:VCALENDAR
+PRODID:-//PAAN-Group Consulting//ITSM Event Calendar//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PGC – ITSM/ESM Events
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:paan-event-1706223604
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:itSMF Fachforum
+URL:https://www.hisolutions.com/itsmf-2026-berlin
+DESCRIPTION:URL: https://www.hisolutions.com/itsmf-2026-berlin\n\nEN: A spe
+ cialist forum by the IT Service Management Forum Germany for experts and u
+ sers.\n\nDE: Ein Fachforum des itSMF Deutschland für Experten und Anwende
+ r.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223607
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Freshworks IT Service Desk Blueprint
+URL:https://www.freshworks.com/freshservice/resources/2026-service-desk-blu
+ eprint/
+DESCRIPTION:URL: https://www.freshworks.com/freshservice/resources/2026-ser
+ vice-desk-blueprint/\n\nEN: Vendor webinar exploring service desk strategy
+  evolution in 2026\, AI-assisted delivery and roadmap approaches.\n\nDE: V
+ endor-Webinar zu neuen Service-Desk-Strategien 2026\, KI-gestützter Berei
+ tstellung und praxisnahem Modernisierungsansatz.\n\nKategorie/Category: IT
+ SM\, AI | Region: Online
+LOCATION:Online
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223615
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Atlassian Team on Tour: Frankfurt
+URL:https://events.atlassian.com/connect-highvelocity-frankfurt
+DESCRIPTION:URL: https://events.atlassian.com/connect-highvelocity-frankfur
+ t\n\nEN: Atlassian service management event focusing on teamwork\, ITSM pr
+ actices and the latest platform innovations — targeted at local communit
+ y + partners.\n\nDE: Atlassian Service Management-Event mit Fokus auf Team
+ work\, ITSM-Praxis und Plattform-Innovation – ausgerichtet auf lokale Co
+ mmunity und Partner.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Frankfurt\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223617
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:ServiceNow – Put AI to Work for IT
+URL:https://rsvp.servicenow.com/putaitoworkforitmunich2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/putaitoworkforitmunich2026\n\n
+ EN: In-person hands-on workshop exploring ServiceNow’s AI platform capab
+ ilities to streamline IT processes.\n\nDE: Präsenz-Hands-on-Workshop zur 
+ Erkundung der KI-Plattform von ServiceNow\, um IT-Prozesse zu optimieren u
+ nd „Autonomous IT“ praktisch kennenzulernen.\n\nKategorie/Category: IT
+ SM\, AI | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223621
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:ITSX Summit – Edinburgh
+URL:https://www.itsxsummit.com/events
+DESCRIPTION:URL: https://www.itsxsummit.com/events\n\nEN: Focused service d
+ esk & IT support summit exploring AI\, automation\, analytics\, service de
+ livery and workflow optimization.\n\nDE: Konferenz zu Service Desk und IT-
+ Support mit Fokus auf KI\, Automatisierung\, Analytik und Workflow-Optimie
+ rung.\n\nKategorie/Category: ITSM\, AI | Region: Europe
+LOCATION:Edinburgh\, UK
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223624
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:ServiceNow Executive Dinner – Vienna
+URL:https://rsvp.servicenow.com/executivecirclevienna2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/executivecirclevienna2026\n\nE
+ N: Exclusive executive dinner event for senior leaders to exchange ideas a
+ bout AI\, strategy and future workflows.\n\nDE: Exklusives Dinner-Event f
+ ür Führungskräfte zum Austausch über KI\, Strategie und zukünftige Wo
+ rkflows auf der ServiceNow Plattform.\n\nKategorie/Category: ITSM\, AI | R
+ egion: DACH
+LOCATION:Vienna\, AT
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223635
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260327
+SUMMARY:ServiceNow CRM Jam Munich
+URL:https://rsvp.servicenow.com/industryjammuc
+DESCRIPTION:URL: https://rsvp.servicenow.com/industryjammuc\n\nEN: A two-da
+ y co-innovation workshop to co-create AI-powered CRM prototypes and learn 
+ hands-on how to apply AI in workflows.\n\nDE: Zwei-tägiger Co-Innovation-
+ Workshop mit ServiceNow-Experten in München zur gemeinsamen Entwicklung v
+ on KI-gestützten CRM-Prototypen und praxisnaher Anwendung von KI-Workflow
+ s.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223637
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Service Space 2026
+URL:https://www.servicespace.at/
+DESCRIPTION:URL: https://www.servicespace.at/\n\nEN: Austria's leading inde
+ pendent IT Service Management conference.\n\nDE: Österreichs größte una
+ bhängige IT Service Management Konferenz.\n\nKategorie/Category: ITSM | R
+ egion: DACH
+LOCATION:Vienna\, AT
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223646
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260515
+SUMMARY:Service Desk & IT Support Show (SITS)
+URL:https://www.servicedeskshow.com/
+DESCRIPTION:URL: https://www.servicedeskshow.com/\n\nEN: Europe's leading e
+ vent for ITSM\, service desk\, and IT support professionals.\n\nDE: Europa
+ s führendes Event für ITSM\, Service Desk und IT-Support-Profis.\n\nKate
+ gorie/Category: ITSM | Region: Europe
+LOCATION:London\, UK
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647-1
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:SERVIEW26 Pre-Congress Warm-Up
+URL:https://en.serview-summit.com/programm
+DESCRIPTION:URL: https://en.serview-summit.com/programm\n\nEN: Networking a
+ nd introductory sessions the day before SERVIEW26.\n\nDE: Networking und E
+ inführungs-Sessions am Vortag von SERVIEW26.\n\nKategorie/Category: ITSM 
+ | Region: DACH
+LOCATION:Seeheim-Jugenheim\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260522
+SUMMARY:SERVIEW26 – Congress & Expo
+URL:https://en.serview-summit.com/
+DESCRIPTION:URL: https://en.serview-summit.com/\n\nEN: Europe’s #1 ITSM &
+  ESM congress and trade fair with keynotes\, masterclasses\, expo & networ
+ king.\n\nDE: Europas größter ITSM- & ESM-Kongress mit Expo\, Keynotes\, 
+ Masterclasses und Networking.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Seeheim-Jugenheim\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223657
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:IT Service Management Summit DACH
+URL:https://www.it-service-management-summit.com/
+DESCRIPTION:URL: https://www.it-service-management-summit.com/\n\nEN: Compr
+ ehensive ITSM summit for DACH IT leaders exploring service delivery\, oper
+ ations and digital transformation.\n\nDE: Umfassender ITSM-Gipfel für DAC
+ H-IT-Verantwortliche mit Fokus auf Service Delivery\, Operations und digit
+ ale Transformation.\n\nKategorie/Category: ITSM\, Digital Transformation |
+  Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223669
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:AFSMI Service Branch Gathering
+URL:https://afsmi.de
+DESCRIPTION:URL: https://afsmi.de\n\nEN: Industry meetup in Stuttgart with 
+ talks and interactive sessions on service management practices.\n\nDE: Bra
+ nchentreffen des AFSMI in Stuttgart mit Impulsvorträgen und interaktivem 
+ Austausch zu Service Management Themen.\n\nKategorie/Category: ITSM | Regi
+ on: DACH
+LOCATION:Stuttgart\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:atlassian-team-26-europe@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:Atlassian Team '26 Europe
+URL:https://events.atlassian.com/teameurope
+DESCRIPTION:URL: https://events.atlassian.com/teameurope\n\nEN: Atlassian's
+  European flagship conference incl. Jira Service Management.\n\nDE: Europ
+ äische Atlassian-Leitkonferenz inkl. Jira Service Management.\n\nKategori
+ e/Category: ITSM\, AI | Region: Europe
+LOCATION:Amsterdam (RAI)\, NL
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smfs-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Service Management Forum Schweiz (SMFS) 2026
+URL:https://www.netzwoche.ch/news/2026-09-23/das-erwartet-die-besucher-am-s
+ ervice-management-forum-schweiz-2026
+DESCRIPTION:URL: https://www.netzwoche.ch/news/2026-09-23/das-erwartet-die-
+ besucher-am-service-management-forum-schweiz-2026\n\nEN: Switzerland's lar
+ gest service management forum\; 2026 motto: Service Automation.\n\nDE: Gr
+ össtes Service-Management-Forum der Schweiz\; Motto 2026: Service Automat
+ ion.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Zürich-Flughafen (Radisson Blu)\, CH
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:manageengine-userconf-ch-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ManageEngine UserConf Schweiz 2026
+URL:https://www.manageengine.com/events/
+DESCRIPTION:URL: https://www.manageengine.com/events/\n\nEN: ManageEngine u
+ ser conference covering ServiceDesk Plus\, ITOM and endpoint management.\n
+ \nDE: ManageEngine-Anwenderkonferenz zu ServiceDesk Plus\, ITOM und Endpoi
+ nt Management.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Zürich (Crowne Plaza)\, CH
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:servicenow-world-forum-frankfurt-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ServiceNow World Forum Frankfurt [TBC]
+URL:https://www.servicenow.com/events/world-forum.html
+DESCRIPTION:URL: https://www.servicenow.com/events/world-forum.html\n\nSTAT
+ US: Termin noch nicht final bestätigt / date not yet confirmed\n\nEN: Ser
+ viceNow regional flagship event (date from third-party guide\, please veri
+ fy).\n\nDE: Regionales ServiceNow-Flaggschiff-Event (Datum aus Drittquelle
+ \, bitte verifizieren).\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Frankfurt am Main\, DE
+CATEGORIES:ITSM,AI
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:service-summit-duesseldorf-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:Service Summit 2026
+URL:https://www.deloitte.com/de/de/services/consulting/events/service-summi
+ t.html
+DESCRIPTION:URL: https://www.deloitte.com/de/de/services/consulting/events/
+ service-summit.html\n\nEN: Conference on B2B/after-sales service managemen
+ t and service business models.\n\nDE: Konferenz zu B2B-/After-Sales-Servic
+ e-Management und Service-Geschäftsmodellen.\n\nKategorie/Category: ITSM\,
+  Digital Transformation | Region: DACH
+LOCATION:Düsseldorf\, DE
+CATEGORIES:ITSM,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223673
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:ITSM26
+URL:https://www.itsmf.co.uk/itsm26/
+DESCRIPTION:URL: https://www.itsmf.co.uk/itsm26/\n\nEN: The official annual
+  conference and awards event for itSMF UK.\n\nDE: Die offizielle Jahreskon
+ ferenz mit Preisverleihung von itSMF UK.\n\nKategorie/Category: ITSM | Reg
+ ion: Europe
+LOCATION:Milton Keynes\, UK
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223675
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:AFSMI Strategiegipfel B2B Service
+URL:https://www.project-networks.com/en/events/strategy-summit-b2b-service-
+ management/
+DESCRIPTION:URL: https://www.project-networks.com/en/events/strategy-summit
+ -b2b-service-management/\n\nEN: B2B service management strategy summit wit
+ h online access.\n\nDE: Strategiegipfel B2B Service Management mit Diskuss
+ ionen zu Service Management Strategien\; Online-Teilnahme möglich.\n\nKat
+ egorie/Category: ITSM | Region: DACH
+LOCATION:Berlin\, DE / Zoom
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:atlassian-team-for-builders-berlin-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270206
+SUMMARY:Atlassian Team for Builders: Berlin
+URL:https://www.atlassian.com/company/events
+DESCRIPTION:URL: https://www.atlassian.com/company/events\n\nEN: Atlassian 
+ event for builders\, admins and partners.\n\nDE: Atlassian-Event für Entw
+ ickler\, Admins und Partner.\n\nKategorie/Category: ITSM\, Developer | Reg
+ ion: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ccw-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270226
+SUMMARY:CCW 2027 (Customer Contact World)
+URL:https://www.ccw.eu/
+DESCRIPTION:URL: https://www.ccw.eu/\n\nEN: Europe's leading trade fair and
+  congress for customer service and contact centres.\n\nDE: Europas Leitmes
+ se mit Kongress für Kundenservice und Contact Center.\n\nKategorie/Catego
+ ry: ITSM\, AI | Region: DACH
+LOCATION:Berlin (Estrel)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:service-space-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Service Space 2027
+URL:https://servicespace.acp-gruppe.com/en/
+DESCRIPTION:URL: https://servicespace.acp-gruppe.com/en/\n\nEN: Austria's l
+ eading independent ITSM conference: 32 sessions in 5 streams\, PeopleCert 
+ CPD credits\; service design\, CMDB\, AI and ESM.\n\nDE: Österreichs füh
+ rende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams\, PeopleCert-C
+ PD-Punkte\; Service Design\, CMDB\, KI und ESM.\n\nKategorie/Category: ITS
+ M\, AI | Region: DACH
+LOCATION:Wien (Schönbrunn)\, AT
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:atlassian-team-27@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270423
+SUMMARY:Atlassian Team '27
+URL:https://www.atlassian.com/company/events
+DESCRIPTION:URL: https://www.atlassian.com/company/events\n\nEN: Atlassian'
+ s global flagship conference.\n\nDE: Globale Atlassian-Leitkonferenz.\n\nK
+ ategorie/Category: ITSM\, AI | Region: International
+LOCATION:San Francisco (Moscone Center)\, US
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:servicenow-knowledge-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+SUMMARY:ServiceNow Knowledge 2027
+URL:https://www.servicenow.com/events/knowledge.html
+DESCRIPTION:URL: https://www.servicenow.com/events/knowledge.html\n\nEN: Se
+ rviceNow's global annual flagship conference.\n\nDE: Globale ServiceNow-Ja
+ hreskonferenz.\n\nKategorie/Category: ITSM\, AI | Region: International
+LOCATION:Las Vegas\, US
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sits-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+SUMMARY:Service Desk & IT Support Show (SITS) 2027
+URL:https://www.servicedeskshow.com/
+DESCRIPTION:URL: https://www.servicedeskshow.com/\n\nEN: Europe's leading e
+ vent for ITSM\, service desk and IT support professionals.\n\nDE: Europas 
+ führendes Event für ITSM\, Service Desk und IT-Support.\n\nKategorie/Cat
+ egory: ITSM | Region: Europe
+LOCATION:London (ExCeL)\, UK
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serviceware-forum-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270624
+SUMMARY:Serviceware Forum 2027
+URL:https://www.rmcc.de/en/veranstaltungen/serviceware-forum
+DESCRIPTION:URL: https://www.rmcc.de/en/veranstaltungen/serviceware-forum\n
+ \nEN: Serviceware user conference on ESM\, knowledge management and AI in 
+ service management.\n\nDE: Serviceware-Anwenderkonferenz zu ESM\, Wissensm
+ anagement und KI im Service Management.\n\nKategorie/Category: ITSM\, AI |
+  Region: DACH
+LOCATION:Wiesbaden (RMCC)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

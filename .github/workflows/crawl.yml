@@ -1,0 +1,41 @@
+name: Crawl events (weekly)
+
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # Mondays 04:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Crawl sources
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional: enables AI extraction
+        working-directory: scripts
+        run: python crawl.py
+      - name: Build feeds
+        working-directory: scripts
+        run: python build.py
+      - name: Open pull request for review
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: crawler/update
+          title: "Crawler: neue/geänderte Events"
+          body-path: data/crawl_report.md
+          commit-message: "Crawler: Event-Aktualisierung"
+          add-paths: |
+            data/events.yaml
+            data/crawl_report.md
+            docs/
+            EVENTS.md
+          delete-branch: true

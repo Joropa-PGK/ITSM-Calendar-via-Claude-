@@ -1,0 +1,5 @@
+PyYAML>=6.0
+icalendar>=6.0
+httpx>=0.27
+anthropic>=2.5.0
+pydantic>=2.7

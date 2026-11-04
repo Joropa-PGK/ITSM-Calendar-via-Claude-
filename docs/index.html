@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IT &amp; ITSM Event-Kalender</title>
+<meta name="description" content="IT-, ITSM-, KI-, Cloud- und Digital-Transformation-Veranstaltungen in DACH und Europa – kuratiert von PAAN-Group Consulting.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
+<script src="vendor/fullcalendar/index.global.min.js"></script>
+<script src="vendor/fullcalendar/locale-de.global.min.js"></script>
+<style>
+:root{
+  --navy:#0A3658; --cyan:#1AB7EA; --light:#D1F1FB; --gold:#C6A952; --yellow:#F7D367; --cream:#FDF3D4;
+  --bg:#ffffff; --surface:#f6f9fb; --text:#0d1b26; --muted:#5b6b78; --border:#dbe4ea;
+  --core:#1AB7EA; --related:#0A3658; --peripheral:#8a99a6;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0b1620; --surface:#122230; --text:#e8eff4; --muted:#9fb0bd; --border:#23384a;
+    --related:#3d7fb3; --peripheral:#6b7c89;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0b1620; --surface:#122230; --text:#e8eff4; --muted:#9fb0bd; --border:#23384a;
+  --related:#3d7fb3; --peripheral:#6b7c89;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Maven Pro",system-ui,sans-serif;line-height:1.45}
+header{background:var(--navy);color:#fff;padding:20px 16px}
+header .wrap{max-width:1200px;margin:0 auto;display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;justify-content:space-between}
+h1{margin:0;font-weight:800;font-size:clamp(1.3rem,3vw,1.9rem)}
+header p{margin:4px 0 0;color:var(--light);font-size:.95rem}
+.stamp{font-size:.8rem;color:var(--light)}
+main{max-width:1200px;margin:0 auto;padding:16px}
+.subscribe{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.btn{display:inline-flex;align-items:center;gap:6px;padding:8px 12px;border-radius:8px;border:1px solid var(--border);
+  background:var(--surface);color:var(--text);text-decoration:none;font-weight:600;font-size:.9rem;cursor:pointer}
+.btn.primary{background:var(--cyan);border-color:var(--cyan);color:#05263d}
+.btn:hover{filter:brightness(1.05)}
+.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;background:var(--surface);
+  border:1px solid var(--border);border-radius:10px;padding:12px;margin-bottom:16px}
+.filters label{display:flex;flex-direction:column;font-size:.78rem;color:var(--muted);font-weight:600;gap:4px}
+.filters select,.filters input{font:inherit;font-size:.92rem;padding:7px 8px;border-radius:6px;border:1px solid var(--border);
+  background:var(--bg);color:var(--text)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:.82rem;color:var(--muted);margin:-6px 0 12px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.dot{width:12px;height:12px;border-radius:3px;display:inline-block}
+.count{font-size:.85rem;color:var(--muted);margin-bottom:8px}
+#calendar{background:var(--bg)}
+.fc{--fc-border-color:var(--border);--fc-page-bg-color:var(--bg);--fc-neutral-bg-color:var(--surface);
+  --fc-list-event-hover-bg-color:var(--surface);--fc-today-bg-color:rgba(26,183,234,.12);
+  --fc-button-bg-color:var(--navy);--fc-button-border-color:var(--navy);--fc-button-active-bg-color:var(--cyan);
+  --fc-button-active-border-color:var(--cyan);--fc-button-hover-bg-color:#0d4673;font-size:.9rem}
+.fc .fc-toolbar-title{font-size:1.15rem;font-weight:700}
+.fc-event.tentative{border-style:dashed !important;opacity:.85}
+.fc-list-event-title a{color:var(--text)}
+.fc .fc-list-day-cushion{background:var(--surface)}
+dialog{border:none;border-radius:12px;padding:0;max-width:560px;width:calc(100% - 32px);background:var(--bg);color:var(--text);
+  box-shadow:0 20px 60px rgba(0,0,0,.35)}
+dialog::backdrop{background:rgba(5,20,32,.55)}
+.dlg-head{background:var(--navy);color:#fff;padding:14px 16px}
+.dlg-head h2{margin:0;font-size:1.15rem}
+.dlg-body{padding:14px 16px;font-size:.93rem}
+.dlg-body dl{display:grid;grid-template-columns:110px 1fr;gap:6px 10px;margin:0 0 10px}
+.dlg-body dt{color:var(--muted);font-weight:600}
+.dlg-body dd{margin:0;overflow-wrap:anywhere}
+.tag{display:inline-block;background:var(--light);color:var(--navy);border-radius:999px;padding:1px 8px;font-size:.78rem;margin:0 4px 4px 0;font-weight:600}
+.tag.tbc{background:var(--cream);color:#7a5d00}
+.dlg-foot{display:flex;gap:8px;justify-content:flex-end;padding:0 16px 14px;flex-wrap:wrap}
+section.watch{margin-top:28px}
+section.watch h2{font-size:1.1rem;margin:0 0 4px}
+section.watch p{color:var(--muted);font-size:.88rem;margin:0 0 10px}
+.tablewrap{overflow-x:auto;border:1px solid var(--border);border-radius:10px}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);vertical-align:top}
+th{background:var(--surface);font-weight:700}
+td a{color:var(--cyan)}
+footer{max-width:1200px;margin:24px auto;padding:0 16px 24px;font-size:.8rem;color:var(--muted)}
+footer a{color:inherit}
+@media (max-width:640px){
+  .fc .fc-toolbar{flex-direction:column;gap:8px}
+  .dlg-body dl{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div>
+      <h1>IT &amp; ITSM Event-Kalender</h1>
+      <p>ITSM/ESM · KI · Cloud · Security · Digitale Transformation — Fokus DACH</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </div>
+</header>
+
+<main>
+  <div class="subscribe">
+    <a class="btn primary" id="gcal" target="_blank" rel="noopener">In Google Kalender abonnieren</a>
+    <a class="btn" id="webcal">Abonnieren (Outlook/Apple)</a>
+    <a class="btn" href="events.ics" download>Alle (.ics)</a>
+    <a class="btn" href="events-itsm.ics" download>Nur ITSM (.ics)</a>
+    <a class="btn" href="events-dach.ics" download>Nur DACH (.ics)</a>
+  </div>
+
+  <div class="filters">
+    <label>Suche<input id="q" type="search" placeholder="Titel, Ort …"></label>
+    <label>Relevanz
+      <select id="rel">
+        <option value="core,related">ITSM + verwandte Themen</option>
+        <option value="core">Nur ITSM/ESM</option>
+        <option value="core,related,peripheral">Alle (inkl. Randthemen)</option>
+      </select>
+    </label>
+    <label>Region
+      <select id="reg">
+        <option value="">Alle</option><option value="DACH">DACH</option><option value="Europe">Europa (ohne DACH)</option>
+        <option value="International">International</option><option value="Online">Online</option>
+      </select>
+    </label>
+    <label>Thema
+      <select id="cat">
+        <option value="">Alle</option><option>ITSM</option><option>AI</option><option>Cloud</option>
+        <option>Security</option><option>Digital Transformation</option><option>Developer</option>
+      </select>
+    </label>
+    <label>Status
+      <select id="st">
+        <option value="">Alle</option><option value="confirmed">Bestätigt</option><option value="tentative">Vorläufig (TBC)</option>
+      </select>
+    </label>
+  </div>
+  <div class="legend">
+    <span><i class="dot" style="background:var(--core)"></i>ITSM/ESM (Kern)</span>
+    <span><i class="dot" style="background:var(--related)"></i>KI, Cloud, Security, Digital</span>
+    <span><i class="dot" style="background:var(--peripheral)"></i>Randthema</span>
+    <span><i class="dot" style="border:2px dashed var(--muted)"></i>Termin vorläufig</span>
+  </div>
+  <div class="count" id="count"></div>
+  <div id="calendar"></div>
+
+  <section class="watch">
+    <h2>Beobachtungsliste 2027 – noch ohne bestätigten Termin</h2>
+    <p>Diese Veranstaltungen werden erwartet, haben aber noch kein belastbares Datum. Der Crawler prüft sie bei jedem Lauf.</p>
+    <div class="tablewrap"><table><thead><tr><th>Veranstaltung</th><th>Erwartet</th><th>Ort</th></tr></thead><tbody id="watch"></tbody></table></div>
+  </section>
+</main>
+
+<dialog id="dlg">
+  <div class="dlg-head"><h2 id="d-title"></h2></div>
+  <div class="dlg-body">
+    <dl>
+      <dt>Datum</dt><dd id="d-date"></dd>
+      <dt>Ort</dt><dd id="d-loc"></dd>
+      <dt>Website</dt><dd><a id="d-url" target="_blank" rel="noopener"></a></dd>
+    </dl>
+    <div id="d-tags"></div>
+    <p id="d-de"></p>
+    <p id="d-en" style="color:var(--muted)"></p>
+    <p id="d-note" style="color:#a0522d"></p>
+  </div>
+  <div class="dlg-foot">
+    <a class="btn" id="d-add" target="_blank" rel="noopener">Einzeln in Google Kalender</a>
+    <button class="btn primary" id="d-close">Schließen</button>
+  </div>
+</dialog>
+
+<footer>
+  Kuratiert von <a href="https://paan-group.com" target="_blank" rel="noopener">PAAN-Group Consulting</a>.
+  Angaben ohne Gewähr – Termine bitte vor Reiseplanung auf der Veranstalterseite prüfen.
+  Automatische Aktualisierung per Crawler mit manueller Freigabe.
+</footer>
+
+<script>
+(function(){
+  const CAT_DE = {"ITSM":"ITSM/ESM","AI":"KI","Cloud":"Cloud","Security":"Security","Digital Transformation":"Digitale Transformation","Developer":"Developer"};
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const fmt = d => new Date(d+"T00:00:00").toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"});
+  const addDay = d => { const x=new Date(d+"T00:00:00"); x.setDate(x.getDate()+1); return x.toISOString().slice(0,10); };
+  let all = [], cal;
+
+  // Subscribe links (absolute URL of the feed next to this page)
+  const feed = new URL("events.ics", location.href);
+  document.getElementById("gcal").href = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent("webcal://" + feed.host + feed.pathname);
+  document.getElementById("webcal").href = "webcal://" + feed.host + feed.pathname;
+
+  function filtered(){
+    const q = document.getElementById("q").value.toLowerCase().trim();
+    const rel = document.getElementById("rel").value.split(",");
+    const reg = document.getElementById("reg").value, cat = document.getElementById("cat").value, st = document.getElementById("st").value;
+    return all.filter(e => rel.includes(e.relevance) && (!reg || e.region===reg) && (!cat || e.categories.includes(cat))
+      && (!st || e.status===st) && (!q || (e.title+" "+e.location).toLowerCase().includes(q)));
+  }
+  function toFc(e){
+    const color = css("--"+e.relevance);
+    return {id:e.id, title:e.title + (e.status==="tentative"?" (TBC)":""), start:e.start, end:addDay(e.end), allDay:true,
+      backgroundColor:color, borderColor:e.status==="tentative"?css("--gold"):color, textColor:e.relevance==="core"?"#05263d":"#fff",
+      classNames:e.status==="tentative"?["tentative"]:[], extendedProps:e};
+  }
+  function refresh(){
+    const list = filtered();
+    document.getElementById("count").textContent = list.length + " von " + all.length + " Veranstaltungen";
+    cal.removeAllEvents(); cal.addEventSource(list.map(toFc));
+  }
+  function openDlg(e){
+    document.getElementById("d-title").textContent = e.title;
+    document.getElementById("d-date").textContent = e.start===e.end ? fmt(e.start) : fmt(e.start)+" – "+fmt(e.end);
+    document.getElementById("d-loc").textContent = e.location || "–";
+    const a = document.getElementById("d-url"); a.href = e.url; a.textContent = e.url;
+    const tags = document.getElementById("d-tags"); tags.innerHTML = "";
+    e.categories.forEach(c => { const s=document.createElement("span"); s.className="tag"; s.textContent=CAT_DE[c]||c; tags.appendChild(s); });
+    const r=document.createElement("span"); r.className="tag"; r.textContent=e.region; tags.appendChild(r);
+    if(e.status==="tentative"){ const t=document.createElement("span"); t.className="tag tbc"; t.textContent="Termin vorläufig"; tags.appendChild(t); }
+    document.getElementById("d-de").textContent = e.description_de || "";
+    document.getElementById("d-en").textContent = e.description_en || "";
+    document.getElementById("d-note").textContent = e.note ? "Hinweis: "+e.note : "";
+    const g = new URL("https://calendar.google.com/calendar/render");
+    g.searchParams.set("action","TEMPLATE"); g.searchParams.set("text",e.title);
+    g.searchParams.set("dates", e.start.replaceAll("-","")+"/"+addDay(e.end).replaceAll("-",""));
+    g.searchParams.set("location", e.location||""); g.searchParams.set("details", e.url+"\n\n"+(e.description_de||""));
+    document.getElementById("d-add").href = g.toString();
+    document.getElementById("dlg").showModal();
+  }
+  document.getElementById("d-close").onclick = () => document.getElementById("dlg").close();
+  ["q","rel","reg","cat","st"].forEach(id => document.getElementById(id).addEventListener("input", () => {
+    refresh(); try{ localStorage.setItem("f_"+id, document.getElementById(id).value); }catch(_){}
+  }));
+  ["rel","reg","cat","st"].forEach(id => { try{ const v=localStorage.getItem("f_"+id); if(v!==null) document.getElementById(id).value=v; }catch(_){} });
+
+  const narrow = window.matchMedia("(max-width:640px)").matches;
+  const now = new Date().toISOString().slice(0,10);
+  cal = new FullCalendar.Calendar(document.getElementById("calendar"), {
+    locale:"de", firstDay:1, height:"auto", initialView: narrow ? "listYear" : "dayGridMonth",
+    headerToolbar: narrow ? {left:"prev,next", center:"title", right:"today"} : {left:"prev,next today", center:"title", right:"dayGridMonth,listYear"},
+    buttonText:{today:"Heute", month:"Monat", list:"Liste"}, initialDate: now,
+    noEventsContent:"Keine Veranstaltungen im Zeitraum",
+    eventClick: info => { info.jsEvent.preventDefault(); openDlg(info.event.extendedProps); },
+    dayMaxEvents: 4,
+    eventDidMount: info => {
+      if (info.view.type.startsWith("list")) {
+        const t = info.el.querySelector(".fc-list-event-title");
+        const e = info.event.extendedProps;
+        if (t && e.location) { const s=document.createElement("span"); s.style.color="var(--muted)"; s.textContent=" · "+e.location; t.appendChild(s); }
+      } else { info.el.title = info.event.title + (info.event.extendedProps.location ? " – " + info.event.extendedProps.location : ""); }
+    }
+  });
+  cal.render();
+
+  fetch("events.json").then(r=>r.json()).then(d => {
+    all = d.events;
+    document.getElementById("stamp").textContent = "Stand: " + new Date(d.generated).toLocaleString("de-DE",{dateStyle:"medium",timeStyle:"short"});
+    refresh();
+  });
+  fetch("watchlist.json").then(r=>r.json()).then(w => {
+    const tb = document.getElementById("watch");
+    w.forEach(x => {
+      const tr = document.createElement("tr");
+      const td1 = document.createElement("td"); const a=document.createElement("a"); a.href=x.url; a.target="_blank"; a.rel="noopener"; a.textContent=x.title; td1.appendChild(a);
+      const td2 = document.createElement("td"); td2.textContent = x.expected;
+      const td3 = document.createElement("td"); td3.textContent = x.location;
+      tr.append(td1,td2,td3); tb.appendChild(tr);
+    });
+  });
+})();
+</script>
+</body>
+</html>

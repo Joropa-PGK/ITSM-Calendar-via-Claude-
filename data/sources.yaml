@@ -1,0 +1,51 @@
+# Quellen für den Crawler. Jede Quelle wird regelmässig abgerufen (robots.txt wird beachtet).
+#   type: html (Default) -> schema.org/JSON-LD Events, sonst KI-Extraktion (falls ANTHROPIC_API_KEY gesetzt)
+#   type: ics            -> iCalendar-Feed wird direkt gelesen
+#   focus: optionale Themen; Events ausserhalb dieser Themen werden verworfen
+# Zusätzlich prüft der Crawler automatisch alle URLs aus data/watchlist.yaml.
+
+# --- ITSM-Verbände & -Kongresse -------------------------------------------------
+- {name: itSMF Deutschland, url: "https://www.itsmf.de/veranstaltungen/", focus: [ITSM]}
+- {name: itSMF Schweiz, url: "https://events.itsmf.ch/", focus: [ITSM]}
+- {name: itSMF UK, url: "https://www.itsmf.co.uk/events/", focus: [ITSM]}
+- {name: SMFS, url: "https://www.smfs.ch/", focus: [ITSM]}
+- {name: AFSMI, url: "https://www.afsmi.de/veranstaltungen/", focus: [ITSM]}
+- {name: SERVIEW, url: "https://en.serview-summit.com/"}
+- {name: Service Space, url: "https://servicespace.acp-gruppe.com/en/"}
+- {name: SECTOR NORD ITSM-Summit, url: "https://www.itsm-summit.de/"}
+- {name: SITS London, url: "https://www.servicedeskshow.com/"}
+- {name: project-networks (AFSMI Strategiegipfel), url: "https://www.project-networks.com/en/events/"}
+
+# --- Hersteller-Events ------------------------------------------------------------
+- {name: ServiceNow Events, url: "https://www.servicenow.com/events.html", focus: [ITSM, AI]}
+- {name: Atlassian Events, url: "https://www.atlassian.com/company/events"}
+- {name: USU World, url: "https://www.usu.world/"}
+- {name: Serviceware Events, url: "https://serviceware-se.com/en/events"}
+- {name: ManageEngine Events, url: "https://www.manageengine.com/events/"}
+- {name: Matrix42 Events, url: "https://www.matrix42.com/en/resources/events"}
+- {name: OMNINET News/Events, url: "https://www.omnitracker.com/en/resources/news/"}
+- {name: KIX Messen, url: "https://kixdesk.com/en/about-us/trade-shows/"}
+- {name: TOPdesk Kalender, url: "https://www.topdesk.com/en/events/"}
+- {name: Freshworks Events, url: "https://www.freshworks.com/events/"}
+
+# --- Medien & Veranstalter (IT, KI, Digital) -------------------------------------
+- {name: Handelsblatt Live, url: "https://live.handelsblatt.com/"}
+- {name: Euroforum, url: "https://www.euroforum.de/"}
+- {name: it-schulungen.com Messen & Kongresse, url: "https://www.it-schulungen.com/seminare/events-messen-workshops/messen-konferenzen-und-kongresse/"}
+- {name: IT-Tage, url: "https://www.ittage.informatik-aktuell.de/"}
+- {name: Bitkom Termine, url: "https://www.bitkom.org/Termine"}
+- {name: Computerwoche Events, url: "https://www.computerwoche.de/p/events,17871"}
+- {name: Netzwoche Events (CH), url: "https://www.netzwoche.ch/events"}
+- {name: Confare (AT/CH), url: "https://www.confare.at/"}
+- {name: Zukunftskongress Staat & Verwaltung, url: "https://www.zukunftskongress.info/"}
+- {name: Smart Country Convention, url: "https://www.smart-country-convention.de/"}
+- {name: Tech Show Frankfurt, url: "https://www.techshowfrankfurt.de/"}
+- {name: European AI & Cloud Summit, url: "https://cloudsummit.eu/"}
+
+# --- Aggregatoren -------------------------------------------------------------------
+- {name: dev.events ITSM, url: "https://dev.events/EU/itsm"}
+- {name: dev.events AI DE, url: "https://dev.events/EU/DE/ai"}
+- {name: experte.de KI, url: "https://www.experte.de/events/ki"}
+- {name: experte.de Digitalisierung, url: "https://www.experte.de/events/digitalisierung"}
+- {name: experte.de IT-Security, url: "https://www.experte.de/events/it-security"}
+- {name: BusinessFactors, url: "https://www.businessfactors.de/events/"}

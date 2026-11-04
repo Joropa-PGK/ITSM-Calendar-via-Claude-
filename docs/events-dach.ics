@@ -1,0 +1,1339 @@
+BEGIN:VCALENDAR
+PRODID:-//PAAN-Group Consulting//ITSM Event Calendar//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PGC – IT-Events DACH
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:paan-event-1706223600
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260131
+SUMMARY:Digital Excellence Forum 2026
+URL:https://valantic.com
+DESCRIPTION:URL: https://valantic.com\n\nEN: High-level digital transformat
+ ion forum with discussions on AI\, cloud resilience\, data sovereignty\, r
+ isk and enterprise digital strategies.\n\nDE: Hochkarätiges Forum zu digi
+ taler Transformation mit Diskussionen über KI\, Cloud-Resilienz\, Datenso
+ uveränität\, Risiko und digitale Unternehmensstrategien.\n\nKategorie/Ca
+ tegory: AI\, Cloud\, Digital Transformation | Region: DACH
+LOCATION:Berchtesgaden\, DE
+CATEGORIES:AI,Cloud,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223603
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Cloud Unternehmertag
+URL:https://lp.scopevisio.com/cut2026
+DESCRIPTION:URL: https://lp.scopevisio.com/cut2026\n\nEN: "Cloud Entreprene
+ urs' Day\," focusing on AI and digitalization for businesses.\n\nDE: Cloud
+  Unternehmertag mit Fokus auf KI und Digitalisierung für Unternehmen.\n\n
+ Kategorie/Category: AI\, Cloud\, Digital Transformation | Region: DACH
+LOCATION:Bonn\, DE
+CATEGORIES:AI,Cloud,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223604
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:itSMF Fachforum
+URL:https://www.hisolutions.com/itsmf-2026-berlin
+DESCRIPTION:URL: https://www.hisolutions.com/itsmf-2026-berlin\n\nEN: A spe
+ cialist forum by the IT Service Management Forum Germany for experts and u
+ sers.\n\nDE: Ein Fachforum des itSMF Deutschland für Experten und Anwende
+ r.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223608
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:IT-Defense
+URL:http://www.it-defense.de/en/it-defense-2026/conference
+DESCRIPTION:URL: http://www.it-defense.de/en/it-defense-2026/conference\n\n
+ EN: Technical IT event focusing on core engineering\, security and operati
+ ons topics with a strong practitioner focus.\n\nDE: Technische IT-Konferen
+ z in Würzburg mit Fokus auf Kern-Engineering\, Sicherheit und IT-Betrieb 
+ ohne sponsorgetriebene Agenda – starker Praxisbezug.\n\nKategorie/Catego
+ ry: Security | Region: DACH
+LOCATION:Würzburg\, DE
+CATEGORIES:Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223612
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Atlassian ACE Community Meetup
+URL:https://ace.atlassian.com/bremen/
+DESCRIPTION:URL: https://ace.atlassian.com/bremen/\n\nEN: Local Atlassian c
+ ommunity event focused on cloud transformation topics and interactive sess
+ ions with partners and practitioners.\n\nDE: Lokales Atlassian-Community-M
+ eetup zu Cloud-Transformationsthemen und interaktiven Sessions mit Partner
+ n und Anwendern.\n\nKategorie/Category: Cloud\, Digital Transformation | R
+ egion: DACH
+LOCATION:Bremen\, DE
+CATEGORIES:Cloud,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223614
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:Swiss Cyber Security Days
+URL:https://swisscybersecuritydays.ch/en/
+DESCRIPTION:URL: https://swisscybersecuritydays.ch/en/\n\nEN: A key event i
+ n Switzerland for cybersecurity knowledge exchange.\n\nDE: Ein zentraler E
+ vent in der Schweiz für den Wissensaustausch im Bereich Cybersicherheit.\
+ n\nKategorie/Category: Security | Region: DACH
+LOCATION:Bern\, CH
+CATEGORIES:Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223615
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Atlassian Team on Tour: Frankfurt
+URL:https://events.atlassian.com/connect-highvelocity-frankfurt
+DESCRIPTION:URL: https://events.atlassian.com/connect-highvelocity-frankfur
+ t\n\nEN: Atlassian service management event focusing on teamwork\, ITSM pr
+ actices and the latest platform innovations — targeted at local communit
+ y + partners.\n\nDE: Atlassian Service Management-Event mit Fokus auf Team
+ work\, ITSM-Praxis und Plattform-Innovation – ausgerichtet auf lokale Co
+ mmunity und Partner.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Frankfurt\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223616
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260227
+SUMMARY:CCW (Call Center World)
+URL:https://www.ccw.eu/en/
+DESCRIPTION:URL: https://www.ccw.eu/en/\n\nEN: Customer experience and cont
+ act center expo with service delivery optimization\, AI-assisted CX\, anal
+ ytics and support management insights.\n\nDE: Messe für Customer Experien
+ ce und Contact Center mit Fokus auf Servicedelivery-Optimierung\, KI-gest
+ ütztem CX\, Analytik und Support-Management.\n\nKategorie/Category: ITSM\
+ , AI | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223617
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:ServiceNow – Put AI to Work for IT
+URL:https://rsvp.servicenow.com/putaitoworkforitmunich2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/putaitoworkforitmunich2026\n\n
+ EN: In-person hands-on workshop exploring ServiceNow’s AI platform capab
+ ilities to streamline IT processes.\n\nDE: Präsenz-Hands-on-Workshop zur 
+ Erkundung der KI-Plattform von ServiceNow\, um IT-Prozesse zu optimieren u
+ nd „Autonomous IT“ praktisch kennenzulernen.\n\nKategorie/Category: IT
+ SM\, AI | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223620
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Atlassian Connect: Cloud Bound Munich
+URL:https://events.atlassian.com/connect-cloudbound-munich
+DESCRIPTION:URL: https://events.atlassian.com/connect-cloudbound-munich\n\n
+ EN: Regional Atlassian event helping teams simplify cloud migrations and o
+ ptimize collaboration workflows.\n\nDE: Regionale Atlassian Veranstaltung 
+ zur Vereinfachung von Cloud-Migrationen und Optimierung kollaborativer Wor
+ kflows mit Demos und Partner-Einblicken.\n\nKategorie/Category: Cloud | Re
+ gion: DACH
+LOCATION:Munich\, DE
+CATEGORIES:Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223622
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260314
+SUMMARY:Software Architecture Summit
+URL:https://software-architecture-summit.de/muenchen/
+DESCRIPTION:URL: https://software-architecture-summit.de/muenchen/\n\nEN: M
+ ulti-day training event for software architects and senior developers.\n\n
+ DE: Mehrtägiges Trainingsevent für Softwarearchitekten und Entwickler.\n
+ \nKategorie/Category: Developer | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223625
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260313
+SUMMARY:JavaLand 2026
+URL:https://www.javaland.eu/en/home/
+DESCRIPTION:URL: https://www.javaland.eu/en/home/\n\nEN: Developer and soft
+ ware engineering event with robust cloud\, AI and platform streams across 
+ practical workshops.\n\nDE: Entwickler- und Software-Engineering-Event mit
+  starken Fokus-Streams zu Cloud\, KI und Plattform-Workshops.\n\nKategorie
+ /Category: AI\, Cloud\, Developer | Region: DACH
+LOCATION:Rust\, DE
+CATEGORIES:AI,Cloud,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223624
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:ServiceNow Executive Dinner – Vienna
+URL:https://rsvp.servicenow.com/executivecirclevienna2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/executivecirclevienna2026\n\nE
+ N: Exclusive executive dinner event for senior leaders to exchange ideas a
+ bout AI\, strategy and future workflows.\n\nDE: Exklusives Dinner-Event f
+ ür Führungskräfte zum Austausch über KI\, Strategie und zukünftige Wo
+ rkflows auf der ServiceNow Plattform.\n\nKategorie/Category: ITSM\, AI | R
+ egion: DACH
+LOCATION:Vienna\, AT
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223626
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:DIGITAL X Wien
+URL:https://www.digital-x.com/en/events/2026/regional-events/vienna
+DESCRIPTION:URL: https://www.digital-x.com/en/events/2026/regional-events/v
+ ienna\n\nEN: A major digitalization event for SMEs\, organized by Telekom.
+ \n\nDE: Ein großes Digitalisierungs-Event für den Mittelstand\, organisi
+ ert von der Telekom.\n\nKategorie/Category: Digital Transformation | Regio
+ n: DACH
+LOCATION:Vienna\, AT
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223627
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:DecompileD 2026
+URL:https://decompiled.de/
+DESCRIPTION:URL: https://decompiled.de/\n\nEN: Community-driven tech confer
+ ence with talks and hands-on sessions on modern cloud and AI development p
+ ractices.\n\nDE: Community-Tech-Konferenz mit Vorträgen und praxisnahen S
+ essions zu modernen Cloud- und KI-Entwicklungsmethoden.\n\nKategorie/Categ
+ ory: AI\, Cloud | Region: DACH
+LOCATION:Dresden\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223629
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260318
+SUMMARY:AI Infrastructure Summit Europe
+URL:https://ai-infra-summit.com/
+DESCRIPTION:URL: https://ai-infra-summit.com/\n\nEN: Conference dedicated t
+ o scalable AI platform and data infrastructure strategies for enterprise A
+ I adoption.\n\nDE: Konferenz über skalierbare KI-Plattform- und Dateninfr
+ astrukturen für den Unternehmenseinsatz von KI.\n\nKategorie/Category: AI
+ \, Cloud | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223631
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+SUMMARY:CloudFest
+URL:https://www.cloudfest.com/
+DESCRIPTION:URL: https://www.cloudfest.com/\n\nEN: The world's #1 internet 
+ infrastructure event for the cloud computing industry.\n\nDE: Die weltweit
+  führende Veranstaltung für die Cloud-Computing-Branche.\n\nKategorie/Ca
+ tegory: Cloud | Region: DACH
+LOCATION:Rust\, DE
+CATEGORIES:Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223634
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+SUMMARY:Richmond IT Forum
+URL:https://www.richmondevents.com/Find-A-Forum.aspx?country=Switzerland
+DESCRIPTION:URL: https://www.richmondevents.com/Find-A-Forum.aspx?country=S
+ witzerland\n\nEN: Swiss IT forum for CIOs and senior IT leaders covering i
+ nnovation\, strategy & networking.\n\nDE: Schweizer IT-Forum für CIOs und
+  Senior IT-Leader mit Fokus auf Innovation\, Strategie & Networking.\n\nKa
+ tegorie/Category: Digital Transformation | Region: DACH
+LOCATION:Interlaken\, CH
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223633
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260327
+SUMMARY:SAP Max Summit
+URL:https://community.sap.com/t5/sap-maxattention-events/eb-p/maxattentiono
+ ccasion-board
+DESCRIPTION:URL: https://community.sap.com/t5/sap-maxattention-events/eb-p/
+ maxattentionoccasion-board\n\nEN: An exclusive in-person event for the SAP
+  MaxAttention community.\n\nDE: Ein exklusives Präsenz-Event für die SAP
+  MaxAttention Community.\n\nKategorie/Category: Digital Transformation | R
+ egion: DACH
+LOCATION:Heidelberg\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223635
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260327
+SUMMARY:ServiceNow CRM Jam Munich
+URL:https://rsvp.servicenow.com/industryjammuc
+DESCRIPTION:URL: https://rsvp.servicenow.com/industryjammuc\n\nEN: A two-da
+ y co-innovation workshop to co-create AI-powered CRM prototypes and learn 
+ hands-on how to apply AI in workflows.\n\nDE: Zwei-tägiger Co-Innovation-
+ Workshop mit ServiceNow-Experten in München zur gemeinsamen Entwicklung v
+ on KI-gestützten CRM-Prototypen und praxisnaher Anwendung von KI-Workflow
+ s.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223637
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Service Space 2026
+URL:https://www.servicespace.at/
+DESCRIPTION:URL: https://www.servicespace.at/\n\nEN: Austria's leading inde
+ pendent IT Service Management conference.\n\nDE: Österreichs größte una
+ bhängige IT Service Management Konferenz.\n\nKategorie/Category: ITSM | R
+ egion: DACH
+LOCATION:Vienna\, AT
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223638
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260423
+SUMMARY:3rd Intl Summit on Robotics\, AI & ML
+URL:https://aiml.events/events/israi2026
+DESCRIPTION:URL: https://aiml.events/events/israi2026\n\nEN: Scientific sum
+ mit connecting AI\, robotics\, and ML research with practical enterprise i
+ nnovation.\n\nDE: Wissenschaftlicher Gipfel zu Robotik\, KI und maschinell
+ em Lernen mit Fokus auf Unternehmensinnovation.\n\nKategorie/Category: AI 
+ | Region: DACH
+LOCATION:Frankfurt\, DE
+CATEGORIES:AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223639
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Hannover Messe
+URL:https://www.hannovermesse.de/en/
+DESCRIPTION:URL: https://www.hannovermesse.de/en/\n\nEN: One of the world's
+  largest trade fairs for industrial technology and Industrie 4.0.\n\nDE: E
+ ine der weltweit größten Messen für Industrietechnologie und Industrie 
+ 4.0.\n\nKategorie/Category: Digital Transformation | Region: DACH
+LOCATION:Hannover\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223640
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:European AI & Cloud Summit
+URL:https://cloudsummit.eu/
+DESCRIPTION:URL: https://cloudsummit.eu/\n\nEN: Major European AI & cloud c
+ omputing event with >100 sessions on AI strategy\, Azure\, cloud security\
+ , and enterprise adoption.\n\nDE: Großes europäisches Event zu KI und Cl
+ oud mit über 100 Sessions zu KI-Strategie\, Azure\, Cloud-Security\, Gove
+ rnance\, Architektur und Unternehmens-Adoption.\n\nKategorie/Category: AI\
+ , Cloud\, Security | Region: DACH
+LOCATION:Cologne\, DE
+CATEGORIES:AI,Cloud,Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223641
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:European Collaboration Summit
+URL:https://collabsummit.eu/
+DESCRIPTION:URL: https://collabsummit.eu/\n\nEN: Co-located event with Euro
+ pean AI & Cloud Summit\, focused on Microsoft 365\, AI\, Copilot and moder
+ n work.\n\nDE: Parallel stattfindendes Event mit Fokus auf Microsoft 365\,
+  KI\, Copilot und moderne Arbeitsweisen.\n\nKategorie/Category: AI\, Cloud
+  | Region: DACH
+LOCATION:Cologne\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223642
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:Learntec 2026
+URL:https://www.learntec.de/en/
+DESCRIPTION:URL: https://www.learntec.de/en/\n\nEN: Professional learning &
+  digital workplace expo covering cloud\, AI training\, digital skills and 
+ enterprise solutions.\n\nDE: Messe für berufliche Weiterbildung & digital
+ e Arbeitswelt\, einschließlich Cloud- und KI-Training\, digitalen Skills 
+ und Unternehmenslösungen.\n\nKategorie/Category: AI\, Cloud\, Digital Tra
+ nsformation | Region: DACH
+LOCATION:Karlsruhe\, DE
+CATEGORIES:AI,Cloud,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223645
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:Cloud & AI Infrastructure Frankfurt
+URL:https://techshowfrankfurt.de
+DESCRIPTION:URL: https://techshowfrankfurt.de\n\nEN: Focused trade show on 
+ cloud infrastructure\, AI deployment in scale environments\, FinOps\, DevO
+ ps and critical infrastructure design.\n\nDE: Fachmesse zu Cloud-Infrastru
+ ktur\, AI-Implementierung in großem Maßstab\, FinOps\, DevOps und kritis
+ cher Infrastrukturplanung.\n\nKategorie/Category: AI\, Cloud | Region: DAC
+ H
+LOCATION:Frankfurt\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223644
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:MSP Konferenz – Mainz
+URL:https://fokus-msp.de
+DESCRIPTION:URL: https://fokus-msp.de\n\nEN: National DACH MSP conference i
+ ntegrating system house strategies\, market insights and vendor showcases.
+ \n\nDE: Nationale DACH MSP-Konferenz mit Strategien für Systemhäuser\, M
+ arkteinblicken und Anbieter-Showcases.\n\nKategorie/Category: Digital Tran
+ sformation | Region: DACH
+LOCATION:Mainz\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647-1
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:SERVIEW26 Pre-Congress Warm-Up
+URL:https://en.serview-summit.com/programm
+DESCRIPTION:URL: https://en.serview-summit.com/programm\n\nEN: Networking a
+ nd introductory sessions the day before SERVIEW26.\n\nDE: Networking und E
+ inführungs-Sessions am Vortag von SERVIEW26.\n\nKategorie/Category: ITSM 
+ | Region: DACH
+LOCATION:Seeheim-Jugenheim\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260522
+SUMMARY:SERVIEW26 – Congress & Expo
+URL:https://en.serview-summit.com/
+DESCRIPTION:URL: https://en.serview-summit.com/\n\nEN: Europe’s #1 ITSM &
+  ESM congress and trade fair with keynotes\, masterclasses\, expo & networ
+ king.\n\nDE: Europas größter ITSM- & ESM-Kongress mit Expo\, Keynotes\, 
+ Masterclasses und Networking.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Seeheim-Jugenheim\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223649
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260522
+SUMMARY:Cybersecurity Summit Hamburg
+URL:https://startupcity.hamburg/news-events/events/cybersecurity-summit-202
+ 6
+DESCRIPTION:URL: https://startupcity.hamburg/news-events/events/cybersecuri
+ ty-summit-2026\n\nEN: German IT security conference with focuses on cyber 
+ risk\, governance\, secure cloud infrastructure and growth management.\n\n
+ DE: Deutsche IT-Security-Konferenz mit Fokus auf Cyber-Risiken\, Governanc
+ e\, sichere Cloud-Infrastruktur und Wachstumsstrategien.\n\nKategorie/Cate
+ gory: Cloud\, Security | Region: DACH
+LOCATION:Hamburg\, DE
+CATEGORIES:Cloud,Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223652
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260610
+SUMMARY:Zukunftskongress 2026
+URL:https://zukunftskongress.2bahead.com/
+DESCRIPTION:URL: https://zukunftskongress.2bahead.com/\n\nEN: Multidiscipli
+ nary future IT conference with tracks on innovation\, cloud\, AI adoption\
+ , change leadership and modern service ecosystems.\n\nDE: Zukunfts-IT-Kong
+ ress mit Sessions zu Innovation\, Cloud-Strategien\, KI-Adoption\, Change 
+ Leadership und modernen Service-Ökosystemen.\n\nKategorie/Category: AI\, 
+ Cloud | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223653
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Nextcloud Summit 2026
+URL:https://nextcloud.com/summit-2026/
+DESCRIPTION:URL: https://nextcloud.com/summit-2026/\n\nEN: Open-source and 
+ enterprise collaboration tech event with cloud-integration\, AI-assisted s
+ ervices and digital workplace discussions.\n\nDE: Open-Source- und Enterpr
+ ise-Collaboration-Event mit Cloud-Integration\, KI-unterstützten Diensten
+  und Diskussionen zur digitalen Arbeitswelt.\n\nKategorie/Category: AI\, C
+ loud\, Digital Transformation\, Developer | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:AI,Cloud,Digital Transformation,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zukunftskongress-staat-verwaltung-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260611
+SUMMARY:Zukunftskongress Staat & Verwaltung 2026
+URL:https://www.zukunftskongress.info/
+DESCRIPTION:URL: https://www.zukunftskongress.info/\n\nEN: Congress on mode
+ rnisation and digital transformation of public administration.\n\nDE: Kong
+ ress zur Modernisierung und digitalen Transformation von Staat und Verwalt
+ ung.\n\nKategorie/Category: Digital Transformation | Region: DACH
+LOCATION:Berlin (bcc)\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223654
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260618
+SUMMARY:ITIL 4 Foundation Training
+URL:https://www.theknowledgeacademy.com/ch/courses/itil-training/itil-found
+ ation/zurich/
+DESCRIPTION:URL: https://www.theknowledgeacademy.com/ch/courses/itil-traini
+ ng/itil-foundation/zurich/\n\nEN: Multi-day training and certification cou
+ rse for the ITIL 4 Foundation level.\n\nDE: Mehrtägiger Trainings- und Ze
+ rtifizierungskurs für das ITIL 4 Foundation Level.\n\nKategorie/Category:
+  ITSM | Region: DACH
+LOCATION:Zurich\, CH
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223656
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:MLcon Europe 2026 – Munich/Online
+URL:https://mlconference.ai/munich/
+DESCRIPTION:URL: https://mlconference.ai/munich/\n\nEN: Europe’s key ML/A
+ I engineering conference focusing on MLOps\, generative AI engineering and
+  data infrastructure.\n\nDE: Europas führende ML-/KI-Engineering-Konferen
+ z mit Fokus auf MLOps\, generative KI-Entwicklung und Dateninfrastruktur.\
+ n\nKategorie/Category: AI\, Cloud | Region: DACH
+LOCATION:Munich\, DE
+CATEGORIES:AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tdwi-muenchen-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+SUMMARY:TDWI München 2026
+URL:https://www.tdwi-konferenz.de/
+DESCRIPTION:URL: https://www.tdwi-konferenz.de/\n\nEN: Leading DACH confere
+ nce for data\, analytics and AI.\n\nDE: Führende DACH-Konferenz für Date
+ n\, Analytics und KI.\n\nKategorie/Category: AI\, Digital Transformation |
+  Region: DACH
+LOCATION:München (MOC)\, DE
+CATEGORIES:AI,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223656-1
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:IT Infrastructure & Operations Summit Berlin
+URL:https://www.it-infrastructure-operations-summit.com/
+DESCRIPTION:URL: https://www.it-infrastructure-operations-summit.com/\n\nEN
+ : Summit for IT infrastructure\, multi-cloud strategies\, operations optim
+ ization & modern platforms.\n\nDE: Gipfeltreffen zu IT-Infrastruktur\, Mul
+ ti-Cloud-Strategien\, Betriebsoptimierung & modernen Plattformen.\n\nKateg
+ orie/Category: Cloud | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223657
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:IT Service Management Summit DACH
+URL:https://www.it-service-management-summit.com/
+DESCRIPTION:URL: https://www.it-service-management-summit.com/\n\nEN: Compr
+ ehensive ITSM summit for DACH IT leaders exploring service delivery\, oper
+ ations and digital transformation.\n\nDE: Umfassender ITSM-Gipfel für DAC
+ H-IT-Verantwortliche mit Fokus auf Service Delivery\, Operations und digit
+ ale Transformation.\n\nKategorie/Category: ITSM\, Digital Transformation |
+  Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gitex-ai-europe-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260702
+SUMMARY:GITEX AI Europe 2026
+URL:https://www.gitex-europe.com/
+DESCRIPTION:URL: https://www.gitex-europe.com/\n\nEN: Large European tech a
+ nd AI expo.\n\nDE: Grosse europäische Tech- und KI-Messe.\n\nKategorie/Ca
+ tegory: AI\, Digital Transformation\, Cloud | Region: DACH
+LOCATION:Berlin (Messe Berlin)\, DE
+CATEGORIES:AI,Digital Transformation,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223659
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260711
+SUMMARY:WeAreDevelopers World Congress 2026
+URL:https://www.wearedevelopers.com/world-congress/
+DESCRIPTION:URL: https://www.wearedevelopers.com/world-congress/\n\nEN: Bro
+ ad European developer and AI innovation congress with tracks in cloud comp
+ uting\, software engineering\, and modern infrastructure.\n\nDE: Europäis
+ cher Entwickler- und KI-Innovationskongress mit Tracks zu Cloud-Computing\
+ , Software-Engineering und moderner Infrastruktur.\n\nKategorie/Category: 
+ AI\, Cloud\, Developer | Region: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:AI,Cloud,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223660
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260817
+SUMMARY:FrOSCon
+URL:https://www.froscon.org/en/
+DESCRIPTION:URL: https://www.froscon.org/en/\n\nEN: A major conference for 
+ Free and Open Source Software with talks and workshops.\n\nDE: Eine große
+  Konferenz für Freie Software und Open Source mit Vorträgen und Workshop
+ s.\n\nKategorie/Category: Developer | Region: DACH
+LOCATION:Sankt Augustin\, DE
+CATEGORIES:Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223661
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260831
+SUMMARY:gamescom
+URL:https://www.gamescom.global/
+DESCRIPTION:URL: https://www.gamescom.global/\n\nEN: Europe's largest gamin
+ g week\, including a major B2B trade and developer section.\n\nDE: Europas
+  größte Gaming-Woche\, inklusive eines großen B2B-Fach- und Entwicklerb
+ ereichs.\n\nKategorie/Category: Developer | Region: DACH
+LOCATION:Cologne\, DE
+CATEGORIES:Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handelsblatt-summit-zukunft-it-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260910
+SUMMARY:Handelsblatt Summit Zukunft IT 2026
+URL:https://live.handelsblatt.com/
+DESCRIPTION:URL: https://live.handelsblatt.com/\n\nEN: CIO summit on IT str
+ ategy\, AI\, cloud\, cybersecurity and new work.\n\nDE: CIO-Gipfel zu IT-S
+ trategie\, KI\, Cloud\, Cybersecurity und New Work.\n\nKategorie/Category:
+  Digital Transformation\, AI\, Cloud\, Security | Region: DACH
+LOCATION:Düsseldorf\, DE
+CATEGORIES:Digital Transformation,AI,Cloud,Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digital-x-koeln-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Digital X 2026
+URL:https://www.digital-x.eu/
+DESCRIPTION:URL: https://www.digital-x.eu/\n\nEN: Telekom's digitalisation 
+ event for businesses\, focused on practical AI value.\n\nDE: Digitalisieru
+ ngs-Event der Telekom für Unternehmen mit Fokus auf praktischen KI-Mehrwe
+ rt.\n\nKategorie/Category: Digital Transformation\, AI | Region: DACH
+LOCATION:Köln\, DE
+CATEGORIES:Digital Transformation,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223664
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+SUMMARY:ChannelPartner Kongress
+URL:https://www.channelpartner.de/channelpartner-events/
+DESCRIPTION:URL: https://www.channelpartner.de/channelpartner-events/\n\nEN
+ : The central community event for IT service providers\, MSPs\, and the IT
+  channel.\n\nDE: Der zentrale Community-Event für IT-Dienstleister\, MSPs
+  und den IT-Channel.\n\nKategorie/Category: Digital Transformation | Regio
+ n: DACH
+LOCATION:Frankfurt\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223666
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:DMEXCO
+URL:https://dmexco.com/
+DESCRIPTION:URL: https://dmexco.com/\n\nEN: Europe's leading digital market
+ ing & tech event.\n\nDE: Europas führendes Event für digitales Marketing
+  & Technologie.\n\nKategorie/Category: Digital Transformation | Region: DA
+ CH
+LOCATION:Cologne\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223667
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261001
+SUMMARY:Cloud Native Days Austria
+URL:https://cloudnativedays.at/
+DESCRIPTION:URL: https://cloudnativedays.at/\n\nEN: The key gathering for t
+ he Cloud Native community in Austria.\n\nDE: Das zentrale Treffen der Clou
+ d-Native-Community in Österreich.\n\nKategorie/Category: Cloud | Region: 
+ DACH
+LOCATION:Vienna\, AT
+CATEGORIES:Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223668
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261002
+SUMMARY:Swiss IT Forum(s)
+URL:https://www.swiss-it-forums.tech/en/
+DESCRIPTION:URL: https://www.swiss-it-forums.tech/en/\n\nEN: Event with exh
+ ibits and forums on enterprise software\, cybersecurity\, data\, and cloud
+ .\n\nDE: Veranstaltung mit Ausstellungen und Foren zu Unternehmenssoftware
+ \, Cybersecurity\, Daten und Cloud.\n\nKategorie/Category: Cloud\, Securit
+ y | Region: DACH
+LOCATION:Geneva\, CH
+CATEGORIES:Cloud,Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223669
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:AFSMI Service Branch Gathering
+URL:https://afsmi.de
+DESCRIPTION:URL: https://afsmi.de\n\nEN: Industry meetup in Stuttgart with 
+ talks and interactive sessions on service management practices.\n\nDE: Bra
+ nchentreffen des AFSMI in Stuttgart mit Impulsvorträgen und interaktivem 
+ Austausch zu Service Management Themen.\n\nKategorie/Category: ITSM | Regi
+ on: DACH
+LOCATION:Stuttgart\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smart-country-convention-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:Smart Country Convention (SCCON) 2026
+URL:https://www.smart-country-convention.de/
+DESCRIPTION:URL: https://www.smart-country-convention.de/\n\nEN: Leading co
+ ngress and trade fair for digitalisation of the public sector (e-Governmen
+ t\, OZG).\n\nDE: Leitkongress und Fachmesse für die Digitalisierung der 
+ öffentlichen Verwaltung (E-Government\, OZG).\n\nKategorie/Category: Digi
+ tal Transformation | Region: DACH
+LOCATION:Berlin (Messe Berlin\, hub27)\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223671
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+SUMMARY:it-sa 2026
+URL:https://www.itsa.de/en
+DESCRIPTION:URL: https://www.itsa.de/en\n\nEN: Europe's leading IT security
+  expo and congress.\n\nDE: Europas führende IT-Sicherheitsmesse und Kongr
+ ess.\n\nKategorie/Category: Security | Region: DACH
+LOCATION:Nürnberg\, DE
+CATEGORIES:Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smfs-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Service Management Forum Schweiz (SMFS) 2026
+URL:https://www.netzwoche.ch/news/2026-09-23/das-erwartet-die-besucher-am-s
+ ervice-management-forum-schweiz-2026
+DESCRIPTION:URL: https://www.netzwoche.ch/news/2026-09-23/das-erwartet-die-
+ besucher-am-service-management-forum-schweiz-2026\n\nEN: Switzerland's lar
+ gest service management forum\; 2026 motto: Service Automation.\n\nDE: Gr
+ össtes Service-Management-Forum der Schweiz\; Motto 2026: Service Automat
+ ion.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Zürich-Flughafen (Radisson Blu)\, CH
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:manageengine-userconf-ch-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ManageEngine UserConf Schweiz 2026
+URL:https://www.manageengine.com/events/
+DESCRIPTION:URL: https://www.manageengine.com/events/\n\nEN: ManageEngine u
+ ser conference covering ServiceDesk Plus\, ITOM and endpoint management.\n
+ \nDE: ManageEngine-Anwenderkonferenz zu ServiceDesk Plus\, ITOM und Endpoi
+ nt Management.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Zürich (Crowne Plaza)\, CH
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:servicenow-world-forum-frankfurt-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:ServiceNow World Forum Frankfurt [TBC]
+URL:https://www.servicenow.com/events/world-forum.html
+DESCRIPTION:URL: https://www.servicenow.com/events/world-forum.html\n\nSTAT
+ US: Termin noch nicht final bestätigt / date not yet confirmed\n\nEN: Ser
+ viceNow regional flagship event (date from third-party guide\, please veri
+ fy).\n\nDE: Regionales ServiceNow-Flaggschiff-Event (Datum aus Drittquelle
+ \, bitte verifizieren).\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Frankfurt am Main\, DE
+CATEGORIES:ITSM,AI
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:service-summit-duesseldorf-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:Service Summit 2026
+URL:https://www.deloitte.com/de/de/services/consulting/events/service-summi
+ t.html
+DESCRIPTION:URL: https://www.deloitte.com/de/de/services/consulting/events/
+ service-summit.html\n\nEN: Conference on B2B/after-sales service managemen
+ t and service business models.\n\nDE: Konferenz zu B2B-/After-Sales-Servic
+ e-Management und Service-Geschäftsmodellen.\n\nKategorie/Category: ITSM\,
+  Digital Transformation | Region: DACH
+LOCATION:Düsseldorf\, DE
+CATEGORIES:ITSM,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handelsblatt-ki-summit-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+SUMMARY:Handelsblatt KI Summit 2026
+URL:https://live.handelsblatt.com/
+DESCRIPTION:URL: https://live.handelsblatt.com/\n\nEN: Executive AI summit 
+ by Handelsblatt on enterprise AI strategy\, regulation and adoption.\n\nDE
+ : Handelsblatt-Gipfel für Entscheider zu KI-Strategie\, Regulierung und A
+ doption im Unternehmen.\n\nKategorie/Category: AI\, Digital Transformation
+  | Region: DACH
+LOCATION:München\, DE
+CATEGORIES:AI,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:w-jax-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:W-JAX 2026
+URL:https://jax.de/
+DESCRIPTION:URL: https://jax.de/\n\nEN: Conference for Java\, software arch
+ itecture\, cloud and AI engineering.\n\nDE: Konferenz für Java\, Software
+ architektur\, Cloud und KI-Engineering.\n\nKategorie/Category: Developer\,
+  Cloud\, AI | Region: DACH
+LOCATION:München\, DE
+CATEGORIES:Developer,Cloud,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223675
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:AFSMI Strategiegipfel B2B Service
+URL:https://www.project-networks.com/en/events/strategy-summit-b2b-service-
+ management/
+DESCRIPTION:URL: https://www.project-networks.com/en/events/strategy-summit
+ -b2b-service-management/\n\nEN: B2B service management strategy summit wit
+ h online access.\n\nDE: Strategiegipfel B2B Service Management mit Diskuss
+ ionen zu Service Management Strategien\; Online-Teilnahme möglich.\n\nKat
+ egorie/Category: ITSM | Region: DACH
+LOCATION:Berlin\, DE / Zoom
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:it-tage-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:IT-Tage 2026
+URL:https://www.ittage.informatik-aktuell.de/
+DESCRIPTION:URL: https://www.ittage.informatik-aktuell.de/\n\nEN: Annual IT
+  conference covering IT management\, software development\, DevOps\, cloud
+ \, AI and security.\n\nDE: Jährliche IT-Konferenz zu IT-Management\, Soft
+ wareentwicklung\, DevOps\, Cloud\, KI und Security.\n\nKategorie/Category:
+  Digital Transformation\, Cloud\, AI\, Security\, Developer | Region: DACH
+LOCATION:Frankfurt am Main (Kap Europa)\, DE
+CATEGORIES:Digital Transformation,Cloud,AI,Security,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:learntec-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270205
+SUMMARY:LEARNTEC 2027
+URL:https://www.learntec.de/
+DESCRIPTION:URL: https://www.learntec.de/\n\nEN: Trade fair for digital lea
+ rning and AI in education (moved to February from 2027).\n\nDE: Fachmesse 
+ für digitales Lernen und KI in der Weiterbildung (ab 2027 im Februar).\n\
+ nKategorie/Category: Digital Transformation\, AI | Region: DACH
+LOCATION:Karlsruhe\, DE
+CATEGORIES:Digital Transformation,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:atlassian-team-for-builders-berlin-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270206
+SUMMARY:Atlassian Team for Builders: Berlin
+URL:https://www.atlassian.com/company/events
+DESCRIPTION:URL: https://www.atlassian.com/company/events\n\nEN: Atlassian 
+ event for builders\, admins and partners.\n\nDE: Atlassian-Event für Entw
+ ickler\, Admins und Partner.\n\nKategorie/Category: ITSM\, Developer | Reg
+ ion: DACH
+LOCATION:Berlin\, DE
+CATEGORIES:ITSM,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ccw-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270226
+SUMMARY:CCW 2027 (Customer Contact World)
+URL:https://www.ccw.eu/
+DESCRIPTION:URL: https://www.ccw.eu/\n\nEN: Europe's leading trade fair and
+  congress for customer service and contact centres.\n\nDE: Europas Leitmes
+ se mit Kongress für Kundenservice und Contact Center.\n\nKategorie/Catego
+ ry: ITSM\, AI | Region: DACH
+LOCATION:Berlin (Estrel)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:industrial-metaverse-ai-heilbronn-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270225
+SUMMARY:Industrial Metaverse Conference & Embodiment of AI
+URL:https://dev.events/EU/DE/Heilbronn/tech
+DESCRIPTION:URL: https://dev.events/EU/DE/Heilbronn/tech\n\nEN: Conference 
+ on industrial and physical AI.\n\nDE: Konferenz zu industrieller und physi
+ scher KI.\n\nKategorie/Category: AI | Region: DACH
+LOCATION:Heilbronn (Bildungscampus)\, DE
+CATEGORIES:AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:swiss-cyber-security-days-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270225
+SUMMARY:Swiss Cyber Security Days 2027
+URL:https://swisscybersecuritydays.ch/
+DESCRIPTION:URL: https://swisscybersecuritydays.ch/\n\nEN: Swiss cybersecur
+ ity congress\; 2027 theme: When AI Acts – Securing the Next Digital Fron
+ tier.\n\nDE: Schweizer Cybersecurity-Kongress\; Leitthema 2027: When AI Ac
+ ts.\n\nKategorie/Category: Security\, AI | Region: DACH
+LOCATION:Bern (BERNEXPO)\, CH
+CATEGORIES:Security,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:service-space-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Service Space 2027
+URL:https://servicespace.acp-gruppe.com/en/
+DESCRIPTION:URL: https://servicespace.acp-gruppe.com/en/\n\nEN: Austria's l
+ eading independent ITSM conference: 32 sessions in 5 streams\, PeopleCert 
+ CPD credits\; service design\, CMDB\, AI and ESM.\n\nDE: Österreichs füh
+ rende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams\, PeopleCert-C
+ PD-Punkte\; Service Design\, CMDB\, KI und ESM.\n\nKategorie/Category: ITS
+ M\, AI | Region: DACH
+LOCATION:Wien (Schönbrunn)\, AT
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cloudfest-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+SUMMARY:CloudFest 2027
+URL:https://www.cloudfest.com/
+DESCRIPTION:URL: https://www.cloudfest.com/\n\nEN: World's leading internet
+  infrastructure and cloud industry event.\n\nDE: Weltweit führendes Event
+  der Internet-Infrastruktur- und Cloud-Branche.\n\nKategorie/Category: Clo
+ ud | Region: DACH
+LOCATION:Rust (Europa-Park)\, DE
+CATEGORIES:Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hannover-messe-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270409
+SUMMARY:Hannover Messe 2027
+URL:https://www.hannovermesse.de/
+DESCRIPTION:URL: https://www.hannovermesse.de/\n\nEN: World's leading indus
+ trial technology fair incl. AI and IT/OT tracks.\n\nDE: Weltleitmesse der 
+ Industrietechnik inkl. KI- und IT/OT-Themen.\n\nKategorie/Category: Digita
+ l Transformation\, AI | Region: DACH
+LOCATION:Hannover\, DE
+CATEGORIES:Digital Transformation,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dmea-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+SUMMARY:DMEA 2027 – Connecting Digital Health
+URL:https://www.dmea.de/
+DESCRIPTION:URL: https://www.dmea.de/\n\nEN: Europe's leading digital healt
+ h event\, first edition in Munich.\n\nDE: Europas Leitveranstaltung für D
+ igital Health\, erstmals in München.\n\nKategorie/Category: Digital Trans
+ formation | Region: DACH
+LOCATION:München (Messe München)\, DE
+CATEGORIES:Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cybersecurity-summit-hamburg-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270423
+SUMMARY:Cybersecurity Summit Hamburg 2027
+URL:https://startupcity.hamburg/
+DESCRIPTION:URL: https://startupcity.hamburg/\n\nEN: German cybersecurity c
+ onference on cyber risk and governance.\n\nDE: Deutsche Cybersecurity-Konf
+ erenz zu Cyber-Risiken und Governance.\n\nKategorie/Category: Security | R
+ egion: DACH
+LOCATION:Hamburg\, DE
+CATEGORIES:Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:omr-festival-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270506
+SUMMARY:OMR Festival 2027
+URL:https://omr.com/
+DESCRIPTION:URL: https://omr.com/\n\nEN: Digital marketing and tech festiva
+ l\, first time over three days.\n\nDE: Digital-Marketing- und Tech-Festiva
+ l\, erstmals an drei Tagen.\n\nKategorie/Category: Digital Transformation\
+ , AI | Region: DACH
+LOCATION:Hamburg (Messe)\, DE
+CATEGORIES:Digital Transformation,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rise-of-ai-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Rise of AI Conference 2027 [TBC]
+URL:https://riseof.ai/
+DESCRIPTION:URL: https://riseof.ai/\n\nSTATUS: Termin noch nicht final best
+ ätigt / date not yet confirmed\n\nEN: AI leadership conference\; sources 
+ conflict (12 May vs 5–6 May).\n\nDE: KI-Leadership-Konferenz\; Quellen w
+ idersprüchlich (12.05. vs. 05.–06.05.).\n\nKategorie/Category: AI | Reg
+ ion: DACH
+LOCATION:Berlin (Logenhaus)\, DE
+CATEGORIES:AI
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tech-show-frankfurt-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+SUMMARY:Tech Show Frankfurt 2027 (Cloud Expo Europe\, Big Data & AI World\,
+  Data Centre World)
+URL:https://www.techshowfrankfurt.de/
+DESCRIPTION:URL: https://www.techshowfrankfurt.de/\n\nEN: Co-located shows 
+ on cloud\, data & AI\, data centres and cyber security.\n\nDE: Parallelmes
+ sen zu Cloud\, Daten & KI\, Rechenzentren und Cybersecurity.\n\nKategorie/
+ Category: Cloud\, AI\, Security | Region: DACH
+LOCATION:Frankfurt (Messe\, Halle 3)\, DE
+CATEGORIES:Cloud,AI,Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:accelerate-tomorrow-ai-summit-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270617
+SUMMARY:Accelerate Tomorrow AI Summit 2027
+URL:https://www.acceleratetomorrow.com/
+DESCRIPTION:URL: https://www.acceleratetomorrow.com/\n\nEN: Summit on enter
+ prise AI implementation.\n\nDE: Gipfel zur Umsetzung von KI im Unternehmen
+ .\n\nKategorie/Category: AI\, Digital Transformation | Region: DACH
+LOCATION:Berlin (Estrel)\, DE
+CATEGORIES:AI,Digital Transformation
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serviceware-forum-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270624
+SUMMARY:Serviceware Forum 2027
+URL:https://www.rmcc.de/en/veranstaltungen/serviceware-forum
+DESCRIPTION:URL: https://www.rmcc.de/en/veranstaltungen/serviceware-forum\n
+ \nEN: Serviceware user conference on ESM\, knowledge management and AI in 
+ service management.\n\nDE: Serviceware-Anwenderkonferenz zu ESM\, Wissensm
+ anagement und KI im Service Management.\n\nKategorie/Category: ITSM\, AI |
+  Region: DACH
+LOCATION:Wiesbaden (RMCC)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wearedevelopers-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270717
+SUMMARY:WeAreDevelopers World Congress 2027
+URL:https://www.wearedevelopers.com/world-congress
+DESCRIPTION:URL: https://www.wearedevelopers.com/world-congress\n\nEN: Larg
+ e developer and AI congress.\n\nDE: Grosser Entwickler- und KI-Kongress.\n
+ \nKategorie/Category: Developer\, AI\, Cloud | Region: DACH
+LOCATION:Berlin (Messe/CityCube)\, DE
+CATEGORIES:Developer,AI,Cloud
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dmexco-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270924
+SUMMARY:DMEXCO 2027 [TBC]
+URL:https://dmexco.com/
+DESCRIPTION:URL: https://dmexco.com/\n\nSTATUS: Termin noch nicht final bes
+ tätigt / date not yet confirmed\n\nEN: Digital marketing & tech event (mo
+ st-cited date\, not officially confirmed).\n\nDE: Digital-Marketing- & Tec
+ h-Event (meistgenannter Termin\, nicht offiziell bestätigt).\n\nKategorie
+ /Category: Digital Transformation | Region: DACH
+LOCATION:Köln (Koelnmesse)\, DE
+CATEGORIES:Digital Transformation
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smart-country-convention-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271008
+SUMMARY:Smart Country Convention (SCCON) 2027 [TBC]
+URL:https://www.smart-country-convention.de/
+DESCRIPTION:URL: https://www.smart-country-convention.de/\n\nSTATUS: Termin
+  noch nicht final bestätigt / date not yet confirmed\n\nEN: Public-sector
+  digitalisation congress (date from aggregator\, organiser says 'October 2
+ 027').\n\nDE: Kongress für Verwaltungsdigitalisierung (Datum aus Aggregat
+ or\, Veranstalter: 'Oktober 2027').\n\nKategorie/Category: Digital Transfo
+ rmation | Region: DACH
+LOCATION:Berlin (Messe Berlin)\, DE
+CATEGORIES:Digital Transformation
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:it-sa-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261104T222349Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271008
+SUMMARY:it-sa Expo&Congress 2027
+URL:https://www.itsa365.de/
+DESCRIPTION:URL: https://www.itsa365.de/\n\nEN: Europe's leading IT securit
+ y expo\; conference on the first two days.\n\nDE: Europas führende IT-Sec
+ urity-Messe\; Kongress an den ersten beiden Tagen.\n\nKategorie/Category: 
+ Security | Region: DACH
+LOCATION:Nürnberg (Messezentrum)\, DE
+CATEGORIES:Security
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

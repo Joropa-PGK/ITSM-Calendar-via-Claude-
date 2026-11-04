@@ -1,0 +1,204 @@
+[
+ {
+  "title": "SERVIEW Kongress & Expo 2027",
+  "expected": "Mai 2027 (vorauss.)",
+  "location": "Seeheim-Jugenheim, DE (eine Quelle nennt April/Dortmund)",
+  "url": "https://en.serview-summit.com/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "itSMF Deutschland – Jahresveranstaltung / Fachforen 2027",
+  "expected": "offen",
+  "location": "DE",
+  "url": "https://www.itsmf.de/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "Service Management Forum Schweiz (SMFS) 2027",
+  "expected": "Okt 2027 (vorauss.)",
+  "location": "Zürich, CH",
+  "url": "https://www.smfs.ch/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "itSMF Schweiz Events 2027",
+  "expected": "offen",
+  "location": "CH",
+  "url": "https://events.itsmf.ch/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "Service Desk & Service Management World 2027 (Euroforum/Handelsblatt)",
+  "expected": "offen",
+  "location": "DE",
+  "url": "https://live.handelsblatt.com/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "SECTOR NORD ITSM-Summit 2027",
+  "expected": "Sep 2027 (vorauss.)",
+  "location": "DE",
+  "url": "https://www.itsm-summit.de/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "USU World 2027",
+  "expected": "Juni 2027 (vorauss.)",
+  "location": "Rust (Europa-Park), DE",
+  "url": "https://www.usu.world/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "AFSMI Strategiegipfel / Branchentreffen 2027",
+  "expected": "offen",
+  "location": "DE",
+  "url": "https://www.afsmi.de/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "ITSM27 (itSMF UK)",
+  "expected": "Nov 2027 (vorauss.)",
+  "location": "UK",
+  "url": "https://www.itsmf.co.uk/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "ServiceNow World Forum DACH 2027",
+  "expected": "Herbst 2027 (vorauss.)",
+  "location": "Frankfurt/München, DE",
+  "url": "https://www.servicenow.com/events/world-forum.html",
+  "categories": [
+   "ITSM",
+   "AI"
+  ]
+ },
+ {
+  "title": "ManageEngine UserConf DACH 2027",
+  "expected": "offen",
+  "location": "DE/CH",
+  "url": "https://www.manageengine.com/events/",
+  "categories": [
+   "ITSM"
+  ]
+ },
+ {
+  "title": "Handelsblatt Summit Zukunft IT 2027",
+  "expected": "Sep 2027 (vorauss.)",
+  "location": "DE",
+  "url": "https://live.handelsblatt.com/",
+  "categories": [
+   "Digital Transformation",
+   "AI"
+  ]
+ },
+ {
+  "title": "Handelsblatt KI Summit 2027",
+  "expected": "Nov 2027 (vorauss.)",
+  "location": "München, DE",
+  "url": "https://live.handelsblatt.com/",
+  "categories": [
+   "AI"
+  ]
+ },
+ {
+  "title": "European AI & Cloud Summit 2027",
+  "expected": "Mai 2027 (vorauss.)",
+  "location": "DE",
+  "url": "https://cloudsummit.eu/",
+  "categories": [
+   "AI",
+   "Cloud"
+  ]
+ },
+ {
+  "title": "Zukunftskongress Staat & Verwaltung 2027",
+  "expected": "Juni 2027 (vorauss.)",
+  "location": "Berlin, DE",
+  "url": "https://www.zukunftskongress.info/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "TDWI München 2027",
+  "expected": "Juni 2027 (vorauss.)",
+  "location": "München, DE",
+  "url": "https://www.tdwi-konferenz.de/",
+  "categories": [
+   "AI"
+  ]
+ },
+ {
+  "title": "GITEX Europe 2027",
+  "expected": "offen",
+  "location": "Berlin, DE",
+  "url": "https://www.gitex-europe.com/",
+  "categories": [
+   "AI",
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "Digital X 2027",
+  "expected": "Sep 2027 (vorauss.)",
+  "location": "Köln, DE",
+  "url": "https://www.digital-x.eu/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "Swiss IT Forums 2027",
+  "expected": "offen",
+  "location": "CH",
+  "url": "https://www.swiss-it-forums.tech/en/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "Confare CIOSUMMIT Zürich / Wien 2027",
+  "expected": "offen",
+  "location": "Zürich, CH / Wien, AT",
+  "url": "https://www.confare.at/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "Web Summit 2027",
+  "expected": "Nov 2027 (vorauss.)",
+  "location": "Lissabon, PT",
+  "url": "https://websummit.com/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ },
+ {
+  "title": "IT-Tage 2027",
+  "expected": "Dez 2027 (vorauss.)",
+  "location": "Frankfurt am Main, DE",
+  "url": "https://www.ittage.informatik-aktuell.de/",
+  "categories": [
+   "Digital Transformation"
+  ]
+ }
+]

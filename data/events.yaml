@@ -1,0 +1,1921 @@
+# Kuratierte Event-Liste (Single Source of Truth).
+# Datumsangaben inklusiv (end = letzter Veranstaltungstag). status: confirmed | tentative
+# relevance: core (ITSM/ESM) | related (KI, Cloud, Security, Digital) | peripheral
+- id: cloud-tech-tallinn-2026-2026
+  uid: paan-event-1706223601
+  title: Cloud Tech Tallinn 2026
+  start: 2026-01-29
+  end: 2026-01-30
+  location: Tallinn, EE
+  country: EE
+  region: Europe
+  url: https://www.communitydays.org/event/2026-01-29/cloud-tech-tallinn-2026
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Conference for cloud engineers, DevOps practitioners and IT professionals focusing on cloud, AI and platform engineering.
+  description_de: Cloudkonferenz für Ingenieure, DevOps-Teams und IT-Profis mit Fokus auf Cloud-, KI- und Plattform-Engineering.
+- id: digital-excellence-forum-2026-2026
+  uid: paan-event-1706223600
+  title: Digital Excellence Forum 2026
+  start: 2026-01-29
+  end: 2026-01-30
+  location: Berchtesgaden, DE
+  country: DE
+  region: DACH
+  url: https://valantic.com
+  categories:
+  - AI
+  - Cloud
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: High-level digital transformation forum with discussions on AI, cloud resilience, data sovereignty, risk and enterprise digital strategies.
+  description_de: Hochkarätiges Forum zu digitaler Transformation mit Diskussionen über KI, Cloud-Resilienz, Datensouveränität, Risiko und digitale Unternehmensstrategien.
+- id: fosdem-2026-2026
+  uid: paan-event-1706223602
+  title: FOSDEM 2026
+  start: 2026-01-31
+  end: 2026-02-01
+  location: Brussels, BE
+  country: BE
+  region: Europe
+  url: https://fosdem.org/2026/about/
+  categories:
+  - AI
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: One of Europe’s largest open-source tech & software engineering conferences, with sessions relevant to cloud, DevOps, infrastructure, AI tooling and community projects.
+  description_de: Eine der größten Open-Source- und Software-Engineering-Konferenzen Europas mit Beiträgen zu Cloud, DevOps, Infrastruktur, KI-Tooling und Community-Projekten.
+- id: cloud-unternehmertag-2026
+  uid: paan-event-1706223603
+  title: Cloud Unternehmertag
+  start: 2026-02-01
+  end: 2026-02-01
+  location: Bonn, DE
+  country: DE
+  region: DACH
+  url: https://lp.scopevisio.com/cut2026
+  categories:
+  - AI
+  - Cloud
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: '"Cloud Entrepreneurs'' Day," focusing on AI and digitalization for businesses.'
+  description_de: Cloud Unternehmertag mit Fokus auf KI und Digitalisierung für Unternehmen.
+- id: itsmf-fachforum-2026
+  uid: paan-event-1706223604
+  title: itSMF Fachforum
+  start: 2026-02-01
+  end: 2026-02-01
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.hisolutions.com/itsmf-2026-berlin
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A specialist forum by the IT Service Management Forum Germany for experts and users.
+  description_de: Ein Fachforum des itSMF Deutschland für Experten und Anwender.
+- id: cloud-native-days-france-2026
+  uid: paan-event-1706223606
+  title: Cloud Native Days France
+  start: 2026-02-03
+  end: 2026-02-03
+  location: Paris, FR
+  country: FR
+  region: Europe
+  url: https://www.cloudnativedays.fr/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Community event on Cloud Native technologies including Kubernetes, SRE, and DevOps, with multiple technical tracks.
+  description_de: Community-Konferenz zu Cloud Native-Technologien einschließlich Kubernetes, SRE und DevOps mit mehreren technischen Tracks.
+- id: integrated-systems-europe-ise-2026
+  uid: paan-event-1706223605
+  title: Integrated Systems Europe (ISE)
+  start: 2026-02-03
+  end: 2026-02-06
+  location: Barcelona, ES
+  country: ES
+  region: Europe
+  url: https://www.iseurope.org/
+  categories:
+  - AI
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe’s largest multi-tech expo with embedded AI/predictive analytics tracks, infrastructure and cybersecurity content, and smart system showcases.
+  description_de: Europas größte Multi-Tech-Messe mit eingebetteten KI/Analyse-Tracks, Infrastruktur- und Cybersicherheits-Inhalten und Smart-System-Präsentationen.
+- id: freshworks-it-service-desk-blueprint-2026
+  uid: paan-event-1706223607
+  title: Freshworks IT Service Desk Blueprint
+  start: 2026-02-04
+  end: 2026-02-04
+  location: Online
+  country: null
+  region: Online
+  url: https://www.freshworks.com/freshservice/resources/2026-service-desk-blueprint/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Vendor webinar exploring service desk strategy evolution in 2026, AI-assisted delivery and roadmap approaches.
+  description_de: Vendor-Webinar zu neuen Service-Desk-Strategien 2026, KI-gestützter Bereitstellung und praxisnahem Modernisierungsansatz.
+- id: it-partners-2026
+  uid: paan-event-1706223609
+  title: IT Partners
+  start: 2026-02-04
+  end: 2026-02-05
+  location: Paris, FR
+  country: FR
+  region: Europe
+  url: https://www.itpartners.fr/en-gb.html
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Major French IT channel and technology expo where MSPs, integrators, product providers, and IT service vendors meet.
+  description_de: Großer französischer IT-Channel- und Technologie-Expo, bei dem MSPs, Integratoren, Produktanbieter und IT-Dienstleister zusammenkommen.
+- id: it-defense-2026
+  uid: paan-event-1706223608
+  title: IT-Defense
+  start: 2026-02-04
+  end: 2026-02-04
+  location: Würzburg, DE
+  country: DE
+  region: DACH
+  url: http://www.it-defense.de/en/it-defense-2026/conference
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Technical IT event focusing on core engineering, security and operations topics with a strong practitioner focus.
+  description_de: Technische IT-Konferenz in Würzburg mit Fokus auf Kern-Engineering, Sicherheit und IT-Betrieb ohne sponsorgetriebene Agenda – starker Praxisbezug.
+- id: techex-global-2026
+  uid: paan-event-1706223610
+  title: TechEx Global
+  start: 2026-02-04
+  end: 2026-02-05
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://techexevent.com/europe/
+  categories:
+  - AI
+  - Cloud
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: High-level enterprise IT and digital innovation summit focusing on AI, IoT, data infrastructure and digital transformation.
+  description_de: Strategiegipfel für Unternehmens-IT und digitale Innovation mit Fokus auf KI, IoT, Dateninfrastruktur und digitale Transformation.
+- id: etsi-ai-data-conference-2026
+  uid: paan-event-1706223611
+  title: ETSI AI & Data Conference
+  start: 2026-02-09
+  end: 2026-02-11
+  location: Sophia Antipolis, FR
+  country: FR
+  region: Europe
+  url: https://www.etsi.org/events/2591-etsi-ai-data-conference-2026
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: European event on AI governance, data standards and interoperable frameworks.
+  description_de: Europäische Konferenz zu KI-Governance, Datenstandards und interoperablen Rahmenwerken.
+- id: atlassian-ace-community-meetup-2026
+  uid: paan-event-1706223612
+  title: Atlassian ACE Community Meetup
+  start: 2026-02-10
+  end: 2026-02-10
+  location: Bremen, DE
+  country: DE
+  region: DACH
+  url: https://ace.atlassian.com/bremen/
+  categories:
+  - Cloud
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Local Atlassian community event focused on cloud transformation topics and interactive sessions with partners and practitioners.
+  description_de: Lokales Atlassian-Community-Meetup zu Cloud-Transformationsthemen und interaktiven Sessions mit Partnern und Anwendern.
+- id: containerdays-london-2026
+  uid: paan-event-1706223613
+  title: ContainerDays London
+  start: 2026-02-11
+  end: 2026-02-12
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.containerdays.io/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Cloud Native and platform engineering conference with DevOps, observability and AI/ML tooling sessions.
+  description_de: Cloud-Native- und Plattform-Engineering-Konferenz mit DevOps, Observability und KI/ML-Tooling-Sessions.
+- id: swiss-cyber-security-days-2026
+  uid: paan-event-1706223614
+  title: Swiss Cyber Security Days
+  start: 2026-02-17
+  end: 2026-02-18
+  location: Bern, CH
+  country: CH
+  region: DACH
+  url: https://swisscybersecuritydays.ch/en/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A key event in Switzerland for cybersecurity knowledge exchange.
+  description_de: Ein zentraler Event in der Schweiz für den Wissensaustausch im Bereich Cybersicherheit.
+- id: atlassian-team-on-tour-frankfurt-2026
+  uid: paan-event-1706223615
+  title: 'Atlassian Team on Tour: Frankfurt'
+  start: 2026-02-19
+  end: 2026-02-19
+  location: Frankfurt, DE
+  country: DE
+  region: DACH
+  url: https://events.atlassian.com/connect-highvelocity-frankfurt
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Atlassian service management event focusing on teamwork, ITSM practices and the latest platform innovations — targeted at local community + partners.
+  description_de: Atlassian Service Management-Event mit Fokus auf Teamwork, ITSM-Praxis und Plattform-Innovation – ausgerichtet auf lokale Community und Partner.
+- id: ccw-call-center-world-2026
+  uid: paan-event-1706223616
+  title: CCW (Call Center World)
+  start: 2026-02-23
+  end: 2026-02-26
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.ccw.eu/en/
+  categories:
+  - ITSM
+  - AI
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Customer experience and contact center expo with service delivery optimization, AI-assisted CX, analytics and support management insights.
+  description_de: Messe für Customer Experience und Contact Center mit Fokus auf Servicedelivery-Optimierung, KI-gestütztem CX, Analytik und Support-Management.
+- id: servicenow-put-ai-to-work-for-it-2026
+  uid: paan-event-1706223617
+  title: ServiceNow – Put AI to Work for IT
+  start: 2026-03-03
+  end: 2026-03-03
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://rsvp.servicenow.com/putaitoworkforitmunich2026
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: In-person hands-on workshop exploring ServiceNow’s AI platform capabilities to streamline IT processes.
+  description_de: Präsenz-Hands-on-Workshop zur Erkundung der KI-Plattform von ServiceNow, um IT-Prozesse zu optimieren und „Autonomous IT“ praktisch kennenzulernen.
+- id: cloud-ai-infrastructure-london-2026
+  uid: paan-event-1706223618
+  title: Cloud & AI Infrastructure London
+  start: 2026-03-04
+  end: 2026-03-05
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.techshowlondon.co.uk/cloud-ai-infrastructure
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A two-day expo and conference covering cloud architecture, managed services, AI infrastructure and enterprise deployments.
+  description_de: Zweitägige Messe und Konferenz über Cloud-Architektur, Managed Services, KI-Infrastruktur und Unternehmensimplementierungen.
+- id: atlassian-connect-cloud-bound-munich-2026
+  uid: paan-event-1706223620
+  title: 'Atlassian Connect: Cloud Bound Munich'
+  start: 2026-03-05
+  end: 2026-03-05
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://events.atlassian.com/connect-cloudbound-munich
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Regional Atlassian event helping teams simplify cloud migrations and optimize collaboration workflows.
+  description_de: Regionale Atlassian Veranstaltung zur Vereinfachung von Cloud-Migrationen und Optimierung kollaborativer Workflows mit Demos und Partner-Einblicken.
+- id: freshworks-cutting-complexity-ai-2026
+  uid: paan-event-1706223619
+  title: Freshworks – Cutting Complexity AI
+  start: 2026-03-05
+  end: 2026-03-05
+  location: Utrecht, NL
+  country: NL
+  region: Europe
+  url: https://www.freshworks.com/events/ai-workplace-trends/
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Interactive event with product deep dives, hands-on AI workshops and discussions on workflow scaling.
+  description_de: Interaktive Veranstaltung mit Produkt-Deep-Dives, praxisnahen KI-Workshops und Diskussionen zur Skalierung von Workflows.
+- id: itsx-summit-edinburgh-2026
+  uid: paan-event-1706223621
+  title: ITSX Summit – Edinburgh
+  start: 2026-03-05
+  end: 2026-03-05
+  location: Edinburgh, UK
+  country: UK
+  region: Europe
+  url: https://www.itsxsummit.com/events
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Focused service desk & IT support summit exploring AI, automation, analytics, service delivery and workflow optimization.
+  description_de: Konferenz zu Service Desk und IT-Support mit Fokus auf KI, Automatisierung, Analytik und Workflow-Optimierung.
+- id: software-architecture-summit-2026
+  uid: paan-event-1706223622
+  title: Software Architecture Summit
+  start: 2026-03-09
+  end: 2026-03-13
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://software-architecture-summit.de/muenchen/
+  categories:
+  - Developer
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Multi-day training event for software architects and senior developers.
+  description_de: Mehrtägiges Trainingsevent für Softwarearchitekten und Entwickler.
+- id: javaland-2026-2026
+  uid: paan-event-1706223625
+  title: JavaLand 2026
+  start: 2026-03-10
+  end: 2026-03-12
+  location: Rust, DE
+  country: DE
+  region: DACH
+  url: https://www.javaland.eu/en/home/
+  categories:
+  - AI
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Developer and software engineering event with robust cloud, AI and platform streams across practical workshops.
+  description_de: Entwickler- und Software-Engineering-Event mit starken Fokus-Streams zu Cloud, KI und Plattform-Workshops.
+- id: rail-cybersecurity-summit-2026
+  uid: paan-event-1706223623
+  title: Rail Cybersecurity Summit
+  start: 2026-03-10
+  end: 2026-03-11
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://cybersenate.com/event/rail-cybersecurity-summit-2026/
+  categories:
+  - Security
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A conference for operators and suppliers in the UK railway sector.
+  description_de: Eine Konferenz für Betreiber und Zulieferer im britischen Eisenbahnsektor.
+- id: servicenow-executive-dinner-vienna-2026
+  uid: paan-event-1706223624
+  title: ServiceNow Executive Dinner – Vienna
+  start: 2026-03-10
+  end: 2026-03-10
+  location: Vienna, AT
+  country: AT
+  region: DACH
+  url: https://rsvp.servicenow.com/executivecirclevienna2026
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Exclusive executive dinner event for senior leaders to exchange ideas about AI, strategy and future workflows.
+  description_de: Exklusives Dinner-Event für Führungskräfte zum Austausch über KI, Strategie und zukünftige Workflows auf der ServiceNow Plattform.
+- id: digital-x-wien-2026
+  uid: paan-event-1706223626
+  title: DIGITAL X Wien
+  start: 2026-03-11
+  end: 2026-03-11
+  location: Vienna, AT
+  country: AT
+  region: DACH
+  url: https://www.digital-x.com/en/events/2026/regional-events/vienna
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A major digitalization event for SMEs, organized by Telekom.
+  description_de: Ein großes Digitalisierungs-Event für den Mittelstand, organisiert von der Telekom.
+- id: azureday-poland-2026
+  uid: paan-event-1706223628
+  title: AzureDay Poland
+  start: 2026-03-12
+  end: 2026-03-12
+  location: Warsaw, PL
+  country: PL
+  region: Europe
+  url: https://azureday.pl/?lang=en
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Community cloud event focused on Microsoft Azure trends and practical sessions.
+  description_de: Community-Cloud-Event zu Microsoft Azure-Trends und Praxis-Sessions.
+- id: decompiled-2026-2026
+  uid: paan-event-1706223627
+  title: DecompileD 2026
+  start: 2026-03-12
+  end: 2026-03-12
+  location: Dresden, DE
+  country: DE
+  region: DACH
+  url: https://decompiled.de/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Community-driven tech conference with talks and hands-on sessions on modern cloud and AI development practices.
+  description_de: Community-Tech-Konferenz mit Vorträgen und praxisnahen Sessions zu modernen Cloud- und KI-Entwicklungsmethoden.
+- id: ai-infrastructure-summit-europe-2026
+  uid: paan-event-1706223629
+  title: AI Infrastructure Summit Europe
+  start: 2026-03-16
+  end: 2026-03-17
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://ai-infra-summit.com/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Conference dedicated to scalable AI platform and data infrastructure strategies for enterprise AI adoption.
+  description_de: Konferenz über skalierbare KI-Plattform- und Dateninfrastrukturen für den Unternehmenseinsatz von KI.
+- id: global-summit-on-smart-systems-2026
+  uid: paan-event-1706223630
+  title: Global Summit on Smart Systems
+  start: 2026-03-19
+  end: 2026-03-21
+  location: Barcelona, ES
+  country: ES
+  region: Europe
+  url: https://www.industryevents.com/events/global-summit-on-smart-systems-big-data-iot-cybersecurity-and-it-in-action
+  categories:
+  - AI
+  - Cloud
+  - Security
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Broad IT systems event covering AI, IoT, Big Data, cybersecurity, cloud & digital transformation.
+  description_de: IT-Systeme-Konferenz zu KI, IoT, Big Data, Cybersicherheit, Cloud-Technologien und digitaler Transformation.
+- id: cloudfest-2026
+  uid: paan-event-1706223631
+  title: CloudFest
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Rust, DE
+  country: DE
+  region: DACH
+  url: https://www.cloudfest.com/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: 'The world''s #1 internet infrastructure event for the cloud computing industry.'
+  description_de: Die weltweit führende Veranstaltung für die Cloud-Computing-Branche.
+- id: kubecon-cloudnativecon-eu-2026
+  uid: paan-event-1706223632
+  title: KubeCon + CloudNativeCon EU
+  start: 2026-03-23
+  end: 2026-03-26
+  location: Amsterdam, NL
+  country: NL
+  region: Europe
+  url: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+  categories:
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: The flagship conference for cloud-native and open-source developers.
+  description_de: Die Leitkonferenz für Cloud-Native- und Open-Source-Entwickler.
+- id: richmond-it-forum-2026
+  uid: paan-event-1706223634
+  title: Richmond IT Forum
+  start: 2026-03-24
+  end: 2026-03-25
+  location: Interlaken, CH
+  country: CH
+  region: DACH
+  url: https://www.richmondevents.com/Find-A-Forum.aspx?country=Switzerland
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Swiss IT forum for CIOs and senior IT leaders covering innovation, strategy & networking.
+  description_de: Schweizer IT-Forum für CIOs und Senior IT-Leader mit Fokus auf Innovation, Strategie & Networking.
+- id: sap-max-summit-2026
+  uid: paan-event-1706223633
+  title: SAP Max Summit
+  start: 2026-03-24
+  end: 2026-03-26
+  location: Heidelberg, DE
+  country: DE
+  region: DACH
+  url: https://community.sap.com/t5/sap-maxattention-events/eb-p/maxattentionoccasion-board
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: An exclusive in-person event for the SAP MaxAttention community.
+  description_de: Ein exklusives Präsenz-Event für die SAP MaxAttention Community.
+- id: servicenow-crm-jam-munich-2026
+  uid: paan-event-1706223635
+  title: ServiceNow CRM Jam Munich
+  start: 2026-03-25
+  end: 2026-03-26
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://rsvp.servicenow.com/industryjammuc
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A two-day co-innovation workshop to co-create AI-powered CRM prototypes and learn hands-on how to apply AI in workflows.
+  description_de: Zwei-tägiger Co-Innovation-Workshop mit ServiceNow-Experten in München zur gemeinsamen Entwicklung von KI-gestützten CRM-Prototypen und praxisnaher Anwendung von KI-Workflows.
+- id: spring-i-o-2026
+  uid: paan-event-1706223636
+  title: Spring I/O
+  start: 2026-04-13
+  end: 2026-04-15
+  location: Barcelona, ES
+  country: ES
+  region: Europe
+  url: https://2026.springio.net/
+  categories:
+  - Developer
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A developer-first event for teams building backend systems with Java and the Spring ecosystem.
+  description_de: Ein entwicklerorientiertes Event für Teams, die Backend-Systeme mit Java und Spring erstellen.
+- id: service-space-2026-2026
+  uid: paan-event-1706223637
+  title: Service Space 2026
+  start: 2026-04-14
+  end: 2026-04-14
+  location: Vienna, AT
+  country: AT
+  region: DACH
+  url: https://www.servicespace.at/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Austria's leading independent IT Service Management conference.
+  description_de: Österreichs größte unabhängige IT Service Management Konferenz.
+- id: 3rd-intl-summit-on-robotics-ai-ml-2026
+  uid: paan-event-1706223638
+  title: 3rd Intl Summit on Robotics, AI & ML
+  start: 2026-04-20
+  end: 2026-04-22
+  location: Frankfurt, DE
+  country: DE
+  region: DACH
+  url: https://aiml.events/events/israi2026
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Scientific summit connecting AI, robotics, and ML research with practical enterprise innovation.
+  description_de: Wissenschaftlicher Gipfel zu Robotik, KI und maschinellem Lernen mit Fokus auf Unternehmensinnovation.
+- id: hannover-messe-2026
+  uid: paan-event-1706223639
+  title: Hannover Messe
+  start: 2026-04-20
+  end: 2026-04-24
+  location: Hannover, DE
+  country: DE
+  region: DACH
+  url: https://www.hannovermesse.de/en/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: One of the world's largest trade fairs for industrial technology and Industrie 4.0.
+  description_de: Eine der weltweit größten Messen für Industrietechnologie und Industrie 4.0.
+- id: european-ai-cloud-summit-2026
+  uid: paan-event-1706223640
+  title: European AI & Cloud Summit
+  start: 2026-05-05
+  end: 2026-05-07
+  location: Cologne, DE
+  country: DE
+  region: DACH
+  url: https://cloudsummit.eu/
+  categories:
+  - AI
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Major European AI & cloud computing event with >100 sessions on AI strategy, Azure, cloud security, and enterprise adoption.
+  description_de: Großes europäisches Event zu KI und Cloud mit über 100 Sessions zu KI-Strategie, Azure, Cloud-Security, Governance, Architektur und Unternehmens-Adoption.
+- id: european-collaboration-summit-2026
+  uid: paan-event-1706223641
+  title: European Collaboration Summit
+  start: 2026-05-05
+  end: 2026-05-07
+  location: Cologne, DE
+  country: DE
+  region: DACH
+  url: https://collabsummit.eu/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Co-located event with European AI & Cloud Summit, focused on Microsoft 365, AI, Copilot and modern work.
+  description_de: Parallel stattfindendes Event mit Fokus auf Microsoft 365, KI, Copilot und moderne Arbeitsweisen.
+- id: learntec-2026-2026
+  uid: paan-event-1706223642
+  title: Learntec 2026
+  start: 2026-05-05
+  end: 2026-05-07
+  location: Karlsruhe, DE
+  country: DE
+  region: DACH
+  url: https://www.learntec.de/en/
+  categories:
+  - AI
+  - Cloud
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  note: 'Laut heise ("Learntec 2026: Plug pulled?") ggf. abgesagt bzw. verschoben – prüfen'
+  description_en: Professional learning & digital workplace expo covering cloud, AI training, digital skills and enterprise solutions.
+  description_de: Messe für berufliche Weiterbildung & digitale Arbeitswelt, einschließlich Cloud- und KI-Training, digitalen Skills und Unternehmenslösungen.
+- id: cloud-ai-infrastructure-frankfurt-2026
+  uid: paan-event-1706223645
+  title: Cloud & AI Infrastructure Frankfurt
+  start: 2026-05-06
+  end: 2026-05-07
+  location: Frankfurt, DE
+  country: DE
+  region: DACH
+  url: https://techshowfrankfurt.de
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Focused trade show on cloud infrastructure, AI deployment in scale environments, FinOps, DevOps and critical infrastructure design.
+  description_de: Fachmesse zu Cloud-Infrastruktur, AI-Implementierung in großem Maßstab, FinOps, DevOps und kritischer Infrastrukturplanung.
+- id: cloudconf-2026-2026
+  uid: paan-event-1706223643
+  title: CloudConf 2026
+  start: 2026-05-06
+  end: 2026-05-06
+  location: Italy (TBA)
+  country: IT
+  region: Europe
+  url: https://2026.cloudconf.it/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: High-level European cloud computing conference with expert talks and networking.
+  description_de: Hochwertige europäische Cloud-Computing-Konferenz mit Expert:innen-Vorträgen und Networking.
+- id: msp-konferenz-mainz-2026
+  uid: paan-event-1706223644
+  title: MSP Konferenz – Mainz
+  start: 2026-05-06
+  end: 2026-05-07
+  location: Mainz, DE
+  country: DE
+  region: DACH
+  url: https://fokus-msp.de
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: National DACH MSP conference integrating system house strategies, market insights and vendor showcases.
+  description_de: Nationale DACH MSP-Konferenz mit Strategien für Systemhäuser, Markteinblicken und Anbieter-Showcases.
+- id: service-desk-it-support-show-sits-2026
+  uid: paan-event-1706223646
+  title: Service Desk & IT Support Show (SITS)
+  start: 2026-05-13
+  end: 2026-05-14
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.servicedeskshow.com/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe's leading event for ITSM, service desk, and IT support professionals.
+  description_de: Europas führendes Event für ITSM, Service Desk und IT-Support-Profis.
+- id: serview26-pre-congress-warm-up-2026
+  uid: paan-event-1706223647-1
+  title: SERVIEW26 Pre-Congress Warm-Up
+  start: 2026-05-18
+  end: 2026-05-18
+  location: Seeheim-Jugenheim, DE
+  country: DE
+  region: DACH
+  url: https://en.serview-summit.com/programm
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Networking and introductory sessions the day before SERVIEW26.
+  description_de: Networking und Einführungs-Sessions am Vortag von SERVIEW26.
+- id: ai-week-milan-2026
+  uid: paan-event-1706223648
+  title: AI WEEK Milan
+  start: 2026-05-19
+  end: 2026-05-20
+  location: Milan, IT
+  country: IT
+  region: Europe
+  url: https://www.aiweek.it/
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Milan’s flagship AI event covering business, innovation, ethics and generative AI.
+  description_de: Mailänder KI-Konferenz über Geschäftsinnovation, Ethik und generative KI.
+- id: serview26-congress-expo-2026
+  uid: paan-event-1706223647
+  title: SERVIEW26 – Congress & Expo
+  start: 2026-05-19
+  end: 2026-05-21
+  location: Seeheim-Jugenheim, DE
+  country: DE
+  region: DACH
+  url: https://en.serview-summit.com/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: 'Europe’s #1 ITSM & ESM congress and trade fair with keynotes, masterclasses, expo & networking.'
+  description_de: Europas größter ITSM- & ESM-Kongress mit Expo, Keynotes, Masterclasses und Networking.
+- id: cybersecurity-summit-hamburg-2026
+  uid: paan-event-1706223649
+  title: Cybersecurity Summit Hamburg
+  start: 2026-05-20
+  end: 2026-05-21
+  location: Hamburg, DE
+  country: DE
+  region: DACH
+  url: https://startupcity.hamburg/news-events/events/cybersecurity-summit-2026
+  categories:
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: German IT security conference with focuses on cyber risk, governance, secure cloud infrastructure and growth management.
+  description_de: Deutsche IT-Security-Konferenz mit Fokus auf Cyber-Risiken, Governance, sichere Cloud-Infrastruktur und Wachstumsstrategien.
+- id: infosecurity-europe-2026
+  uid: paan-event-1706223650
+  title: Infosecurity Europe
+  start: 2026-06-03
+  end: 2026-06-04
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.infosecurityeurope.com/en-gb.html
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: One of Europe's largest and most well-attended cybersecurity events.
+  description_de: Eines der größten und bestbesuchten Cybersicherheits-Events in Europa.
+- id: london-tech-week-2026
+  uid: paan-event-1706223651
+  title: London Tech Week
+  start: 2026-06-08
+  end: 2026-06-12
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://londontechweek.com/
+  categories:
+  - AI
+  - Cloud
+  - Security
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Pan-European tech festival spanning multiple topics including cloud, cybersecurity, AI adoption, MSP ecosystems and digital transformation.
+  description_de: Pan-europäisches Technologie-Festival mit Themen wie Cloud, Cybersicherheit, KI-Adoption, MSP-Ökosystemen und digitaler Transformation.
+- id: zukunftskongress-2026-2026
+  uid: paan-event-1706223652
+  title: Zukunftskongress 2026
+  start: 2026-06-08
+  end: 2026-06-09
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://zukunftskongress.2bahead.com/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Multidisciplinary future IT conference with tracks on innovation, cloud, AI adoption, change leadership and modern service ecosystems.
+  description_de: Zukunfts-IT-Kongress mit Sessions zu Innovation, Cloud-Strategien, KI-Adoption, Change Leadership und modernen Service-Ökosystemen.
+- id: nextcloud-summit-2026-2026
+  uid: paan-event-1706223653
+  title: Nextcloud Summit 2026
+  start: 2026-06-09
+  end: 2026-06-09
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://nextcloud.com/summit-2026/
+  categories:
+  - AI
+  - Cloud
+  - Digital Transformation
+  - Developer
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Open-source and enterprise collaboration tech event with cloud-integration, AI-assisted services and digital workplace discussions.
+  description_de: Open-Source- und Enterprise-Collaboration-Event mit Cloud-Integration, KI-unterstützten Diensten und Diskussionen zur digitalen Arbeitswelt.
+- id: zukunftskongress-staat-verwaltung-2026
+  title: Zukunftskongress Staat & Verwaltung 2026
+  start: 2026-06-09
+  end: 2026-06-10
+  location: Berlin (bcc), DE
+  country: DE
+  region: DACH
+  url: https://www.zukunftskongress.info/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Congress on modernisation and digital transformation of public administration.
+  description_de: Kongress zur Modernisierung und digitalen Transformation von Staat und Verwaltung.
+- id: itil-4-foundation-training-2026
+  uid: paan-event-1706223654
+  title: ITIL 4 Foundation Training
+  start: 2026-06-15
+  end: 2026-06-17
+  location: Zurich, CH
+  country: CH
+  region: DACH
+  url: https://www.theknowledgeacademy.com/ch/courses/itil-training/itil-foundation/zurich/
+  categories:
+  - ITSM
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  note: Kommerzieller Trainingskurs, kein Branchen-Event
+  description_en: Multi-day training and certification course for the ITIL 4 Foundation level.
+  description_de: Mehrtägiger Trainings- und Zertifizierungskurs für das ITIL 4 Foundation Level.
+- id: vivatech-2026
+  uid: paan-event-1706223655
+  title: VivaTech
+  start: 2026-06-17
+  end: 2026-06-20
+  location: Paris, FR
+  country: FR
+  region: Europe
+  url: https://vivatech.com/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: One of Europe’s biggest tech events for startups, corporates, and investors.
+  description_de: Eines der größten Tech-Events Europas für Start-ups, Unternehmen und Investoren.
+- id: mlcon-europe-2026-munich-online-2026
+  uid: paan-event-1706223656
+  title: MLcon Europe 2026 – Munich/Online
+  start: 2026-06-22
+  end: 2026-06-26
+  location: Munich, DE
+  country: DE
+  region: DACH
+  url: https://mlconference.ai/munich/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe’s key ML/AI engineering conference focusing on MLOps, generative AI engineering and data infrastructure.
+  description_de: Europas führende ML-/KI-Engineering-Konferenz mit Fokus auf MLOps, generative KI-Entwicklung und Dateninfrastruktur.
+- id: tdwi-muenchen-2026
+  title: TDWI München 2026
+  start: 2026-06-23
+  end: 2026-06-25
+  location: München (MOC), DE
+  country: DE
+  region: DACH
+  url: https://www.tdwi-konferenz.de/
+  categories:
+  - AI
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Leading DACH conference for data, analytics and AI.
+  description_de: Führende DACH-Konferenz für Daten, Analytics und KI.
+- id: it-infrastructure-operations-summit-berlin-2026
+  uid: paan-event-1706223656-1
+  title: IT Infrastructure & Operations Summit Berlin
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.it-infrastructure-operations-summit.com/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Summit for IT infrastructure, multi-cloud strategies, operations optimization & modern platforms.
+  description_de: Gipfeltreffen zu IT-Infrastruktur, Multi-Cloud-Strategien, Betriebsoptimierung & modernen Plattformen.
+- id: it-service-management-summit-dach-2026
+  uid: paan-event-1706223657
+  title: IT Service Management Summit DACH
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.it-service-management-summit.com/
+  categories:
+  - ITSM
+  - Digital Transformation
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Comprehensive ITSM summit for DACH IT leaders exploring service delivery, operations and digital transformation.
+  description_de: Umfassender ITSM-Gipfel für DACH-IT-Verantwortliche mit Fokus auf Service Delivery, Operations und digitale Transformation.
+- id: gitex-ai-europe-2026
+  title: GITEX AI Europe 2026
+  start: 2026-06-30
+  end: 2026-07-01
+  location: Berlin (Messe Berlin), DE
+  country: DE
+  region: DACH
+  url: https://www.gitex-europe.com/
+  categories:
+  - AI
+  - Digital Transformation
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Large European tech and AI expo.
+  description_de: Grosse europäische Tech- und KI-Messe.
+- id: msp-managed-services-summit-benelux-2026
+  uid: paan-event-1706223658
+  title: MSP Managed Services Summit Benelux
+  start: 2026-06-30
+  end: 2026-06-30
+  location: Amsterdam, NL
+  country: NL
+  region: Europe
+  url: https://www.managedservices-summit.com/benelux
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Executive-level event on managed services trends, MSP business strategies and digital transformation.
+  description_de: Executive-Konferenz zu Managed Services, MSP-Geschäftsstrategien und digitaler Transformation.
+- id: salesforce-world-tour-london-2026
+  uid: paan-event-1706223658-1
+  title: Salesforce World Tour London
+  start: 2026-06-30
+  end: 2026-06-30
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.salesforce.com/uk/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Salesforce's major event in London, showcasing the latest product innovations.
+  description_de: Salesforce's großes Event in London, das die neuesten Produktinnovationen vorstellt.
+- id: wearedevelopers-world-congress-2026-2026
+  uid: paan-event-1706223659
+  title: WeAreDevelopers World Congress 2026
+  start: 2026-07-08
+  end: 2026-07-10
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.wearedevelopers.com/world-congress/
+  categories:
+  - AI
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Broad European developer and AI innovation congress with tracks in cloud computing, software engineering, and modern infrastructure.
+  description_de: Europäischer Entwickler- und KI-Innovationskongress mit Tracks zu Cloud-Computing, Software-Engineering und moderner Infrastruktur.
+- id: froscon-2026
+  uid: paan-event-1706223660
+  title: FrOSCon
+  start: 2026-08-15
+  end: 2026-08-16
+  location: Sankt Augustin, DE
+  country: DE
+  region: DACH
+  url: https://www.froscon.org/en/
+  categories:
+  - Developer
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A major conference for Free and Open Source Software with talks and workshops.
+  description_de: Eine große Konferenz für Freie Software und Open Source mit Vorträgen und Workshops.
+- id: gamescom-2026
+  uid: paan-event-1706223661
+  title: gamescom
+  start: 2026-08-26
+  end: 2026-08-30
+  location: Cologne, DE
+  country: DE
+  region: DACH
+  url: https://www.gamescom.global/
+  categories:
+  - Developer
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe's largest gaming week, including a major B2B trade and developer section.
+  description_de: Europas größte Gaming-Woche, inklusive eines großen B2B-Fach- und Entwicklerbereichs.
+- id: handelsblatt-summit-zukunft-it-2026
+  title: Handelsblatt Summit Zukunft IT 2026
+  start: 2026-09-07
+  end: 2026-09-09
+  location: Düsseldorf, DE
+  country: DE
+  region: DACH
+  url: https://live.handelsblatt.com/
+  categories:
+  - Digital Transformation
+  - AI
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: CIO summit on IT strategy, AI, cloud, cybersecurity and new work.
+  description_de: CIO-Gipfel zu IT-Strategie, KI, Cloud, Cybersecurity und New Work.
+- id: digital-x-koeln-2026
+  title: Digital X 2026
+  start: 2026-09-08
+  end: 2026-09-08
+  location: Köln, DE
+  country: DE
+  region: DACH
+  url: https://www.digital-x.eu/
+  categories:
+  - Digital Transformation
+  - AI
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Telekom's digitalisation event for businesses, focused on practical AI value.
+  description_de: Digitalisierungs-Event der Telekom für Unternehmen mit Fokus auf praktischen KI-Mehrwert.
+- id: managed-services-summit-london-2026
+  uid: paan-event-1706223662
+  title: Managed Services Summit – London
+  start: 2026-09-09
+  end: 2026-09-09
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.managedservices-summit.com/london
+  categories:
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Premier managed services industry event for MSPs in the UK, covering cloud, security and service innovation.
+  description_de: Führende Managed-Services-Branchenveranstaltung für MSPs im UK mit Themenschwerpunkten Cloud, Sicherheit und Serviceninnovation.
+- id: ibc-intl-broadcasting-convention-2026
+  uid: paan-event-1706223663
+  title: IBC (Intl. Broadcasting Convention)
+  start: 2026-09-11
+  end: 2026-09-14
+  location: Amsterdam, NL
+  country: NL
+  region: Europe
+  url: https://show.ibc.org/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A highly commercial event for media technology, streaming platforms, and broadcast engineers.
+  description_de: Ein kommerzielles Event für Medientechnik, Streaming-Plattformen und Broadcast-Ingenieure.
+- id: channelpartner-kongress-2026
+  uid: paan-event-1706223664
+  title: ChannelPartner Kongress
+  start: 2026-09-15
+  end: 2026-09-16
+  location: Frankfurt, DE
+  country: DE
+  region: DACH
+  url: https://www.channelpartner.de/channelpartner-events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: The central community event for IT service providers, MSPs, and the IT channel.
+  description_de: Der zentrale Community-Event für IT-Dienstleister, MSPs und den IT-Channel.
+- id: iet-cyber-security-conference-2026
+  uid: paan-event-1706223665
+  title: IET Cyber Security Conference
+  start: 2026-09-15
+  end: 2026-09-16
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://cyberconference.theiet.org/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A technical conference from the Institution of Engineering and Technology.
+  description_de: Eine technische Konferenz der Institution of Engineering and Technology.
+- id: dmexco-2026
+  uid: paan-event-1706223666
+  title: DMEXCO
+  start: 2026-09-23
+  end: 2026-09-24
+  location: Cologne, DE
+  country: DE
+  region: DACH
+  url: https://dmexco.com/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe's leading digital marketing & tech event.
+  description_de: Europas führendes Event für digitales Marketing & Technologie.
+- id: cloud-native-days-austria-2026
+  uid: paan-event-1706223667
+  title: Cloud Native Days Austria
+  start: 2026-09-29
+  end: 2026-09-30
+  location: Vienna, AT
+  country: AT
+  region: DACH
+  url: https://cloudnativedays.at/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: The key gathering for the Cloud Native community in Austria.
+  description_de: Das zentrale Treffen der Cloud-Native-Community in Österreich.
+- id: swiss-it-forum-s-2026
+  uid: paan-event-1706223668
+  title: Swiss IT Forum(s)
+  start: 2026-09-30
+  end: 2026-10-01
+  location: Geneva, CH
+  country: CH
+  region: DACH
+  url: https://www.swiss-it-forums.tech/en/
+  categories:
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Event with exhibits and forums on enterprise software, cybersecurity, data, and cloud.
+  description_de: Veranstaltung mit Ausstellungen und Foren zu Unternehmenssoftware, Cybersecurity, Daten und Cloud.
+- id: afsmi-service-branch-gathering-2026
+  uid: paan-event-1706223669
+  title: AFSMI Service Branch Gathering
+  start: 2026-10-06
+  end: 2026-10-06
+  location: Stuttgart, DE
+  country: DE
+  region: DACH
+  url: https://afsmi.de
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Industry meetup in Stuttgart with talks and interactive sessions on service management practices.
+  description_de: Branchentreffen des AFSMI in Stuttgart mit Impulsvorträgen und interaktivem Austausch zu Service Management Themen.
+- id: atlassian-team-26-europe
+  title: Atlassian Team '26 Europe
+  start: 2026-10-06
+  end: 2026-10-08
+  location: Amsterdam (RAI), NL
+  country: NL
+  region: Europe
+  url: https://events.atlassian.com/teameurope
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Atlassian's European flagship conference incl. Jira Service Management.
+  description_de: Europäische Atlassian-Leitkonferenz inkl. Jira Service Management.
+- id: smart-country-convention-2026
+  title: Smart Country Convention (SCCON) 2026
+  start: 2026-10-13
+  end: 2026-10-15
+  location: Berlin (Messe Berlin, hub27), DE
+  country: DE
+  region: DACH
+  url: https://www.smart-country-convention.de/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Leading congress and trade fair for digitalisation of the public sector (e-Government, OZG).
+  description_de: Leitkongress und Fachmesse für die Digitalisierung der öffentlichen Verwaltung (E-Government, OZG).
+- id: cyber-security-expo-2026
+  uid: paan-event-1706223670
+  title: Cyber Security EXPO
+  start: 2026-10-27
+  end: 2026-10-27
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.cybersecurityexpo.co.uk/london
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: An expo for cybersecurity professionals to connect and discover new solutions.
+  description_de: Eine Messe für Cybersicherheits-Profis zum Netzwerken und Entdecken neuer Lösungen.
+- id: it-sa-2026-2026
+  uid: paan-event-1706223671
+  title: it-sa 2026
+  start: 2026-10-27
+  end: 2026-10-29
+  location: Nürnberg, DE
+  country: DE
+  region: DACH
+  url: https://www.itsa.de/en
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: Europe's leading IT security expo and congress.
+  description_de: Europas führende IT-Sicherheitsmesse und Kongress.
+- id: smfs-2026
+  title: Service Management Forum Schweiz (SMFS) 2026
+  start: 2026-10-29
+  end: 2026-10-29
+  location: Zürich-Flughafen (Radisson Blu), CH
+  country: CH
+  region: DACH
+  url: https://www.netzwoche.ch/news/2026-09-23/das-erwartet-die-besucher-am-service-management-forum-schweiz-2026
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: 'Switzerland''s largest service management forum; 2026 motto: Service Automation.'
+  description_de: 'Grösstes Service-Management-Forum der Schweiz; Motto 2026: Service Automation.'
+- id: manageengine-userconf-ch-2026
+  title: ManageEngine UserConf Schweiz 2026
+  start: 2026-11-03
+  end: 2026-11-03
+  location: Zürich (Crowne Plaza), CH
+  country: CH
+  region: DACH
+  url: https://www.manageengine.com/events/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: ManageEngine user conference covering ServiceDesk Plus, ITOM and endpoint management.
+  description_de: ManageEngine-Anwenderkonferenz zu ServiceDesk Plus, ITOM und Endpoint Management.
+- id: servicenow-world-forum-frankfurt-2026
+  title: ServiceNow World Forum Frankfurt
+  start: 2026-11-03
+  end: 2026-11-03
+  location: Frankfurt am Main, DE
+  country: DE
+  region: DACH
+  url: https://www.servicenow.com/events/world-forum.html
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: tentative
+  source: Websuche 04.11.2026
+  description_en: ServiceNow regional flagship event (date from third-party guide, please verify).
+  description_de: Regionales ServiceNow-Flaggschiff-Event (Datum aus Drittquelle, bitte verifizieren).
+- id: service-summit-duesseldorf-2026
+  title: Service Summit 2026
+  start: 2026-11-04
+  end: 2026-11-05
+  location: Düsseldorf, DE
+  country: DE
+  region: DACH
+  url: https://www.deloitte.com/de/de/services/consulting/events/service-summit.html
+  categories:
+  - ITSM
+  - Digital Transformation
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Conference on B2B/after-sales service management and service business models.
+  description_de: Konferenz zu B2B-/After-Sales-Service-Management und Service-Geschäftsmodellen.
+- id: itsm26-2026
+  uid: paan-event-1706223673
+  title: ITSM26
+  start: 2026-11-09
+  end: 2026-11-10
+  location: Milton Keynes, UK
+  country: UK
+  region: Europe
+  url: https://www.itsmf.co.uk/itsm26/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: The official annual conference and awards event for itSMF UK.
+  description_de: Die offizielle Jahreskonferenz mit Preisverleihung von itSMF UK.
+- id: web-summit-2026
+  uid: paan-event-1706223672
+  title: Web Summit
+  start: 2026-11-09
+  end: 2026-11-12
+  location: Lisbon, PT
+  country: PT
+  region: Europe
+  url: https://websummit.com/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: One of the largest and most prominent technology conferences in the world.
+  description_de: Eine der größten und bekanntesten Technologiekonferenzen der Welt.
+- id: handelsblatt-ki-summit-2026
+  title: Handelsblatt KI Summit 2026
+  start: 2026-11-16
+  end: 2026-11-17
+  location: München, DE
+  country: DE
+  region: DACH
+  url: https://live.handelsblatt.com/
+  categories:
+  - AI
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Executive AI summit by Handelsblatt on enterprise AI strategy, regulation and adoption.
+  description_de: Handelsblatt-Gipfel für Entscheider zu KI-Strategie, Regulierung und Adoption im Unternehmen.
+- id: slush-2026
+  uid: paan-event-1706223674
+  title: Slush
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Helsinki, FI
+  country: FI
+  region: Europe
+  url: https://slush.org/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: A major tech event focused on startups, founders, and venture capital.
+  description_de: Ein großes Tech-Event mit Fokus auf Start-ups, Gründer und Risikokapital.
+- id: w-jax-2026
+  title: W-JAX 2026
+  start: 2026-11-30
+  end: 2026-12-04
+  location: München, DE
+  country: DE
+  region: DACH
+  url: https://jax.de/
+  categories:
+  - Developer
+  - Cloud
+  - AI
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Conference for Java, software architecture, cloud and AI engineering.
+  description_de: Konferenz für Java, Softwarearchitektur, Cloud und KI-Engineering.
+- id: afsmi-strategiegipfel-b2b-service-2026
+  uid: paan-event-1706223675
+  title: AFSMI Strategiegipfel B2B Service
+  start: 2026-12-02
+  end: 2026-12-03
+  location: Berlin, DE / Zoom
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/strategy-summit-b2b-service-management/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: EU_IT_Event_Crawl_v5.ics
+  description_en: B2B service management strategy summit with online access.
+  description_de: Strategiegipfel B2B Service Management mit Diskussionen zu Service Management Strategien; Online-Teilnahme möglich.
+- id: it-tage-2026
+  title: IT-Tage 2026
+  start: 2026-12-07
+  end: 2026-12-10
+  location: Frankfurt am Main (Kap Europa), DE
+  country: DE
+  region: DACH
+  url: https://www.ittage.informatik-aktuell.de/
+  categories:
+  - Digital Transformation
+  - Cloud
+  - AI
+  - Security
+  - Developer
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Annual IT conference covering IT management, software development, DevOps, cloud, AI and security.
+  description_de: Jährliche IT-Konferenz zu IT-Management, Softwareentwicklung, DevOps, Cloud, KI und Security.
+- id: learntec-2027
+  title: LEARNTEC 2027
+  start: 2027-02-02
+  end: 2027-02-04
+  location: Karlsruhe, DE
+  country: DE
+  region: DACH
+  url: https://www.learntec.de/
+  categories:
+  - Digital Transformation
+  - AI
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Trade fair for digital learning and AI in education (moved to February from 2027).
+  description_de: Fachmesse für digitales Lernen und KI in der Weiterbildung (ab 2027 im Februar).
+- id: atlassian-team-for-builders-berlin-2027
+  title: 'Atlassian Team for Builders: Berlin'
+  start: 2027-02-03
+  end: 2027-02-05
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.atlassian.com/company/events
+  categories:
+  - ITSM
+  - Developer
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Atlassian event for builders, admins and partners.
+  description_de: Atlassian-Event für Entwickler, Admins und Partner.
+- id: ccw-2027
+  title: CCW 2027 (Customer Contact World)
+  start: 2027-02-22
+  end: 2027-02-25
+  location: Berlin (Estrel), DE
+  country: DE
+  region: DACH
+  url: https://www.ccw.eu/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Europe's leading trade fair and congress for customer service and contact centres.
+  description_de: Europas Leitmesse mit Kongress für Kundenservice und Contact Center.
+- id: industrial-metaverse-ai-heilbronn-2027
+  title: Industrial Metaverse Conference & Embodiment of AI
+  start: 2027-02-23
+  end: 2027-02-24
+  location: Heilbronn (Bildungscampus), DE
+  country: DE
+  region: DACH
+  url: https://dev.events/EU/DE/Heilbronn/tech
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Conference on industrial and physical AI.
+  description_de: Konferenz zu industrieller und physischer KI.
+- id: swiss-cyber-security-days-2027
+  title: Swiss Cyber Security Days 2027
+  start: 2027-02-23
+  end: 2027-02-24
+  location: Bern (BERNEXPO), CH
+  country: CH
+  region: DACH
+  url: https://swisscybersecuritydays.ch/
+  categories:
+  - Security
+  - AI
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: 'Swiss cybersecurity congress; 2027 theme: When AI Acts – Securing the Next Digital Frontier.'
+  description_de: 'Schweizer Cybersecurity-Kongress; Leitthema 2027: When AI Acts.'
+- id: service-space-2027
+  title: Service Space 2027
+  start: 2027-03-09
+  end: 2027-03-09
+  location: Wien (Schönbrunn), AT
+  country: AT
+  region: DACH
+  url: https://servicespace.acp-gruppe.com/en/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: 'Austria''s leading independent ITSM conference: 32 sessions in 5 streams, PeopleCert CPD credits; service design, CMDB, AI and ESM.'
+  description_de: 'Österreichs führende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams, PeopleCert-CPD-Punkte; Service Design, CMDB, KI und ESM.'
+- id: cloudfest-2027
+  title: CloudFest 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: Rust (Europa-Park), DE
+  country: DE
+  region: DACH
+  url: https://www.cloudfest.com/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: World's leading internet infrastructure and cloud industry event.
+  description_de: Weltweit führendes Event der Internet-Infrastruktur- und Cloud-Branche.
+- id: kubecon-eu-2027
+  title: KubeCon + CloudNativeCon Europe 2027
+  start: 2027-03-15
+  end: 2027-03-18
+  location: Barcelona, ES
+  country: ES
+  region: Europe
+  url: https://events.linuxfoundation.org/
+  categories:
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Flagship cloud-native and Kubernetes conference.
+  description_de: Leitkonferenz für Cloud Native und Kubernetes.
+- id: hannover-messe-2027
+  title: Hannover Messe 2027
+  start: 2027-04-05
+  end: 2027-04-08
+  location: Hannover, DE
+  country: DE
+  region: DACH
+  url: https://www.hannovermesse.de/
+  categories:
+  - Digital Transformation
+  - AI
+  relevance: peripheral
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: World's leading industrial technology fair incl. AI and IT/OT tracks.
+  description_de: Weltleitmesse der Industrietechnik inkl. KI- und IT/OT-Themen.
+- id: dmea-2027
+  title: DMEA 2027 – Connecting Digital Health
+  start: 2027-04-13
+  end: 2027-04-15
+  location: München (Messe München), DE
+  country: DE
+  region: DACH
+  url: https://www.dmea.de/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Europe's leading digital health event, first edition in Munich.
+  description_de: Europas Leitveranstaltung für Digital Health, erstmals in München.
+- id: atlassian-team-27
+  title: Atlassian Team '27
+  start: 2027-04-20
+  end: 2027-04-22
+  location: San Francisco (Moscone Center), US
+  country: INT
+  region: International
+  url: https://www.atlassian.com/company/events
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Atlassian's global flagship conference.
+  description_de: Globale Atlassian-Leitkonferenz.
+- id: cybersecurity-summit-hamburg-2027
+  title: Cybersecurity Summit Hamburg 2027
+  start: 2027-04-21
+  end: 2027-04-22
+  location: Hamburg, DE
+  country: DE
+  region: DACH
+  url: https://startupcity.hamburg/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: German cybersecurity conference on cyber risk and governance.
+  description_de: Deutsche Cybersecurity-Konferenz zu Cyber-Risiken und Governance.
+- id: omr-festival-2027
+  title: OMR Festival 2027
+  start: 2027-05-03
+  end: 2027-05-05
+  location: Hamburg (Messe), DE
+  country: DE
+  region: DACH
+  url: https://omr.com/
+  categories:
+  - Digital Transformation
+  - AI
+  relevance: peripheral
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Digital marketing and tech festival, first time over three days.
+  description_de: Digital-Marketing- und Tech-Festival, erstmals an drei Tagen.
+- id: servicenow-knowledge-2027
+  title: ServiceNow Knowledge 2027
+  start: 2027-05-04
+  end: 2027-05-06
+  location: Las Vegas, US
+  country: INT
+  region: International
+  url: https://www.servicenow.com/events/knowledge.html
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: ServiceNow's global annual flagship conference.
+  description_de: Globale ServiceNow-Jahreskonferenz.
+- id: rise-of-ai-2027
+  title: Rise of AI Conference 2027
+  start: 2027-05-12
+  end: 2027-05-12
+  location: Berlin (Logenhaus), DE
+  country: DE
+  region: DACH
+  url: https://riseof.ai/
+  categories:
+  - AI
+  relevance: related
+  status: tentative
+  source: Websuche 04.11.2026
+  description_en: AI leadership conference; sources conflict (12 May vs 5–6 May).
+  description_de: KI-Leadership-Konferenz; Quellen widersprüchlich (12.05. vs. 05.–06.05.).
+- id: sits-2027
+  title: Service Desk & IT Support Show (SITS) 2027
+  start: 2027-05-19
+  end: 2027-05-20
+  location: London (ExCeL), UK
+  country: UK
+  region: Europe
+  url: https://www.servicedeskshow.com/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Europe's leading event for ITSM, service desk and IT support professionals.
+  description_de: Europas führendes Event für ITSM, Service Desk und IT-Support.
+- id: tech-show-frankfurt-2027
+  title: Tech Show Frankfurt 2027 (Cloud Expo Europe, Big Data & AI World, Data Centre World)
+  start: 2027-05-19
+  end: 2027-05-20
+  location: Frankfurt (Messe, Halle 3), DE
+  country: DE
+  region: DACH
+  url: https://www.techshowfrankfurt.de/
+  categories:
+  - Cloud
+  - AI
+  - Security
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Co-located shows on cloud, data & AI, data centres and cyber security.
+  description_de: Parallelmessen zu Cloud, Daten & KI, Rechenzentren und Cybersecurity.
+- id: infosecurity-europe-2027
+  title: Infosecurity Europe 2027
+  start: 2027-06-08
+  end: 2027-06-10
+  location: London (ExCeL), UK
+  country: UK
+  region: Europe
+  url: https://www.infosecurityeurope.com/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: One of Europe's largest cybersecurity events.
+  description_de: Eines der grössten Cybersecurity-Events Europas.
+- id: accelerate-tomorrow-ai-summit-2027
+  title: Accelerate Tomorrow AI Summit 2027
+  start: 2027-06-15
+  end: 2027-06-16
+  location: Berlin (Estrel), DE
+  country: DE
+  region: DACH
+  url: https://www.acceleratetomorrow.com/
+  categories:
+  - AI
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Summit on enterprise AI implementation.
+  description_de: Gipfel zur Umsetzung von KI im Unternehmen.
+- id: serviceware-forum-2027
+  title: Serviceware Forum 2027
+  start: 2027-06-22
+  end: 2027-06-23
+  location: Wiesbaden (RMCC), DE
+  country: DE
+  region: DACH
+  url: https://www.rmcc.de/en/veranstaltungen/serviceware-forum
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Serviceware user conference on ESM, knowledge management and AI in service management.
+  description_de: Serviceware-Anwenderkonferenz zu ESM, Wissensmanagement und KI im Service Management.
+- id: wearedevelopers-2027
+  title: WeAreDevelopers World Congress 2027
+  start: 2027-07-14
+  end: 2027-07-16
+  location: Berlin (Messe/CityCube), DE
+  country: DE
+  region: DACH
+  url: https://www.wearedevelopers.com/world-congress
+  categories:
+  - Developer
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Large developer and AI congress.
+  description_de: Grosser Entwickler- und KI-Kongress.
+- id: dmexco-2027
+  title: DMEXCO 2027
+  start: 2027-09-22
+  end: 2027-09-23
+  location: Köln (Koelnmesse), DE
+  country: DE
+  region: DACH
+  url: https://dmexco.com/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: tentative
+  source: Websuche 04.11.2026
+  description_en: Digital marketing & tech event (most-cited date, not officially confirmed).
+  description_de: Digital-Marketing- & Tech-Event (meistgenannter Termin, nicht offiziell bestätigt).
+- id: smart-country-convention-2027
+  title: Smart Country Convention (SCCON) 2027
+  start: 2027-10-05
+  end: 2027-10-07
+  location: Berlin (Messe Berlin), DE
+  country: DE
+  region: DACH
+  url: https://www.smart-country-convention.de/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: tentative
+  source: Websuche 04.11.2026
+  description_en: Public-sector digitalisation congress (date from aggregator, organiser says 'October 2027').
+  description_de: 'Kongress für Verwaltungsdigitalisierung (Datum aus Aggregator, Veranstalter: ''Oktober 2027'').'
+- id: it-sa-2027
+  title: it-sa Expo&Congress 2027
+  start: 2027-10-05
+  end: 2027-10-07
+  location: Nürnberg (Messezentrum), DE
+  country: DE
+  region: DACH
+  url: https://www.itsa365.de/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: Websuche 04.11.2026
+  description_en: Europe's leading IT security expo; conference on the first two days.
+  description_de: Europas führende IT-Security-Messe; Kongress an den ersten beiden Tagen.

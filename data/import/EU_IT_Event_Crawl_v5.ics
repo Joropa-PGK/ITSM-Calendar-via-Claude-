@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+PRODID:-//Logicc AI//Event Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:paan-event-1706223600
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260131
+SUMMARY:Digital Excellence Forum 2026
+URL:https://valantic.com
+DESCRIPTION:URL: https://valantic.com\n\nEN: High-level digital transformation forum with discussions on AI\, cloud resilience\, data sovereignty\, risk and enterprise digital strategies.\n\nDE: Hochkarätiges Forum zu digitaler Transformation mit Diskussionen über KI\, Cloud-Resilienz\, Datensouveränität\, Risiko und digitale Unternehmensstrategien.
+LOCATION:Berchtesgaden, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223601
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260131
+SUMMARY:Cloud Tech Tallinn 2026
+URL:https://www.communitydays.org/event/2026-01-29/cloud-tech-tallinn-2026
+DESCRIPTION:URL: https://www.communitydays.org/event/2026-01-29/cloud-tech-tallinn-2026\n\nEN: Conference for cloud engineers\, DevOps practitioners and IT professionals focusing on cloud\, AI and platform engineering.\n\nDE: Cloudkonferenz für Ingenieure\, DevOps-Teams und IT-Profis mit Fokus auf Cloud-\, KI- und Plattform-Engineering.
+LOCATION:Tallinn, EE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223602
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260202
+SUMMARY:FOSDEM 2026
+URL:https://fosdem.org/2026/about/
+DESCRIPTION:URL: https://fosdem.org/2026/about/\n\nEN: One of Europe’s largest open-source tech & software engineering conferences\, with sessions relevant to cloud\, DevOps\, infrastructure\, AI tooling and community projects.\n\nDE: Eine der größten Open-Source- und Software-Engineering-Konferenzen Europas mit Beiträgen zu Cloud\, DevOps\, Infrastruktur\, KI-Tooling und Community-Projekten.
+LOCATION:Brussels, BE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223603
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Cloud Unternehmertag
+URL:https://lp.scopevisio.com/cut2026
+DESCRIPTION:URL: https://lp.scopevisio.com/cut2026\n\nEN: "Cloud Entrepreneurs' Day\," focusing on AI and digitalization for businesses.\n\nDE: Cloud Unternehmertag mit Fokus auf KI und Digitalisierung für Unternehmen.
+LOCATION:Bonn, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223604
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:itSMF Fachforum
+URL:https://www.hisolutions.com/itsmf-2026-berlin
+DESCRIPTION:URL: https://www.hisolutions.com/itsmf-2026-berlin\n\nEN: A specialist forum by the IT Service Management Forum Germany for experts and users.\n\nDE: Ein Fachforum des itSMF Deutschland für Experten und Anwender.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223605
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260207
+SUMMARY:Integrated Systems Europe (ISE)
+URL:https://www.iseurope.org/
+DESCRIPTION:URL: https://www.iseurope.org/\n\nEN: Europe’s largest multi-tech expo with embedded AI/predictive analytics tracks\, infrastructure and cybersecurity content\, and smart system showcases.\n\nDE: Europas größte Multi-Tech-Messe mit eingebetteten KI/Analyse-Tracks\, Infrastruktur- und Cybersicherheits-Inhalten und Smart-System-Präsentationen.
+LOCATION:Barcelona, ES
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223606
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Cloud Native Days France
+URL:https://www.cloudnativedays.fr/
+DESCRIPTION:URL: https://www.cloudnativedays.fr/\n\nEN: Community event on Cloud Native technologies including Kubernetes\, SRE\, and DevOps\, with multiple technical tracks.\n\nDE: Community-Konferenz zu Cloud Native-Technologien einschließlich Kubernetes\, SRE und DevOps mit mehreren technischen Tracks.
+LOCATION:Paris, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223607
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Freshworks IT Service Desk Blueprint
+URL:https://www.freshworks.com/freshservice/resources/2026-service-desk-blueprint/
+DESCRIPTION:URL: https://www.freshworks.com/freshservice/resources/2026-service-desk-blueprint/\n\nEN: Vendor webinar exploring service desk strategy evolution in 2026\, AI-assisted delivery and roadmap approaches.\n\nDE: Vendor-Webinar zu neuen Service-Desk-Strategien 2026\, KI-gestützter Bereitstellung und praxisnahem Modernisierungsansatz.
+LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223608
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:IT-Defense
+URL:http://www.it-defense.de/en/it-defense-2026/conference
+DESCRIPTION:URL: http://www.it-defense.de/en/it-defense-2026/conference\n\nEN: Technical IT event focusing on core engineering\, security and operations topics with a strong practitioner focus.\n\nDE: Technische IT-Konferenz in Würzburg mit Fokus auf Kern-Engineering\, Sicherheit und IT-Betrieb ohne sponsorgetriebene Agenda – starker Praxisbezug.
+LOCATION:Würzburg, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223609
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260206
+SUMMARY:IT Partners
+URL:https://www.itpartners.fr/en-gb.html
+DESCRIPTION:URL: https://www.itpartners.fr/en-gb.html\n\nEN: Major French IT channel and technology expo where MSPs\, integrators\, product providers\, and IT service vendors meet.\n\nDE: Großer französischer IT-Channel- und Technologie-Expo\, bei dem MSPs\, Integratoren\, Produktanbieter und IT-Dienstleister zusammenkommen.
+LOCATION:Paris, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223610
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260206
+SUMMARY:TechEx Global
+URL:https://techexevent.com/europe/
+DESCRIPTION:URL: https://techexevent.com/europe/\n\nEN: High-level enterprise IT and digital innovation summit focusing on AI\, IoT\, data infrastructure and digital transformation.\n\nDE: Strategiegipfel für Unternehmens-IT und digitale Innovation mit Fokus auf KI\, IoT\, Dateninfrastruktur und digitale Transformation.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223611
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260212
+SUMMARY:ETSI AI & Data Conference
+URL:https://www.etsi.org/events/2591-etsi-ai-data-conference-2026
+DESCRIPTION:URL: https://www.etsi.org/events/2591-etsi-ai-data-conference-2026\n\nEN: European event on AI governance\, data standards and interoperable frameworks.\n\nDE: Europäische Konferenz zu KI-Governance\, Datenstandards und interoperablen Rahmenwerken.
+LOCATION:Sophia Antipolis, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223612
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Atlassian ACE Community Meetup
+URL:https://ace.atlassian.com/bremen/
+DESCRIPTION:URL: https://ace.atlassian.com/bremen/\n\nEN: Local Atlassian community event focused on cloud transformation topics and interactive sessions with partners and practitioners.\n\nDE: Lokales Atlassian-Community-Meetup zu Cloud-Transformationsthemen und interaktiven Sessions mit Partnern und Anwendern.
+LOCATION:Bremen, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223613
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260213
+SUMMARY:ContainerDays London
+URL:https://www.containerdays.io/
+DESCRIPTION:URL: https://www.containerdays.io/\n\nEN: Cloud Native and platform engineering conference with DevOps\, observability and AI/ML tooling sessions.\n\nDE: Cloud-Native- und Plattform-Engineering-Konferenz mit DevOps\, Observability und KI/ML-Tooling-Sessions.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223614
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260219
+SUMMARY:Swiss Cyber Security Days
+URL:https://swisscybersecuritydays.ch/en/
+DESCRIPTION:URL: https://swisscybersecuritydays.ch/en/\n\nEN: A key event in Switzerland for cybersecurity knowledge exchange.\n\nDE: Ein zentraler Event in der Schweiz für den Wissensaustausch im Bereich Cybersicherheit.
+LOCATION:Bern, CH
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223615
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Atlassian Team on Tour: Frankfurt
+URL:https://events.atlassian.com/connect-highvelocity-frankfurt
+DESCRIPTION:URL: https://events.atlassian.com/connect-highvelocity-frankfurt\n\nEN: Atlassian service management event focusing on teamwork\, ITSM practices and the latest platform innovations — targeted at local community + partners.\n\nDE: Atlassian Service Management-Event mit Fokus auf Teamwork\, ITSM-Praxis und Plattform-Innovation – ausgerichtet auf lokale Community und Partner.
+LOCATION:Frankfurt, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223616
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260227
+SUMMARY:CCW (Call Center World)
+URL:https://www.ccw.eu/en/
+DESCRIPTION:URL: https://www.ccw.eu/en/\n\nEN: Customer experience and contact center expo with service delivery optimization\, AI-assisted CX\, analytics and support management insights.\n\nDE: Messe für Customer Experience und Contact Center mit Fokus auf Servicedelivery-Optimierung\, KI-gestütztem CX\, Analytik und Support-Management.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223617
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:ServiceNow – Put AI to Work for IT
+URL:https://rsvp.servicenow.com/putaitoworkforitmunich2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/putaitoworkforitmunich2026\n\nEN: In-person hands-on workshop exploring ServiceNow’s AI platform capabilities to streamline IT processes.\n\nDE: Präsenz-Hands-on-Workshop zur Erkundung der KI-Plattform von ServiceNow\, um IT-Prozesse zu optimieren und „Autonomous IT“ praktisch kennenzulernen.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223618
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260306
+SUMMARY:Cloud & AI Infrastructure London
+URL:https://www.techshowlondon.co.uk/cloud-ai-infrastructure
+DESCRIPTION:URL: https://www.techshowlondon.co.uk/cloud-ai-infrastructure\n\nEN: A two-day expo and conference covering cloud architecture\, managed services\, AI infrastructure and enterprise deployments.\n\nDE: Zweitägige Messe und Konferenz über Cloud-Architektur\, Managed Services\, KI-Infrastruktur und Unternehmensimplementierungen.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223619
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Freshworks – Cutting Complexity AI
+URL:https://www.freshworks.com/events/ai-workplace-trends/
+DESCRIPTION:URL: https://www.freshworks.com/events/ai-workplace-trends/\n\nEN: Interactive event with product deep dives\, hands-on AI workshops and discussions on workflow scaling.\n\nDE: Interaktive Veranstaltung mit Produkt-Deep-Dives\, praxisnahen KI-Workshops und Diskussionen zur Skalierung von Workflows.
+LOCATION:Utrecht, NL
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223620
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Atlassian Connect: Cloud Bound Munich
+URL:https://events.atlassian.com/connect-cloudbound-munich
+DESCRIPTION:URL: https://events.atlassian.com/connect-cloudbound-munich\n\nEN: Regional Atlassian event helping teams simplify cloud migrations and optimize collaboration workflows.\n\nDE: Regionale Atlassian Veranstaltung zur Vereinfachung von Cloud-Migrationen und Optimierung kollaborativer Workflows mit Demos und Partner-Einblicken.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223621
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:ITSX Summit – Edinburgh
+URL:https://www.itsxsummit.com/events
+DESCRIPTION:URL: https://www.itsxsummit.com/events\n\nEN: Focused service desk & IT support summit exploring AI\, automation\, analytics\, service delivery and workflow optimization.\n\nDE: Konferenz zu Service Desk und IT-Support mit Fokus auf KI\, Automatisierung\, Analytik und Workflow-Optimierung.
+LOCATION:Edinburgh, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223622
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260314
+SUMMARY:Software Architecture Summit
+URL:https://software-architecture-summit.de/muenchen/
+DESCRIPTION:URL: https://software-architecture-summit.de/muenchen/\n\nEN: Multi-day training event for software architects and senior developers.\n\nDE: Mehrtägiges Trainingsevent für Softwarearchitekten und Entwickler.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223623
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260312
+SUMMARY:Rail Cybersecurity Summit
+URL:https://cybersenate.com/event/rail-cybersecurity-summit-2026/
+DESCRIPTION:URL: https://cybersenate.com/event/rail-cybersecurity-summit-2026/\n\nEN: A conference for operators and suppliers in the UK railway sector.\n\nDE: Eine Konferenz für Betreiber und Zulieferer im britischen Eisenbahnsektor.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223624
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:ServiceNow Executive Dinner – Vienna
+URL:https://rsvp.servicenow.com/executivecirclevienna2026
+DESCRIPTION:URL: https://rsvp.servicenow.com/executivecirclevienna2026\n\nEN: Exclusive executive dinner event for senior leaders to exchange ideas about AI\, strategy and future workflows.\n\nDE: Exklusives Dinner-Event für Führungskräfte zum Austausch über KI\, Strategie und zukünftige Workflows auf der ServiceNow Plattform.
+LOCATION:Vienna, AT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223625
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260313
+SUMMARY:JavaLand 2026
+URL:https://www.javaland.eu/en/home/
+DESCRIPTION:URL: https://www.javaland.eu/en/home/\n\nEN: Developer and software engineering event with robust cloud\, AI and platform streams across practical workshops.\n\nDE: Entwickler- und Software-Engineering-Event mit starken Fokus-Streams zu Cloud\, KI und Plattform-Workshops.
+LOCATION:Rust, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223626
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:DIGITAL X Wien
+URL:https://www.digital-x.com/en/events/2026/regional-events/vienna
+DESCRIPTION:URL: https://www.digital-x.com/en/events/2026/regional-events/vienna\n\nEN: A major digitalization event for SMEs\, organized by Telekom.\n\nDE: Ein großes Digitalisierungs-Event für den Mittelstand\, organisiert von der Telekom.
+LOCATION:Vienna, AT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223627
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:DecompileD 2026
+URL:https://decompiled.de/
+DESCRIPTION:URL: https://decompiled.de/\n\nEN: Community-driven tech conference with talks and hands-on sessions on modern cloud and AI development practices.\n\nDE: Community-Tech-Konferenz mit Vorträgen und praxisnahen Sessions zu modernen Cloud- und KI-Entwicklungsmethoden.
+LOCATION:Dresden, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223628
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:AzureDay Poland
+URL:https://azureday.pl/?lang=en
+DESCRIPTION:URL: https://azureday.pl/?lang=en\n\nEN: Community cloud event focused on Microsoft Azure trends and practical sessions.\n\nDE: Community-Cloud-Event zu Microsoft Azure-Trends und Praxis-Sessions.
+LOCATION:Warsaw, PL
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223629
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260318
+SUMMARY:AI Infrastructure Summit Europe
+URL:https://ai-infra-summit.com/
+DESCRIPTION:URL: https://ai-infra-summit.com/\n\nEN: Conference dedicated to scalable AI platform and data infrastructure strategies for enterprise AI adoption.\n\nDE: Konferenz über skalierbare KI-Plattform- und Dateninfrastrukturen für den Unternehmenseinsatz von KI.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223630
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260322
+SUMMARY:Global Summit on Smart Systems
+URL:https://www.industryevents.com/events/global-summit-on-smart-systems-big-data-iot-cybersecurity-and-it-in-action
+DESCRIPTION:URL: https://www.industryevents.com/events/global-summit-on-smart-systems-big-data-iot-cybersecurity-and-it-in-action\n\nEN: Broad IT systems event covering AI\, IoT\, Big Data\, cybersecurity\, cloud & digital transformation.\n\nDE: IT-Systeme-Konferenz zu KI\, IoT\, Big Data\, Cybersicherheit\, Cloud-Technologien und digitaler Transformation.
+LOCATION:Barcelona, ES
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223631
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+SUMMARY:CloudFest
+URL:https://www.cloudfest.com/
+DESCRIPTION:URL: https://www.cloudfest.com/\n\nEN: The world's #1 internet infrastructure event for the cloud computing industry.\n\nDE: Die weltweit führende Veranstaltung für die Cloud-Computing-Branche.
+LOCATION:Rust, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223632
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260327
+SUMMARY:KubeCon + CloudNativeCon EU
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/
+DESCRIPTION:URL: https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/\n\nEN: The flagship conference for cloud-native and open-source developers.\n\nDE: Die Leitkonferenz für Cloud-Native- und Open-Source-Entwickler.
+LOCATION:Amsterdam, NL
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223633
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260327
+SUMMARY:SAP Max Summit
+URL:https://community.sap.com/t5/sap-maxattention-events/eb-p/maxattentionoccasion-board
+DESCRIPTION:URL: https://community.sap.com/t5/sap-maxattention-events/eb-p/maxattentionoccasion-board\n\nEN: An exclusive in-person event for the SAP MaxAttention community.\n\nDE: Ein exklusives Präsenz-Event für die SAP MaxAttention Community.
+LOCATION:Heidelberg, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223634
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260326
+SUMMARY:Richmond IT Forum
+URL:https://www.richmondevents.com/Find-A-Forum.aspx?country=Switzerland
+DESCRIPTION:URL: https://www.richmondevents.com/Find-A-Forum.aspx?country=Switzerland\n\nEN: Swiss IT forum for CIOs and senior IT leaders covering innovation\, strategy & networking.\n\nDE: Schweizer IT-Forum für CIOs und Senior IT-Leader mit Fokus auf Innovation\, Strategie & Networking.
+LOCATION:Interlaken, CH
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223635
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260327
+SUMMARY:ServiceNow CRM Jam Munich
+URL:https://rsvp.servicenow.com/industryjammuc
+DESCRIPTION:URL: https://rsvp.servicenow.com/industryjammuc\n\nEN: A two-day co-innovation workshop to co-create AI-powered CRM prototypes and learn hands-on how to apply AI in workflows.\n\nDE: Zwei-tägiger Co-Innovation-Workshop mit ServiceNow-Experten in München zur gemeinsamen Entwicklung von KI-gestützten CRM-Prototypen und praxisnaher Anwendung von KI-Workflows.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223636
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260416
+SUMMARY:Spring I/O
+URL:https://2026.springio.net/
+DESCRIPTION:URL: https://2026.springio.net/\n\nEN: A developer-first event for teams building backend systems with Java and the Spring ecosystem.\n\nDE: Ein entwicklerorientiertes Event für Teams\, die Backend-Systeme mit Java und Spring erstellen.
+LOCATION:Barcelona, ES
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223637
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:Service Space 2026
+URL:https://www.servicespace.at/
+DESCRIPTION:URL: https://www.servicespace.at/\n\nEN: Austria's leading independent IT Service Management conference.\n\nDE: Österreichs größte unabhängige IT Service Management Konferenz.
+LOCATION:Vienna, AT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223638
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260423
+SUMMARY:3rd Intl Summit on Robotics, AI & ML
+URL:https://aiml.events/events/israi2026
+DESCRIPTION:URL: https://aiml.events/events/israi2026\n\nEN: Scientific summit connecting AI\, robotics\, and ML research with practical enterprise innovation.\n\nDE: Wissenschaftlicher Gipfel zu Robotik\, KI und maschinellem Lernen mit Fokus auf Unternehmensinnovation.
+LOCATION:Frankfurt, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223639
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260425
+SUMMARY:Hannover Messe
+URL:https://www.hannovermesse.de/en/
+DESCRIPTION:URL: https://www.hannovermesse.de/en/\n\nEN: One of the world's largest trade fairs for industrial technology and Industrie 4.0.\n\nDE: Eine der weltweit größten Messen für Industrietechnologie und Industrie 4.0.
+LOCATION:Hannover, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223640
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:European AI & Cloud Summit
+URL:https://cloudsummit.eu/
+DESCRIPTION:URL: https://cloudsummit.eu/\n\nEN: Major European AI & cloud computing event with >100 sessions on AI strategy\, Azure\, cloud security\, and enterprise adoption.\n\nDE: Großes europäisches Event zu KI und Cloud mit über 100 Sessions zu KI-Strategie\, Azure\, Cloud-Security\, Governance\, Architektur und Unternehmens-Adoption.
+LOCATION:Cologne, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223641
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:European Collaboration Summit
+URL:https://collabsummit.eu/
+DESCRIPTION:URL: https://collabsummit.eu/\n\nEN: Co-located event with European AI & Cloud Summit\, focused on Microsoft 365\, AI\, Copilot and modern work.\n\nDE: Parallel stattfindendes Event mit Fokus auf Microsoft 365\, KI\, Copilot und moderne Arbeitsweisen.
+LOCATION:Cologne, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223642
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260508
+SUMMARY:Learntec 2026
+URL:https://www.learntec.de/en/
+DESCRIPTION:URL: https://www.learntec.de/en/\n\nEN: Professional learning & digital workplace expo covering cloud\, AI training\, digital skills and enterprise solutions.\n\nDE: Messe für berufliche Weiterbildung & digitale Arbeitswelt\, einschließlich Cloud- und KI-Training\, digitalen Skills und Unternehmenslösungen.
+LOCATION:Karlsruhe, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223643
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:CloudConf 2026
+URL:https://2026.cloudconf.it/
+DESCRIPTION:URL: https://2026.cloudconf.it/\n\nEN: High-level European cloud computing conference with expert talks and networking.\n\nDE: Hochwertige europäische Cloud-Computing-Konferenz mit Expert:innen-Vorträgen und Networking.
+LOCATION:Italy (TBA)
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223644
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:MSP Konferenz – Mainz
+URL:https://fokus-msp.de
+DESCRIPTION:URL: https://fokus-msp.de\n\nEN: National DACH MSP conference integrating system house strategies\, market insights and vendor showcases.\n\nDE: Nationale DACH MSP-Konferenz mit Strategien für Systemhäuser\, Markteinblicken und Anbieter-Showcases.
+LOCATION:Mainz, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223645
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260508
+SUMMARY:Cloud & AI Infrastructure Frankfurt
+URL:https://techshowfrankfurt.de
+DESCRIPTION:URL: https://techshowfrankfurt.de\n\nEN: Focused trade show on cloud infrastructure\, AI deployment in scale environments\, FinOps\, DevOps and critical infrastructure design.\n\nDE: Fachmesse zu Cloud-Infrastruktur\, AI-Implementierung in großem Maßstab\, FinOps\, DevOps und kritischer Infrastrukturplanung.
+LOCATION:Frankfurt, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223646
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260515
+SUMMARY:Service Desk & IT Support Show (SITS)
+URL:https://www.servicedeskshow.com/
+DESCRIPTION:URL: https://www.servicedeskshow.com/\n\nEN: Europe's leading event for ITSM\, service desk\, and IT support professionals.\n\nDE: Europas führendes Event für ITSM\, Service Desk und IT-Support-Profis.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260522
+SUMMARY:SERVIEW26 – Congress & Expo
+URL:https://en.serview-summit.com/
+DESCRIPTION:URL: https://en.serview-summit.com/\n\nEN: Europe’s #1 ITSM & ESM congress and trade fair with keynotes\, masterclasses\, expo & networking.\n\nDE: Europas größter ITSM- & ESM-Kongress mit Expo\, Keynotes\, Masterclasses und Networking.
+LOCATION:Seeheim-Jugenheim, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223648
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260521
+SUMMARY:AI WEEK Milan
+URL:https://www.aiweek.it/
+DESCRIPTION:URL: https://www.aiweek.it/\n\nEN: Milan’s flagship AI event covering business\, innovation\, ethics and generative AI.\n\nDE: Mailänder KI-Konferenz über Geschäftsinnovation\, Ethik und generative KI.
+LOCATION:Milan, IT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223649
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260522
+SUMMARY:Cybersecurity Summit Hamburg
+URL:https://startupcity.hamburg/news-events/events/cybersecurity-summit-2026
+DESCRIPTION:URL: https://startupcity.hamburg/news-events/events/cybersecurity-summit-2026\n\nEN: German IT security conference with focuses on cyber risk\, governance\, secure cloud infrastructure and growth management.\n\nDE: Deutsche IT-Security-Konferenz mit Fokus auf Cyber-Risiken\, Governance\, sichere Cloud-Infrastruktur und Wachstumsstrategien.
+LOCATION:Hamburg, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223650
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260605
+SUMMARY:Infosecurity Europe
+URL:https://www.infosecurityeurope.com/en-gb.html
+DESCRIPTION:URL: https://www.infosecurityeurope.com/en-gb.html\n\nEN: One of Europe's largest and most well-attended cybersecurity events.\n\nDE: Eines der größten und bestbesuchten Cybersicherheits-Events in Europa.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223651
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:London Tech Week
+URL:https://londontechweek.com/
+DESCRIPTION:URL: https://londontechweek.com/\n\nEN: Pan-European tech festival spanning multiple topics including cloud\, cybersecurity\, AI adoption\, MSP ecosystems and digital transformation.\n\nDE: Pan-europäisches Technologie-Festival mit Themen wie Cloud\, Cybersicherheit\, KI-Adoption\, MSP-Ökosystemen und digitaler Transformation.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223652
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260610
+SUMMARY:Zukunftskongress 2026
+URL:https://zukunftskongress.2bahead.com/
+DESCRIPTION:URL: https://zukunftskongress.2bahead.com/\n\nEN: Multidisciplinary future IT conference with tracks on innovation\, cloud\, AI adoption\, change leadership and modern service ecosystems.\n\nDE: Zukunfts-IT-Kongress mit Sessions zu Innovation\, Cloud-Strategien\, KI-Adoption\, Change Leadership und modernen Service-Ökosystemen.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223653
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Nextcloud Summit 2026
+URL:https://nextcloud.com/summit-2026/
+DESCRIPTION:URL: https://nextcloud.com/summit-2026/\n\nEN: Open-source and enterprise collaboration tech event with cloud-integration\, AI-assisted services and digital workplace discussions.\n\nDE: Open-Source- und Enterprise-Collaboration-Event mit Cloud-Integration\, KI-unterstützten Diensten und Diskussionen zur digitalen Arbeitswelt.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223654
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260618
+SUMMARY:ITIL 4 Foundation Training
+URL:https://www.theknowledgeacademy.com/ch/courses/itil-training/itil-foundation/zurich/
+DESCRIPTION:URL: https://www.theknowledgeacademy.com/ch/courses/itil-training/itil-foundation/zurich/\n\nEN: Multi-day training and certification course for the ITIL 4 Foundation level.\n\nDE: Mehrtägiger Trainings- und Zertifizierungskurs für das ITIL 4 Foundation Level.
+LOCATION:Zurich, CH
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223655
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260621
+SUMMARY:VivaTech
+URL:https://vivatech.com/
+DESCRIPTION:URL: https://vivatech.com/\n\nEN: One of Europe’s biggest tech events for startups\, corporates\, and investors.\n\nDE: Eines der größten Tech-Events Europas für Start-ups\, Unternehmen und Investoren.
+LOCATION:Paris, FR
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223656
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260627
+SUMMARY:MLcon Europe 2026 – Munich/Online
+URL:https://mlconference.ai/munich/
+DESCRIPTION:URL: https://mlconference.ai/munich/\n\nEN: Europe’s key ML/AI engineering conference focusing on MLOps\, generative AI engineering and data infrastructure.\n\nDE: Europas führende ML-/KI-Engineering-Konferenz mit Fokus auf MLOps\, generative KI-Entwicklung und Dateninfrastruktur.
+LOCATION:Munich, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223657
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:IT Service Management Summit DACH
+URL:https://www.it-service-management-summit.com/
+DESCRIPTION:URL: https://www.it-service-management-summit.com/\n\nEN: Comprehensive ITSM summit for DACH IT leaders exploring service delivery\, operations and digital transformation.\n\nDE: Umfassender ITSM-Gipfel für DACH-IT-Verantwortliche mit Fokus auf Service Delivery\, Operations und digitale Transformation.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223658
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:MSP Managed Services Summit Benelux
+URL:https://www.managedservices-summit.com/benelux
+DESCRIPTION:URL: https://www.managedservices-summit.com/benelux\n\nEN: Executive-level event on managed services trends\, MSP business strategies and digital transformation.\n\nDE: Executive-Konferenz zu Managed Services\, MSP-Geschäftsstrategien und digitaler Transformation.
+LOCATION:Amsterdam, NL
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223659
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260711
+SUMMARY:WeAreDevelopers World Congress 2026
+URL:https://www.wearedevelopers.com/world-congress/
+DESCRIPTION:URL: https://www.wearedevelopers.com/world-congress/\n\nEN: Broad European developer and AI innovation congress with tracks in cloud computing\, software engineering\, and modern infrastructure.\n\nDE: Europäischer Entwickler- und KI-Innovationskongress mit Tracks zu Cloud-Computing\, Software-Engineering und moderner Infrastruktur.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223660
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260817
+SUMMARY:FrOSCon
+URL:https://www.froscon.org/en/
+DESCRIPTION:URL: https://www.froscon.org/en/\n\nEN: A major conference for Free and Open Source Software with talks and workshops.\n\nDE: Eine große Konferenz für Freie Software und Open Source mit Vorträgen und Workshops.
+LOCATION:Sankt Augustin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223661
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260831
+SUMMARY:gamescom
+URL:https://www.gamescom.global/
+DESCRIPTION:URL: https://www.gamescom.global/\n\nEN: Europe's largest gaming week\, including a major B2B trade and developer section.\n\nDE: Europas größte Gaming-Woche\, inklusive eines großen B2B-Fach- und Entwicklerbereichs.
+LOCATION:Cologne, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223662
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Managed Services Summit – London
+URL:https://www.managedservices-summit.com/london
+DESCRIPTION:URL: https://www.managedservices-summit.com/london\n\nEN: Premier managed services industry event for MSPs in the UK\, covering cloud\, security and service innovation.\n\nDE: Führende Managed-Services-Branchenveranstaltung für MSPs im UK mit Themenschwerpunkten Cloud\, Sicherheit und Serviceninnovation.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223663
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260915
+SUMMARY:IBC (Intl. Broadcasting Convention)
+URL:https://show.ibc.org/
+DESCRIPTION:URL: https://show.ibc.org/\n\nEN: A highly commercial event for media technology\, streaming platforms\, and broadcast engineers.\n\nDE: Ein kommerzielles Event für Medientechnik\, Streaming-Plattformen und Broadcast-Ingenieure.
+LOCATION:Amsterdam, NL
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223664
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+SUMMARY:ChannelPartner Kongress
+URL:https://www.channelpartner.de/channelpartner-events/
+DESCRIPTION:URL: https://www.channelpartner.de/channelpartner-events/\n\nEN: The central community event for IT service providers\, MSPs\, and the IT channel.\n\nDE: Der zentrale Community-Event für IT-Dienstleister\, MSPs und den IT-Channel.
+LOCATION:Frankfurt, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223665
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+SUMMARY:IET Cyber Security Conference
+URL:https://cyberconference.theiet.org/
+DESCRIPTION:URL: https://cyberconference.theiet.org/\n\nEN: A technical conference from the Institution of Engineering and Technology.\n\nDE: Eine technische Konferenz der Institution of Engineering and Technology.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223666
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:DMEXCO
+URL:https://dmexco.com/
+DESCRIPTION:URL: https://dmexco.com/\n\nEN: Europe's leading digital marketing & tech event.\n\nDE: Europas führendes Event für digitales Marketing & Technologie.
+LOCATION:Cologne, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223667
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261001
+SUMMARY:Cloud Native Days Austria
+URL:https://cloudnativedays.at/
+DESCRIPTION:URL: https://cloudnativedays.at/\n\nEN: The key gathering for the Cloud Native community in Austria.\n\nDE: Das zentrale Treffen der Cloud-Native-Community in Österreich.
+LOCATION:Vienna, AT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223668
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261002
+SUMMARY:Swiss IT Forum(s)
+URL:https://www.swiss-it-forums.tech/en/
+DESCRIPTION:URL: https://www.swiss-it-forums.tech/en/\n\nEN: Event with exhibits and forums on enterprise software\, cybersecurity\, data\, and cloud.\n\nDE: Veranstaltung mit Ausstellungen und Foren zu Unternehmenssoftware\, Cybersecurity\, Daten und Cloud.
+LOCATION:Geneva, CH
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223669
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:AFSMI Service Branch Gathering
+URL:https://afsmi.de
+DESCRIPTION:URL: https://afsmi.de\n\nEN: Industry meetup in Stuttgart with talks and interactive sessions on service management practices.\n\nDE: Branchentreffen des AFSMI in Stuttgart mit Impulsvorträgen und interaktivem Austausch zu Service Management Themen.
+LOCATION:Stuttgart, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223670
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Cyber Security EXPO
+URL:https://www.cybersecurityexpo.co.uk/london
+DESCRIPTION:URL: https://www.cybersecurityexpo.co.uk/london\n\nEN: An expo for cybersecurity professionals to connect and discover new solutions.\n\nDE: Eine Messe für Cybersicherheits-Profis zum Netzwerken und Entdecken neuer Lösungen.
+LOCATION:London, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223671
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+SUMMARY:it-sa 2026
+URL:https://www.itsa.de/en
+DESCRIPTION:URL: https://www.itsa.de/en\n\nEN: Europe's leading IT security expo and congress.\n\nDE: Europas führende IT-Sicherheitsmesse und Kongress.
+LOCATION:Nürnberg, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223672
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Web Summit
+URL:https://websummit.com/
+DESCRIPTION:URL: https://websummit.com/\n\nEN: One of the largest and most prominent technology conferences in the world.\n\nDE: Eine der größten und bekanntesten Technologiekonferenzen der Welt.
+LOCATION:Lisbon, PT
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223673
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:ITSM26
+URL:https://www.itsmf.co.uk/itsm26/
+DESCRIPTION:URL: https://www.itsmf.co.uk/itsm26/\n\nEN: The official annual conference and awards event for itSMF UK.\n\nDE: Die offizielle Jahreskonferenz mit Preisverleihung von itSMF UK.
+LOCATION:Milton Keynes, UK
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223674
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:Slush
+URL:https://slush.org/
+DESCRIPTION:URL: https://slush.org/\n\nEN: A major tech event focused on startups\, founders\, and venture capital.\n\nDE: Ein großes Tech-Event mit Fokus auf Start-ups\, Gründer und Risikokapital.
+LOCATION:Helsinki, FI
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223675
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+SUMMARY:AFSMI Strategiegipfel B2B Service
+URL:https://www.project-networks.com/en/events/strategy-summit-b2b-service-management/
+DESCRIPTION:URL: https://www.project-networks.com/en/events/strategy-summit-b2b-service-management/\n\nEN: B2B service management strategy summit with online access.\n\nDE: Strategiegipfel B2B Service Management mit Diskussionen zu Service Management Strategien; Online-Teilnahme möglich.
+LOCATION:Berlin, DE / Zoom
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223656-1
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260701
+SUMMARY:IT Infrastructure & Operations Summit Berlin
+URL:https://www.it-infrastructure-operations-summit.com/
+DESCRIPTION:URL: https://www.it-infrastructure-operations-summit.com/\n\nEN: Summit for IT infrastructure\, multi-cloud strategies\, operations optimization & modern platforms.\n\nDE: Gipfeltreffen zu IT-Infrastruktur\, Multi-Cloud-Strategien\, Betriebsoptimierung & modernen Plattformen.
+LOCATION:Berlin, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223647-1
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:SERVIEW26 Pre-Congress Warm-Up
+URL:https://en.serview-summit.com/programm
+DESCRIPTION:URL: https://en.serview-summit.com/programm\n\nEN: Networking and introductory sessions the day before SERVIEW26.\n\nDE: Networking und Einführungs-Sessions am Vortag von SERVIEW26.
+LOCATION:Seeheim-Jugenheim, DE
+END:VEVENT
+BEGIN:VEVENT
+UID:paan-event-1706223658-1
+DTSTAMP:20260205T210000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Salesforce World Tour London
+URL:https://www.salesforce.com/uk/events/
+DESCRIPTION:URL: https://www.salesforce.com/uk/events/\n\nEN: Salesforce's major event in London\, showcasing the latest product innovations.\n\nDE: Salesforce's großes Event in London\, das die neuesten Produktinnovationen vorstellt.
+LOCATION:London, UK
+END:VEVENT
+END:VCALENDAR
