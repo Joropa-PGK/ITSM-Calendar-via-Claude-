@@ -9,6 +9,7 @@ Kuratierter, automatisch aktualisierter Kalender für **ITSM/ESM-, KI-, Cloud-, 
 | ICS-Feed, nur ITSM/ESM | `docs/events-itsm.ics` |
 | ICS-Feed, nur DACH | `docs/events-dach.ics` |
 | Tabellarische Übersicht | `EVENTS.md` |
+| Excel-Liste (Events, Beobachtungsliste, Kennzahlen) | `docs/events.xlsx` |
 | Datenbasis (Single Source of Truth) | `data/events.yaml` |
 | Events ohne bestätigten Termin | `data/watchlist.yaml` |
 | Crawler-Quellen | `data/sources.yaml` |

@@ -6,6 +6,7 @@ Outputs (docs/ is served via GitHub Pages):
   docs/events-dach.ics   region == DACH
   docs/events.json       data for the calendar website
   docs/watchlist.json    announced-but-undated events
+  docs/events.xlsx       Excel export (all events + watchlist)
 """
 from __future__ import annotations
 
@@ -14,6 +15,7 @@ import json
 
 import yaml
 
+from export_xlsx import write_xlsx
 from common import DATA, DOCS, as_date, categorise, load_events, region_for, relevance_for, to_ics, uid_for
 
 REQUIRED = ("id", "title", "start", "url")
@@ -94,6 +96,7 @@ def main() -> None:
     write_markdown(events)
     watch = yaml.safe_load((DATA / "watchlist.yaml").read_text(encoding="utf-8")) or []
     (DOCS / "watchlist.json").write_text(json.dumps(watch, ensure_ascii=False, indent=1), encoding="utf-8")
+    write_xlsx(events, watch, DOCS / "events.xlsx", stamp)
     print(f"events.json: {len(payload)} | watchlist.json: {len(watch)}")
 
 
