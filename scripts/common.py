@@ -163,3 +163,30 @@ def to_ics(events: list[dict], name: str, stamp: dt.datetime) -> str:
 def content_hash(ev: dict) -> str:
     key = f"{ev['title']}|{ev['start']}|{ev.get('end')}|{ev.get('location')}|{ev['url']}"
     return hashlib.sha1(key.encode()).hexdigest()[:10]
+
+
+# --------------------------------------------------------------------------- format
+
+FORMAT_RULES: list[tuple[str, list[str]]] = [
+    ("webinar", ["webinar", "online-session", "virtual event", "livestream"]),
+    ("workshop", ["workshop", "hands-on", "jam ", "bootcamp", "hackathon"]),
+    ("training", ["training", "schulung", "seminar", "zertifizierung", "certification", "foundation"]),
+    ("meetup", ["meetup", "user group", "usergroup", "snug", "community day", "stammtisch", "community-"]),
+    ("tradefair", ["messe", "expo", "trade fair", "trade show", "fachmesse", " show", "it-sa", "cloudfest",
+                   "hannover messe", "dmexco", "gamescom", "learntec", "ccw", "omr"]),
+    ("forum", ["forum", "roundtable", "dinner", "gathering", "branchentreff", "anwendertreffen", "circle"]),
+    ("conference", ["konferenz", "conference", "kongress", "congress", "summit", "gipfel", "tage", "days",
+                    "convention", "festival", "world", "week", "con "]),
+]
+
+
+def infer_format(title: str, description: str = "") -> str:
+    t = f" {title.lower()} "
+    for fmt, kws in FORMAT_RULES:
+        if any(k in t for k in kws):
+            return fmt
+    d = f" {description.lower()} "
+    for fmt, kws in FORMAT_RULES:
+        if fmt in ("webinar", "tradefair", "meetup") and any(k in d for k in kws):
+            return fmt
+    return "conference"

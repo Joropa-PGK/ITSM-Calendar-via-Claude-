@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:paan-event-1706223604
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 SUMMARY:itSMF Fachforum
@@ -25,7 +25,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223607
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:Freshworks IT Service Desk Blueprint
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223615
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Atlassian Team on Tour: Frankfurt
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223617
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:ServiceNow – Put AI to Work for IT
@@ -80,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223621
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:ITSX Summit – Edinburgh
@@ -97,7 +97,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223624
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:ServiceNow Executive Dinner – Vienna
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223635
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260327
 SUMMARY:ServiceNow CRM Jam Munich
@@ -133,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223637
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Service Space 2026
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223646
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260515
 SUMMARY:Service Desk & IT Support Show (SITS)
@@ -165,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223647-1
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:SERVIEW26 Pre-Congress Warm-Up
@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223647
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260522
 SUMMARY:SERVIEW26 – Congress & Expo
@@ -197,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223657
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260701
 SUMMARY:IT Service Management Summit DACH
@@ -215,7 +215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223669
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:AFSMI Service Branch Gathering
@@ -232,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:atlassian-team-26-europe@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261009
 SUMMARY:Atlassian Team '26 Europe
@@ -247,8 +247,24 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:servicenow-ai-summit-muenchen-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:ServiceNow AI Summit München
+URL:https://www.servicenow.com/events/ai-summits.html
+DESCRIPTION:URL: https://www.servicenow.com/events/ai-summits.html\n\nEN: S
+ erviceNow regional AI summit for customers and partners.\n\nDE: Regionaler
+  ServiceNow AI Summit für Kunden und Partner.\n\nKategorie/Category: ITSM
+ \, AI | Region: DACH
+LOCATION:München (Motorworld)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:smfs-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Service Management Forum Schweiz (SMFS) 2026
@@ -266,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manageengine-userconf-ch-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:ManageEngine UserConf Schweiz 2026
@@ -282,24 +298,40 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:servicenow-world-forum-frankfurt-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-SUMMARY:ServiceNow World Forum Frankfurt [TBC]
-URL:https://www.servicenow.com/events/world-forum.html
-DESCRIPTION:URL: https://www.servicenow.com/events/world-forum.html\n\nSTAT
- US: Termin noch nicht final bestätigt / date not yet confirmed\n\nEN: Ser
- viceNow regional flagship event (date from third-party guide\, please veri
- fy).\n\nDE: Regionales ServiceNow-Flaggschiff-Event (Datum aus Drittquelle
- \, bitte verifizieren).\n\nKategorie/Category: ITSM\, AI | Region: DACH
-LOCATION:Frankfurt am Main\, DE
+SUMMARY:ServiceNow AI Summit Frankfurt
+URL:https://www.servicenow.com/events/ai-summits.html
+DESCRIPTION:URL: https://www.servicenow.com/events/ai-summits.html\n\nEN: S
+ erviceNow regional AI summit for customers and partners.\n\nDE: Regionaler
+  ServiceNow AI Summit für Kunden und Partner.\n\nKategorie/Category: ITSM
+ \, AI | Region: DACH
+LOCATION:Frankfurt am Main (Kap Europa)\, DE
 CATEGORIES:ITSM,AI
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:digital-workplace-summit-communardo-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Digital Workplace Summit by Communardo
+URL:https://www.experte.de/events/digitalisierung
+DESCRIPTION:URL: https://www.experte.de/events/digitalisierung\n\nEN: Atlas
+ sian/Microsoft partner summit on the digital workplace and enterprise serv
+ ice management.\n\nDE: Summit eines Atlassian-/Microsoft-Partners zu Digit
+ al Workplace und Enterprise Service Management.\n\nKategorie/Category: ITS
+ M\, Digital Transformation | Region: DACH
+LOCATION:Dresden\, DE
+CATEGORIES:ITSM,Digital Transformation
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:service-summit-duesseldorf-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
 SUMMARY:Service Summit 2026
@@ -317,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223673
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261111
 SUMMARY:ITSM26
@@ -332,8 +364,110 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:itsmf-ff-mpm-2026-11@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:itSMF Fachforum Multi Provider Management
+URL:https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-
+ 10/
+DESCRIPTION:URL: https://www.itsmf.de/veranstaltung/fachforum-multi-provide
+ r-management-10/\n\nEN: itSMF Germany working group on steering multiple I
+ T service providers (SIAM).\n\nDE: Arbeitskreis des itSMF Deutschland zur 
+ Steuerung mehrerer IT-Dienstleister (SIAM).\n\nKategorie/Category: ITSM | 
+ Region: Online
+LOCATION:Online
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serview-tool-meetup-leipzig-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:SERVIEW Tool Meetup Leipzig
+URL:https://www.messen.de/de/1518/branche/it-loesungen
+DESCRIPTION:URL: https://www.messen.de/de/1518/branche/it-loesungen\n\nEN: 
+ Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head
+ -to-head.\n\nDE: Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präs
+ entieren im direkten Vergleich.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Leipzig (Alte Wollkämmerei)\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serview-tool-meetup-hamburg-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:SERVIEW Tool Meetup Hamburg
+URL:https://www.messen.de/de/1518/branche/it-loesungen
+DESCRIPTION:URL: https://www.messen.de/de/1518/branche/it-loesungen\n\nEN: 
+ Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head
+ -to-head.\n\nDE: Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präs
+ entieren im direkten Vergleich.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Hamburg (Grand Elysée)\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serview-tool-meetup-muenchen-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:SERVIEW Tool Meetup München
+URL:https://www.messen.de/de/1518/branche/it-loesungen
+DESCRIPTION:URL: https://www.messen.de/de/1518/branche/it-loesungen\n\nEN: 
+ Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head
+ -to-head.\n\nDE: Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präs
+ entieren im direkten Vergleich.\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:München (Sofitel Bayerpost)\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:itsmf-ff-knowledge-2026-11@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:itSMF Fachforum Service Desk Knowledge Management
+URL:https://www.itsmf.de/veranstaltung/fachforum-service-desk-knowledge-man
+ agement-konstituierende-sitzung/
+DESCRIPTION:URL: https://www.itsmf.de/veranstaltung/fachforum-service-desk-
+ knowledge-management-konstituierende-sitzung/\n\nEN: Inaugural session of 
+ the itSMF working group on knowledge management in the service desk.\n\nDE
+ : Konstituierende Sitzung des itSMF-Fachforums zu Wissensmanagement im Ser
+ vice Desk.\n\nKategorie/Category: ITSM | Region: Online
+LOCATION:Online
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handelsblatt-webinar-ot-servicenow-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Handelsblatt Webinar: OT absichern mit Vulnerability Management & K
+ I-Workflows
+URL:https://live.handelsblatt.com/
+DESCRIPTION:URL: https://live.handelsblatt.com/\n\nEN: Free webinar (suppor
+ ted by ServiceNow) on prioritising OT vulnerabilities with AI workflows.\n
+ \nDE: Kostenloses Webinar (mit ServiceNow) zur Priorisierung von OT-Schwac
+ hstellen mit KI-Workflows.\n\nKategorie/Category: ITSM\, Security\, AI | R
+ egion: Online
+LOCATION:Online
+CATEGORIES:ITSM,Security,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:paan-event-1706223675
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:AFSMI Strategiegipfel B2B Service
@@ -350,8 +484,43 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:itsmf-ff-ki-itsm-2026-12@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:itSMF Fachforum KI im ITSM
+URL:https://www.itsmf.de/veranstaltung/fachforum-ki-im-itsm-8/
+DESCRIPTION:URL: https://www.itsmf.de/veranstaltung/fachforum-ki-im-itsm-8/
+ \n\nEN: itSMF Germany working group on the use and impact of AI in IT serv
+ ice management.\n\nDE: Arbeitskreis des itSMF Deutschland zu Einsatz und A
+ uswirkungen von KI im ITSM.\n\nKategorie/Category: ITSM\, AI | Region: Onl
+ ine
+LOCATION:Online
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:itsmf-ff-mpm-2026-12@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:itSMF Fachforum Multi Provider Management
+URL:https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-
+ 11/
+DESCRIPTION:URL: https://www.itsmf.de/veranstaltung/fachforum-multi-provide
+ r-management-11/\n\nEN: itSMF Germany working group on steering multiple I
+ T service providers (SIAM).\n\nDE: Arbeitskreis des itSMF Deutschland zur 
+ Steuerung mehrerer IT-Dienstleister (SIAM).\n\nKategorie/Category: ITSM | 
+ Region: Online
+LOCATION:Online
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:atlassian-team-for-builders-berlin-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270206
 SUMMARY:Atlassian Team for Builders: Berlin
@@ -367,7 +536,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ccw-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270226
 SUMMARY:CCW 2027 (Customer Contact World)
@@ -383,7 +552,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:service-space-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Service Space 2027
@@ -401,7 +570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:atlassian-team-27@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
 SUMMARY:Atlassian Team '27
@@ -416,7 +585,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:servicenow-knowledge-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270507
 SUMMARY:ServiceNow Knowledge 2027
@@ -430,8 +599,39 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:usu-partner-summit-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:USU International Partner Summit 2027
+URL:https://partnersummit.usu.com/
+DESCRIPTION:URL: https://partnersummit.usu.com/\n\nEN: USU partner day ahea
+ d of USU World (free of charge).\n\nDE: Partnertag von USU vor der USU Wor
+ ld (kostenfrei).\n\nKategorie/Category: ITSM | Region: DACH
+LOCATION:Rust (Europa-Park\, Confertainment Center)\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:usu-world-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270514
+SUMMARY:USU World 2027
+URL:https://partnersummit.usu.com/
+DESCRIPTION:URL: https://partnersummit.usu.com/\n\nEN: USU user conference 
+ on IT service management\, knowledge management and IT asset management.\n
+ \nDE: USU-Anwenderkonferenz zu IT Service Management\, Wissensmanagement u
+ nd IT Asset Management.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Rust (Europa-Park)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:sits-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270521
 SUMMARY:Service Desk & IT Support Show (SITS) 2027
@@ -446,8 +646,40 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:serview27-pre-conference@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:SERVIEW27 Pre-Conference
+URL:https://www.serview-summit.com/
+DESCRIPTION:URL: https://www.serview-summit.com/\n\nEN: Pre-conference day 
+ of SERVIEW27.\n\nDE: Vortag (Pre-Conference) der SERVIEW27.\n\nKategorie/C
+ ategory: ITSM | Region: DACH
+LOCATION:Seeheim-Jugenheim (Lufthansa Hotel & Campus)\, DE
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:serview27@itsm-calendar.paan-group.com
+DTSTAMP:20261108T231158Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+SUMMARY:SERVIEW27 – Kongress & Expo
+URL:https://www.serview-summit.com/
+DESCRIPTION:URL: https://www.serview-summit.com/\n\nEN: Europe's largest co
+ ngress and expo for ITSM\, ESM\, ITOM and ITAM – 'Service Management in 
+ the Age of AI'\, 50+ sponsors.\n\nDE: Europas größte Kongressmesse für 
+ ITSM\, ESM\, ITOM und ITAM – 'Service Management im KI-Zeitalter'\, übe
+ r 50 Aussteller.\n\nKategorie/Category: ITSM\, AI | Region: DACH
+LOCATION:Seeheim-Jugenheim (Lufthansa Hotel & Campus)\, DE
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:serviceware-forum-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261104T222530Z
+DTSTAMP:20261108T231158Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
 SUMMARY:Serviceware Forum 2027

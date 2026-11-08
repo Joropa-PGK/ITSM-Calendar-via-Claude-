@@ -1,21 +1,13 @@
 [
  {
-  "title": "SERVIEW Kongress & Expo 2027",
-  "expected": "Mai 2027 (vorauss.)",
-  "location": "Seeheim-Jugenheim, DE (eine Quelle nennt April/Dortmund)",
-  "url": "https://en.serview-summit.com/",
-  "categories": [
-   "ITSM"
-  ]
- },
- {
   "title": "itSMF Deutschland – Jahresveranstaltung / Fachforen 2027",
   "expected": "offen",
   "location": "DE",
   "url": "https://www.itsmf.de/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Service Management Forum Schweiz (SMFS) 2027",
@@ -24,7 +16,8 @@
   "url": "https://www.smfs.ch/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "Oct 2027 (expected)"
  },
  {
   "title": "itSMF Schweiz Events 2027",
@@ -33,7 +26,8 @@
   "url": "https://events.itsmf.ch/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Service Desk & Service Management World 2027 (Euroforum/Handelsblatt)",
@@ -42,7 +36,8 @@
   "url": "https://live.handelsblatt.com/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "SECTOR NORD ITSM-Summit 2027",
@@ -51,16 +46,8 @@
   "url": "https://www.itsm-summit.de/",
   "categories": [
    "ITSM"
-  ]
- },
- {
-  "title": "USU World 2027",
-  "expected": "Juni 2027 (vorauss.)",
-  "location": "Rust (Europa-Park), DE",
-  "url": "https://www.usu.world/",
-  "categories": [
-   "ITSM"
-  ]
+  ],
+  "expected_en": "Sep 2027 (expected)"
  },
  {
   "title": "AFSMI Strategiegipfel / Branchentreffen 2027",
@@ -69,7 +56,8 @@
   "url": "https://www.afsmi.de/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "ITSM27 (itSMF UK)",
@@ -78,7 +66,8 @@
   "url": "https://www.itsmf.co.uk/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "Nov 2027 (expected)"
  },
  {
   "title": "ServiceNow World Forum DACH 2027",
@@ -88,7 +77,8 @@
   "categories": [
    "ITSM",
    "AI"
-  ]
+  ],
+  "expected_en": "Autumn 2027 (expected)"
  },
  {
   "title": "ManageEngine UserConf DACH 2027",
@@ -97,7 +87,8 @@
   "url": "https://www.manageengine.com/events/",
   "categories": [
    "ITSM"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Handelsblatt Summit Zukunft IT 2027",
@@ -107,7 +98,8 @@
   "categories": [
    "Digital Transformation",
    "AI"
-  ]
+  ],
+  "expected_en": "Sep 2027 (expected)"
  },
  {
   "title": "Handelsblatt KI Summit 2027",
@@ -116,7 +108,8 @@
   "url": "https://live.handelsblatt.com/",
   "categories": [
    "AI"
-  ]
+  ],
+  "expected_en": "Nov 2027 (expected)"
  },
  {
   "title": "European AI & Cloud Summit 2027",
@@ -126,7 +119,8 @@
   "categories": [
    "AI",
    "Cloud"
-  ]
+  ],
+  "expected_en": "May 2027 (expected)"
  },
  {
   "title": "Zukunftskongress Staat & Verwaltung 2027",
@@ -135,16 +129,8 @@
   "url": "https://www.zukunftskongress.info/",
   "categories": [
    "Digital Transformation"
-  ]
- },
- {
-  "title": "TDWI München 2027",
-  "expected": "Juni 2027 (vorauss.)",
-  "location": "München, DE",
-  "url": "https://www.tdwi-konferenz.de/",
-  "categories": [
-   "AI"
-  ]
+  ],
+  "expected_en": "June 2027 (expected)"
  },
  {
   "title": "GITEX Europe 2027",
@@ -154,7 +140,8 @@
   "categories": [
    "AI",
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Digital X 2027",
@@ -163,7 +150,8 @@
   "url": "https://www.digital-x.eu/",
   "categories": [
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "Sep 2027 (expected)"
  },
  {
   "title": "Swiss IT Forums 2027",
@@ -172,7 +160,8 @@
   "url": "https://www.swiss-it-forums.tech/en/",
   "categories": [
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Confare CIOSUMMIT Zürich / Wien 2027",
@@ -181,7 +170,8 @@
   "url": "https://www.confare.at/",
   "categories": [
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "TBA"
  },
  {
   "title": "Web Summit 2027",
@@ -190,7 +180,8 @@
   "url": "https://websummit.com/",
   "categories": [
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "Nov 2027 (expected)"
  },
  {
   "title": "IT-Tage 2027",
@@ -199,6 +190,77 @@
   "url": "https://www.ittage.informatik-aktuell.de/",
   "categories": [
    "Digital Transformation"
-  ]
+  ],
+  "expected_en": "Dec 2027 (expected)"
+ },
+ {
+  "title": "PITS 2027 – Public-IT-Security (Behörden Spiegel)",
+  "expected": "offen",
+  "location": "Berlin, DE",
+  "url": "https://www.behoerden-spiegel.de/veranstaltungen/",
+  "categories": [
+   "Security"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "BSI Deutscher IT-Sicherheitskongress 2027",
+  "expected": "Mai 2027 (vorauss.)",
+  "location": "DE",
+  "url": "https://www.bsi.bund.de/",
+  "categories": [
+   "Security"
+  ],
+  "expected_en": "May 2027 (expected)"
+ },
+ {
+  "title": "KI2027 – 50. German Conference on Artificial Intelligence",
+  "expected": "offen",
+  "location": "DE",
+  "url": "https://fb-ki.gi.de/en/event/50-german-conference-on-artificial-intelligence",
+  "categories": [
+   "AI"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Gartner IT Symposium/Xpo 2027",
+  "expected": "Nov 2027 (vorauss.)",
+  "location": "Barcelona, ES",
+  "url": "https://www.gartner.com/en/conferences/emea/symposium-spain",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "Nov 2027 (expected)"
+ },
+ {
+  "title": "Digital-Gipfel der Bundesregierung 2027",
+  "expected": "offen",
+  "location": "DE",
+  "url": "https://www.bitkom.org/Termine",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Agentic AI DACH 2027",
+  "expected": "offen",
+  "location": "DACH",
+  "url": "https://www.aidataanalytics.network/events-generative-ai-dach",
+  "categories": [
+   "AI"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "CIO des Jahres 2027",
+  "expected": "Okt 2027 (vorauss.)",
+  "location": "München, DE",
+  "url": "https://www.cio-des-jahres.de/",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "Oct 2027 (expected)"
  }
 ]

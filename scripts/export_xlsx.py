@@ -15,6 +15,8 @@ REL = {"core": "ITSM (Kern)", "related": "Verwandt", "peripheral": "Randthema"}
 CAT = {"ITSM": "ITSM/ESM", "AI": "KI", "Cloud": "Cloud", "Security": "Security",
        "Digital Transformation": "Digitale Transformation", "Developer": "Developer"}
 STATUS = {"confirmed": "Bestätigt", "tentative": "Vorläufig (TBC)"}
+FORMAT = {"conference": "Konferenz/Kongress", "tradefair": "Messe", "forum": "Forum/Treffen", "workshop": "Workshop",
+          "meetup": "Meetup/User Group", "webinar": "Webinar/Online", "training": "Training"}
 REGION = {"DACH": "DACH", "Europe": "Europa", "International": "International", "Online": "Online"}
 
 HEAD_FONT = Font(name=FONT, bold=True, color="FFFFFF")
@@ -41,7 +43,7 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
     ws = wb.active
     ws.title = "Events"
     cols = [("Start", 12), ("Ende", 12), ("Tage", 6), ("Veranstaltung", 42), ("Ort", 30), ("Land", 7),
-            ("Region", 12), ("Relevanz", 13), ("Themen", 28), ("Status", 15), ("Website", 40),
+            ("Region", 12), ("Relevanz", 13), ("Themen", 28), ("Format", 18), ("Status", 15), ("Website", 40),
             ("Beschreibung (DE)", 60), ("Description (EN)", 60), ("Hinweis", 35), ("Quelle", 26)]
     _header(ws, cols)
     rows = sorted(events, key=lambda e: (as_date(e["start"]), e["title"]))
@@ -49,24 +51,25 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
         s, en = as_date(e["start"]), as_date(e.get("end") or e["start"])
         vals = [s, en, None, e["title"], e.get("location", ""), e.get("country") or "",
                 REGION.get(e["region"], e["region"]), REL[e["relevance"]],
-                ", ".join(CAT.get(c, c) for c in e["categories"]), STATUS[e["status"]], e["url"],
+                ", ".join(CAT.get(c, c) for c in e["categories"]), FORMAT.get(e.get("format", ""), ""),
+                STATUS[e["status"]], e["url"],
                 e.get("description_de", ""), e.get("description_en", ""), e.get("note", ""), e.get("source", "")]
         for c, v in enumerate(vals, 1):
             cell = ws.cell(row=r, column=c, value=v)
             cell.font = Font(name=FONT)
-            cell.alignment = WRAP if c in (4, 5, 9, 12, 13, 14) else TOP
+            cell.alignment = WRAP if c in (4, 5, 9, 13, 14, 15) else TOP
             cell.border = THIN
         ws.cell(row=r, column=3, value=f"=B{r}-A{r}+1")
         for c in (1, 2):
             ws.cell(row=r, column=c).number_format = "DD.MM.YYYY"
-        link = ws.cell(row=r, column=11)
+        link = ws.cell(row=r, column=12)
         link.hyperlink = e["url"]
         link.font = Font(name=FONT, color="0563C1", underline="single")
         if e["relevance"] == "core":
             ws.cell(row=r, column=4).font = Font(name=FONT, bold=True)
             ws.cell(row=r, column=8).fill = PatternFill("solid", fgColor=LIGHT)
         if e["status"] == "tentative":
-            ws.cell(row=r, column=10).fill = PatternFill("solid", fgColor=CREAM)
+            ws.cell(row=r, column=11).fill = PatternFill("solid", fgColor=CREAM)
     ws.auto_filter.ref = f"A1:{get_column_letter(len(cols))}{len(rows) + 1}"
 
     # --- Sheet 2: Beobachtungsliste -------------------------------------------
@@ -95,7 +98,7 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
         ("Events gesamt", f"=COUNTA(Events!D2:D{n})"),
         ("ITSM-Kernevents", f'=COUNTIF(Events!H2:H{n},"ITSM (Kern)")'),
         ("DACH", f'=COUNTIF(Events!G2:G{n},"DACH")'),
-        ("Termin vorläufig (TBC)", f'=COUNTIF(Events!J2:J{n},"Vorläufig (TBC)")'),
+        ("Termin vorläufig (TBC)", f'=COUNTIF(Events!K2:K{n},"Vorläufig (TBC)")'),
         ("Events 2026", f'=SUMPRODUCT((YEAR(Events!A2:A{n})=2026)*1)'),
         ("Events 2027", f'=SUMPRODUCT((YEAR(Events!A2:A{n})=2027)*1)'),
         ("Kommende Events (ab heute)", f'=COUNTIF(Events!B2:B{n},">="&TODAY())'),

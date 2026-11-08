@@ -4,7 +4,7 @@ Kuratierter, automatisch aktualisierter Kalender für **ITSM/ESM-, KI-, Cloud-, 
 
 | Ergebnis | Datei |
 |---|---|
-| Kalender-Website (GitHub Pages) | `docs/index.html` |
+| Kalender-Website (GitHub Pages, Deutsch/Englisch) | `docs/index.html` |
 | ICS-Feed, alle Events | `docs/events.ics` |
 | ICS-Feed, nur ITSM/ESM | `docs/events-itsm.ics` |
 | ICS-Feed, nur DACH | `docs/events-dach.ics` |
@@ -30,6 +30,10 @@ Pro Quelle läuft die Extraktion in drei Stufen:
 1. **iCalendar-Feeds** werden direkt gelesen.
 2. **schema.org/JSON-LD-Events** werden strukturiert aus dem HTML gelesen.
 3. **KI-Extraktion** mit dem Claude API und strukturierter Ausgabe: nur wenn Stufe 1 und 2 nichts liefern und das Secret `ANTHROPIC_API_KEY` gesetzt ist. Events aus dieser Stufe werden als `tentative` markiert, bis Sie sie freigeben. Serverseitige Refusal-Fallbacks sind aktiviert (`fallbacks: "default"`).
+
+**Website:** Zweisprachig (DE/EN, Umschalter oben rechts oder `?lang=en`), Listen- und Kalenderansicht, Filter nach Zeitraum, Relevanz, Region (inkl. „Nur Deutschland“), Thema, Format und Status.
+
+**LinkedIn:** Event-Seiten und Posts erfordern einen Login, und automatisiertes Auslesen widerspricht den Nutzungsbedingungen. LinkedIn fließt daher nur über die Websuche und manuelle Ergänzungen ein.
 
 ## Einrichtung (einmalig)
 
@@ -63,4 +67,5 @@ Stabile UIDs: Events aus der ursprünglichen Datei `EU_IT_Event_Crawl_v5.ics` be
 | `relevance` | `core` (ITSM/ESM), `related` (KI/Cloud/Security/Digital), `peripheral` |
 | `region` | `DACH`, `Europe`, `International`, `Online` |
 | `categories` | ITSM, AI, Cloud, Security, Digital Transformation, Developer |
+| `format` | conference, tradefair, forum, workshop, meetup, webinar, training (wird sonst automatisch abgeleitet) |
 | `source` / `note` | Herkunft der Daten bzw. Prüfhinweise |

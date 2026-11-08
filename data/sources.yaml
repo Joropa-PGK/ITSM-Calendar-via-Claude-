@@ -49,3 +49,28 @@
 - {name: experte.de Digitalisierung, url: "https://www.experte.de/events/digitalisierung"}
 - {name: experte.de IT-Security, url: "https://www.experte.de/events/it-security"}
 - {name: BusinessFactors, url: "https://www.businessfactors.de/events/"}
+
+# --- Ergänzt 08.11.2026: strukturierte Verzeichnisse mit DE/AT/CH-Fokus (JSON-LD) ---
+- {name: dev.events DE IT, url: "https://dev.events/EU/DE/it"}
+- {name: dev.events DE Cloud, url: "https://dev.events/EU/DE/cloud"}
+- {name: dev.events DE Security, url: "https://dev.events/EU/DE/security"}
+- {name: dev.events DE DevOps, url: "https://dev.events/EU/DE/devops"}
+- {name: dev.events DE Data, url: "https://dev.events/EU/DE/data"}
+- {name: dev.events AT IT, url: "https://dev.events/EU/AT/it"}
+- {name: dev.events CH IT, url: "https://dev.events/EU/CH/it"}
+- {name: Meetup ServiceNow DE, url: "https://www.meetup.com/find/?keywords=servicenow&location=de--Frankfurt", focus: [ITSM]}
+- {name: Meetup ITSM DE, url: "https://www.meetup.com/find/?keywords=itsm&location=de--Berlin", focus: [ITSM]}
+# --- Ergänzt 08.11.2026: HTML-Verzeichnisse (benötigen KI-Extraktion) ---
+- {name: messen.de IT-Lösungen S.1, url: "https://www.messen.de/de/1518/branche/it-loesungen"}
+- {name: messen.de IT-Lösungen S.2, url: "https://www.messen.de/de/1518/branche/it-loesungen?page=2"}
+- {name: messen.de IT-Lösungen S.3, url: "https://www.messen.de/de/1518/branche/it-loesungen?page=3"}
+- {name: experte.de Management, url: "https://www.experte.de/events/management"}
+- {name: experte.de Machine Learning, url: "https://www.experte.de/events/machine-learning"}
+- {name: experte.de Berlin, url: "https://www.experte.de/events/berlin"}
+- {name: experte.de München, url: "https://www.experte.de/events/muenchen"}
+- {name: experte.de Hamburg, url: "https://www.experte.de/events/hamburg"}
+- {name: experte.de Köln, url: "https://www.experte.de/events/koeln"}
+- {name: Behörden Spiegel Veranstaltungen, url: "https://www.behoerden-spiegel.de/veranstaltungen/"}
+- {name: ServiceNow AI Summits, url: "https://www.servicenow.com/events/ai-summits.html", focus: [ITSM, AI]}
+# Hinweis LinkedIn: Event-Seiten und Posts erfordern einen Login; automatisiertes Auslesen widerspricht den
+# LinkedIn-Nutzungsbedingungen. LinkedIn wird daher nur manuell/über die Websuche berücksichtigt.

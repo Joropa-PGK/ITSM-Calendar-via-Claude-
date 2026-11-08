@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T22:25:30+00:00",
+ "generated": "2026-11-08T23:11:58+00:00",
  "events": [
   {
    "id": "cloud-tech-tallinn-2026-2026",
@@ -17,6 +17,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Conference for cloud engineers, DevOps practitioners and IT professionals focusing on cloud, AI and platform engineering.",
    "description_de": "Cloudkonferenz für Ingenieure, DevOps-Teams und IT-Profis mit Fokus auf Cloud-, KI- und Plattform-Engineering."
@@ -38,6 +39,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "High-level digital transformation forum with discussions on AI, cloud resilience, data sovereignty, risk and enterprise digital strategies.",
    "description_de": "Hochkarätiges Forum zu digitaler Transformation mit Diskussionen über KI, Cloud-Resilienz, Datensouveränität, Risiko und digitale Unternehmensstrategien."
@@ -59,6 +61,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "One of Europe’s largest open-source tech & software engineering conferences, with sessions relevant to cloud, DevOps, infrastructure, AI tooling and community projects.",
    "description_de": "Eine der größten Open-Source- und Software-Engineering-Konferenzen Europas mit Beiträgen zu Cloud, DevOps, Infrastruktur, KI-Tooling und Community-Projekten."
@@ -80,6 +83,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "\"Cloud Entrepreneurs' Day,\" focusing on AI and digitalization for businesses.",
    "description_de": "Cloud Unternehmertag mit Fokus auf KI und Digitalisierung für Unternehmen."
@@ -99,6 +103,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "A specialist forum by the IT Service Management Forum Germany for experts and users.",
    "description_de": "Ein Fachforum des itSMF Deutschland für Experten und Anwender."
@@ -118,6 +123,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Community event on Cloud Native technologies including Kubernetes, SRE, and DevOps, with multiple technical tracks.",
    "description_de": "Community-Konferenz zu Cloud Native-Technologien einschließlich Kubernetes, SRE und DevOps mit mehreren technischen Tracks."
@@ -139,6 +145,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe’s largest multi-tech expo with embedded AI/predictive analytics tracks, infrastructure and cybersecurity content, and smart system showcases.",
    "description_de": "Europas größte Multi-Tech-Messe mit eingebetteten KI/Analyse-Tracks, Infrastruktur- und Cybersicherheits-Inhalten und Smart-System-Präsentationen."
@@ -159,6 +166,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "webinar",
    "note": "",
    "description_en": "Vendor webinar exploring service desk strategy evolution in 2026, AI-assisted delivery and roadmap approaches.",
    "description_de": "Vendor-Webinar zu neuen Service-Desk-Strategien 2026, KI-gestützter Bereitstellung und praxisnahem Modernisierungsansatz."
@@ -178,6 +186,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Major French IT channel and technology expo where MSPs, integrators, product providers, and IT service vendors meet.",
    "description_de": "Großer französischer IT-Channel- und Technologie-Expo, bei dem MSPs, Integratoren, Produktanbieter und IT-Dienstleister zusammenkommen."
@@ -197,6 +206,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Technical IT event focusing on core engineering, security and operations topics with a strong practitioner focus.",
    "description_de": "Technische IT-Konferenz in Würzburg mit Fokus auf Kern-Engineering, Sicherheit und IT-Betrieb ohne sponsorgetriebene Agenda – starker Praxisbezug."
@@ -218,6 +228,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "High-level enterprise IT and digital innovation summit focusing on AI, IoT, data infrastructure and digital transformation.",
    "description_de": "Strategiegipfel für Unternehmens-IT und digitale Innovation mit Fokus auf KI, IoT, Dateninfrastruktur und digitale Transformation."
@@ -237,6 +248,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "European event on AI governance, data standards and interoperable frameworks.",
    "description_de": "Europäische Konferenz zu KI-Governance, Datenstandards und interoperablen Rahmenwerken."
@@ -257,6 +269,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "meetup",
    "note": "",
    "description_en": "Local Atlassian community event focused on cloud transformation topics and interactive sessions with partners and practitioners.",
    "description_de": "Lokales Atlassian-Community-Meetup zu Cloud-Transformationsthemen und interaktiven Sessions mit Partnern und Anwendern."
@@ -277,6 +290,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Cloud Native and platform engineering conference with DevOps, observability and AI/ML tooling sessions.",
    "description_de": "Cloud-Native- und Plattform-Engineering-Konferenz mit DevOps, Observability und KI/ML-Tooling-Sessions."
@@ -296,6 +310,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A key event in Switzerland for cybersecurity knowledge exchange.",
    "description_de": "Ein zentraler Event in der Schweiz für den Wissensaustausch im Bereich Cybersicherheit."
@@ -315,6 +330,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Atlassian service management event focusing on teamwork, ITSM practices and the latest platform innovations — targeted at local community + partners.",
    "description_de": "Atlassian Service Management-Event mit Fokus auf Teamwork, ITSM-Praxis und Plattform-Innovation – ausgerichtet auf lokale Community und Partner."
@@ -335,6 +351,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Customer experience and contact center expo with service delivery optimization, AI-assisted CX, analytics and support management insights.",
    "description_de": "Messe für Customer Experience und Contact Center mit Fokus auf Servicedelivery-Optimierung, KI-gestütztem CX, Analytik und Support-Management."
@@ -355,6 +372,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "In-person hands-on workshop exploring ServiceNow’s AI platform capabilities to streamline IT processes.",
    "description_de": "Präsenz-Hands-on-Workshop zur Erkundung der KI-Plattform von ServiceNow, um IT-Prozesse zu optimieren und „Autonomous IT“ praktisch kennenzulernen."
@@ -375,6 +393,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "A two-day expo and conference covering cloud architecture, managed services, AI infrastructure and enterprise deployments.",
    "description_de": "Zweitägige Messe und Konferenz über Cloud-Architektur, Managed Services, KI-Infrastruktur und Unternehmensimplementierungen."
@@ -394,6 +413,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Regional Atlassian event helping teams simplify cloud migrations and optimize collaboration workflows.",
    "description_de": "Regionale Atlassian Veranstaltung zur Vereinfachung von Cloud-Migrationen und Optimierung kollaborativer Workflows mit Demos und Partner-Einblicken."
@@ -413,6 +433,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Interactive event with product deep dives, hands-on AI workshops and discussions on workflow scaling.",
    "description_de": "Interaktive Veranstaltung mit Produkt-Deep-Dives, praxisnahen KI-Workshops und Diskussionen zur Skalierung von Workflows."
@@ -433,6 +454,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Focused service desk & IT support summit exploring AI, automation, analytics, service delivery and workflow optimization.",
    "description_de": "Konferenz zu Service Desk und IT-Support mit Fokus auf KI, Automatisierung, Analytik und Workflow-Optimierung."
@@ -452,6 +474,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Multi-day training event for software architects and senior developers.",
    "description_de": "Mehrtägiges Trainingsevent für Softwarearchitekten und Entwickler."
@@ -473,6 +496,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Developer and software engineering event with robust cloud, AI and platform streams across practical workshops.",
    "description_de": "Entwickler- und Software-Engineering-Event mit starken Fokus-Streams zu Cloud, KI und Plattform-Workshops."
@@ -492,6 +516,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A conference for operators and suppliers in the UK railway sector.",
    "description_de": "Eine Konferenz für Betreiber und Zulieferer im britischen Eisenbahnsektor."
@@ -512,6 +537,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Exclusive executive dinner event for senior leaders to exchange ideas about AI, strategy and future workflows.",
    "description_de": "Exklusives Dinner-Event für Führungskräfte zum Austausch über KI, Strategie und zukünftige Workflows auf der ServiceNow Plattform."
@@ -531,6 +557,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A major digitalization event for SMEs, organized by Telekom.",
    "description_de": "Ein großes Digitalisierungs-Event für den Mittelstand, organisiert von der Telekom."
@@ -550,6 +577,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Community cloud event focused on Microsoft Azure trends and practical sessions.",
    "description_de": "Community-Cloud-Event zu Microsoft Azure-Trends und Praxis-Sessions."
@@ -570,6 +598,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "meetup",
    "note": "",
    "description_en": "Community-driven tech conference with talks and hands-on sessions on modern cloud and AI development practices.",
    "description_de": "Community-Tech-Konferenz mit Vorträgen und praxisnahen Sessions zu modernen Cloud- und KI-Entwicklungsmethoden."
@@ -590,6 +619,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Conference dedicated to scalable AI platform and data infrastructure strategies for enterprise AI adoption.",
    "description_de": "Konferenz über skalierbare KI-Plattform- und Dateninfrastrukturen für den Unternehmenseinsatz von KI."
@@ -612,6 +642,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Broad IT systems event covering AI, IoT, Big Data, cybersecurity, cloud & digital transformation.",
    "description_de": "IT-Systeme-Konferenz zu KI, IoT, Big Data, Cybersicherheit, Cloud-Technologien und digitaler Transformation."
@@ -631,6 +662,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "The world's #1 internet infrastructure event for the cloud computing industry.",
    "description_de": "Die weltweit führende Veranstaltung für die Cloud-Computing-Branche."
@@ -651,6 +683,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "The flagship conference for cloud-native and open-source developers.",
    "description_de": "Die Leitkonferenz für Cloud-Native- und Open-Source-Entwickler."
@@ -670,6 +703,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Swiss IT forum for CIOs and senior IT leaders covering innovation, strategy & networking.",
    "description_de": "Schweizer IT-Forum für CIOs und Senior IT-Leader mit Fokus auf Innovation, Strategie & Networking."
@@ -689,6 +723,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "An exclusive in-person event for the SAP MaxAttention community.",
    "description_de": "Ein exklusives Präsenz-Event für die SAP MaxAttention Community."
@@ -709,6 +744,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "workshop",
    "note": "",
    "description_en": "A two-day co-innovation workshop to co-create AI-powered CRM prototypes and learn hands-on how to apply AI in workflows.",
    "description_de": "Zwei-tägiger Co-Innovation-Workshop mit ServiceNow-Experten in München zur gemeinsamen Entwicklung von KI-gestützten CRM-Prototypen und praxisnaher Anwendung von KI-Workflows."
@@ -728,6 +764,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A developer-first event for teams building backend systems with Java and the Spring ecosystem.",
    "description_de": "Ein entwicklerorientiertes Event für Teams, die Backend-Systeme mit Java und Spring erstellen."
@@ -747,6 +784,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Austria's leading independent IT Service Management conference.",
    "description_de": "Österreichs größte unabhängige IT Service Management Konferenz."
@@ -766,6 +804,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Scientific summit connecting AI, robotics, and ML research with practical enterprise innovation.",
    "description_de": "Wissenschaftlicher Gipfel zu Robotik, KI und maschinellem Lernen mit Fokus auf Unternehmensinnovation."
@@ -785,6 +824,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "One of the world's largest trade fairs for industrial technology and Industrie 4.0.",
    "description_de": "Eine der weltweit größten Messen für Industrietechnologie und Industrie 4.0."
@@ -806,6 +846,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Major European AI & cloud computing event with >100 sessions on AI strategy, Azure, cloud security, and enterprise adoption.",
    "description_de": "Großes europäisches Event zu KI und Cloud mit über 100 Sessions zu KI-Strategie, Azure, Cloud-Security, Governance, Architektur und Unternehmens-Adoption."
@@ -826,6 +867,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Co-located event with European AI & Cloud Summit, focused on Microsoft 365, AI, Copilot and modern work.",
    "description_de": "Parallel stattfindendes Event mit Fokus auf Microsoft 365, KI, Copilot und moderne Arbeitsweisen."
@@ -847,6 +889,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "Laut heise (\"Learntec 2026: Plug pulled?\") ggf. abgesagt bzw. verschoben – prüfen",
    "description_en": "Professional learning & digital workplace expo covering cloud, AI training, digital skills and enterprise solutions.",
    "description_de": "Messe für berufliche Weiterbildung & digitale Arbeitswelt, einschließlich Cloud- und KI-Training, digitalen Skills und Unternehmenslösungen."
@@ -867,6 +910,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Focused trade show on cloud infrastructure, AI deployment in scale environments, FinOps, DevOps and critical infrastructure design.",
    "description_de": "Fachmesse zu Cloud-Infrastruktur, AI-Implementierung in großem Maßstab, FinOps, DevOps und kritischer Infrastrukturplanung."
@@ -886,6 +930,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "High-level European cloud computing conference with expert talks and networking.",
    "description_de": "Hochwertige europäische Cloud-Computing-Konferenz mit Expert:innen-Vorträgen und Networking."
@@ -905,6 +950,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "National DACH MSP conference integrating system house strategies, market insights and vendor showcases.",
    "description_de": "Nationale DACH MSP-Konferenz mit Strategien für Systemhäuser, Markteinblicken und Anbieter-Showcases."
@@ -924,6 +970,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's leading event for ITSM, service desk, and IT support professionals.",
    "description_de": "Europas führendes Event für ITSM, Service Desk und IT-Support-Profis."
@@ -943,6 +990,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Networking and introductory sessions the day before SERVIEW26.",
    "description_de": "Networking und Einführungs-Sessions am Vortag von SERVIEW26."
@@ -962,6 +1010,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Milan’s flagship AI event covering business, innovation, ethics and generative AI.",
    "description_de": "Mailänder KI-Konferenz über Geschäftsinnovation, Ethik und generative KI."
@@ -981,6 +1030,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe’s #1 ITSM & ESM congress and trade fair with keynotes, masterclasses, expo & networking.",
    "description_de": "Europas größter ITSM- & ESM-Kongress mit Expo, Keynotes, Masterclasses und Networking."
@@ -1001,6 +1051,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "German IT security conference with focuses on cyber risk, governance, secure cloud infrastructure and growth management.",
    "description_de": "Deutsche IT-Security-Konferenz mit Fokus auf Cyber-Risiken, Governance, sichere Cloud-Infrastruktur und Wachstumsstrategien."
@@ -1020,6 +1071,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "One of Europe's largest and most well-attended cybersecurity events.",
    "description_de": "Eines der größten und bestbesuchten Cybersicherheits-Events in Europa."
@@ -1042,6 +1094,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Pan-European tech festival spanning multiple topics including cloud, cybersecurity, AI adoption, MSP ecosystems and digital transformation.",
    "description_de": "Pan-europäisches Technologie-Festival mit Themen wie Cloud, Cybersicherheit, KI-Adoption, MSP-Ökosystemen und digitaler Transformation."
@@ -1062,6 +1115,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Multidisciplinary future IT conference with tracks on innovation, cloud, AI adoption, change leadership and modern service ecosystems.",
    "description_de": "Zukunfts-IT-Kongress mit Sessions zu Innovation, Cloud-Strategien, KI-Adoption, Change Leadership und modernen Service-Ökosystemen."
@@ -1084,6 +1138,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Open-source and enterprise collaboration tech event with cloud-integration, AI-assisted services and digital workplace discussions.",
    "description_de": "Open-Source- und Enterprise-Collaboration-Event mit Cloud-Integration, KI-unterstützten Diensten und Diskussionen zur digitalen Arbeitswelt."
@@ -1103,6 +1158,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Congress on modernisation and digital transformation of public administration.",
    "description_de": "Kongress zur Modernisierung und digitalen Transformation von Staat und Verwaltung."
@@ -1122,6 +1178,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "training",
    "note": "Kommerzieller Trainingskurs, kein Branchen-Event",
    "description_en": "Multi-day training and certification course for the ITIL 4 Foundation level.",
    "description_de": "Mehrtägiger Trainings- und Zertifizierungskurs für das ITIL 4 Foundation Level."
@@ -1141,6 +1198,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "One of Europe’s biggest tech events for startups, corporates, and investors.",
    "description_de": "Eines der größten Tech-Events Europas für Start-ups, Unternehmen und Investoren."
@@ -1161,6 +1219,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Europe’s key ML/AI engineering conference focusing on MLOps, generative AI engineering and data infrastructure.",
    "description_de": "Europas führende ML-/KI-Engineering-Konferenz mit Fokus auf MLOps, generative KI-Entwicklung und Dateninfrastruktur."
@@ -1181,6 +1240,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Leading DACH conference for data, analytics and AI.",
    "description_de": "Führende DACH-Konferenz für Daten, Analytics und KI."
@@ -1200,6 +1260,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Summit for IT infrastructure, multi-cloud strategies, operations optimization & modern platforms.",
    "description_de": "Gipfeltreffen zu IT-Infrastruktur, Multi-Cloud-Strategien, Betriebsoptimierung & modernen Plattformen."
@@ -1220,6 +1281,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Comprehensive ITSM summit for DACH IT leaders exploring service delivery, operations and digital transformation.",
    "description_de": "Umfassender ITSM-Gipfel für DACH-IT-Verantwortliche mit Fokus auf Service Delivery, Operations und digitale Transformation."
@@ -1241,6 +1303,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Large European tech and AI expo.",
    "description_de": "Grosse europäische Tech- und KI-Messe."
@@ -1260,6 +1323,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Executive-level event on managed services trends, MSP business strategies and digital transformation.",
    "description_de": "Executive-Konferenz zu Managed Services, MSP-Geschäftsstrategien und digitaler Transformation."
@@ -1279,6 +1343,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Salesforce's major event in London, showcasing the latest product innovations.",
    "description_de": "Salesforce's großes Event in London, das die neuesten Produktinnovationen vorstellt."
@@ -1300,6 +1365,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Broad European developer and AI innovation congress with tracks in cloud computing, software engineering, and modern infrastructure.",
    "description_de": "Europäischer Entwickler- und KI-Innovationskongress mit Tracks zu Cloud-Computing, Software-Engineering und moderner Infrastruktur."
@@ -1319,6 +1385,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A major conference for Free and Open Source Software with talks and workshops.",
    "description_de": "Eine große Konferenz für Freie Software und Open Source mit Vorträgen und Workshops."
@@ -1338,6 +1405,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's largest gaming week, including a major B2B trade and developer section.",
    "description_de": "Europas größte Gaming-Woche, inklusive eines großen B2B-Fach- und Entwicklerbereichs."
@@ -1360,6 +1428,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "CIO summit on IT strategy, AI, cloud, cybersecurity and new work.",
    "description_de": "CIO-Gipfel zu IT-Strategie, KI, Cloud, Cybersecurity und New Work."
@@ -1380,6 +1449,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Telekom's digitalisation event for businesses, focused on practical AI value.",
    "description_de": "Digitalisierungs-Event der Telekom für Unternehmen mit Fokus auf praktischen KI-Mehrwert."
@@ -1400,6 +1470,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Premier managed services industry event for MSPs in the UK, covering cloud, security and service innovation.",
    "description_de": "Führende Managed-Services-Branchenveranstaltung für MSPs im UK mit Themenschwerpunkten Cloud, Sicherheit und Serviceninnovation."
@@ -1419,6 +1490,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A highly commercial event for media technology, streaming platforms, and broadcast engineers.",
    "description_de": "Ein kommerzielles Event für Medientechnik, Streaming-Plattformen und Broadcast-Ingenieure."
@@ -1438,6 +1510,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "The central community event for IT service providers, MSPs, and the IT channel.",
    "description_de": "Der zentrale Community-Event für IT-Dienstleister, MSPs und den IT-Channel."
@@ -1457,9 +1530,70 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A technical conference from the Institution of Engineering and Technology.",
    "description_de": "Eine technische Konferenz der Institution of Engineering and Technology."
+  },
+  {
+   "id": "big-bang-ki-festival-2026",
+   "uid": "big-bang-ki-festival-2026@itsm-calendar.paan-group.com",
+   "title": "Big Bang KI Festival 2026",
+   "start": "2026-09-16",
+   "end": "2026-09-17",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/ki",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "AI festival with business and technology tracks.",
+   "description_de": "KI-Festival mit Business- und Technologie-Tracks."
+  },
+  {
+   "id": "ki-day-koeln-2026",
+   "uid": "ki-day-koeln-2026@itsm-calendar.paan-group.com",
+   "title": "KI Day 2026",
+   "start": "2026-09-17",
+   "end": "2026-09-17",
+   "location": "Köln, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/ki",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on generative AI in business.",
+   "description_de": "Konferenz zu generativer KI im Unternehmenskontext."
+  },
+  {
+   "id": "ai-data-quantum-summit-2026",
+   "uid": "ai-data-quantum-summit-2026@itsm-calendar.paan-group.com",
+   "title": "AI, Data & Quantum Summit 2026",
+   "start": "2026-09-23",
+   "end": "2026-09-24",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/ki",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Summit on AI, data and quantum computing.",
+   "description_de": "Gipfel zu KI, Daten und Quantencomputing."
   },
   {
    "id": "dmexco-2026",
@@ -1476,6 +1610,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's leading digital marketing & tech event.",
    "description_de": "Europas führendes Event für digitales Marketing & Technologie."
@@ -1495,6 +1630,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "The key gathering for the Cloud Native community in Austria.",
    "description_de": "Das zentrale Treffen der Cloud-Native-Community in Österreich."
@@ -1515,6 +1651,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Event with exhibits and forums on enterprise software, cybersecurity, data, and cloud.",
    "description_de": "Veranstaltung mit Ausstellungen und Foren zu Unternehmenssoftware, Cybersecurity, Daten und Cloud."
@@ -1534,6 +1671,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Industry meetup in Stuttgart with talks and interactive sessions on service management practices.",
    "description_de": "Branchentreffen des AFSMI in Stuttgart mit Impulsvorträgen und interaktivem Austausch zu Service Management Themen."
@@ -1554,9 +1692,52 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Atlassian's European flagship conference incl. Jira Service Management.",
    "description_de": "Europäische Atlassian-Leitkonferenz inkl. Jira Service Management."
+  },
+  {
+   "id": "servicenow-ai-summit-muenchen-2026",
+   "uid": "servicenow-ai-summit-muenchen-2026@itsm-calendar.paan-group.com",
+   "title": "ServiceNow AI Summit München",
+   "start": "2026-10-07",
+   "end": "2026-10-07",
+   "location": "München (Motorworld), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.servicenow.com/events/ai-summits.html",
+   "categories": [
+    "ITSM",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "ServiceNow regional AI summit for customers and partners.",
+   "description_de": "Regionaler ServiceNow AI Summit für Kunden und Partner."
+  },
+  {
+   "id": "m365-summit-2026",
+   "uid": "m365-summit-2026@itsm-calendar.paan-group.com",
+   "title": "M365 Summit 2026",
+   "start": "2026-10-12",
+   "end": "2026-10-14",
+   "location": "Mainz, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/it-security",
+   "categories": [
+    "Cloud",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on Microsoft 365, Copilot and governance.",
+   "description_de": "Konferenz zu Microsoft 365, Copilot und Governance."
   },
   {
    "id": "smart-country-convention-2026",
@@ -1573,9 +1754,30 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Leading congress and trade fair for digitalisation of the public sector (e-Government, OZG).",
    "description_de": "Leitkongress und Fachmesse für die Digitalisierung der öffentlichen Verwaltung (E-Government, OZG)."
+  },
+  {
+   "id": "cio-des-jahres-2026",
+   "uid": "cio-des-jahres-2026@itsm-calendar.paan-group.com",
+   "title": "CIO des Jahres 2026 – Konferenz & Awards",
+   "start": "2026-10-14",
+   "end": "2026-10-15",
+   "location": "München (H4 Hotel Messe), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.cio-des-jahres.de/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "CIO conference and award show (Foundry/CIO magazine).",
+   "description_de": "CIO-Konferenz und Award-Show (Foundry/CIO-Magazin)."
   },
   {
    "id": "cyber-security-expo-2026",
@@ -1592,6 +1794,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "An expo for cybersecurity professionals to connect and discover new solutions.",
    "description_de": "Eine Messe für Cybersicherheits-Profis zum Netzwerken und Entdecken neuer Lösungen."
@@ -1611,9 +1814,31 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's leading IT security expo and congress.",
    "description_de": "Europas führende IT-Sicherheitsmesse und Kongress."
+  },
+  {
+   "id": "public-it-2026",
+   "uid": "public-it-2026@itsm-calendar.paan-group.com",
+   "title": "Public IT 2026",
+   "start": "2026-10-28",
+   "end": "2026-10-29",
+   "location": "Hannover, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/it-security",
+   "categories": [
+    "Security",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "heise conference on IT and IT security in the public sector.",
+   "description_de": "heise-Konferenz zu IT und IT-Sicherheit im öffentlichen Sektor."
   },
   {
    "id": "smfs-2026",
@@ -1631,6 +1856,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Switzerland's largest service management forum; 2026 motto: Service Automation.",
    "description_de": "Grösstes Service-Management-Forum der Schweiz; Motto 2026: Service Automation."
@@ -1650,6 +1876,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "ManageEngine user conference covering ServiceDesk Plus, ITOM and endpoint management.",
    "description_de": "ManageEngine-Anwenderkonferenz zu ServiceDesk Plus, ITOM und Endpoint Management."
@@ -1657,22 +1884,44 @@
   {
    "id": "servicenow-world-forum-frankfurt-2026",
    "uid": "servicenow-world-forum-frankfurt-2026@itsm-calendar.paan-group.com",
-   "title": "ServiceNow World Forum Frankfurt",
+   "title": "ServiceNow AI Summit Frankfurt",
    "start": "2026-11-03",
    "end": "2026-11-03",
-   "location": "Frankfurt am Main, DE",
+   "location": "Frankfurt am Main (Kap Europa), DE",
    "country": "DE",
    "region": "DACH",
-   "url": "https://www.servicenow.com/events/world-forum.html",
+   "url": "https://www.servicenow.com/events/ai-summits.html",
    "categories": [
     "ITSM",
     "AI"
    ],
    "relevance": "core",
-   "status": "tentative",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "Datum durch ServiceNow-Eventseite bestätigt (Recherche 08.11.2026)",
+   "description_en": "ServiceNow regional AI summit for customers and partners.",
+   "description_de": "Regionaler ServiceNow AI Summit für Kunden und Partner."
+  },
+  {
+   "id": "digital-workplace-summit-communardo-2026",
+   "uid": "digital-workplace-summit-communardo-2026@itsm-calendar.paan-group.com",
+   "title": "Digital Workplace Summit by Communardo",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "location": "Dresden, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "ITSM",
+    "Digital Transformation"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "conference",
    "note": "",
-   "description_en": "ServiceNow regional flagship event (date from third-party guide, please verify).",
-   "description_de": "Regionales ServiceNow-Flaggschiff-Event (Datum aus Drittquelle, bitte verifizieren)."
+   "description_en": "Atlassian/Microsoft partner summit on the digital workplace and enterprise service management.",
+   "description_de": "Summit eines Atlassian-/Microsoft-Partners zu Digital Workplace und Enterprise Service Management."
   },
   {
    "id": "service-summit-duesseldorf-2026",
@@ -1690,9 +1939,52 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Conference on B2B/after-sales service management and service business models.",
    "description_de": "Konferenz zu B2B-/After-Sales-Service-Management und Service-Geschäftsmodellen."
+  },
+  {
+   "id": "bitkom-fachtag-software-ai-2026",
+   "uid": "bitkom-fachtag-software-ai-2026@itsm-calendar.paan-group.com",
+   "title": "Bitkom Fachtag Software x AI",
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.bitkom.org/Termine",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "How AI is changing the software world.",
+   "description_de": "Wie KI die Softwarewelt verändert."
+  },
+  {
+   "id": "gartner-it-symposium-barcelona-2026",
+   "uid": "gartner-it-symposium-barcelona-2026@itsm-calendar.paan-group.com",
+   "title": "Gartner IT Symposium/Xpo 2026",
+   "start": "2026-11-09",
+   "end": "2026-11-12",
+   "location": "Barcelona (CCIB), ES",
+   "country": "ES",
+   "region": "Europe",
+   "url": "https://www.gartner.com/en/conferences/emea/symposium-spain",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Gartner's flagship CIO conference for EMEA.",
+   "description_de": "Gartners Leitkonferenz für CIOs in EMEA."
   },
   {
    "id": "itsm26-2026",
@@ -1709,9 +2001,30 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "The official annual conference and awards event for itSMF UK.",
    "description_de": "Die offizielle Jahreskonferenz mit Preisverleihung von itSMF UK."
+  },
+  {
+   "id": "unhacked-360-germany-2026",
+   "uid": "unhacked-360-germany-2026@itsm-calendar.paan-group.com",
+   "title": "Unhacked 360 Germany: FutureSec Summit",
+   "start": "2026-11-09",
+   "end": "2026-11-10",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/unhacked-360-germany-future-sec-summit-zmqcorst",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Cybersecurity summit for security leaders.",
+   "description_de": "Cybersecurity-Gipfel für Sicherheitsverantwortliche."
   },
   {
    "id": "web-summit-2026",
@@ -1728,9 +2041,191 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "One of the largest and most prominent technology conferences in the world.",
    "description_de": "Eine der größten und bekanntesten Technologiekonferenzen der Welt."
+  },
+  {
+   "id": "itsmf-ff-mpm-2026-11",
+   "uid": "itsmf-ff-mpm-2026-11@itsm-calendar.paan-group.com",
+   "title": "itSMF Fachforum Multi Provider Management",
+   "start": "2026-11-09",
+   "end": "2026-11-09",
+   "location": "Online",
+   "country": null,
+   "region": "Online",
+   "url": "https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-10/",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "itSMF Germany working group on steering multiple IT service providers (SIAM).",
+   "description_de": "Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM)."
+  },
+  {
+   "id": "bitkom-digifin-2026",
+   "uid": "bitkom-digifin-2026@itsm-calendar.paan-group.com",
+   "title": "Bitkom DigiFin 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.bitkom.org/Termine",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Bitkom conference on digital finance and banking.",
+   "description_de": "Bitkom-Konferenz zu digitalen Finanzen und Banking."
+  },
+  {
+   "id": "serview-tool-meetup-leipzig-2026",
+   "uid": "serview-tool-meetup-leipzig-2026@itsm-calendar.paan-group.com",
+   "title": "SERVIEW Tool Meetup Leipzig",
+   "start": "2026-11-10",
+   "end": "2026-11-10",
+   "location": "Leipzig (Alte Wollkämmerei), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "meetup",
+   "note": "",
+   "description_en": "Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.",
+   "description_de": "Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich."
+  },
+  {
+   "id": "protekt-2026",
+   "uid": "protekt-2026@itsm-calendar.paan-group.com",
+   "title": "protekt 2026",
+   "start": "2026-11-10",
+   "end": "2026-11-11",
+   "location": "Leipzig (Kongresshalle am Zoo), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference and exhibition on protecting critical infrastructure (KRITIS).",
+   "description_de": "Konferenz und Fachausstellung zum Schutz kritischer Infrastrukturen (KRITIS)."
+  },
+  {
+   "id": "dafta-2026",
+   "uid": "dafta-2026@itsm-calendar.paan-group.com",
+   "title": "DAFTA & RDV-Forum 2026",
+   "start": "2026-11-11",
+   "end": "2026-11-13",
+   "location": "Köln (Marriott), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Germany's leading data protection conference (GDPR).",
+   "description_de": "Deutschlands führende Datenschutz-Fachtagung (DSGVO)."
+  },
+  {
+   "id": "handelsblatt-cybersecurity-2026",
+   "uid": "handelsblatt-cybersecurity-2026@itsm-calendar.paan-group.com",
+   "title": "Handelsblatt Jahrestagung Cybersecurity 2026",
+   "start": "2026-11-11",
+   "end": "2026-11-12",
+   "location": "Düsseldorf & Digital, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://live.handelsblatt.com/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "tentative",
+   "format": "conference",
+   "note": "",
+   "description_en": "Annual Handelsblatt cybersecurity conference (multi-day; end date to be verified).",
+   "description_de": "Handelsblatt-Jahrestagung Cybersecurity (mehrtägig; Enddatum prüfen)."
+  },
+  {
+   "id": "bitkom-data-centre-summit-2026",
+   "uid": "bitkom-data-centre-summit-2026@itsm-calendar.paan-group.com",
+   "title": "Bitkom Data Centre Summit 2026",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.bitkom.org/Termine",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Bitkom conference on data centres and digital infrastructure.",
+   "description_de": "Bitkom-Konferenz zu Rechenzentren und digitaler Infrastruktur."
+  },
+  {
+   "id": "datadog-summit-munich-2026",
+   "uid": "datadog-summit-munich-2026@itsm-calendar.paan-group.com",
+   "title": "Datadog Summit Munich",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/datadog-summit-munich-vgfcaqhf",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Observability vendor summit.",
+   "description_de": "Observability-Herstellerevent."
+  },
+  {
+   "id": "serview-tool-meetup-hamburg-2026",
+   "uid": "serview-tool-meetup-hamburg-2026@itsm-calendar.paan-group.com",
+   "title": "SERVIEW Tool Meetup Hamburg",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "location": "Hamburg (Grand Elysée), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "meetup",
+   "note": "",
+   "description_en": "Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.",
+   "description_de": "Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich."
   },
   {
    "id": "handelsblatt-ki-summit-2026",
@@ -1748,9 +2243,192 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Executive AI summit by Handelsblatt on enterprise AI strategy, regulation and adoption.",
    "description_de": "Handelsblatt-Gipfel für Entscheider zu KI-Strategie, Regulierung und Adoption im Unternehmen."
+  },
+  {
+   "id": "mlcon-berlin-2026",
+   "uid": "mlcon-berlin-2026@itsm-calendar.paan-group.com",
+   "title": "MLCon Berlin 2026",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/ml-con-berlin-2026-afekq9f6",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Machine learning and generative AI engineering conference.",
+   "description_de": "Konferenz zu Machine Learning und GenAI-Engineering."
+  },
+  {
+   "id": "machine-learning-week-2026",
+   "uid": "machine-learning-week-2026@itsm-calendar.paan-group.com",
+   "title": "Machine Learning Week 2026",
+   "start": "2026-11-16",
+   "end": "2026-11-18",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/machine-learning",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on applied machine learning and predictive analytics.",
+   "description_de": "Konferenz zu angewandtem Machine Learning und Predictive Analytics."
+  },
+  {
+   "id": "doag-2026",
+   "uid": "doag-2026@itsm-calendar.paan-group.com",
+   "title": "DOAG Konferenz 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "location": "Nürnberg, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/softwareentwicklung",
+   "categories": [
+    "Cloud",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference of the German Oracle user group (database, cloud, AI).",
+   "description_de": "Konferenz der Deutschen Oracle-Anwendergruppe (Datenbank, Cloud, KI)."
+  },
+  {
+   "id": "digitale-leute-summit-2026",
+   "uid": "digitale-leute-summit-2026@itsm-calendar.paan-group.com",
+   "title": "Digitale Leute Summit 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-18",
+   "location": "Köln, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Summit on digital products, teams and transformation.",
+   "description_de": "Summit zu digitalen Produkten, Teams und Transformation."
+  },
+  {
+   "id": "erp-future-kufstein-2026",
+   "uid": "erp-future-kufstein-2026@itsm-calendar.paan-group.com",
+   "title": "ERP Future 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "location": "Kufstein (FH Kufstein Tirol), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Event on enterprise systems in Austria.",
+   "description_de": "Fachveranstaltung für Enterprise Systems in Österreich."
+  },
+  {
+   "id": "osmc-2026",
+   "uid": "osmc-2026@itsm-calendar.paan-group.com",
+   "title": "Open Source Monitoring Conference (OSMC) 2026",
+   "start": "2026-11-17",
+   "end": "2026-11-19",
+   "location": "Nürnberg, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/open-source-monitoring-conference-osmc-6j00z4i",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on open-source monitoring and IT operations (ITOM).",
+   "description_de": "Konferenz zu Open-Source-Monitoring und IT-Betrieb (ITOM)."
+  },
+  {
+   "id": "serview-tool-meetup-muenchen-2026",
+   "uid": "serview-tool-meetup-muenchen-2026@itsm-calendar.paan-group.com",
+   "title": "SERVIEW Tool Meetup München",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "location": "München (Sofitel Bayerpost), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "meetup",
+   "note": "",
+   "description_en": "Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.",
+   "description_de": "Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich."
+  },
+  {
+   "id": "it-sicherheitstag-gelsenkirchen-2026",
+   "uid": "it-sicherheitstag-gelsenkirchen-2026@itsm-calendar.paan-group.com",
+   "title": "IT-Sicherheitstag Gelsenkirchen 2026",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "location": "Gelsenkirchen (Westfälische Hochschule), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on information security.",
+   "description_de": "Konferenz rund um die Informationssicherheit."
+  },
+  {
+   "id": "ai-coding-days-2026",
+   "uid": "ai-coding-days-2026@itsm-calendar.paan-group.com",
+   "title": "AI Coding Days 2026",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "location": "Köln, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/ki",
+   "categories": [
+    "AI",
+    "Developer"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on AI-assisted software development.",
+   "description_de": "Konferenz zu KI-gestützter Softwareentwicklung."
   },
   {
    "id": "slush-2026",
@@ -1767,9 +2445,236 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "A major tech event focused on startups, founders, and venture capital.",
    "description_de": "Ein großes Tech-Event mit Fokus auf Start-ups, Gründer und Risikokapital."
+  },
+  {
+   "id": "itsmf-ff-knowledge-2026-11",
+   "uid": "itsmf-ff-knowledge-2026-11@itsm-calendar.paan-group.com",
+   "title": "itSMF Fachforum Service Desk Knowledge Management",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "location": "Online",
+   "country": null,
+   "region": "Online",
+   "url": "https://www.itsmf.de/veranstaltung/fachforum-service-desk-knowledge-management-konstituierende-sitzung/",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Inaugural session of the itSMF working group on knowledge management in the service desk.",
+   "description_de": "Konstituierende Sitzung des itSMF-Fachforums zu Wissensmanagement im Service Desk."
+  },
+  {
+   "id": "change-congress-2026",
+   "uid": "change-congress-2026@itsm-calendar.paan-group.com",
+   "title": "Change Congress 2026",
+   "start": "2026-11-23",
+   "end": "2026-11-24",
+   "location": "Essen, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://live.handelsblatt.com/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Handelsblatt congress on change management and transformation.",
+   "description_de": "Handelsblatt-Kongress zu Change Management und Transformation."
+  },
+  {
+   "id": "bitkom-digital-health-2026",
+   "uid": "bitkom-digital-health-2026@itsm-calendar.paan-group.com",
+   "title": "Bitkom Digital Health Conference 2026",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.bitkom.org/Termine",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Bitkom conference on digital health.",
+   "description_de": "Bitkom-Konferenz zu Digital Health."
+  },
+  {
+   "id": "it-summit-heise-2026",
+   "uid": "it-summit-heise-2026@itsm-calendar.paan-group.com",
+   "title": "IT Summit by heise 2026",
+   "start": "2026-11-24",
+   "end": "2026-11-25",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/it-security",
+   "categories": [
+    "Digital Transformation",
+    "Security",
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "heise conference for IT decision-makers.",
+   "description_de": "heise-Konferenz für IT-Entscheider."
+  },
+  {
+   "id": "secuta-2026",
+   "uid": "secuta-2026@itsm-calendar.paan-group.com",
+   "title": "SECUTA 2026",
+   "start": "2026-11-25",
+   "end": "2026-11-27",
+   "location": "Starnberg, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Information security conference and networking for IT managers.",
+   "description_de": "Information-Security-Tagung und Networking für IT-Manager."
+  },
+  {
+   "id": "handelsblatt-webinar-ot-servicenow-2026",
+   "uid": "handelsblatt-webinar-ot-servicenow-2026@itsm-calendar.paan-group.com",
+   "title": "Handelsblatt Webinar: OT absichern mit Vulnerability Management & KI-Workflows",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "location": "Online",
+   "country": null,
+   "region": "Online",
+   "url": "https://live.handelsblatt.com/",
+   "categories": [
+    "ITSM",
+    "Security",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "webinar",
+   "note": "",
+   "description_en": "Free webinar (supported by ServiceNow) on prioritising OT vulnerabilities with AI workflows.",
+   "description_de": "Kostenloses Webinar (mit ServiceNow) zur Priorisierung von OT-Schwachstellen mit KI-Workflows."
+  },
+  {
+   "id": "it-futures-wien-2026",
+   "uid": "it-futures-wien-2026@itsm-calendar.paan-group.com",
+   "title": "IT Futures Wien 2026",
+   "start": "2026-11-26",
+   "end": "2026-11-27",
+   "location": "Wien (Austria Center), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "tradefair",
+   "note": "",
+   "description_en": "Austria's largest IT festival.",
+   "description_de": "Österreichs größtes IT-Festival."
+  },
+  {
+   "id": "sap-now-ai-tour-berlin-2026",
+   "uid": "sap-now-ai-tour-berlin-2026@itsm-calendar.paan-group.com",
+   "title": "SAP NOW AI Tour Germany",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "SAP customer event on business AI.",
+   "description_de": "SAP-Kundenevent zu Business AI."
+  },
+  {
+   "id": "devopscon-munich-2026",
+   "uid": "devopscon-munich-2026@itsm-calendar.paan-group.com",
+   "title": "DevOpsCon Munich 2026",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/dev-ops-con-munich-2026-lt81zyfa",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on DevOps, platform engineering and cloud.",
+   "description_de": "Konferenz zu DevOps, Platform Engineering und Cloud."
+  },
+  {
+   "id": "enterprise-devops-summit-2026",
+   "uid": "enterprise-devops-summit-2026@itsm-calendar.paan-group.com",
+   "title": "Enterprise DevOps Summit 2026",
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/enterprise-dev-ops-summit-2026-onseyujt",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Summit on DevOps in large organisations.",
+   "description_de": "Gipfel zu DevOps in Großorganisationen."
+  },
+  {
+   "id": "it-security-summit-munich-2026",
+   "uid": "it-security-summit-munich-2026@itsm-calendar.paan-group.com",
+   "title": "IT Security Summit München 2026",
+   "start": "2026-11-30",
+   "end": "2026-12-04",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/it-security-summit-munich-v4y-dbrg",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference and workshops on IT security.",
+   "description_de": "Konferenz und Workshops zur IT-Sicherheit."
   },
   {
    "id": "w-jax-2026",
@@ -1788,6 +2693,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Conference for Java, software architecture, cloud and AI engineering.",
    "description_de": "Konferenz für Java, Softwarearchitektur, Cloud und KI-Engineering."
@@ -1807,9 +2713,31 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "B2B service management strategy summit with online access.",
    "description_de": "Strategiegipfel B2B Service Management mit Diskussionen zu Service Management Strategien; Online-Teilnahme möglich."
+  },
+  {
+   "id": "itsmf-ff-ki-itsm-2026-12",
+   "uid": "itsmf-ff-ki-itsm-2026-12@itsm-calendar.paan-group.com",
+   "title": "itSMF Fachforum KI im ITSM",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "location": "Online",
+   "country": null,
+   "region": "Online",
+   "url": "https://www.itsmf.de/veranstaltung/fachforum-ki-im-itsm-8/",
+   "categories": [
+    "ITSM",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "itSMF Germany working group on the use and impact of AI in IT service management.",
+   "description_de": "Arbeitskreis des itSMF Deutschland zu Einsatz und Auswirkungen von KI im ITSM."
   },
   {
    "id": "it-tage-2026",
@@ -1830,9 +2758,51 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Annual IT conference covering IT management, software development, DevOps, cloud, AI and security.",
    "description_de": "Jährliche IT-Konferenz zu IT-Management, Softwareentwicklung, DevOps, Cloud, KI und Security."
+  },
+  {
+   "id": "itsmf-ff-mpm-2026-12",
+   "uid": "itsmf-ff-mpm-2026-12@itsm-calendar.paan-group.com",
+   "title": "itSMF Fachforum Multi Provider Management",
+   "start": "2026-12-14",
+   "end": "2026-12-14",
+   "location": "Online",
+   "country": null,
+   "region": "Online",
+   "url": "https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-11/",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "itSMF Germany working group on steering multiple IT service providers (SIAM).",
+   "description_de": "Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM)."
+  },
+  {
+   "id": "connected-27",
+   "uid": "connected-27@itsm-calendar.paan-group.com",
+   "title": "CONNECTED'27",
+   "start": "2027-01-27",
+   "end": "2027-01-28",
+   "location": "München (Microsoft), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://connectedconference.de/",
+   "categories": [
+    "AI",
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Microsoft-ecosystem conference on AI agents in operation – architecture and governance.",
+   "description_de": "Konferenz im Microsoft-Umfeld zu KI-Agenten im Betrieb – Architektur und Governance."
   },
   {
    "id": "learntec-2027",
@@ -1850,6 +2820,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Trade fair for digital learning and AI in education (moved to February from 2027).",
    "description_de": "Fachmesse für digitales Lernen und KI in der Weiterbildung (ab 2027 im Februar)."
@@ -1870,9 +2841,71 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Atlassian event for builders, admins and partners.",
    "description_de": "Atlassian-Event für Entwickler, Admins und Partner."
+  },
+  {
+   "id": "ki-governance-mittelstand-ihk-koblenz-2027",
+   "uid": "ki-governance-mittelstand-ihk-koblenz-2027@itsm-calendar.paan-group.com",
+   "title": "KI-Governance für den Mittelstand (IHK Koblenz)",
+   "start": "2027-02-04",
+   "end": "2027-02-04",
+   "location": "Koblenz, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.veranstaltung.koblenz.ihk.de/b?p=ki-governance2027",
+   "categories": [
+    "AI",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "workshop",
+   "note": "",
+   "description_en": "SME event on AI governance obligations under the EU AI Act.",
+   "description_de": "Veranstaltung für KMU zu KI-Governance-Pflichten nach dem EU AI Act."
+  },
+  {
+   "id": "eurocis-2027",
+   "uid": "eurocis-2027@itsm-calendar.paan-group.com",
+   "title": "EuroCIS 2027",
+   "start": "2027-02-16",
+   "end": "2027-02-18",
+   "location": "Düsseldorf (Messe), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "peripheral",
+   "status": "confirmed",
+   "format": "tradefair",
+   "note": "",
+   "description_en": "Leading trade fair for retail technology.",
+   "description_de": "Leitmesse für Retail Technology."
+  },
+  {
+   "id": "hamburger-it-strategietage-2027",
+   "uid": "hamburger-it-strategietage-2027@itsm-calendar.paan-group.com",
+   "title": "Hamburger IT-Strategietage 2027",
+   "start": "2027-02-17",
+   "end": "2027-02-18",
+   "location": "Hamburg, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/it-security",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Leading CIO/IT strategy event in northern Germany (one source lists 17–19 Feb).",
+   "description_de": "Führendes CIO-/IT-Strategie-Event in Norddeutschland (eine Quelle nennt 17.–19.02.)."
   },
   {
    "id": "ccw-2027",
@@ -1890,7 +2923,8 @@
    ],
    "relevance": "core",
    "status": "confirmed",
-   "note": "",
+   "format": "tradefair",
+   "note": "Messe 22.–25.02.; Kongress laut experte.de 23.–24.02.2027",
    "description_en": "Europe's leading trade fair and congress for customer service and contact centres.",
    "description_de": "Europas Leitmesse mit Kongress für Kundenservice und Contact Center."
   },
@@ -1909,6 +2943,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Conference on industrial and physical AI.",
    "description_de": "Konferenz zu industrieller und physischer KI."
@@ -1929,9 +2964,50 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Swiss cybersecurity congress; 2027 theme: When AI Acts – Securing the Next Digital Frontier.",
    "description_de": "Schweizer Cybersecurity-Kongress; Leitthema 2027: When AI Acts."
+  },
+  {
+   "id": "hamburger-logistiktage-2027",
+   "uid": "hamburger-logistiktage-2027@itsm-calendar.paan-group.com",
+   "title": "24. Hamburger Logistiktage",
+   "start": "2027-02-24",
+   "end": "2027-02-25",
+   "location": "Hamburg (Volksparkstadion), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://logistik-heute.de/termine/24-hamburger-logistiktage-hamburg-1510.html",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "peripheral",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Logistics conference incl. logistics IT and digitalisation.",
+   "description_de": "Logistikkonferenz inkl. Logistik-IT und Digitalisierung."
+  },
+  {
+   "id": "digitaler-staat-2027",
+   "uid": "digitaler-staat-2027@itsm-calendar.paan-group.com",
+   "title": "Digitaler Staat 2027",
+   "start": "2027-03-02",
+   "end": "2027-03-03",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.digitaler-staat.org/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Behörden Spiegel congress on IT and public administration modernisation (~3,000 participants).",
+   "description_de": "Kongress des Behörden Spiegel zu IT und Verwaltungsmodernisierung (rund 3.000 Teilnehmende)."
   },
   {
    "id": "service-space-2027",
@@ -1949,9 +3025,50 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Austria's leading independent ITSM conference: 32 sessions in 5 streams, PeopleCert CPD credits; service design, CMDB, AI and ESM.",
    "description_de": "Österreichs führende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams, PeopleCert-CPD-Punkte; Service Design, CMDB, KI und ESM."
+  },
+  {
+   "id": "authenticon-2027",
+   "uid": "authenticon-2027@itsm-calendar.paan-group.com",
+   "title": "authenticon 2027",
+   "start": "2027-03-10",
+   "end": "2027-03-11",
+   "location": "Dresden, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.linkedin.com/search/results/content/?keywords=authenticon%202027",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "tentative",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on digital identity and authentication (IAM).",
+   "description_de": "Konferenz zu digitaler Identität und Authentifizierung (IAM)."
+  },
+  {
+   "id": "secit-2027",
+   "uid": "secit-2027@itsm-calendar.paan-group.com",
+   "title": "secIT by heise 2027",
+   "start": "2027-03-10",
+   "end": "2027-03-11",
+   "location": "Hannover (HCC), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "heise meeting point for security users and vendors (workshop day 9 March).",
+   "description_de": "heise-Treffpunkt für Security-Anwender und -Anbieter (Workshoptag 09.03.)."
   },
   {
    "id": "cloudfest-2027",
@@ -1968,6 +3085,7 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "World's leading internet infrastructure and cloud industry event.",
    "description_de": "Weltweit führendes Event der Internet-Infrastruktur- und Cloud-Branche."
@@ -1988,9 +3106,30 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Flagship cloud-native and Kubernetes conference.",
    "description_de": "Leitkonferenz für Cloud Native und Kubernetes."
+  },
+  {
+   "id": "transform-berlin-2027",
+   "uid": "transform-berlin-2027@itsm-calendar.paan-group.com",
+   "title": "TRANSFORM 2027",
+   "start": "2027-03-17",
+   "end": "2027-03-18",
+   "location": "Berlin (STATION-Berlin), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Platform for corporate digital transformation.",
+   "description_de": "Plattform für die digitale Transformation von Unternehmen."
   },
   {
    "id": "hannover-messe-2027",
@@ -2008,6 +3147,7 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "World's leading industrial technology fair incl. AI and IT/OT tracks.",
    "description_de": "Weltleitmesse der Industrietechnik inkl. KI- und IT/OT-Themen."
@@ -2027,9 +3167,30 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Europe's leading digital health event, first edition in Munich.",
    "description_de": "Europas Leitveranstaltung für Digital Health, erstmals in München."
+  },
+  {
+   "id": "richmond-it-forum-2027",
+   "uid": "richmond-it-forum-2027@itsm-calendar.paan-group.com",
+   "title": "Richmond IT Forum 2027",
+   "start": "2027-04-13",
+   "end": "2027-04-14",
+   "location": "Interlaken (Victoria-Jungfrau), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Invitation-only forum for CIOs and IT leaders.",
+   "description_de": "Forum für CIOs und IT-Verantwortliche (nur auf Einladung)."
   },
   {
    "id": "atlassian-team-27",
@@ -2047,9 +3208,31 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Atlassian's global flagship conference.",
    "description_de": "Globale Atlassian-Leitkonferenz."
+  },
+  {
+   "id": "ki-x-compliance-2027",
+   "uid": "ki-x-compliance-2027@itsm-calendar.paan-group.com",
+   "title": "KI-X Compliance & Governance 2027",
+   "start": "2027-04-20",
+   "end": "2027-04-21",
+   "location": "Berlin (Quadriga Campus), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://compliance.ki-x.berlin/",
+   "categories": [
+    "AI",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "New AI conference on governance in practice: risk management, data protection, internal controls.",
+   "description_de": "Neue KI-Konferenz zu AI Governance in der Praxis: Risikomanagement, Datenschutz, interne Kontrollen."
   },
   {
    "id": "cybersecurity-summit-hamburg-2027",
@@ -2066,9 +3249,70 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "German cybersecurity conference on cyber risk and governance.",
    "description_de": "Deutsche Cybersecurity-Konferenz zu Cyber-Risiken und Governance."
+  },
+  {
+   "id": "transport-logistic-2027",
+   "uid": "transport-logistic-2027@itsm-calendar.paan-group.com",
+   "title": "transport logistic 2027",
+   "start": "2027-04-26",
+   "end": "2027-04-29",
+   "location": "München (Messe), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://transportlogistic.de/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "peripheral",
+   "status": "confirmed",
+   "format": "tradefair",
+   "note": "",
+   "description_en": "World's leading logistics trade fair incl. IT and supply chain management.",
+   "description_de": "Weltleitmesse der Logistik inkl. IT und Supply-Chain-Management."
+  },
+  {
+   "id": "cba-aachen-2027",
+   "uid": "cba-aachen-2027@itsm-calendar.paan-group.com",
+   "title": "CBA – Congress on Business Applications 2027",
+   "start": "2027-04-27",
+   "end": "2027-04-28",
+   "location": "Aachen, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Congress on ERP and business applications.",
+   "description_de": "Kongress zu ERP und Business Applications."
+  },
+  {
+   "id": "mastering-ai-2027",
+   "uid": "mastering-ai-2027@itsm-calendar.paan-group.com",
+   "title": "Mastering AI 2027",
+   "start": "2027-04-28",
+   "end": "2027-04-29",
+   "location": "Karlsruhe, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/mastering-ai-2027-v3y-2i7u",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on applying AI in companies.",
+   "description_de": "Konferenz zum Einsatz von KI in Unternehmen."
   },
   {
    "id": "omr-festival-2027",
@@ -2086,9 +3330,30 @@
    ],
    "relevance": "peripheral",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Digital marketing and tech festival, first time over three days.",
    "description_de": "Digital-Marketing- und Tech-Festival, erstmals an drei Tagen."
+  },
+  {
+   "id": "it-sicherheitstag-mainz-2027",
+   "uid": "it-sicherheitstag-mainz-2027@itsm-calendar.paan-group.com",
+   "title": "IT-Sicherheitstag Mainz 2027",
+   "start": "2027-05-04",
+   "end": "2027-05-04",
+   "location": "Mainz (Hochschule), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on information security.",
+   "description_de": "Konferenz rund um die Informationssicherheit."
   },
   {
    "id": "servicenow-knowledge-2027",
@@ -2106,9 +3371,90 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "ServiceNow's global annual flagship conference.",
    "description_de": "Globale ServiceNow-Jahreskonferenz."
+  },
+  {
+   "id": "cpt-muenchen-2027",
+   "uid": "cpt-muenchen-2027@itsm-calendar.paan-group.com",
+   "title": "CPT – Connect. Protect. Transform. 2027",
+   "start": "2027-05-11",
+   "end": "2027-05-13",
+   "location": "München (Allianz Arena), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "360° cybersecurity event.",
+   "description_de": "Event für den 360°-Blick auf Cybersecurity."
+  },
+  {
+   "id": "human-x-ai-vienna-2027",
+   "uid": "human-x-ai-vienna-2027@itsm-calendar.paan-group.com",
+   "title": "Human x AI Vienna",
+   "start": "2027-05-11",
+   "end": "2027-05-11",
+   "location": "Wien, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/human-x-ai-vienna-jmhpvazi",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on human-AI collaboration.",
+   "description_de": "Konferenz zur Zusammenarbeit von Mensch und KI."
+  },
+  {
+   "id": "usu-partner-summit-2027",
+   "uid": "usu-partner-summit-2027@itsm-calendar.paan-group.com",
+   "title": "USU International Partner Summit 2027",
+   "start": "2027-05-11",
+   "end": "2027-05-11",
+   "location": "Rust (Europa-Park, Confertainment Center), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://partnersummit.usu.com/",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "USU partner day ahead of USU World (free of charge).",
+   "description_de": "Partnertag von USU vor der USU World (kostenfrei)."
+  },
+  {
+   "id": "deutscher-innovationsgipfel-2027",
+   "uid": "deutscher-innovationsgipfel-2027@itsm-calendar.paan-group.com",
+   "title": "Deutscher Innovationsgipfel 2027",
+   "start": "2027-05-12",
+   "end": "2027-05-12",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Summit on innovation and digital transformation.",
+   "description_de": "Gipfel zu Innovation und digitaler Transformation."
   },
   {
    "id": "rise-of-ai-2027",
@@ -2125,9 +3471,31 @@
    ],
    "relevance": "related",
    "status": "tentative",
+   "format": "conference",
    "note": "",
    "description_en": "AI leadership conference; sources conflict (12 May vs 5–6 May).",
    "description_de": "KI-Leadership-Konferenz; Quellen widersprüchlich (12.05. vs. 05.–06.05.)."
+  },
+  {
+   "id": "usu-world-2027",
+   "uid": "usu-world-2027@itsm-calendar.paan-group.com",
+   "title": "USU World 2027",
+   "start": "2027-05-12",
+   "end": "2027-05-13",
+   "location": "Rust (Europa-Park), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://partnersummit.usu.com/",
+   "categories": [
+    "ITSM",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "USU user conference on IT service management, knowledge management and IT asset management.",
+   "description_de": "USU-Anwenderkonferenz zu IT Service Management, Wissensmanagement und IT Asset Management."
   },
   {
    "id": "sits-2027",
@@ -2144,6 +3512,7 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's leading event for ITSM, service desk and IT support professionals.",
    "description_de": "Europas führendes Event für ITSM, Service Desk und IT-Support."
@@ -2165,9 +3534,51 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Co-located shows on cloud, data & AI, data centres and cyber security.",
    "description_de": "Parallelmessen zu Cloud, Daten & KI, Rechenzentren und Cybersecurity."
+  },
+  {
+   "id": "bettercode-agentic-ai-2027",
+   "uid": "bettercode-agentic-ai-2027@itsm-calendar.paan-group.com",
+   "title": "betterCode() Agentic AI Summit 2027",
+   "start": "2027-06-01",
+   "end": "2027-06-02",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/better-code-agentic-ai-summit-2027-mu07dpgc",
+   "categories": [
+    "AI",
+    "Developer"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "heise/iX summit on agentic AI.",
+   "description_de": "Summit von heise/iX zu agentischer KI."
+  },
+  {
+   "id": "serview27-pre-conference",
+   "uid": "serview27-pre-conference@itsm-calendar.paan-group.com",
+   "title": "SERVIEW27 Pre-Conference",
+   "start": "2027-06-07",
+   "end": "2027-06-07",
+   "location": "Seeheim-Jugenheim (Lufthansa Hotel & Campus), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.serview-summit.com/",
+   "categories": [
+    "ITSM"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "workshop",
+   "note": "",
+   "description_en": "Pre-conference day of SERVIEW27.",
+   "description_de": "Vortag (Pre-Conference) der SERVIEW27."
   },
   {
    "id": "infosecurity-europe-2027",
@@ -2184,9 +3595,112 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "One of Europe's largest cybersecurity events.",
    "description_de": "Eines der grössten Cybersecurity-Events Europas."
+  },
+  {
+   "id": "serview27",
+   "uid": "serview27@itsm-calendar.paan-group.com",
+   "title": "SERVIEW27 – Kongress & Expo",
+   "start": "2027-06-08",
+   "end": "2027-06-10",
+   "location": "Seeheim-Jugenheim (Lufthansa Hotel & Campus), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.serview-summit.com/",
+   "categories": [
+    "ITSM",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Europe's largest congress and expo for ITSM, ESM, ITOM and ITAM – 'Service Management in the Age of AI', 50+ sponsors.",
+   "description_de": "Europas größte Kongressmesse für ITSM, ESM, ITOM und ITAM – 'Service Management im KI-Zeitalter', über 50 Aussteller."
+  },
+  {
+   "id": "cloud-native-summit-2027",
+   "uid": "cloud-native-summit-2027@itsm-calendar.paan-group.com",
+   "title": "Cloud Native Summit 2027",
+   "start": "2027-06-14",
+   "end": "2027-06-15",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/cloud-native-summit-2027-unqu0j2d",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on cloud-native technologies.",
+   "description_de": "Konferenz zu Cloud-Native-Technologien."
+  },
+  {
+   "id": "devopscon-berlin-2027",
+   "uid": "devopscon-berlin-2027@itsm-calendar.paan-group.com",
+   "title": "DevOpsCon Berlin 2027",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/dev-ops-con-berlin-2027-7qh41li5",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on DevOps, platform engineering and cloud.",
+   "description_de": "Konferenz zu DevOps, Platform Engineering und Cloud."
+  },
+  {
+   "id": "it-security-summit-berlin-2027",
+   "uid": "it-security-summit-berlin-2027@itsm-calendar.paan-group.com",
+   "title": "IT Security Summit Berlin 2027",
+   "start": "2027-06-14",
+   "end": "2027-06-18",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/it-security-summit-berlin-2027-lyvqmegg",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference and workshops on IT security.",
+   "description_de": "Konferenz und Workshops zur IT-Sicherheit."
+  },
+  {
+   "id": "nuernberg-digital-festival-2027",
+   "uid": "nuernberg-digital-festival-2027@itsm-calendar.paan-group.com",
+   "title": "Nürnberg Digital Festival 2027",
+   "start": "2027-06-14",
+   "end": "2027-06-24",
+   "location": "Nürnberg, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/nuernberg-digital-festival-2027-hk34m-nu",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Ten-day festival on digitalisation in the Nuremberg metropolitan region.",
+   "description_de": "Zehntägiges Festival zur Digitalisierung in der Metropolregion Nürnberg."
   },
   {
    "id": "accelerate-tomorrow-ai-summit-2027",
@@ -2204,9 +3718,72 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Summit on enterprise AI implementation.",
    "description_de": "Gipfel zur Umsetzung von KI im Unternehmen."
+  },
+  {
+   "id": "dikitale-2027",
+   "uid": "dikitale-2027@itsm-calendar.paan-group.com",
+   "title": "DIKITALE 2027",
+   "start": "2027-06-16",
+   "end": "2027-06-17",
+   "location": "Düsseldorf (Messe), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "tradefair",
+   "note": "",
+   "description_en": "SME forum for digitalisation and AI.",
+   "description_de": "Mittelstandsforum für Digitalisierung und KI."
+  },
+  {
+   "id": "tdwi-muenchen-2027",
+   "uid": "tdwi-muenchen-2027@itsm-calendar.paan-group.com",
+   "title": "TDWI München 2027",
+   "start": "2027-06-16",
+   "end": "2027-06-18",
+   "location": "München (MOC), DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.tdwi-konferenz.de/",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Leading DACH conference for data, analytics, AI and data governance.",
+   "description_de": "Führende DACH-Konferenz für Daten, Analytics, KI und Data Governance."
+  },
+  {
+   "id": "mlcon-munich-2027",
+   "uid": "mlcon-munich-2027@itsm-calendar.paan-group.com",
+   "title": "MLcon Munich 2027",
+   "start": "2027-06-21",
+   "end": "2027-06-25",
+   "location": "München, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://dev.events/conferences/m-lcon-munich-2027-niz0e-mm",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Machine learning and generative AI engineering conference.",
+   "description_de": "Konferenz zu Machine Learning und GenAI-Engineering."
   },
   {
    "id": "serviceware-forum-2027",
@@ -2224,9 +3801,30 @@
    ],
    "relevance": "core",
    "status": "confirmed",
+   "format": "forum",
    "note": "",
    "description_en": "Serviceware user conference on ESM, knowledge management and AI in service management.",
    "description_de": "Serviceware-Anwenderkonferenz zu ESM, Wissensmanagement und KI im Service Management."
+  },
+  {
+   "id": "digital-excellence-conference-2027",
+   "uid": "digital-excellence-conference-2027@itsm-calendar.paan-group.com",
+   "title": "13. digital excellence conference",
+   "start": "2027-06-23",
+   "end": "2027-06-24",
+   "location": "Frankfurt am Main, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on digital excellence and transformation.",
+   "description_de": "Konferenz zu Digital Excellence und Transformation."
   },
   {
    "id": "wearedevelopers-2027",
@@ -2245,9 +3843,51 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "conference",
    "note": "",
    "description_en": "Large developer and AI congress.",
    "description_de": "Grosser Entwickler- und KI-Kongress."
+  },
+  {
+   "id": "aidaq-2027",
+   "uid": "aidaq-2027@itsm-calendar.paan-group.com",
+   "title": "Bitkom AIDAQ 2027",
+   "start": "2027-09-21",
+   "end": "2027-09-22",
+   "location": "Berlin, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://aidaq.berlin/",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Bitkom's AI, data & quantum conference incl. strategy and governance.",
+   "description_de": "KI-, Daten- und Quanten-Konferenz des Bitkom inkl. Strategie und Governance."
+  },
+  {
+   "id": "richmond-cybersecurity-forum-2027",
+   "uid": "richmond-cybersecurity-forum-2027@itsm-calendar.paan-group.com",
+   "title": "Richmond Cybersecurity Forum 2027",
+   "start": "2027-09-21",
+   "end": "2027-09-22",
+   "location": "Davos, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/1518/branche/it-loesungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Invitation-only forum for CISOs.",
+   "description_de": "Forum für CISOs (nur auf Einladung)."
   },
   {
    "id": "dmexco-2027",
@@ -2264,9 +3904,30 @@
    ],
    "relevance": "peripheral",
    "status": "tentative",
+   "format": "tradefair",
    "note": "",
    "description_en": "Digital marketing & tech event (most-cited date, not officially confirmed).",
    "description_de": "Digital-Marketing- & Tech-Event (meistgenannter Termin, nicht offiziell bestätigt)."
+  },
+  {
+   "id": "netforum-bregenz-2027",
+   "uid": "netforum-bregenz-2027@itsm-calendar.paan-group.com",
+   "title": "netforum 2027",
+   "start": "2027-09-22",
+   "end": "2027-09-23",
+   "location": "Bregenz, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.experte.de/events/digitalisierung",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Austrian conference on digitalisation.",
+   "description_de": "Österreichische Konferenz zur Digitalisierung."
   },
   {
    "id": "smart-country-convention-2027",
@@ -2283,6 +3944,7 @@
    ],
    "relevance": "related",
    "status": "tentative",
+   "format": "conference",
    "note": "",
    "description_en": "Public-sector digitalisation congress (date from aggregator, organiser says 'October 2027').",
    "description_de": "Kongress für Verwaltungsdigitalisierung (Datum aus Aggregator, Veranstalter: 'Oktober 2027')."
@@ -2302,9 +3964,30 @@
    ],
    "relevance": "related",
    "status": "confirmed",
+   "format": "tradefair",
    "note": "",
    "description_en": "Europe's leading IT security expo; conference on the first two days.",
    "description_de": "Europas führende IT-Security-Messe; Kongress an den ersten beiden Tagen."
+  },
+  {
+   "id": "logistics-summit-2027",
+   "uid": "logistics-summit-2027@itsm-calendar.paan-group.com",
+   "title": "Logistics Summit 2027",
+   "start": "2027-10-06",
+   "end": "2027-10-07",
+   "location": "Düsseldorf, DE",
+   "country": "DE",
+   "region": "DACH",
+   "url": "https://www.messen.de/de/21108/hamburg/logistics-summit/info",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "peripheral",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Trade fair and conference on digitalising logistics.",
+   "description_de": "Messe und Konferenz zur Digitalisierung der Logistik."
   }
  ]
 }

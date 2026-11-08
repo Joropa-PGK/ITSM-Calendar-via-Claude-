@@ -16,7 +16,7 @@ import json
 import yaml
 
 from export_xlsx import write_xlsx
-from common import DATA, DOCS, as_date, categorise, load_events, region_for, relevance_for, to_ics, uid_for
+from common import DATA, DOCS, as_date, categorise, infer_format, load_events, region_for, relevance_for, to_ics, uid_for
 
 REQUIRED = ("id", "title", "start", "url")
 
@@ -36,8 +36,19 @@ def validate(events: list[dict]) -> list[dict]:
         ev.setdefault("region", region_for(ev.get("country")))
         ev.setdefault("relevance", relevance_for(ev["categories"], ev["title"]))
         ev.setdefault("status", "confirmed")
+        ev.setdefault("format", infer_format(ev["title"], ev.get("description_en", "")))
         out.append(ev)
     return out
+
+
+def translate_expected(text: str) -> str:
+    """German month/term wording of watchlist dates -> English."""
+    repl = {"vorauss.": "expected", "offen": "TBA", "Januar": "January", "Februar": "February", "März": "March",
+            "Mai": "May", "Juni": "June", "Juli": "July", "Okt": "Oct", "Dez": "Dec", "eine Quelle nennt": "one source says",
+            "Herbst": "Autumn"}
+    for de, en in repl.items():
+        text = text.replace(de, en)
+    return text
 
 
 def write_markdown(events: list[dict]) -> None:
@@ -86,7 +97,7 @@ def main() -> None:
             "start": str(as_date(e["start"])), "end": str(as_date(e.get("end") or e["start"])),
             "location": e.get("location", ""), "country": e.get("country"), "region": e["region"],
             "url": e["url"], "categories": e["categories"], "relevance": e["relevance"],
-            "status": e["status"], "note": e.get("note", ""),
+            "status": e["status"], "format": e["format"], "note": e.get("note", ""),
             "description_en": e.get("description_en", ""), "description_de": e.get("description_de", ""),
         })
     (DOCS / "events.json").write_text(
@@ -95,6 +106,8 @@ def main() -> None:
 
     write_markdown(events)
     watch = yaml.safe_load((DATA / "watchlist.yaml").read_text(encoding="utf-8")) or []
+    for w in watch:
+        w.setdefault("expected_en", translate_expected(str(w.get("expected", ""))))
     (DOCS / "watchlist.json").write_text(json.dumps(watch, ensure_ascii=False, indent=1), encoding="utf-8")
     write_xlsx(events, watch, DOCS / "events.xlsx", stamp)
     print(f"events.json: {len(payload)} | watchlist.json: {len(watch)}")
