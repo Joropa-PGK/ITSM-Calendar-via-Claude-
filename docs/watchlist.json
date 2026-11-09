@@ -302,5 +302,107 @@
    "Digital Transformation"
   ],
   "expected_en": "TBA"
+ },
+ {
+  "title": "ContainerDays Hamburg 2027",
+  "expected": "Sep 2027 (vorauss.)",
+  "location": "Hamburg, DE",
+  "url": "https://www.containerdays.io/",
+  "categories": [
+   "Cloud"
+  ],
+  "expected_en": "Sep 2027 (expected)"
+ },
+ {
+  "title": "Nullcon Berlin 2027",
+  "expected": "Nov 2027 (vorauss.)",
+  "location": "Berlin, DE",
+  "url": "https://nullcon.net/",
+  "categories": [
+   "Security"
+  ],
+  "expected_en": "Nov 2027 (expected)"
+ },
+ {
+  "title": "FabCon Europe 2027",
+  "expected": "offen",
+  "location": "Europa",
+  "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference/",
+  "categories": [
+   "AI",
+   "Cloud"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Tech Days 2027 (Bayern Innovativ)",
+  "expected": "Juli 2027 (vorauss.)",
+  "location": "München, DE",
+  "url": "https://www.bayern-innovativ.de/",
+  "categories": [
+   "Security",
+   "AI"
+  ],
+  "expected_en": "July 2027 (expected)"
+ },
+ {
+  "title": "Ivanti LIVE! Europe 2027",
+  "expected": "Juni 2027 (vorauss.)",
+  "location": "UK / NL",
+  "url": "https://www.ivanti.com/company/events",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "June 2027 (expected)"
+ },
+ {
+  "title": "BMC Exchange / BMC Helix Event DACH 2027",
+  "expected": "offen",
+  "location": "DACH",
+  "url": "https://www.bmc.com/events/",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "SolarWinds Day / World Tour DACH 2027",
+  "expected": "offen",
+  "location": "DACH",
+  "url": "https://www.solarwinds.com/events/",
+  "categories": [
+   "Cloud"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Freshworks Refresh Europe 2027",
+  "expected": "offen",
+  "location": "Europa",
+  "url": "https://www.freshworks.com/events/",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Jira Day 2027 (Deviniti)",
+  "expected": "offen",
+  "location": "Kraków, PL",
+  "url": "https://deviniti.com/blog/events/",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Employee Engagement Summit Europe 2027",
+  "expected": "Juni 2027 (vorauss.)",
+  "location": "Berlin, DE",
+  "url": "https://www.we-conect.com/",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "June 2027 (expected)"
  }
 ]

@@ -88,17 +88,22 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
 | 03.06.–04.06.2026 | [Infosecurity Europe](https://www.infosecurityeurope.com/en-gb.html) | London, UK | verwandt |
+| 04.06.2026 | [Freshworks Refresh Virtual Summit 2026](https://community.freshworks.com/events/register-now-refresh-virtual-summit-2026-471) | Online | ITSM |
 | 08.06.–12.06.2026 | [London Tech Week](https://londontechweek.com/) | London, UK | verwandt |
 | 08.06.–09.06.2026 | [Zukunftskongress 2026](https://zukunftskongress.2bahead.com/) | Berlin, DE | verwandt |
+| 09.06.2026 | [Ivanti LIVE! Netherlands 2026](https://www.ivanti.com/en-gb/lp/customers/events/2026/2026-ivanti-live-soesterberg) | Soesterberg (Nationaal Militair Museum), NL | ITSM |
 | 09.06.2026 | [Nextcloud Summit 2026](https://nextcloud.com/summit-2026/) | Munich, DE | verwandt |
 | 09.06.–10.06.2026 | [Zukunftskongress Staat & Verwaltung 2026](https://www.zukunftskongress.info/) | Berlin (bcc), DE | verwandt |
 | 15.06.–17.06.2026 | [ITIL 4 Foundation Training](https://www.theknowledgeacademy.com/ch/courses/itil-training/itil-foundation/zurich/) | Zurich, CH | Rand |
+| 16.06.2026 | [Ivanti LIVE! London 2026](https://www.ivanti.com/en-gb/lp/customers/events/2026/2026-ivanti-live-london) | Weybridge (Mercedes-Benz World), UK | ITSM |
 | 17.06.–20.06.2026 | [VivaTech](https://vivatech.com/) | Paris, FR | Rand |
 | 22.06.–26.06.2026 | [MLcon Europe 2026 – Munich/Online](https://mlconference.ai/munich/) | Munich, DE | verwandt |
 | 23.06.–25.06.2026 | [TDWI München 2026](https://www.tdwi-konferenz.de/) | München (MOC), DE | verwandt |
 | 29.06.–30.06.2026 | [ADV e-Government Konferenz 2026](https://www.ossbig.at/event/adv-e-government-konferenz-2026/) | Villach, AT | verwandt |
+| 29.06.–30.06.2026 | [Employee Engagement Summit Europe 2026](https://www.we-conect.com/) | Berlin (Maritim proArte), DE | verwandt |
 | 29.06.–30.06.2026 | [IT Infrastructure & Operations Summit Berlin](https://www.it-infrastructure-operations-summit.com/) | Berlin, DE | verwandt |
 | 29.06.–30.06.2026 | [IT Service Management Summit DACH](https://www.it-service-management-summit.com/) | Berlin, DE | ITSM |
+| 29.06.–30.06.2026 | [Intranet Reloaded Europe 2026](https://www.tradefairdates.com/Intranet-Reloaded-M12252/Berlin.html) | Berlin (Maritim), DE | verwandt |
 | 30.06.–01.07.2026 | [GITEX AI Europe 2026](https://www.gitex-europe.com/) | Berlin (Messe Berlin), DE | verwandt |
 | 30.06.2026 | [MSP Managed Services Summit Benelux](https://www.managedservices-summit.com/benelux) | Amsterdam, NL | verwandt |
 | 30.06.2026 | [Salesforce World Tour London](https://www.salesforce.com/uk/events/) | London, UK | verwandt |
@@ -108,6 +113,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
 | 08.07.–10.07.2026 | [WeAreDevelopers World Congress 2026](https://www.wearedevelopers.com/world-congress/) | Berlin, DE | verwandt |
+| 15.07.–16.07.2026 | [Tech Days 2026](https://www.bayern-innovativ.de/events-termine/detail/tech-days-2026) | München (Werksviertel), DE | verwandt |
 
 ### August 2026
 
@@ -120,6 +126,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 02.09.–04.09.2026 | [ContainerDays Hamburg 2026](https://www.containerdays.io/) | Hamburg, DE | verwandt |
 | 07.09.–09.09.2026 | [Handelsblatt Summit Zukunft IT 2026](https://live.handelsblatt.com/) | Düsseldorf, DE | verwandt |
 | 08.09.2026 | [Digital X 2026](https://www.digital-x.eu/) | Köln, DE | verwandt |
 | 09.09.2026 | [Managed Services Summit – London](https://www.managedservices-summit.com/london) | London, UK | verwandt |
@@ -130,6 +137,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 17.09.2026 | [KI Day 2026](https://www.experte.de/events/ki) | Köln, DE | verwandt |
 | 23.09.–24.09.2026 | [AI, Data & Quantum Summit 2026](https://www.experte.de/events/ki) | Berlin, DE | verwandt |
 | 23.09.–24.09.2026 | [DMEXCO](https://dmexco.com/) | Cologne, DE | Rand |
+| 28.09.–01.10.2026 | [FabCon Europe 2026 (Microsoft Fabric + SQL Community Conference)](https://www.sharepointeurope.com/european-microsoft-fabric-community-conference/) | Barcelona (CCIB), ES | verwandt |
 | 29.09.–30.09.2026 | [Cloud Native Days Austria](https://cloudnativedays.at/) | Vienna, AT | verwandt |
 | 30.09.–01.10.2026 | [Swiss IT Forum(s)](https://www.swiss-it-forums.tech/en/) | Geneva, CH | verwandt |
 
@@ -139,6 +147,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 |---|---|---|---|
 | 06.10.2026 | [AFSMI Service Branch Gathering](https://afsmi.de) | Stuttgart, DE | ITSM |
 | 06.10.–08.10.2026 | [Atlassian Team '26 Europe](https://events.atlassian.com/teameurope) | Amsterdam (RAI), NL | ITSM |
+| 07.10.–09.10.2026 | [ISACA Europe Conference 2026](https://www.isaca.org/about-us/newsroom/press-releases/2026/ai-governance-cyber-resilience-and-digital-trust-to-take-centre-stage-at-isaca-europe-conference) | München, DE | verwandt |
 | 07.10.2026 | [ServiceNow AI Summit München](https://www.servicenow.com/events/ai-summits.html) | München (Motorworld), DE | ITSM |
 | 12.10.–14.10.2026 | [M365 Summit 2026](https://www.experte.de/events/it-security) | Mainz, DE | verwandt |
 | 13.10.–15.10.2026 | [Smart Country Convention (SCCON) 2026](https://www.smart-country-convention.de/) | Berlin (Messe Berlin, hub27), DE | verwandt |
@@ -153,11 +162,13 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 02.11.–06.11.2026 | [Nullcon Berlin 2026](https://nullcon.net/) | Berlin (The Westin Grand), DE | verwandt |
 | 03.11.2026 | [ManageEngine UserConf Schweiz 2026](https://www.manageengine.com/events/) | Zürich (Crowne Plaza), CH | ITSM |
 | 03.11.2026 | [ServiceNow AI Summit Frankfurt](https://www.servicenow.com/events/ai-summits.html) | Frankfurt am Main (Kap Europa), DE | ITSM |
 | 04.11.2026 | [Digital Workplace Summit by Communardo](https://www.experte.de/events/digitalisierung) | Dresden, DE | ITSM |
 | 04.11.–05.11.2026 | [Service Summit 2026](https://www.deloitte.com/de/de/services/consulting/events/service-summit.html) | Düsseldorf, DE | ITSM |
 | 05.11.2026 | [ADV Rechtstag 2026 – KI. Recht. Realität.](https://www.adv.at/events/rechtstag-2026/) | Wien (IBM Austria), AT | verwandt |
+| 05.11.2026 | [Innovationskonferenz Cybersicherheit 2026 & 11. Deutscher IT-Sicherheitspreis](https://www.bitkom.org/Innovationskonferenz-Cybersicherheit-2026) | Bochum, DE | verwandt |
 | 05.11.2026 | [TEFO 2026 – Studerus Technology Forum](https://www.itreseller.ch/veranstaltungen) | Regensdorf, CH | verwandt |
 | 09.11.2026 | [Bitkom Fachtag Software x AI](https://www.bitkom.org/Termine) | Berlin, DE | verwandt |
 | 09.11.–12.11.2026 | [Gartner IT Symposium/Xpo 2026](https://www.gartner.com/en/conferences/emea/symposium-spain) | Barcelona (CCIB), ES | verwandt |
@@ -203,6 +214,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 26.11.–27.11.2026 | [IT Futures Wien 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Wien (Austria Center), AT | verwandt |
 | 26.11.2026 | [Open-i 2026 – The Swiss Innovation Platform](https://www.netzwoche.ch/events) | Zürich (Kongresshaus), CH | verwandt |
 | 26.11.2026 | [SAP NOW AI Tour Germany](https://www.experte.de/events/digitalisierung) | Berlin, DE | verwandt |
+| 26.11.–27.11.2026 | [Service Desk & Service Management World 2026](https://live.handelsblatt.com/event/service-desk-service-management-world/) | Düsseldorf (Handelsblatt Media Group) & digital, DE | ITSM |
 | 30.11.–04.12.2026 | [DevOpsCon Munich 2026](https://dev.events/conferences/dev-ops-con-munich-2026-lt81zyfa) | München, DE | verwandt |
 | 30.11.–01.12.2026 | [Enterprise DevOps Summit 2026](https://dev.events/conferences/enterprise-dev-ops-summit-2026-onseyujt) | Berlin, DE | verwandt |
 | 30.11.–04.12.2026 | [IT Security Summit München 2026](https://dev.events/conferences/it-security-summit-munich-v4y-dbrg) | München, DE | verwandt |
@@ -216,6 +228,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 02.12.2026 | [itSMF Fachforum KI im ITSM](https://www.itsmf.de/veranstaltung/fachforum-ki-im-itsm-8/) | Online | ITSM |
 | 03.12.2026 | [EU Digital Day 2026](https://www.ffg.at/europa/veranstaltung/digital-europe-day/2026-12-3) | Wien (WKO), AT | verwandt |
 | 07.12.–10.12.2026 | [IT-Tage 2026](https://www.ittage.informatik-aktuell.de/) | Frankfurt am Main (Kap Europa), DE | verwandt |
+| 08.12.–09.12.2026 | [BMC AMI Innovation Days 2026](https://www.bmc.com/events/bmc-ami-innovation-day-cologne.html) | Köln (Marriott), DE | ITSM |
 | 14.12.2026 | [itSMF Fachforum Multi Provider Management](https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-11/) | Online | ITSM |
 
 ## 2027
@@ -327,6 +340,7 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 22.06.–23.06.2027 | [Serviceware Forum 2027](https://www.rmcc.de/en/veranstaltungen/serviceware-forum) | Wiesbaden (RMCC), DE | ITSM |
 | 23.06.–24.06.2027 | [13. digital excellence conference](https://www.experte.de/events/digitalisierung) | Frankfurt am Main, DE | verwandt |
 | 27.06.–30.06.2027 | [Swiss IT Leadership Forum 2027](https://www.swiss-it-leadership-forum.ch/en/program) | Davos (Schatzalp), CH | verwandt |
+| 28.06.–29.06.2027 | [Intranet Reloaded Europe 2027 (TBC)](https://www.tradefairdates.com/Intranet-Reloaded-M12252/Berlin.html) | Berlin, DE | verwandt |
 
 ### Juli 2027
 
@@ -366,4 +380,5 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 17.10.–19.10.2027 | [CIO Kongress 2027 – RE:HUMAN](https://lsz.at/kongress/cio-kongress-loipersdorf) | Loipersdorf (Congress), AT | verwandt |
 | 25.10.–26.10.2027 | [CV Summit 2027](https://www.cvsummit.ch/event-info/) | Zürich (Kongresshaus), CH | verwandt |
 | 26.10.2027 | [Swiss Cyber Storm 2027](https://www.swisscyberstorm.com/) | Bern (Kursaal), CH | verwandt |
+| 27.10.–29.10.2027 | [ISACA Europe Conference 2027 (TBC)](https://www.escudodigital.com/en/cybersecurity/isaca-european-conference-2026-part-ii-governing-ai-and-assessing-cybersecurity-effectiveness.html) | Barcelona, ES | verwandt |
 | 28.10.2027 | [Service Management Forum Schweiz (SMFS) 2027](https://www.smfs.ch/) | Zürich, CH | ITSM |

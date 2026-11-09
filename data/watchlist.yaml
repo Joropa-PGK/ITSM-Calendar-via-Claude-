@@ -184,3 +184,65 @@
   url: https://confare.at/c/konferenzen/ciosummits-dach/
   categories:
   - Digital Transformation
+- title: ContainerDays Hamburg 2027
+  expected: Sep 2027 (vorauss.)
+  location: Hamburg, DE
+  url: https://www.containerdays.io/
+  categories:
+  - Cloud
+- title: Nullcon Berlin 2027
+  expected: Nov 2027 (vorauss.)
+  location: Berlin, DE
+  url: https://nullcon.net/
+  categories:
+  - Security
+- title: FabCon Europe 2027
+  expected: offen
+  location: Europa
+  url: https://www.sharepointeurope.com/european-microsoft-fabric-community-conference/
+  categories:
+  - AI
+  - Cloud
+- title: Tech Days 2027 (Bayern Innovativ)
+  expected: Juli 2027 (vorauss.)
+  location: München, DE
+  url: https://www.bayern-innovativ.de/
+  categories:
+  - Security
+  - AI
+- title: Ivanti LIVE! Europe 2027
+  expected: Juni 2027 (vorauss.)
+  location: UK / NL
+  url: https://www.ivanti.com/company/events
+  categories:
+  - ITSM
+- title: BMC Exchange / BMC Helix Event DACH 2027
+  expected: offen
+  location: DACH
+  url: https://www.bmc.com/events/
+  categories:
+  - ITSM
+- title: SolarWinds Day / World Tour DACH 2027
+  expected: offen
+  location: DACH
+  url: https://www.solarwinds.com/events/
+  categories:
+  - Cloud
+- title: Freshworks Refresh Europe 2027
+  expected: offen
+  location: Europa
+  url: https://www.freshworks.com/events/
+  categories:
+  - ITSM
+- title: Jira Day 2027 (Deviniti)
+  expected: offen
+  location: Kraków, PL
+  url: https://deviniti.com/blog/events/
+  categories:
+  - ITSM
+- title: Employee Engagement Summit Europe 2027
+  expected: Juni 2027 (vorauss.)
+  location: Berlin, DE
+  url: https://www.we-conect.com/
+  categories:
+  - Digital Transformation

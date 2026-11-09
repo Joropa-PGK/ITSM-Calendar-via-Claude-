@@ -870,6 +870,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: One of Europe's largest and most well-attended cybersecurity events.
   description_de: Eines der größten und bestbesuchten Cybersicherheits-Events in Europa.
+- id: freshworks-refresh-virtual-2026
+  title: Freshworks Refresh Virtual Summit 2026
+  start: 2026-06-04
+  end: 2026-06-04
+  location: Online
+  country: null
+  region: Online
+  url: https://community.freshworks.com/events/register-now-refresh-virtual-summit-2026-471
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  format: webinar
+  source: Chatverlauf-Abgleich 09.11.2026 (freshworks.com)
+  description_en: Freshworks virtual summit incl. Freshservice (ITSM/ESM).
+  description_de: Virtueller Freshworks-Summit inkl. Freshservice (ITSM/ESM).
 - id: london-tech-week-2026
   uid: paan-event-1706223651
   title: London Tech Week
@@ -906,6 +923,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Multidisciplinary future IT conference with tracks on innovation, cloud, AI adoption, change leadership and modern service ecosystems.
   description_de: Zukunfts-IT-Kongress mit Sessions zu Innovation, Cloud-Strategien, KI-Adoption, Change Leadership und modernen Service-Ökosystemen.
+- id: ivanti-live-soesterberg-2026
+  title: Ivanti LIVE! Netherlands 2026
+  start: 2026-06-09
+  end: 2026-06-09
+  location: Soesterberg (Nationaal Militair Museum), NL
+  country: NL
+  region: Europe
+  url: https://www.ivanti.com/en-gb/lp/customers/events/2026/2026-ivanti-live-soesterberg
+  categories:
+  - ITSM
+  - Security
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (ivanti.com)
+  description_en: Ivanti customer event on ITSM, endpoint management and security.
+  description_de: Ivanti-Kundenevent zu ITSM, Endpoint Management und Security.
 - id: nextcloud-summit-2026-2026
   uid: paan-event-1706223653
   title: Nextcloud Summit 2026
@@ -957,6 +991,23 @@
   note: Kommerzieller Trainingskurs, kein Branchen-Event
   description_en: Multi-day training and certification course for the ITIL 4 Foundation level.
   description_de: Mehrtägiger Trainings- und Zertifizierungskurs für das ITIL 4 Foundation Level.
+- id: ivanti-live-london-2026
+  title: Ivanti LIVE! London 2026
+  start: 2026-06-16
+  end: 2026-06-16
+  location: Weybridge (Mercedes-Benz World), UK
+  country: UK
+  region: Europe
+  url: https://www.ivanti.com/en-gb/lp/customers/events/2026/2026-ivanti-live-london
+  categories:
+  - ITSM
+  - Security
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (ivanti.com)
+  description_en: Ivanti customer event on ITSM, endpoint management and security.
+  description_de: Ivanti-Kundenevent zu ITSM, Endpoint Management und Security.
 - id: vivatech-2026
   uid: paan-event-1706223655
   title: VivaTech
@@ -1022,6 +1073,22 @@
   source: Recherche AT/CH 09.11.2026 (ossbig.at)
   description_en: Austria's leading conference on public-sector digitalisation.
   description_de: Österreichs Leitkonferenz zur Verwaltungsdigitalisierung.
+- id: employee-engagement-summit-2026
+  title: Employee Engagement Summit Europe 2026
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Berlin (Maritim proArte), DE
+  country: DE
+  region: DACH
+  url: https://www.we-conect.com/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (Chatverlauf / we.CONECT)
+  description_en: we.CONECT conference on employee experience and digital workplace (adjacent to ESM).
+  description_de: we.CONECT-Konferenz zu Employee Experience und Digital Workplace (angrenzend zu ESM).
 - id: it-infrastructure-operations-summit-berlin-2026
   uid: paan-event-1706223656-1
   title: IT Infrastructure & Operations Summit Berlin
@@ -1055,6 +1122,22 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Comprehensive ITSM summit for DACH IT leaders exploring service delivery, operations and digital transformation.
   description_de: Umfassender ITSM-Gipfel für DACH-IT-Verantwortliche mit Fokus auf Service Delivery, Operations und digitale Transformation.
+- id: intranet-reloaded-berlin-2026
+  title: Intranet Reloaded Europe 2026
+  start: 2026-06-29
+  end: 2026-06-30
+  location: Berlin (Maritim), DE
+  country: DE
+  region: DACH
+  url: https://www.tradefairdates.com/Intranet-Reloaded-M12252/Berlin.html
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (tradefairdates / we.CONECT)
+  description_en: Leading European conference for intranet and digital workplace (adjacent to ESM).
+  description_de: Führende europäische Konferenz zu Intranet und Digital Workplace (angrenzend zu ESM).
 - id: gitex-ai-europe-2026
   title: GITEX AI Europe 2026
   start: 2026-06-30
@@ -1122,6 +1205,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Broad European developer and AI innovation congress with tracks in cloud computing, software engineering, and modern infrastructure.
   description_de: Europäischer Entwickler- und KI-Innovationskongress mit Tracks zu Cloud-Computing, Software-Engineering und moderner Infrastruktur.
+- id: tech-days-muenchen-2026
+  title: Tech Days 2026
+  start: 2026-07-15
+  end: 2026-07-16
+  location: München (Werksviertel), DE
+  country: DE
+  region: DACH
+  url: https://www.bayern-innovativ.de/events-termine/detail/tech-days-2026
+  categories:
+  - Security
+  - AI
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (bayern-innovativ.de)
+  description_en: Innovation congress on cybersecurity, AI, robotics and space tech.
+  description_de: Innovationskongress zu Cybersecurity, KI, Robotik und Space Tech.
 - id: froscon-2026
   uid: paan-event-1706223660
   title: FrOSCon
@@ -1154,6 +1254,22 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Europe's largest gaming week, including a major B2B trade and developer section.
   description_de: Europas größte Gaming-Woche, inklusive eines großen B2B-Fach- und Entwicklerbereichs.
+- id: containerdays-hamburg-2026
+  title: ContainerDays Hamburg 2026
+  start: 2026-09-02
+  end: 2026-09-04
+  location: Hamburg, DE
+  country: DE
+  region: DACH
+  url: https://www.containerdays.io/
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (containerdays)
+  description_en: Cloud-native and Kubernetes conference.
+  description_de: Cloud-Native- und Kubernetes-Konferenz.
 - id: handelsblatt-summit-zukunft-it-2026
   title: Handelsblatt Summit Zukunft IT 2026
   start: 2026-09-07
@@ -1317,6 +1433,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Europe's leading digital marketing & tech event.
   description_de: Europas führendes Event für digitales Marketing & Technologie.
+- id: fabcon-europe-2026
+  title: FabCon Europe 2026 (Microsoft Fabric + SQL Community Conference)
+  start: 2026-09-28
+  end: 2026-10-01
+  location: Barcelona (CCIB), ES
+  country: ES
+  region: Europe
+  url: https://www.sharepointeurope.com/european-microsoft-fabric-community-conference/
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (espc / sharepointeurope)
+  description_en: European Microsoft Fabric and SQL community conference (data, governance, AI).
+  description_de: Europäische Community-Konferenz zu Microsoft Fabric und SQL (Daten, Governance, KI).
 - id: cloud-native-days-austria-2026
   uid: paan-event-1706223667
   title: Cloud Native Days Austria
@@ -1382,6 +1515,23 @@
   source: Websuche 04.11.2026
   description_en: Atlassian's European flagship conference incl. Jira Service Management.
   description_de: Europäische Atlassian-Leitkonferenz inkl. Jira Service Management.
+- id: isaca-europe-2026
+  title: ISACA Europe Conference 2026
+  start: 2026-10-07
+  end: 2026-10-09
+  location: München, DE
+  country: DE
+  region: DACH
+  url: https://www.isaca.org/about-us/newsroom/press-releases/2026/ai-governance-cyber-resilience-and-digital-trust-to-take-centre-stage-at-isaca-europe-conference
+  categories:
+  - Security
+  - AI
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (isaca.org)
+  description_en: AI governance, cyber resilience and digital trust (IT governance, audit).
+  description_de: AI Governance, Cyber-Resilienz und Digital Trust (IT-Governance, Audit).
 - id: servicenow-ai-summit-muenchen-2026
   title: ServiceNow AI Summit München
   start: 2026-10-07
@@ -1528,6 +1678,22 @@
   source: Websuche 04.11.2026
   description_en: 'Switzerland''s largest service management forum; 2026 motto: Service Automation.'
   description_de: 'Grösstes Service-Management-Forum der Schweiz; Motto 2026: Service Automation.'
+- id: nullcon-berlin-2026
+  title: Nullcon Berlin 2026
+  start: 2026-11-02
+  end: 2026-11-06
+  location: Berlin (The Westin Grand), DE
+  country: DE
+  region: DACH
+  url: https://nullcon.net/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (easychair / infosec-conferences)
+  description_en: Security conference (training 2–4 Nov, conference 5–6 Nov).
+  description_de: Security-Konferenz (Trainings 02.–04.11., Konferenz 05.–06.11.).
 - id: manageengine-userconf-ch-2026
   title: ManageEngine UserConf Schweiz 2026
   start: 2026-11-03
@@ -1610,6 +1776,23 @@
   source: Recherche AT/CH 09.11.2026 (adv.at)
   description_en: AI law, AI Act, Data Act, DORA, CRA and other regulation.
   description_de: KI-Recht, AI Act, Data Act, DORA, CRA und weitere Regulierungsthemen.
+- id: innovationskonferenz-cybersicherheit-2026
+  title: Innovationskonferenz Cybersicherheit 2026 & 11. Deutscher IT-Sicherheitspreis
+  start: 2026-11-05
+  end: 2026-11-05
+  location: Bochum, DE
+  country: DE
+  region: DACH
+  url: https://www.bitkom.org/Innovationskonferenz-Cybersicherheit-2026
+  categories:
+  - Security
+  - AI
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (bitkom.org)
+  description_en: Bitkom, HGI/RUB and ATHENE conference with the German IT Security Award.
+  description_de: Konferenz von Bitkom, HGI/RUB und ATHENE mit Verleihung des Deutschen IT-Sicherheitspreises.
 - id: tefo-2026
   title: TEFO 2026 – Studerus Technology Forum
   start: 2026-11-05
@@ -2346,6 +2529,23 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: SAP customer event on business AI.
   description_de: SAP-Kundenevent zu Business AI.
+- id: sdsm-world-2026
+  title: Service Desk & Service Management World 2026
+  start: 2026-11-26
+  end: 2026-11-27
+  location: Düsseldorf (Handelsblatt Media Group) & digital, DE
+  country: DE
+  region: DACH
+  url: https://live.handelsblatt.com/event/service-desk-service-management-world/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (live.handelsblatt.com)
+  description_en: 'Annual Euroforum/Handelsblatt conference: ''Automate everything? The new balance in enterprise service management'' incl. Service Globe Award.'
+  description_de: 'Jahreskonferenz von Euroforum/Handelsblatt: ''Automate everything? Die neue Balance im Enterprise Service Management'' inkl. Service Globe Award.'
 - id: devopscon-munich-2026
   title: DevOpsCon Munich 2026
   start: 2026-11-30
@@ -2480,6 +2680,23 @@
   source: Websuche 04.11.2026
   description_en: Annual IT conference covering IT management, software development, DevOps, cloud, AI and security.
   description_de: Jährliche IT-Konferenz zu IT-Management, Softwareentwicklung, DevOps, Cloud, KI und Security.
+- id: bmc-ami-innovation-days-koeln-2026
+  title: BMC AMI Innovation Days 2026
+  start: 2026-12-08
+  end: 2026-12-09
+  location: Köln (Marriott), DE
+  country: DE
+  region: DACH
+  url: https://www.bmc.com/events/bmc-ami-innovation-day-cologne.html
+  categories:
+  - Cloud
+  - ITSM
+  relevance: core
+  status: confirmed
+  format: forum
+  source: Chatverlauf-Abgleich 09.11.2026 (bmc.com)
+  description_en: BMC event for mainframe operations and automation (formerly BMC Roundtables).
+  description_de: BMC-Event zu Mainframe-Betrieb und Automatisierung (ehemals BMC Roundtables).
 - id: itsmf-ff-mpm-2026-12
   title: itSMF Fachforum Multi Provider Management
   start: 2026-12-14
@@ -3755,6 +3972,22 @@
   source: Recherche AT/CH 09.11.2026 (swiss-it-leadership-forum.ch)
   description_en: Retreat-style forum for Swiss IT leaders.
   description_de: Forum für Schweizer IT-Führungskräfte.
+- id: intranet-reloaded-berlin-2027
+  title: Intranet Reloaded Europe 2027
+  start: 2027-06-28
+  end: 2027-06-29
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.tradefairdates.com/Intranet-Reloaded-M12252/Berlin.html
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: tentative
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (aggregator (unbestätigt))
+  description_en: Intranet and digital workplace conference (date from aggregator only).
+  description_de: Konferenz zu Intranet und Digital Workplace (Datum nur aus Aggregator).
 - id: icail-2027
   title: ICAIL 2027 – Int. Conference on AI and Law
   start: 2027-07-05
@@ -4062,6 +4295,23 @@
   source: Recherche AT/CH 09.11.2026 (swisscyberstorm.com)
   description_en: Switzerland's independent cybersecurity conference.
   description_de: Unabhängige Cybersecurity-Konferenz der Schweiz.
+- id: isaca-europe-2027
+  title: ISACA Europe Conference 2027
+  start: 2027-10-27
+  end: 2027-10-29
+  location: Barcelona, ES
+  country: ES
+  region: Europe
+  url: https://www.escudodigital.com/en/cybersecurity/isaca-european-conference-2026-part-ii-governing-ai-and-assessing-cybersecurity-effectiveness.html
+  categories:
+  - Security
+  - AI
+  relevance: related
+  status: tentative
+  format: conference
+  source: Chatverlauf-Abgleich 09.11.2026 (escudodigital.com (eine Quelle))
+  description_en: Next ISACA Europe conference (announced at the 2026 edition; single source).
+  description_de: Nächste ISACA-Europe-Konferenz (auf der Ausgabe 2026 angekündigt; nur eine Quelle).
 - id: smfs-2027
   title: Service Management Forum Schweiz (SMFS) 2027
   start: 2027-10-28
