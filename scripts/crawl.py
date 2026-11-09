@@ -238,10 +238,38 @@ def norm_title(title: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
+def _host_path(url: str) -> str:
+    u = urlparse(url)
+    return (u.netloc.lower().removeprefix("www.") + u.path.rstrip("/")).lower()
+
+
+# Developer-only formats that are out of scope for an ITSM/CIO-level calendar.
+DEV_ONLY = ("devfest", "react", "angular", "javascript", "jsnation", "java", "basta", "vibekode", "webinale",
+            "wordcamp", "pycon", "ruby", "c++", "voxxed", "clean architecture", "principal dev", "product build",
+            "leaddev", "lead dev", "datagrillen", "decompiled", "collabdays", "qs-tag", "dslam", "masterclass for tech",
+            "halfstack", "akademy", "nerdearla", "phpug", "rust ")
+
+
+def out_of_scope(title: str, cats: list[str]) -> bool:
+    t = f" {title.lower()} "
+    if any(k in t for k in DEV_ONLY):
+        return True
+    return "Developer" in cats and "ITSM" not in cats
+
+
 def find_match(cand: dict, events: list[dict]) -> dict | None:
     nt = norm_title(cand["title"])
+    cand_url = _host_path(cand.get("url", ""))
     best, best_score = None, 0.0
     for ev in events:
+        # same specific event URL and same start date -> duplicate regardless of title wording
+        if cand_url and len(cand_url.split("/")) > 1 and _host_path(ev.get("url", "")) == cand_url \
+                and str(ev["start"]) == cand["start"].isoformat():
+            return ev
+        # same date range + very similar host -> duplicate (e.g. "Tech Show Frankfurt 2026" vs "... 2027")
+        if str(ev["start"]) == cand["start"].isoformat() and str(ev.get("end")) == cand["end"].isoformat() \
+                and _host_path(ev.get("url", "")).split("/")[0] == cand_url.split("/")[0] and cand_url:
+            return ev
         if abs(dt.date.fromisoformat(str(ev["start"])).year - cand["start"].year) > 0:
             continue
         score = difflib.SequenceMatcher(None, nt, norm_title(ev["title"])).ratio()
@@ -296,6 +324,8 @@ def main() -> int:
                     continue
                 cats = categorise(f"{c['title']} {c.get('description_en', '')}")
                 if src.get("focus") and not set(cats) & set(src["focus"]):
+                    continue
+                if out_of_scope(c["title"], cats):
                     continue
                 rel = relevance_for(cats, f"{c['title']} {c.get('description_en', '')}")
                 if rel == "peripheral" and c["_how"] != "claude":
