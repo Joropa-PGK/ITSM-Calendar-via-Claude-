@@ -74,3 +74,20 @@
 - {name: ServiceNow AI Summits, url: "https://www.servicenow.com/events/ai-summits.html", focus: [ITSM, AI]}
 # Hinweis LinkedIn: Event-Seiten und Posts erfordern einen Login; automatisiertes Auslesen widerspricht den
 # LinkedIn-Nutzungsbedingungen. LinkedIn wird daher nur manuell/über die Websuche berücksichtigt.
+
+# --- Ergänzt 09.11.2026: Österreich ---
+- {name: ADV Events (AT), url: "https://www.adv.at/events/"}
+- {name: ADV Eventvorschau (AT), url: "https://www.adv.at/events/vorschau-2026-2027/"}
+- {name: OCG Veranstaltungen (AT), url: "https://www.ocg.at/de/veranstaltungen"}
+- {name: itSMF Austria, url: "https://www.itsmf.at/aktuell/", focus: [ITSM]}
+- {name: LSZ Events (AT), url: "https://lsz.at/"}
+- {name: Confare (AT/CH/DE), url: "https://confare.at/c/konferenzen/ciosummits-dach/"}
+- {name: dev.events AT, url: "https://dev.events/EU/AT"}
+# --- Ergänzt 09.11.2026: Schweiz ---
+- {name: SMFS (CH), url: "https://www.smfs.ch/", focus: [ITSM]}
+- {name: Netzwoche Events (CH), url: "https://www.netzwoche.ch/events"}
+- {name: IT Reseller Veranstaltungen (CH), url: "https://www.itreseller.ch/veranstaltungen"}
+- {name: Computerworld Events (CH), url: "https://www.computerworld.ch/events"}
+- {name: digitalswitzerland Events, url: "https://www.digitalswitzerland.com/events/"}
+- {name: Swiss Cyber Storm, url: "https://www.swisscyberstorm.com/"}
+- {name: dev.events CH, url: "https://dev.events/EU/CH"}

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T23:11:58+00:00",
+ "generated": "2026-11-09T07:51:20+00:00",
  "events": [
   {
    "id": "cloud-tech-tallinn-2026-2026",
@@ -1246,6 +1246,26 @@
    "description_de": "Führende DACH-Konferenz für Daten, Analytics und KI."
   },
   {
+   "id": "adv-e-government-2026",
+   "uid": "adv-e-government-2026@itsm-calendar.paan-group.com",
+   "title": "ADV e-Government Konferenz 2026",
+   "start": "2026-06-29",
+   "end": "2026-06-30",
+   "location": "Villach, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.ossbig.at/event/adv-e-government-konferenz-2026/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Austria's leading conference on public-sector digitalisation.",
+   "description_de": "Österreichs Leitkonferenz zur Verwaltungsdigitalisierung."
+  },
+  {
    "id": "it-infrastructure-operations-summit-berlin-2026",
    "uid": "paan-event-1706223656-1",
    "title": "IT Infrastructure & Operations Summit Berlin",
@@ -1780,6 +1800,26 @@
    "description_de": "CIO-Konferenz und Award-Show (Foundry/CIO-Magazin)."
   },
   {
+   "id": "ooen-digital-days-2026",
+   "uid": "ooen-digital-days-2026@itsm-calendar.paan-group.com",
+   "title": "OÖNachrichten Digital Days 2026",
+   "start": "2026-10-14",
+   "end": "2026-10-15",
+   "location": "Linz, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.leadersnet.at/news/103481,ooenachrichten-digital-days-wenn-digitalisierung-auf-echtes.html",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Digitalisation event of Upper Austria's leading newspaper.",
+   "description_de": "Digitalisierungs-Event der OÖNachrichten."
+  },
+  {
    "id": "cyber-security-expo-2026",
    "uid": "paan-event-1706223670",
    "title": "Cyber Security EXPO",
@@ -1943,6 +1983,48 @@
    "note": "",
    "description_en": "Conference on B2B/after-sales service management and service business models.",
    "description_de": "Konferenz zu B2B-/After-Sales-Service-Management und Service-Geschäftsmodellen."
+  },
+  {
+   "id": "adv-rechtstag-2026",
+   "uid": "adv-rechtstag-2026@itsm-calendar.paan-group.com",
+   "title": "ADV Rechtstag 2026 – KI. Recht. Realität.",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "location": "Wien (IBM Austria), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/rechtstag-2026/",
+   "categories": [
+    "AI",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "AI law, AI Act, Data Act, DORA, CRA and other regulation.",
+   "description_de": "KI-Recht, AI Act, Data Act, DORA, CRA und weitere Regulierungsthemen."
+  },
+  {
+   "id": "tefo-2026",
+   "uid": "tefo-2026@itsm-calendar.paan-group.com",
+   "title": "TEFO 2026 – Studerus Technology Forum",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "location": "Regensdorf, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.itreseller.ch/veranstaltungen",
+   "categories": [
+    "Security",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss IT industry forum on AI, IT security and VoIP.",
+   "description_de": "Forum der Schweizer IT-Branche zu KI, IT-Security und VoIP."
   },
   {
    "id": "bitkom-fachtag-software-ai-2026",
@@ -2208,6 +2290,26 @@
    "description_de": "Observability-Herstellerevent."
   },
   {
+   "id": "ocg-impulse-2026",
+   "uid": "ocg-impulse-2026@itsm-calendar.paan-group.com",
+   "title": "OCG Impulse 2026",
+   "start": "2026-11-12",
+   "end": "2026-11-12",
+   "location": "Wien (OCG), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.ocg.at/de/veranstaltungen",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Austrian Computer Society impulse event.",
+   "description_de": "Impuls-Veranstaltung der Österreichischen Computer Gesellschaft."
+  },
+  {
    "id": "serview-tool-meetup-hamburg-2026",
    "uid": "serview-tool-meetup-hamburg-2026@itsm-calendar.paan-group.com",
    "title": "SERVIEW Tool Meetup Hamburg",
@@ -2226,6 +2328,27 @@
    "note": "",
    "description_en": "Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.",
    "description_de": "Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich."
+  },
+  {
+   "id": "ocg-digital-days-2026",
+   "uid": "ocg-digital-days-2026@itsm-calendar.paan-group.com",
+   "title": "Digital Days 2026 Wien",
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "location": "Wien, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.ocg.at/de/veranstaltungen",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "tentative",
+   "format": "conference",
+   "note": "",
+   "description_en": "Vienna's annual digitalisation days (start date per OCG calendar; duration to be verified).",
+   "description_de": "Wiens jährliche Digitalisierungstage (Starttermin laut OCG-Kalender, Dauer prüfen)."
   },
   {
    "id": "handelsblatt-ki-summit-2026",
@@ -2289,6 +2412,26 @@
    "description_de": "Konferenz zu angewandtem Machine Learning und Predictive Analytics."
   },
   {
+   "id": "swiss-payment-forum-2026",
+   "uid": "swiss-payment-forum-2026@itsm-calendar.paan-group.com",
+   "title": "Swiss Payment Forum 2026",
+   "start": "2026-11-16",
+   "end": "2026-11-17",
+   "location": "Zürich (Marriott), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.netzwoche.ch/events",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss platform for payment trends.",
+   "description_de": "Schweizer Plattform für Trends im Payment-Umfeld."
+  },
+  {
    "id": "doag-2026",
    "uid": "doag-2026@itsm-calendar.paan-group.com",
    "title": "DOAG Konferenz 2026",
@@ -2350,6 +2493,26 @@
    "description_de": "Fachveranstaltung für Enterprise Systems in Österreich."
   },
   {
+   "id": "oktane-on-the-road-zurich-2026",
+   "uid": "oktane-on-the-road-zurich-2026@itsm-calendar.paan-group.com",
+   "title": "Okta Oktane on the Road Zürich",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "location": "Zürich (FIFA Museum), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.netzwoche.ch/events",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Identity and access management event (IAM).",
+   "description_de": "Event zu Identity & Access Management (IAM)."
+  },
+  {
    "id": "osmc-2026",
    "uid": "osmc-2026@itsm-calendar.paan-group.com",
    "title": "Open Source Monitoring Conference (OSMC) 2026",
@@ -2390,6 +2553,26 @@
    "description_de": "Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich."
   },
   {
+   "id": "dinacon-2026",
+   "uid": "dinacon-2026@itsm-calendar.paan-group.com",
+   "title": "DINAcon 2026",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "location": "Bern (Kongresszentrum), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.computerworld.ch/events",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on digital sustainability.",
+   "description_de": "Konferenz für digitale Nachhaltigkeit."
+  },
+  {
    "id": "it-sicherheitstag-gelsenkirchen-2026",
    "uid": "it-sicherheitstag-gelsenkirchen-2026@itsm-calendar.paan-group.com",
    "title": "IT-Sicherheitstag Gelsenkirchen 2026",
@@ -2408,6 +2591,47 @@
    "note": "",
    "description_en": "Conference on information security.",
    "description_de": "Konferenz rund um die Informationssicherheit."
+  },
+  {
+   "id": "ocg-nisg-2026",
+   "uid": "ocg-nisg-2026@itsm-calendar.paan-group.com",
+   "title": "NISG 2026 – Umsetzung für Betroffene",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "location": "Wien (OCG), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.ocg.at/de/veranstaltungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "workshop",
+   "note": "",
+   "description_en": "Implementing Austria's NIS2 act (NISG 2026) for affected organisations.",
+   "description_de": "Umsetzung des NISG 2026 (NIS2) für betroffene Organisationen."
+  },
+  {
+   "id": "adv-trends-2026",
+   "uid": "adv-trends-2026@itsm-calendar.paan-group.com",
+   "title": "ADV Trends 2026",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "location": "Wien (RUBICON IT), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/trends-2026/",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "The year's key IT trends – 'Disrupt the Consensus. Dare to Disagree.'",
+   "description_de": "Die wichtigsten IT-Trends des Jahres – 'Disrupt the Consensus. Dare to Disagree.'"
   },
   {
    "id": "ai-coding-days-2026",
@@ -2431,6 +2655,26 @@
    "description_de": "Konferenz zu KI-gestützter Softwareentwicklung."
   },
   {
+   "id": "digital-economy-award-2026",
+   "uid": "digital-economy-award-2026@itsm-calendar.paan-group.com",
+   "title": "Digital Economy Award 2026",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "location": "Zürich (Hallenstadion), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.digitalswitzerland.com/events/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Switzerland's digital award (20th anniversary).",
+   "description_de": "Schweizer Digital-Award (20. Ausgabe)."
+  },
+  {
    "id": "slush-2026",
    "uid": "paan-event-1706223674",
    "title": "Slush",
@@ -2449,6 +2693,47 @@
    "note": "",
    "description_en": "A major tech event focused on startups, founders, and venture capital.",
    "description_de": "Ein großes Tech-Event mit Fokus auf Start-ups, Gründer und Risikokapital."
+  },
+  {
+   "id": "suissedigital-day-2026",
+   "uid": "suissedigital-day-2026@itsm-calendar.paan-group.com",
+   "title": "Suissedigital-Day 2026",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "location": "Bern (Kursaal), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.computerworld.ch/events",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "tradefair",
+   "note": "",
+   "description_en": "Talks and telecom exhibition.",
+   "description_de": "Fachreferate und Telecom-Ausstellung."
+  },
+  {
+   "id": "agentic-engineering-days-zurich-2026",
+   "uid": "agentic-engineering-days-zurich-2026@itsm-calendar.paan-group.com",
+   "title": "Agentic Engineering Days 2026",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "location": "Zürich, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.itreseller.ch/veranstaltungen",
+   "categories": [
+    "AI",
+    "Developer"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss conference on AI coding and agentic systems.",
+   "description_de": "Schweizer Konferenz zu AI-Coding und agentischen Systemen."
   },
   {
    "id": "itsmf-ff-knowledge-2026-11",
@@ -2596,6 +2881,27 @@
    "description_de": "Österreichs größtes IT-Festival."
   },
   {
+   "id": "open-i-2026",
+   "uid": "open-i-2026@itsm-calendar.paan-group.com",
+   "title": "Open-i 2026 – The Swiss Innovation Platform",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "location": "Zürich (Kongresshaus), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.netzwoche.ch/events",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "NZZ Connect innovation conference.",
+   "description_de": "Innovationskonferenz von NZZ Connect."
+  },
+  {
    "id": "sap-now-ai-tour-berlin-2026",
    "uid": "sap-now-ai-tour-berlin-2026@itsm-calendar.paan-group.com",
    "title": "SAP NOW AI Tour Germany",
@@ -2740,6 +3046,27 @@
    "description_de": "Arbeitskreis des itSMF Deutschland zu Einsatz und Auswirkungen von KI im ITSM."
   },
   {
+   "id": "eu-digital-day-2026",
+   "uid": "eu-digital-day-2026@itsm-calendar.paan-group.com",
+   "title": "EU Digital Day 2026",
+   "start": "2026-12-03",
+   "end": "2026-12-03",
+   "location": "Wien (WKO), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.ffg.at/europa/veranstaltung/digital-europe-day/2026-12-3",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "FFG event on the EU Digital Europe programme.",
+   "description_de": "FFG-Veranstaltung zum EU-Programm Digital Europe."
+  },
+  {
    "id": "it-tage-2026",
    "uid": "it-tage-2026@itsm-calendar.paan-group.com",
    "title": "IT-Tage 2026",
@@ -2784,6 +3111,67 @@
    "description_de": "Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM)."
   },
   {
+   "id": "digitalswitzerland-davos-2027",
+   "uid": "digitalswitzerland-davos-2027@itsm-calendar.paan-group.com",
+   "title": "digitalswitzerland in Davos 2027",
+   "start": "2027-01-19",
+   "end": "2027-01-19",
+   "location": "Davos, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.digitalswitzerland.com/events/",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Flagship day of events on Switzerland's digital future.",
+   "description_de": "Flaggschiff-Tag zur digitalen Zukunft der Schweiz."
+  },
+  {
+   "id": "adv-healthtech-leaders-2027",
+   "uid": "adv-healthtech-leaders-2027@itsm-calendar.paan-group.com",
+   "title": "ADV HealthTech Leaders Konferenz 2027",
+   "start": "2027-01-20",
+   "end": "2027-01-20",
+   "location": "Wien, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/healthtech-leaders-konferenz-2027/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Digitalisation in healthcare.",
+   "description_de": "Digitalisierung im Gesundheitswesen."
+  },
+  {
+   "id": "meet-swiss-infosec-50-2027",
+   "uid": "meet-swiss-infosec-50-2027@itsm-calendar.paan-group.com",
+   "title": "50. Meet Swiss Infosec!",
+   "start": "2027-01-25",
+   "end": "2027-01-25",
+   "location": "Zürich-Flughafen, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.itreseller.ch/veranstaltungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Information security conference.",
+   "description_de": "Konferenz zur Informationssicherheit."
+  },
+  {
    "id": "connected-27",
    "uid": "connected-27@itsm-calendar.paan-group.com",
    "title": "CONNECTED'27",
@@ -2803,6 +3191,26 @@
    "note": "",
    "description_en": "Microsoft-ecosystem conference on AI agents in operation – architecture and governance.",
    "description_de": "Konferenz im Microsoft-Umfeld zu KI-Agenten im Betrieb – Architektur und Governance."
+  },
+  {
+   "id": "insomnihack-2027",
+   "uid": "insomnihack-2027@itsm-calendar.paan-group.com",
+   "title": "Insomni'hack 2027",
+   "start": "2027-02-01",
+   "end": "2027-02-06",
+   "location": "Ecublens (Lausanne), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://dev.events/EU/CH",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss security conference and CTF.",
+   "description_de": "Schweizer Security-Konferenz mit CTF."
   },
   {
    "id": "learntec-2027",
@@ -2866,6 +3274,46 @@
    "note": "",
    "description_en": "SME event on AI governance obligations under the EU AI Act.",
    "description_de": "Veranstaltung für KMU zu KI-Governance-Pflichten nach dem EU AI Act."
+  },
+  {
+   "id": "swiss-digital-conference-2027",
+   "uid": "swiss-digital-conference-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss Digital Conference 2027",
+   "start": "2027-02-04",
+   "end": "2027-02-04",
+   "location": "Siders (Swiss Digital Center), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://swissdigitalcenter.ch/de/swiss-digital-conference/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Digitalisation conference for SMEs.",
+   "description_de": "Digitalisierungskonferenz für KMU."
+  },
+  {
+   "id": "adv-cyberxchange-2027",
+   "uid": "adv-cyberxchange-2027@itsm-calendar.paan-group.com",
+   "title": "ADV CyberXchange Konferenz",
+   "start": "2027-02-11",
+   "end": "2027-02-11",
+   "location": "Wien (Deloitte), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/cyberxchange-konferenz-2026/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Sovereign Europe: cybersecurity from dependency to resilience (postponed from 2026).",
+   "description_de": "Souveränes Europa: Cybersecurity von Abhängigkeit zu Resilienz (verschoben aus 2026)."
   },
   {
    "id": "eurocis-2027",
@@ -2990,6 +3438,66 @@
    "description_de": "Logistikkonferenz inkl. Logistik-IT und Digitalisierung."
   },
   {
+   "id": "genai-zurich-2027",
+   "uid": "genai-zurich-2027@itsm-calendar.paan-group.com",
+   "title": "GenAI Zürich 2027",
+   "start": "2027-02-24",
+   "end": "2027-02-25",
+   "location": "Zürich (Volkshaus), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.genaizurich.ch/",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Generative AI conference incl. award and hackathon finals.",
+   "description_de": "Konferenz zu generativer KI inkl. Award- und Hackathon-Finale."
+  },
+  {
+   "id": "bsides-tirol-2027",
+   "uid": "bsides-tirol-2027@itsm-calendar.paan-group.com",
+   "title": "BSides Tirol 2027",
+   "start": "2027-02-25",
+   "end": "2027-02-25",
+   "location": "Innsbruck, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.bsides.tirol/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Community cybersecurity conference (free entry).",
+   "description_de": "Community-Cybersecurity-Konferenz (Eintritt frei)."
+  },
+  {
+   "id": "lsz-cio-kongress-west-2027",
+   "uid": "lsz-cio-kongress-west-2027@itsm-calendar.paan-group.com",
+   "title": "CIO Kongress goes WEST 2027",
+   "start": "2027-03-02",
+   "end": "2027-03-03",
+   "location": "Montafon (Löwen Hotel), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/kongress/cio-kongress-loipersdorf",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "LSZ CIO congress for western Austria.",
+   "description_de": "LSZ-CIO-Kongress für Westösterreich."
+  },
+  {
    "id": "digitaler-staat-2027",
    "uid": "digitaler-staat-2027@itsm-calendar.paan-group.com",
    "title": "Digitaler Staat 2027",
@@ -3008,6 +3516,27 @@
    "note": "",
    "description_en": "Behörden Spiegel congress on IT and public administration modernisation (~3,000 participants).",
    "description_de": "Kongress des Behörden Spiegel zu IT und Verwaltungsmodernisierung (rund 3.000 Teilnehmende)."
+  },
+  {
+   "id": "winterkongress-digitale-gesellschaft-2027",
+   "uid": "winterkongress-digitale-gesellschaft-2027@itsm-calendar.paan-group.com",
+   "title": "Winterkongress der Digitalen Gesellschaft 2027",
+   "start": "2027-03-05",
+   "end": "2027-03-06",
+   "location": "Zürich (Rote Fabrik), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.digitale-gesellschaft.ch/event/winterkongress-2027/",
+   "categories": [
+    "Digital Transformation",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Non-commercial congress on IT and digital rights.",
+   "description_de": "Nicht-kommerzieller Kongress zu IT und digitalen Grundrechten."
   },
   {
    "id": "service-space-2027",
@@ -3029,6 +3558,46 @@
    "note": "",
    "description_en": "Austria's leading independent ITSM conference: 32 sessions in 5 streams, PeopleCert CPD credits; service design, CMDB, AI and ESM.",
    "description_de": "Österreichs führende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams, PeopleCert-CPD-Punkte; Service Design, CMDB, KI und ESM."
+  },
+  {
+   "id": "swiss-egovernment-forum-2027",
+   "uid": "swiss-egovernment-forum-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss eGovernment Forum 2027",
+   "start": "2027-03-09",
+   "end": "2027-03-10",
+   "location": "Bern (Zentrum Paul Klee), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://e-governmentforum.ch/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Switzerland's leading eGovernment conference.",
+   "description_de": "Führende eGovernment-Konferenz der Schweiz."
+  },
+  {
+   "id": "trendtage-gesundheit-luzern-2027",
+   "uid": "trendtage-gesundheit-luzern-2027@itsm-calendar.paan-group.com",
+   "title": "Trendtage Gesundheit Luzern 2027",
+   "start": "2027-03-10",
+   "end": "2027-03-11",
+   "location": "Luzern (KKL), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.netzwoche.ch/events",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "peripheral",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Healthcare congress incl. digital health.",
+   "description_de": "Gesundheitskongress inkl. Digital Health."
   },
   {
    "id": "authenticon-2027",
@@ -3112,6 +3681,48 @@
    "description_de": "Leitkonferenz für Cloud Native und Kubernetes."
   },
   {
+   "id": "swiss-police-it-congress-2027",
+   "uid": "swiss-police-it-congress-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss Police Information Technology Congress 2027",
+   "start": "2027-03-15",
+   "end": "2027-03-16",
+   "location": "Bern (Bernexpo), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://swiss-congress.ch/conferences/swiss-police-information-technology-congress/",
+   "categories": [
+    "Digital Transformation",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "IT congress for police authorities and the public sector.",
+   "description_de": "IT-Kongress für Polizeibehörden und den öffentlichen Sektor."
+  },
+  {
+   "id": "confare-ciosummit-wien-2027",
+   "uid": "confare-ciosummit-wien-2027@itsm-calendar.paan-group.com",
+   "title": "Confare CIOSUMMIT Wien 2027",
+   "start": "2027-03-17",
+   "end": "2027-03-18",
+   "location": "Wien (METAStadt), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://confare.at/ciosummit/",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Austria's largest CIO and IT management summit (20th anniversary).",
+   "description_de": "Österreichs größter CIO- und IT-Management-Gipfel (20-jähriges Jubiläum)."
+  },
+  {
    "id": "transform-berlin-2027",
    "uid": "transform-berlin-2027@itsm-calendar.paan-group.com",
    "title": "TRANSFORM 2027",
@@ -3130,6 +3741,26 @@
    "note": "",
    "description_en": "Platform for corporate digital transformation.",
    "description_de": "Plattform für die digitale Transformation von Unternehmen."
+  },
+  {
+   "id": "sicher27",
+   "uid": "sicher27@itsm-calendar.paan-group.com",
+   "title": "Sicher27",
+   "start": "2027-03-18",
+   "end": "2027-03-18",
+   "location": "Zürich-Oerlikon, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.itreseller.ch/veranstaltungen",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss security event.",
+   "description_de": "Schweizer Security-Event."
   },
   {
    "id": "hannover-messe-2027",
@@ -3151,6 +3782,27 @@
    "note": "",
    "description_en": "World's leading industrial technology fair incl. AI and IT/OT tracks.",
    "description_de": "Weltleitmesse der Industrietechnik inkl. KI- und IT/OT-Themen."
+  },
+  {
+   "id": "adv-data-ai-excellence-2027",
+   "uid": "adv-data-ai-excellence-2027@itsm-calendar.paan-group.com",
+   "title": "ADV Data & AI Excellence Konferenz 2027",
+   "start": "2027-04-08",
+   "end": "2027-04-09",
+   "location": "Wien (Park Hyatt), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/data-ai-excellence-konferenz-2027/",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "From data governance to AI excellence: data quality, AI strategy and data management (DACH).",
+   "description_de": "Von Data Governance zu AI Excellence: Datenqualität, KI-Strategie und Datenmanagement (DACH)."
   },
   {
    "id": "dmea-2027",
@@ -3191,6 +3843,46 @@
    "note": "",
    "description_en": "Invitation-only forum for CIOs and IT leaders.",
    "description_de": "Forum für CIOs und IT-Verantwortliche (nur auf Einladung)."
+  },
+  {
+   "id": "devopsdays-zurich-2027",
+   "uid": "devopsdays-zurich-2027@itsm-calendar.paan-group.com",
+   "title": "DevOpsDays Zürich 2027",
+   "start": "2027-04-14",
+   "end": "2027-04-15",
+   "location": "Winterthur, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://dev.events/EU/CH",
+   "categories": [
+    "Cloud"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Community conference on DevOps and IT operations.",
+   "description_de": "Community-Konferenz zu DevOps und IT-Betrieb."
+  },
+  {
+   "id": "lsz-it-security-kitzbuehel-2027",
+   "uid": "lsz-it-security-kitzbuehel-2027@itsm-calendar.paan-group.com",
+   "title": "IT-Security & Risk Management Kongress 2027",
+   "start": "2027-04-19",
+   "end": "2027-04-21",
+   "location": "Kitzbühel (K3 KitzKongress), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/kongress/it-security-risk-management-kitzbuehel",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Austria's leading congress for IT security and risk management (300+ experts).",
+   "description_de": "Österreichs führender Kongress für IT-Security und Risk Management (über 300 Fachleute)."
   },
   {
    "id": "atlassian-team-27",
@@ -3377,6 +4069,47 @@
    "description_de": "Globale ServiceNow-Jahreskonferenz."
   },
   {
+   "id": "swiss-grc-day-2027",
+   "uid": "swiss-grc-day-2027@itsm-calendar.paan-group.com",
+   "title": "SWISS GRC DAY 2027",
+   "start": "2027-05-05",
+   "end": "2027-05-05",
+   "location": "Zürich-Flughafen (Radisson Blu), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://swissgrc.com/en/swiss-grc-day-2026-review/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Governance, risk and compliance conference (300+ participants).",
+   "description_de": "Konferenz zu Governance, Risk und Compliance (über 300 Teilnehmende)."
+  },
+  {
+   "id": "viennaup-2027",
+   "uid": "viennaup-2027@itsm-calendar.paan-group.com",
+   "title": "ViennaUP 2027",
+   "start": "2027-05-10",
+   "end": "2027-05-14",
+   "location": "Wien, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://humanxai.events/",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Vienna's week-long innovation and start-up festival.",
+   "description_de": "Wiens Innovations- und Start-up-Festivalwoche."
+  },
+  {
    "id": "cpt-muenchen-2027",
    "uid": "cpt-muenchen-2027@itsm-calendar.paan-group.com",
    "title": "CPT – Connect. Protect. Transform. 2027",
@@ -3498,6 +4231,26 @@
    "description_de": "USU-Anwenderkonferenz zu IT Service Management, Wissensmanagement und IT Asset Management."
   },
   {
+   "id": "vi3nna-congress-2027",
+   "uid": "vi3nna-congress-2027@itsm-calendar.paan-group.com",
+   "title": "VI3NNA Congress 2027",
+   "start": "2027-05-13",
+   "end": "2027-05-14",
+   "location": "Wien (MuseumsQuartier), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://dev.events/EU/AT/Vienna/ai",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Congress on AI, finance and Web3.",
+   "description_de": "Kongress zu KI, Finanzen und Web3."
+  },
+  {
    "id": "sits-2027",
    "uid": "sits-2027@itsm-calendar.paan-group.com",
    "title": "Service Desk & IT Support Show (SITS) 2027",
@@ -3538,6 +4291,26 @@
    "note": "",
    "description_en": "Co-located shows on cloud, data & AI, data centres and cyber security.",
    "description_de": "Parallelmessen zu Cloud, Daten & KI, Rechenzentren und Cybersecurity."
+  },
+  {
+   "id": "sds-2027",
+   "uid": "sds-2027@itsm-calendar.paan-group.com",
+   "title": "SDS2027 – IEEE Swiss Conference on Data Science and AI",
+   "start": "2027-05-31",
+   "end": "2027-06-01",
+   "location": "Zürich-Flughafen (The Circle), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://sds2027.ch/",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss data science and AI conference (workshop day 1 June).",
+   "description_de": "Schweizer Konferenz zu Data Science und KI (Workshoptag 01.06.)."
   },
   {
    "id": "bettercode-agentic-ai-2027",
@@ -3620,6 +4393,26 @@
    "note": "",
    "description_en": "Europe's largest congress and expo for ITSM, ESM, ITOM and ITAM – 'Service Management in the Age of AI', 50+ sponsors.",
    "description_de": "Europas größte Kongressmesse für ITSM, ESM, ITOM und ITAM – 'Service Management im KI-Zeitalter', über 50 Aussteller."
+  },
+  {
+   "id": "ooen-cyber-security-day-2027",
+   "uid": "ooen-cyber-security-day-2027@itsm-calendar.paan-group.com",
+   "title": "OÖNachrichten Cyber Security Day 2027",
+   "start": "2027-06-09",
+   "end": "2027-06-09",
+   "location": "Linz, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://cybersecurity.nachrichten.at/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "B2B cybersecurity platform for Upper Austrian companies.",
+   "description_de": "B2B-Cybersecurity-Plattform für oberösterreichische Unternehmen."
   },
   {
    "id": "cloud-native-summit-2027",
@@ -3745,6 +4538,26 @@
    "description_de": "Mittelstandsforum für Digitalisierung und KI."
   },
   {
+   "id": "lsz-future-cio-connections-wien-2027",
+   "uid": "lsz-future-cio-connections-wien-2027@itsm-calendar.paan-group.com",
+   "title": "Future CIO Connections Wien 2027",
+   "start": "2027-06-16",
+   "end": "2027-06-16",
+   "location": "Wien (Hyatt Regency), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/konferenz/future-cio-connections-wien",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Strategic exchange for CIOs and IT leaders.",
+   "description_de": "Strategischer Austausch für CIOs und IT-Leader."
+  },
+  {
    "id": "tdwi-muenchen-2027",
    "uid": "tdwi-muenchen-2027@itsm-calendar.paan-group.com",
    "title": "TDWI München 2027",
@@ -3764,6 +4577,47 @@
    "note": "",
    "description_en": "Leading DACH conference for data, analytics, AI and data governance.",
    "description_de": "Führende DACH-Konferenz für Daten, Analytics, KI und Data Governance."
+  },
+  {
+   "id": "adv-e-government-2027",
+   "uid": "adv-e-government-2027@itsm-calendar.paan-group.com",
+   "title": "ADV e-Government Konferenz 2027",
+   "start": "2027-06-17",
+   "end": "2027-06-18",
+   "location": "Graz (Messezentrum), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://www.adv.at/events/vorschau-2026-2027/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Public-sector digitalisation: services, legal framework, best practices.",
+   "description_de": "Verwaltungsdigitalisierung: Services, Rechtsrahmen, Best Practices."
+  },
+  {
+   "id": "geneva-ai-summit-2027",
+   "uid": "geneva-ai-summit-2027@itsm-calendar.paan-group.com",
+   "title": "Geneva AI Summit 2027",
+   "start": "2027-06-21",
+   "end": "2027-06-22",
+   "location": "Genf (Palexpo), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://genevaaisummit.swiss/",
+   "categories": [
+    "AI",
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "5th international summit on AI governance – 'Bridging Innovation and Trust'.",
+   "description_de": "5. internationaler Gipfel zur AI Governance – 'Bridging Innovation and Trust'."
   },
   {
    "id": "mlcon-munich-2027",
@@ -3827,6 +4681,46 @@
    "description_de": "Konferenz zu Digital Excellence und Transformation."
   },
   {
+   "id": "swiss-it-leadership-forum-2027",
+   "uid": "swiss-it-leadership-forum-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss IT Leadership Forum 2027",
+   "start": "2027-06-27",
+   "end": "2027-06-30",
+   "location": "Davos (Schatzalp), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.swiss-it-leadership-forum.ch/en/program",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Retreat-style forum for Swiss IT leaders.",
+   "description_de": "Forum für Schweizer IT-Führungskräfte."
+  },
+  {
+   "id": "icail-2027",
+   "uid": "icail-2027@itsm-calendar.paan-group.com",
+   "title": "ICAIL 2027 – Int. Conference on AI and Law",
+   "start": "2027-07-05",
+   "end": "2027-07-09",
+   "location": "Wien (Universität, Juridicum), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://icail-vienna-2027.org/",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Academic conference on artificial intelligence and law.",
+   "description_de": "Wissenschaftliche Konferenz zu KI und Recht."
+  },
+  {
    "id": "wearedevelopers-2027",
    "uid": "wearedevelopers-2027@itsm-calendar.paan-group.com",
    "title": "WeAreDevelopers World Congress 2027",
@@ -3849,6 +4743,88 @@
    "description_de": "Grosser Entwickler- und KI-Kongress."
   },
   {
+   "id": "swiss-digital-leadership-forum-2027",
+   "uid": "swiss-digital-leadership-forum-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss Digital Leadership Forum 2027",
+   "start": "2027-08-31",
+   "end": "2027-08-31",
+   "location": "Olten (FHNW Campus), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.digitalleadershipforum.ch/",
+   "categories": [
+    "Digital Transformation",
+    "Security",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Conference on digital leadership, transformation and cybersecurity.",
+   "description_de": "Konferenz zu Digital Leadership, Transformation und Cybersecurity."
+  },
+  {
+   "id": "confare-ciosummit-zuerich-2027",
+   "uid": "confare-ciosummit-zuerich-2027@itsm-calendar.paan-group.com",
+   "title": "Confare CIOSUMMIT Zürich 2027",
+   "start": "2027-09-01",
+   "end": "2027-09-01",
+   "location": "Zürich (Marriott), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://confare.at/confare-ciosummit-zuerich-2/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "tentative",
+   "format": "conference",
+   "note": "",
+   "description_en": "Swiss CIO summit incl. Swiss CIOAWARD (date per Confare page, please verify).",
+   "description_de": "Schweizer CIO-Gipfel inkl. Swiss CIOAWARD (Datum laut Confare, bitte prüfen)."
+  },
+  {
+   "id": "lsz-digital-public-summit-2027",
+   "uid": "lsz-digital-public-summit-2027@itsm-calendar.paan-group.com",
+   "title": "Digital Public Summit Austria 2027",
+   "start": "2027-09-09",
+   "end": "2027-09-09",
+   "location": "Wien (Haus der Ingenieure), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/konferenz/digital-public-summit-austria",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "IT and digitalisation leaders of Austria's public sector.",
+   "description_de": "IT- und Digitalisierungsverantwortliche des öffentlichen Sektors in Österreich."
+  },
+  {
+   "id": "lsz-cyber-crime-forum-graz-2027",
+   "uid": "lsz-cyber-crime-forum-graz-2027@itsm-calendar.paan-group.com",
+   "title": "Cyber Crime Forum Graz 2027",
+   "start": "2027-09-15",
+   "end": "2027-09-15",
+   "location": "Graz, AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/forum/cyber-crime-graz",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Cyber defence forum for Styria.",
+   "description_de": "Forum zur Cyber-Abwehr für die Steiermark."
+  },
+  {
    "id": "aidaq-2027",
    "uid": "aidaq-2027@itsm-calendar.paan-group.com",
    "title": "Bitkom AIDAQ 2027",
@@ -3868,6 +4844,26 @@
    "note": "",
    "description_en": "Bitkom's AI, data & quantum conference incl. strategy and governance.",
    "description_de": "KI-, Daten- und Quanten-Konferenz des Bitkom inkl. Strategie und Governance."
+  },
+  {
+   "id": "lsz-it-security-herbst-2027",
+   "uid": "lsz-it-security-herbst-2027@itsm-calendar.paan-group.com",
+   "title": "IT Security Herbst 2027",
+   "start": "2027-09-21",
+   "end": "2027-09-21",
+   "location": "Wien (Hyatt Regency), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/konferenz/it-security-herbst-wien",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "tentative",
+   "format": "conference",
+   "note": "",
+   "description_en": "LSZ autumn IT security conference (organiser page partly contradictory).",
+   "description_de": "IT-Security-Herbstkonferenz der LSZ (Veranstalterseite teils widersprüchlich)."
   },
   {
    "id": "richmond-cybersecurity-forum-2027",
@@ -3930,6 +4926,46 @@
    "description_de": "Österreichische Konferenz zur Digitalisierung."
   },
   {
+   "id": "unsolved-2027",
+   "uid": "unsolved-2027@itsm-calendar.paan-group.com",
+   "title": "UNSOLVED 2027 – Global AI Conference",
+   "start": "2027-09-29",
+   "end": "2027-10-01",
+   "location": "Wien (Hofburg), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://unsolved.how/events/2027conference",
+   "categories": [
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Global AI conference in Vienna.",
+   "description_de": "Globale KI-Konferenz in Wien."
+  },
+  {
+   "id": "lsz-digitalization-summit-banking-2027",
+   "uid": "lsz-digitalization-summit-banking-2027@itsm-calendar.paan-group.com",
+   "title": "Digitalization Summit Banking & Insurance 2027",
+   "start": "2027-09-30",
+   "end": "2027-09-30",
+   "location": "Wien (Le Méridien), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/",
+   "categories": [
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Digitalisation summit for banks and insurers.",
+   "description_de": "Digitalisierungsgipfel für Banken und Versicherungen."
+  },
+  {
    "id": "smart-country-convention-2027",
    "uid": "smart-country-convention-2027@itsm-calendar.paan-group.com",
    "title": "Smart Country Convention (SCCON) 2027",
@@ -3988,6 +5024,89 @@
    "note": "",
    "description_en": "Trade fair and conference on digitalising logistics.",
    "description_de": "Messe und Konferenz zur Digitalisierung der Logistik."
+  },
+  {
+   "id": "lsz-cio-kongress-2027",
+   "uid": "lsz-cio-kongress-2027@itsm-calendar.paan-group.com",
+   "title": "CIO Kongress 2027 – RE:HUMAN",
+   "start": "2027-10-17",
+   "end": "2027-10-19",
+   "location": "Loipersdorf (Congress), AT",
+   "country": "AT",
+   "region": "DACH",
+   "url": "https://lsz.at/kongress/cio-kongress-loipersdorf",
+   "categories": [
+    "Digital Transformation",
+    "AI"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Austria's flagship CIO congress incl. AI Excellence Award Austria.",
+   "description_de": "Österreichs Flaggschiff-CIO-Kongress inkl. AI Excellence Award Austria."
+  },
+  {
+   "id": "cv-summit-2027",
+   "uid": "cv-summit-2027@itsm-calendar.paan-group.com",
+   "title": "CV Summit 2027",
+   "start": "2027-10-25",
+   "end": "2027-10-26",
+   "location": "Zürich (Kongresshaus), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.cvsummit.ch/event-info/",
+   "categories": [
+    "AI",
+    "Digital Transformation"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Summit on digital assets and AI in finance.",
+   "description_de": "Gipfel zu digitalen Assets und KI im Finanzsektor."
+  },
+  {
+   "id": "swiss-cyber-storm-2027",
+   "uid": "swiss-cyber-storm-2027@itsm-calendar.paan-group.com",
+   "title": "Swiss Cyber Storm 2027",
+   "start": "2027-10-26",
+   "end": "2027-10-26",
+   "location": "Bern (Kursaal), CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.swisscyberstorm.com/",
+   "categories": [
+    "Security"
+   ],
+   "relevance": "related",
+   "status": "confirmed",
+   "format": "conference",
+   "note": "",
+   "description_en": "Switzerland's independent cybersecurity conference.",
+   "description_de": "Unabhängige Cybersecurity-Konferenz der Schweiz."
+  },
+  {
+   "id": "smfs-2027",
+   "uid": "smfs-2027@itsm-calendar.paan-group.com",
+   "title": "Service Management Forum Schweiz (SMFS) 2027",
+   "start": "2027-10-28",
+   "end": "2027-10-28",
+   "location": "Zürich, CH",
+   "country": "CH",
+   "region": "DACH",
+   "url": "https://www.smfs.ch/",
+   "categories": [
+    "ITSM",
+    "AI"
+   ],
+   "relevance": "core",
+   "status": "confirmed",
+   "format": "forum",
+   "note": "",
+   "description_en": "Switzerland's largest service management forum.",
+   "description_de": "Grösstes Service-Management-Forum der Schweiz."
   }
  ]
 }

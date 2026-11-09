@@ -201,7 +201,7 @@ footer{max-width:1200px;margin:24px auto;padding:0 16px 24px;font-size:.8rem;col
       fSearch:"Suche", searchPh:"Titel, Ort, Veranstalter …", fTime:"Zeitraum", fRel:"Relevanz", fReg:"Region", fCat:"Thema", fFmt:"Format", fStatus:"Status",
       tUpcoming:"Ab heute", t2026:"Nur 2026", t2027:"Nur 2027", tAll:"Alle (inkl. vergangene)",
       rDefault:"ITSM + verwandte Themen", rCore:"Nur ITSM/ESM", rAll:"Alle (inkl. Randthemen)",
-      all:"Alle", regDACH:"DACH", regDE:"Nur Deutschland", regEurope:"Europa (ohne DACH)", regInternational:"International", regOnline:"Online",
+      all:"Alle", regDACH:"DACH", regDE:"Nur Deutschland", regAT:"Nur Österreich", regCH:"Nur Schweiz", regEurope:"Europa (ohne DACH)", regInternational:"International", regOnline:"Online",
       stConfirmed:"Bestätigt", stTentative:"Vorläufig (TBC)",
       count:(n,t)=>`${n} von ${t} Veranstaltungen`, reset:"Filter zurücksetzen",
       lgCore:"ITSM/ESM (Kern)", lgRel:"KI, Cloud, Security, Digital", lgPer:"Randthema", lgTbc:"Termin vorläufig",
@@ -223,7 +223,7 @@ footer{max-width:1200px;margin:24px auto;padding:0 16px 24px;font-size:.8rem;col
       fSearch:"Search", searchPh:"Title, location, organiser …", fTime:"Period", fRel:"Relevance", fReg:"Region", fCat:"Topic", fFmt:"Format", fStatus:"Status",
       tUpcoming:"From today", t2026:"2026 only", t2027:"2027 only", tAll:"All (incl. past)",
       rDefault:"ITSM + related topics", rCore:"ITSM/ESM only", rAll:"All (incl. peripheral)",
-      all:"All", regDACH:"DACH", regDE:"Germany only", regEurope:"Europe (excl. DACH)", regInternational:"International", regOnline:"Online",
+      all:"All", regDACH:"DACH", regDE:"Germany only", regAT:"Austria only", regCH:"Switzerland only", regEurope:"Europe (excl. DACH)", regInternational:"International", regOnline:"Online",
       stConfirmed:"Confirmed", stTentative:"Tentative (TBC)",
       count:(n,t)=>`${n} of ${t} events`, reset:"Reset filters",
       lgCore:"ITSM/ESM (core)", lgRel:"AI, cloud, security, digital", lgPer:"Peripheral topic", lgTbc:"Date tentative",
@@ -264,7 +264,7 @@ footer{max-width:1200px;margin:24px auto;padding:0 16px 24px;font-size:.8rem;col
   function buildSelects(){
     fillSelect("time", [["upcoming",t("tUpcoming")],["2026",t("t2026")],["2027",t("t2027")],["all",t("tAll")]]);
     fillSelect("rel", [["core,related",t("rDefault")],["core",t("rCore")],["core,related,peripheral",t("rAll")]]);
-    fillSelect("reg", [["",t("all")],["DACH",t("regDACH")],["DE",t("regDE")],["Europe",t("regEurope")],["International",t("regInternational")],["Online",t("regOnline")]]);
+    fillSelect("reg", [["",t("all")],["DACH",t("regDACH")],["DE",t("regDE")],["AT",t("regAT")],["CH",t("regCH")],["Europe",t("regEurope")],["International",t("regInternational")],["Online",t("regOnline")]]);
     fillSelect("cat", [["",t("all")], ...Object.keys(T.de.cat).map(k => [k, t("cat")[k]])]);
     fillSelect("fmt", [["",t("all")], ...Object.keys(T.de.fmt).map(k => [k, t("fmt")[k]])]);
     fillSelect("st", [["",t("all")],["confirmed",t("stConfirmed")],["tentative",t("stTentative")]]);
@@ -289,7 +289,7 @@ footer{max-width:1200px;margin:24px auto;padding:0 16px 24px;font-size:.8rem;col
     return all.filter(e =>
       (time==="all" || (time==="upcoming" ? e.end >= TODAY : e.start.slice(0,4)===time)) &&
       rel.includes(e.relevance) &&
-      (!reg || (reg==="DE" ? e.country==="DE" : e.region===reg)) &&
+      (!reg || (["DE","AT","CH"].includes(reg) ? e.country===reg : e.region===reg)) &&
       (!cat || e.categories.includes(cat)) && (!fmt || e.format===fmt) && (!st || e.status===st) &&
       (!q || [e.title, e.location, e.description_de, e.description_en, e.url].join(" ").toLowerCase().includes(q))
     ).sort((a,b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));

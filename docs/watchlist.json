@@ -10,16 +10,6 @@
   "expected_en": "TBA"
  },
  {
-  "title": "Service Management Forum Schweiz (SMFS) 2027",
-  "expected": "Okt 2027 (vorauss.)",
-  "location": "Zürich, CH",
-  "url": "https://www.smfs.ch/",
-  "categories": [
-   "ITSM"
-  ],
-  "expected_en": "Oct 2027 (expected)"
- },
- {
   "title": "itSMF Schweiz Events 2027",
   "expected": "offen",
   "location": "CH",
@@ -164,16 +154,6 @@
   "expected_en": "TBA"
  },
  {
-  "title": "Confare CIOSUMMIT Zürich / Wien 2027",
-  "expected": "offen",
-  "location": "Zürich, CH / Wien, AT",
-  "url": "https://www.confare.at/",
-  "categories": [
-   "Digital Transformation"
-  ],
-  "expected_en": "TBA"
- },
- {
   "title": "Web Summit 2027",
   "expected": "Nov 2027 (vorauss.)",
   "location": "Lissabon, PT",
@@ -262,5 +242,65 @@
    "Digital Transformation"
   ],
   "expected_en": "Oct 2027 (expected)"
+ },
+ {
+  "title": "ADV CyberShield Summit 2027",
+  "expected": "Feb/März 2027",
+  "location": "Wien, AT",
+  "url": "https://www.adv.at/events/vorschau-2026-2027/",
+  "categories": [
+   "Security"
+  ],
+  "expected_en": "Feb/March 2027"
+ },
+ {
+  "title": "E-Crime & Cybersecurity Austria 2027",
+  "expected": "April 2027 (vorauss.)",
+  "location": "Wien, AT",
+  "url": "https://www.luminik.io/events/e-crime-cybersecurity-austria-vienna/",
+  "categories": [
+   "Security"
+  ],
+  "expected_en": "April 2027 (expected)"
+ },
+ {
+  "title": "ServiceNow User Group Austria (SNUG AT) 2027",
+  "expected": "offen",
+  "location": "AT",
+  "url": "https://www.servicenow.com/community/austria-snug/gh-p/snug-at-austria-",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "ServiceNow User Group Schweiz (SNUG CH) 2027",
+  "expected": "offen",
+  "location": "CH",
+  "url": "https://www.servicenow.com/community/switzerland-snug/gh-p/snug-ch-switzerland-",
+  "categories": [
+   "ITSM"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "topsoft 2027 (Business-Software-Messe)",
+  "expected": "offen",
+  "location": "Zürich, CH",
+  "url": "https://www.topsoft.ch/",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "TBA"
+ },
+ {
+  "title": "Confare CIOSUMMIT Frankfurt 2027",
+  "expected": "offen",
+  "location": "Frankfurt, DE",
+  "url": "https://confare.at/c/konferenzen/ciosummits-dach/",
+  "categories": [
+   "Digital Transformation"
+  ],
+  "expected_en": "TBA"
  }
 ]
