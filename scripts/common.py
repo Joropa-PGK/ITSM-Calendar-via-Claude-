@@ -14,6 +14,76 @@ DOCS = ROOT / "docs"
 
 DACH = {"DE", "AT", "CH"}
 
+
+# --------------------------------------------------------------------------- security
+# All event data may originate from untrusted third-party websites (crawler, AI extraction).
+# Every field is normalised here before it reaches ICS, Excel, JSON or the website.
+
+MAX_LEN = {"title": 200, "location": 200, "description_en": 1000, "description_de": 1000,
+           "note": 500, "source": 300, "expected": 100, "expected_en": 100}
+_CTRL = re.compile(r"[\x00-\x1f\x7f-\x9f]")                       # C0/C1 control chars incl. CR/LF/TAB
+_BIDI = re.compile(r"[\u200b-\u200f\u202a-\u202e\u2066-\u2069\ufeff]")  # bidi overrides / zero-width
+_TAGS = re.compile(r"<[^>]{0,500}>")                                   # HTML/XML tags
+_URL_OK = re.compile(r"^https://[^\s<>\"'`]+$|^http://[^\s<>\"'`]+$", re.I)
+
+
+class UnsafeDataError(ValueError):
+    """Raised when event data fails security validation (fail closed)."""
+
+
+def clean_text(value, max_len: int = 1000) -> str:
+    """Remove control/bidi characters and HTML tags, collapse whitespace, cap length."""
+    if value is None:
+        return ""
+    text = _CTRL.sub(" ", str(value))
+    text = _BIDI.sub("", text)
+    text = _TAGS.sub("", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:max_len]
+
+
+def safe_url(value) -> str | None:
+    """Return the URL only if it is an absolute http(s) URL with a host and no dangerous characters."""
+    from urllib.parse import urlsplit
+    if not value:
+        return None
+    url = str(value).strip()
+    if _CTRL.search(url) or _BIDI.search(url) or len(url) > 2000 or not _URL_OK.match(url):
+        return None
+    parts = urlsplit(url)
+    if parts.scheme.lower() not in ("http", "https") or not parts.hostname or parts.username or parts.password:
+        return None
+    return url
+
+
+def sanitize_event(ev: dict) -> dict:
+    """Normalise all free-text fields of an event and enforce a safe URL (raises UnsafeDataError)."""
+    out = dict(ev)
+    for key, limit in MAX_LEN.items():
+        if key in out and out[key] is not None:
+            out[key] = clean_text(out[key], limit)
+    url = safe_url(out.get("url"))
+    if not url:
+        raise UnsafeDataError(f"Unsichere oder ungültige URL bei {out.get('id') or out.get('title')!r}: {str(out.get('url'))[:80]!r}")
+    out["url"] = url
+    if out.get("id") and not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,99}", str(out["id"])):
+        raise UnsafeDataError(f"Ungültige id: {str(out['id'])[:80]!r}")
+    if out.get("country") and not re.fullmatch(r"[A-Z]{2,3}", str(out["country"])):
+        out["country"] = None
+    if "categories" in out:
+        out["categories"] = [clean_text(c, 40) for c in (out.get("categories") or [])][:8]
+    return out
+
+
+EXCEL_FORMULA_PREFIX = ("=", "+", "-", "@", "\t", "\r", "\uff1d", "\uff0b", "\uff0d", "\uff20")
+
+
+def excel_safe(value):
+    """Neutralise spreadsheet formula injection (OWASP CSV/Formula Injection)."""
+    if isinstance(value, str) and value.startswith(EXCEL_FORMULA_PREFIX):
+        return "'" + value
+    return value
+
 # Keyword-based categorisation (lower-case, matched on title + description).
 CATEGORY_RULES: dict[str, list[str]] = {
     "ITSM": [
@@ -92,8 +162,10 @@ def uid_for(ev: dict) -> str:
 # --------------------------------------------------------------------------- ICS
 
 def _escape(text: str) -> str:
+    """RFC 5545 TEXT escaping; bare CR and other control chars are removed (no property injection)."""
+    text = _CTRL.sub(lambda m: "\n" if m.group() == "\n" else "", str(text).replace("\r\n", "\n"))
     return (text.replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,")
-            .replace("\r\n", "\\n").replace("\n", "\\n"))
+            .replace("\n", "\\n"))
 
 
 def _fold(line: str) -> str:
@@ -148,7 +220,7 @@ def to_ics(events: list[dict], name: str, stamp: dt.datetime) -> str:
             f"DTSTART;VALUE=DATE:{start:%Y%m%d}",
             f"DTEND;VALUE=DATE:{end:%Y%m%d}",
             f"SUMMARY:{_escape(summary)}",
-            f"URL:{ev['url']}",
+            f"URL:{safe_url(ev['url']) or ''}",
             f"DESCRIPTION:{_escape(description_for(ev))}",
             f"LOCATION:{_escape(ev.get('location', ''))}",
             f"CATEGORIES:{','.join(_escape(c) for c in ev.get('categories', []))}",

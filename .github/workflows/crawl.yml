@@ -9,12 +9,19 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
+        with:
+          persist-credentials: false   # Token nicht im Repo-Checkout ablegen (PR-Action nutzt eigenes Token)
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065  # v5.6.0
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
@@ -23,11 +30,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional: enables AI extraction
         working-directory: scripts
         run: python crawl.py
-      - name: Build feeds
+      - name: Build feeds (schlägt bei unsicheren Daten fehl)
         working-directory: scripts
         run: python build.py
+      - name: Security tests
+        run: pip install pytest==8.3.5 && python -m pytest -q tests
       - name: Open pull request for review
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@271a8d0340265f705b14b6d32b9829c1cb33d45e  # v7.0.8
         with:
           branch: crawler/update
           title: "Crawler: neue/geänderte Events"

@@ -16,9 +16,16 @@ import json
 import yaml
 
 from export_xlsx import write_xlsx
-from common import DATA, DOCS, as_date, categorise, infer_format, load_events, region_for, relevance_for, to_ics, uid_for
+from common import (DATA, DOCS, UnsafeDataError, as_date, categorise, clean_text, infer_format, load_events, region_for,
+                    relevance_for, safe_url, sanitize_event, to_ics, uid_for)
 
 REQUIRED = ("id", "title", "start", "url")
+ALLOWED = {
+    "status": {"confirmed", "tentative"},
+    "relevance": {"core", "related", "peripheral"},
+    "region": {"DACH", "Europe", "International", "Online"},
+    "format": {"conference", "tradefair", "forum", "workshop", "meetup", "webinar", "training"},
+}
 
 
 def validate(events: list[dict]) -> list[dict]:
@@ -32,12 +39,29 @@ def validate(events: list[dict]) -> list[dict]:
         seen.add(ev["id"])
         if as_date(ev.get("end") or ev["start"]) < as_date(ev["start"]):
             raise ValueError(f"end < start: {ev['id']}")
+        ev = sanitize_event(ev)  # security: clean text, enforce http(s) URL (raises UnsafeDataError)
         ev.setdefault("categories", categorise(ev["title"] + " " + ev.get("description_en", "")))
         ev.setdefault("region", region_for(ev.get("country")))
         ev.setdefault("relevance", relevance_for(ev["categories"], ev["title"]))
         ev.setdefault("status", "confirmed")
         ev.setdefault("format", infer_format(ev["title"], ev.get("description_en", "")))
+        for field, allowed in ALLOWED.items():
+            if ev[field] not in allowed:
+                raise UnsafeDataError(f"Ungültiger Wert {field}={ev[field]!r} bei {ev['id']}")
         out.append(ev)
+    return out
+
+
+def validate_watch(watch: list[dict]) -> list[dict]:
+    """Sanitise watchlist entries; entries without a safe http(s) URL fail the build."""
+    out = []
+    for w in watch:
+        url = safe_url(w.get("url"))
+        if not url:
+            raise UnsafeDataError(f"Unsichere URL in watchlist.yaml: {w.get('title')!r}")
+        out.append({"title": clean_text(w.get("title"), 200), "expected": clean_text(w.get("expected"), 100),
+                    "location": clean_text(w.get("location"), 200), "url": url,
+                    "categories": [clean_text(c, 40) for c in (w.get("categories") or [])][:8]})
     return out
 
 
@@ -105,7 +129,7 @@ def main() -> None:
         encoding="utf-8")
 
     write_markdown(events)
-    watch = yaml.safe_load((DATA / "watchlist.yaml").read_text(encoding="utf-8")) or []
+    watch = validate_watch(yaml.safe_load((DATA / "watchlist.yaml").read_text(encoding="utf-8")) or [])
     for w in watch:
         w.setdefault("expected_en", translate_expected(str(w.get("expected", ""))))
     (DOCS / "watchlist.json").write_text(json.dumps(watch, ensure_ascii=False, indent=1), encoding="utf-8")

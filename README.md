@@ -35,6 +35,18 @@ Pro Quelle läuft die Extraktion in drei Stufen:
 
 **LinkedIn:** Event-Seiten und Posts erfordern einen Login, und automatisiertes Auslesen widerspricht den Nutzungsbedingungen. LinkedIn fließt daher nur über die Websuche und manuelle Ergänzungen ein.
 
+## Einbettung als iFrame (sicher)
+
+```html
+<iframe src="https://joropa-pgk.github.io/ITSM-Calendar-via-Claude-/?lang=de"
+        title="IT &amp; ITSM Event-Kalender" loading="lazy" referrerpolicy="no-referrer"
+        sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox allow-downloads"
+        style="width:100%; height:1400px; border:0;"></iframe>
+```
+
+Details, Bedrohungsmodell, Testergebnisse und verbleibende Empfehlungen: siehe [`SECURITY.md`](SECURITY.md).
+Sicherheitstests: `python -m pytest -q tests` und `node tests/frontend_security.test.js`.
+
 ## Einrichtung (einmalig)
 
 1. **Branch mergen:** Den Branch `claude/event-calendar-web-crawler-eajf14` nach `main` mergen.

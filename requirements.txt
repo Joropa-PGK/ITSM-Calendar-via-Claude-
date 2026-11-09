@@ -1,6 +1,7 @@
-PyYAML>=6.0
-icalendar>=6.0
-httpx>=0.27
-anthropic>=2.5.0
-pydantic>=2.7
-openpyxl>=3.1
+# Exakt gepinnte Versionen (Supply-Chain-Schutz). Updates bewusst per PR einspielen.
+PyYAML==6.0.3
+icalendar==7.3.0
+httpx==0.28.1
+anthropic==2.5.0
+pydantic==2.13.5
+openpyxl==3.1.5

@@ -7,7 +7,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
 
-from common import as_date
+from common import as_date, excel_safe, safe_url
 
 NAVY, CYAN, LIGHT, CREAM = "0A3658", "1AB7EA", "D1F1FB", "FDF3D4"
 FONT = "Calibri"
@@ -55,7 +55,9 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
                 STATUS[e["status"]], e["url"],
                 e.get("description_de", ""), e.get("description_en", ""), e.get("note", ""), e.get("source", "")]
         for c, v in enumerate(vals, 1):
-            cell = ws.cell(row=r, column=c, value=v)
+            cell = ws.cell(row=r, column=c, value=excel_safe(v))
+            if isinstance(v, str):
+                cell.data_type = "s"  # never let data become a formula (formula injection)
             cell.font = Font(name=FONT)
             cell.alignment = WRAP if c in (4, 5, 9, 13, 14, 15) else TOP
             cell.border = THIN
@@ -63,7 +65,8 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
         for c in (1, 2):
             ws.cell(row=r, column=c).number_format = "DD.MM.YYYY"
         link = ws.cell(row=r, column=12)
-        link.hyperlink = e["url"]
+        if safe_url(e["url"]):
+            link.hyperlink = e["url"]
         link.font = Font(name=FONT, color="0563C1", underline="single")
         if e["relevance"] == "core":
             ws.cell(row=r, column=4).font = Font(name=FONT, bold=True)
@@ -79,9 +82,12 @@ def write_xlsx(events: list[dict], watch: list[dict], path, stamp: dt.datetime) 
         vals = [w["title"], w.get("expected", ""), w.get("location", ""),
                 ", ".join(CAT.get(c, c) for c in w.get("categories", [])), w["url"]]
         for c, v in enumerate(vals, 1):
-            cell = wl.cell(row=r, column=c, value=v)
+            cell = wl.cell(row=r, column=c, value=excel_safe(v))
+            if isinstance(v, str):
+                cell.data_type = "s"
             cell.font, cell.alignment, cell.border = Font(name=FONT), WRAP, THIN
-        wl.cell(row=r, column=5).hyperlink = w["url"]
+        if safe_url(w["url"]):
+            wl.cell(row=r, column=5).hyperlink = w["url"]
         wl.cell(row=r, column=5).font = Font(name=FONT, color="0563C1", underline="single")
     wl.auto_filter.ref = f"A1:E{len(watch) + 1}"
 
