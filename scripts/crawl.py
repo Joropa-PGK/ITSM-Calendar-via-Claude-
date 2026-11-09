@@ -267,7 +267,11 @@ def _host_path(url: str) -> str:
 DEV_ONLY = ("devfest", "react", "angular", "javascript", "jsnation", "java", "basta", "vibekode", "webinale",
             "wordcamp", "pycon", "ruby", "c++", "voxxed", "clean architecture", "principal dev", "product build",
             "leaddev", "lead dev", "datagrillen", "decompiled", "collabdays", "qs-tag", "dslam", "masterclass for tech",
-            "halfstack", "akademy", "nerdearla", "phpug", "rust ")
+            "halfstack", "akademy", "nerdearla", "phpug", "rust ", "php", "symfony", "gopher", "golang", "smashingconf",
+            "embedded world", "apex connect", "comocamp", "codebuzz", "codecrafts", "jax ", "jcon", "enterjs", "fossgis",
+            "foss backstage", "foss-länd", "mountain camp", "bobconf", "bob 20", "testing days", "product owner",
+            "product management festival", "e-commerce", "ifa berlin", "keycloak", "devday", "developers day",
+            "developer conference")
 
 
 def out_of_scope(title: str, cats: list[str]) -> bool:

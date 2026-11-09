@@ -104,3 +104,12 @@
 - {name: Servicenerds.Camp, url: "https://servicenerds.camp/", focus: [ITSM]}
 - {name: Handelsblatt Live, url: "https://live.handelsblatt.com/"}
 - {name: cio.de Events, url: "https://www.cio.de/p/events"}
+
+# --- Ergänzt 09.11.2026: dev.events Länderseiten inkl. Paginierung (?page=N) ---
+- {name: dev.events DE S.1, url: "https://dev.events/EU/DE?page=1"}
+- {name: dev.events DE S.2, url: "https://dev.events/EU/DE?page=2"}
+- {name: dev.events DE S.3, url: "https://dev.events/EU/DE?page=3"}
+- {name: dev.events DE S.4, url: "https://dev.events/EU/DE?page=4"}
+- {name: dev.events DE S.5, url: "https://dev.events/EU/DE?page=5"}
+- {name: dev.events AT S.2, url: "https://dev.events/EU/AT?page=2"}
+- {name: dev.events CH S.2, url: "https://dev.events/EU/CH?page=2"}
