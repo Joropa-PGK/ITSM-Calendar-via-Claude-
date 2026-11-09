@@ -505,6 +505,22 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Conference dedicated to scalable AI platform and data infrastructure strategies for enterprise AI adoption.
   description_de: Konferenz über skalierbare KI-Plattform- und Dateninfrastrukturen für den Unternehmenseinsatz von KI.
+- id: sams-dach-2026
+  title: SAMS DACH 2026 – Software Asset Management Strategies
+  start: 2026-03-16
+  end: 2026-03-17
+  location: Berlin (Titanic Chaussee), DE
+  country: DE
+  region: DACH
+  url: https://conference.as/conference/sams-dach-2026
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (versio.io / conference.as)
+  description_en: Europe's largest congress for software asset management and IT procurement.
+  description_de: Europas größter Kongress für Software Asset Management und IT-Einkauf.
 - id: global-summit-on-smart-systems-2026
   uid: paan-event-1706223630
   title: Global Summit on Smart Systems
@@ -524,6 +540,22 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Broad IT systems event covering AI, IoT, Big Data, cybersecurity, cloud & digital transformation.
   description_de: IT-Systeme-Konferenz zu KI, IoT, Big Data, Cybersicherheit, Cloud-Technologien und digitaler Transformation.
+- id: servicenerds-camp-2026
+  title: Servicenerds.Camp 2026
+  start: 2026-03-20
+  end: 2026-03-21
+  location: Hamburg, DE
+  country: DE
+  region: DACH
+  url: https://servicenerds.camp/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  format: meetup
+  source: Favoriten-Recherche 09.11.2026 (servicenerds.camp / Podcast)
+  description_en: Unconference (barcamp) for IT service management.
+  description_de: Unkonferenz (Barcamp) für IT-Service-Management.
 - id: cloudfest-2026
   uid: paan-event-1706223631
   title: CloudFest
@@ -638,6 +670,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Austria's leading independent IT Service Management conference.
   description_de: Österreichs größte unabhängige IT Service Management Konferenz.
+- id: pn-strategy-summit-it-mgmt-2026-04
+  title: Strategy Summit IT Management 2026 (Frühjahr)
+  start: 2026-04-14
+  end: 2026-04-15
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for IT managers and CIOs.
+  description_de: project-networks-Gipfel für IT-Manager und CIOs.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: 3rd-intl-summit-on-robotics-ai-ml-2026
   uid: paan-event-1706223638
   title: 3rd Intl Summit on Robotics, AI & ML
@@ -1187,6 +1236,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: Salesforce's major event in London, showcasing the latest product innovations.
   description_de: Salesforce's großes Event in London, das die neuesten Produktinnovationen vorstellt.
+- id: pn-strategy-summit-cyber-2026-07
+  title: Strategy Summit Cyber Security 2026 (Sommer)
+  start: 2026-07-01
+  end: 2026-07-02
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for CISOs and security leaders.
+  description_de: project-networks-Gipfel für CISOs und Security-Verantwortliche.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: wearedevelopers-world-congress-2026-2026
   uid: paan-event-1706223659
   title: WeAreDevelopers World Congress 2026
@@ -1401,6 +1467,23 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: Conference on generative AI in business.
   description_de: Konferenz zu generativer KI im Unternehmenskontext.
+- id: afsmi-rethinking-smart-services-2026
+  title: Rethinking Smart Services 2026 (AFSMI-Partnerevent)
+  start: 2026-09-22
+  end: 2026-09-22
+  location: Insel Mainau, DE
+  country: DE
+  region: DACH
+  url: https://www.afsmi.de/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (afsmi.de)
+  description_en: Industrial service, AI and digital service business models.
+  description_de: Industrieller Service, KI und digitale Service-Geschäftsmodelle.
 - id: ai-data-quantum-summit-2026
   title: AI, Data & Quantum Summit 2026
   start: 2026-09-23
@@ -1581,6 +1664,23 @@
   source: Websuche 04.11.2026
   description_en: Leading congress and trade fair for digitalisation of the public sector (e-Government, OZG).
   description_de: Leitkongress und Fachmesse für die Digitalisierung der öffentlichen Verwaltung (E-Government, OZG).
+- id: pn-strategy-summit-it-mgmt-2026-10
+  title: Strategy Summit IT Management 2026 (Herbst)
+  start: 2026-10-13
+  end: 2026-10-14
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for IT managers and CIOs.
+  description_de: project-networks-Gipfel für IT-Manager und CIOs.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: cio-des-jahres-2026
   title: CIO des Jahres 2026 – Konferenz & Awards
   start: 2026-10-14
@@ -1793,6 +1893,23 @@
   source: Chatverlauf-Abgleich 09.11.2026 (bitkom.org)
   description_en: Bitkom, HGI/RUB and ATHENE conference with the German IT Security Award.
   description_de: Konferenz von Bitkom, HGI/RUB und ATHENE mit Verleihung des Deutschen IT-Sicherheitspreises.
+- id: pvm-2026
+  title: PVM 2026 – Projektmanagement und Vorgehensmodelle
+  start: 2026-11-05
+  end: 2026-11-06
+  location: Böblingen (Herman Hollerith Zentrum), DE
+  country: DE
+  region: DACH
+  url: https://pvm-tagung.de/startseite
+  categories:
+  - Digital Transformation
+  - AI
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (pvm-tagung.de / hhz.de)
+  description_en: '12th GI conference on project management: disruption, AI and hybrid methods.'
+  description_de: '12. GI-Tagung zum Projektmanagement: Disruption, KI und hybride Methoden.'
 - id: tefo-2026
   title: TEFO 2026 – Studerus Technology Forum
   start: 2026-11-05
@@ -1860,6 +1977,23 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: The official annual conference and awards event for itSMF UK.
   description_de: Die offizielle Jahreskonferenz mit Preisverleihung von itSMF UK.
+- id: tbm-conference-2026
+  title: TBM Conference 2026
+  start: 2026-11-09
+  end: 2026-11-09
+  location: Miami, US
+  country: INT
+  region: International
+  url: https://www.tbmcouncil.org/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (tbmcouncil.org)
+  description_en: Technology Business Management (IT financial management) conference.
+  description_de: Konferenz zu Technology Business Management (IT-Finanzmanagement).
+  note: Startdatum laut TBM Council; Dauer prüfen
 - id: unhacked-360-germany-2026
   title: 'Unhacked 360 Germany: FutureSec Summit'
   start: 2026-11-09
@@ -2053,6 +2187,23 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: 'Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.'
   description_de: 'Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich.'
+- id: afsmi-117-chaptermeeting-2026
+  title: AFSMI 117. Chapter-Meeting bei Empolis
+  start: 2026-11-16
+  end: 2026-11-17
+  location: Kaiserslautern (Empolis), DE
+  country: DE
+  region: DACH
+  url: https://www.afsmi.de/veranstaltung/117-chaptermeeting-bei-empolis.html
+  categories:
+  - ITSM
+  - Cloud
+  relevance: core
+  status: confirmed
+  format: forum
+  source: Favoriten-Recherche 09.11.2026 (afsmi.de)
+  description_en: 'AFSMI chapter meeting: service transformation in the cloud economy.'
+  description_de: 'AFSMI-Chapter-Meeting: Service-Transformation in der Cloud-Ökonomie.'
 - id: ocg-digital-days-2026
   title: Digital Days 2026 Wien
   start: 2026-11-16
@@ -2070,6 +2221,24 @@
   source: Recherche AT/CH 09.11.2026 (ocg.at)
   description_en: Vienna's annual digitalisation days (start date per OCG calendar; duration to be verified).
   description_de: Wiens jährliche Digitalisierungstage (Starttermin laut OCG-Kalender, Dauer prüfen).
+- id: forum-it-2026
+  title: Forum IT 2026 – NextGen Service Desk
+  start: 2026-11-16
+  end: 2026-11-17
+  location: Mauerbach bei Wien (Schlosspark), AT
+  country: AT
+  region: DACH
+  url: https://www.ibitech.com/de/Ueber-IBITECH/Messen
+  categories:
+  - ITSM
+  - Security
+  - AI
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (ibitech.com)
+  description_en: 'Austria''s IT meeting point: next-gen service desk, cybersecurity, data centre, automation & AI.'
+  description_de: 'Österreichs IT-Treffpunkt: NextGen Service Desk, Cybersecurity, Rechenzentrum, Automatisierung & KI.'
 - id: handelsblatt-ki-summit-2026
   title: Handelsblatt KI Summit 2026
   start: 2026-11-16
@@ -2460,6 +2629,23 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Information security conference and networking for IT managers.
   description_de: Information-Security-Tagung und Networking für IT-Manager.
+- id: pn-strategy-summit-cyber-2026-11
+  title: Strategy Summit Cyber Security 2026 (Herbst)
+  start: 2026-11-25
+  end: 2026-11-26
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for CISOs and security leaders.
+  description_de: project-networks-Gipfel für CISOs und Security-Verantwortliche.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: handelsblatt-webinar-ot-servicenow-2026
   title: 'Handelsblatt Webinar: OT absichern mit Vulnerability Management & KI-Workflows'
   start: 2026-11-26
@@ -2795,6 +2981,22 @@
   source: Recherche AT/CH 09.11.2026 (dev.events)
   description_en: Swiss security conference and CTF.
   description_de: Schweizer Security-Konferenz mit CTF.
+- id: pink27
+  title: Pink27 – International IT Service Management Conference
+  start: 2027-02-01
+  end: 2027-02-04
+  location: Las Vegas (Bellagio), US
+  country: INT
+  region: International
+  url: https://tech.vegas/event/pink27/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (showsbee / tech.vegas)
+  description_en: Pink Elephant's 30th international ITSM conference and exhibition.
+  description_de: 30. internationale ITSM-Konferenz von Pink Elephant mit Ausstellung.
 - id: learntec-2027
   title: LEARNTEC 2027
   start: 2027-02-02
@@ -2895,8 +3097,8 @@
 - id: hamburger-it-strategietage-2027
   title: Hamburger IT-Strategietage 2027
   start: 2027-02-17
-  end: 2027-02-18
-  location: Hamburg, DE
+  end: 2027-02-19
+  location: Hamburg (Grand Elysée), DE
   country: DE
   region: DACH
   url: https://www.experte.de/events/it-security
@@ -2908,6 +3110,7 @@
   source: Recherche 08.11.2026 (experte.de / cio.de)
   description_en: Leading CIO/IT strategy event in northern Germany (one source lists 17–19 Feb).
   description_de: Führendes CIO-/IT-Strategie-Event in Norddeutschland (eine Quelle nennt 17.–19.02.).
+  note: Termin 17.–19.02.2027 im Grand Elysée laut CIOmove; experte.de nennt 17.–18.02.
 - id: ccw-2027
   title: CCW 2027 (Customer Contact World)
   start: 2027-02-22
@@ -2925,6 +3128,22 @@
   description_en: Europe's leading trade fair and congress for customer service and contact centres.
   description_de: Europas Leitmesse mit Kongress für Kundenservice und Contact Center.
   note: Messe 22.–25.02.; Kongress laut experte.de 23.–24.02.2027
+- id: german-crm-forum-2027
+  title: German CRM Forum 2027
+  start: 2027-02-23
+  end: 2027-02-24
+  location: München (NH Ost Conference Center), DE
+  country: DE
+  region: DACH
+  url: https://www.germancrmforum.de/home
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (germancrmforum.de)
+  description_en: 17th forum on customer relationship management.
+  description_de: 17. Forum für Kundenbeziehungsmanagement.
 - id: industrial-metaverse-ai-heilbronn-2027
   title: Industrial Metaverse Conference & Embodiment of AI
   start: 2027-02-23
@@ -3036,6 +3255,23 @@
   source: Recherche 08.11.2026 (digitaler-staat.org)
   description_en: Behörden Spiegel congress on IT and public administration modernisation (~3,000 participants).
   description_de: Kongress des Behörden Spiegel zu IT und Verwaltungsmodernisierung (rund 3.000 Teilnehmende).
+- id: ciomove-lufthansa-2027
+  title: CIOmove@Lufthansa
+  start: 2027-03-03
+  end: 2027-03-03
+  location: Frankfurt am Main (Lufthansa), DE
+  country: DE
+  region: DACH
+  url: https://www.ciomove.com/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: forum
+  source: Favoriten-Recherche 09.11.2026 (ciomove.com)
+  description_en: CIOmove network meeting hosted by Lufthansa.
+  description_de: Treffen des CIOmove-Netzwerks bei Lufthansa.
+  note: CIO-Netzwerktreffen (nur für Mitglieder/auf Einladung)
 - id: winterkongress-digitale-gesellschaft-2027
   title: Winterkongress der Digitalen Gesellschaft 2027
   start: 2027-03-05
@@ -3214,6 +3450,55 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: Platform for corporate digital transformation.
   description_de: Plattform für die digitale Transformation von Unternehmen.
+- id: we-it-procurement-sourcing-2027
+  title: IT Procurement & Sourcing Summit DACH 2027
+  start: 2027-03-18
+  end: 2027-03-19
+  location: Berlin (Titanic Chaussee), DE
+  country: DE
+  region: DACH
+  url: https://www.we-conect.com/events/it-procurement-sourcing-summit-dach-2027/
+  categories:
+  - ITSM
+  - Digital Transformation
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (we-conect.com)
+  description_en: we.CONECT summit on IT procurement, sourcing and vendor management (SIAM-adjacent).
+  description_de: we.CONECT-Gipfel zu IT-Einkauf, Sourcing und Vendor Management (SIAM-nah).
+- id: we-rethink-iam-2027
+  title: Rethink! IAM 2027
+  start: 2027-03-18
+  end: 2027-03-19
+  location: Berlin (Titanic Chaussee), DE
+  country: DE
+  region: DACH
+  url: https://www.we-conect.com/events/rethink-iam-2027
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (we-conect.com / 10times)
+  description_en: Identity & access management summit.
+  description_de: Gipfel zu Identity & Access Management.
+- id: we-rethink-infrasec-2027
+  title: Rethink! InfraSec Summit 2027
+  start: 2027-03-18
+  end: 2027-03-19
+  location: Berlin (Maritim proArte), DE
+  country: DE
+  region: DACH
+  url: https://www.we-conect.com/events/rethink-infrasec-infrastructure-network-endpoint-security-summit-2027
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (we-conect.com)
+  description_en: Infrastructure, network and endpoint security summit.
+  description_de: Gipfel zu Infrastruktur-, Netzwerk- und Endpoint-Security.
 - id: sicher27
   title: Sicher27
   start: 2027-03-18
@@ -3294,6 +3579,23 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Invitation-only forum for CIOs and IT leaders.
   description_de: Forum für CIOs und IT-Verantwortliche (nur auf Einladung).
+- id: pn-strategy-summit-it-mgmt-2027-04
+  title: Strategy Summit IT Management 2027 (Frühjahr)
+  start: 2027-04-13
+  end: 2027-04-14
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for IT managers and CIOs.
+  description_de: project-networks-Gipfel für IT-Manager und CIOs.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: devopsdays-zurich-2027
   title: DevOpsDays Zürich 2027
   start: 2027-04-14
@@ -3310,6 +3612,22 @@
   source: Recherche AT/CH 09.11.2026 (dev.events)
   description_en: Community conference on DevOps and IT operations.
   description_de: Community-Konferenz zu DevOps und IT-Betrieb.
+- id: sekop-2027
+  title: SEKOP 2027
+  start: 2027-04-15
+  end: 2027-04-17
+  location: Hamburg (Le Méridien), DE
+  country: DE
+  region: DACH
+  url: https://finaki.de/sekop2027/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (finaki.de)
+  description_en: Cybersecurity conference for decision-makers incl. regulation and cyber-physical systems.
+  description_de: Cybersecurity-Konferenz für Entscheider inkl. Regulatorik und cyber-physischer Systeme.
 - id: lsz-it-security-kitzbuehel-2027
   title: IT-Security & Risk Management Kongress 2027
   start: 2027-04-19
@@ -3680,6 +3998,23 @@
   source: Recherche 08.11.2026 (dev.events)
   description_en: heise/iX summit on agentic AI.
   description_de: Summit von heise/iX zu agentischer KI.
+- id: ciomove-2027
+  title: CIOmove 2027
+  start: 2027-06-03
+  end: 2027-06-06
+  location: Stockholm, SE
+  country: SE
+  region: Europe
+  url: https://www.ciomove.com/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: forum
+  source: Favoriten-Recherche 09.11.2026 (ciomove.com)
+  description_en: 14th CIOmove – international network of 500+ CIOs.
+  description_de: 14. CIOmove – internationales Netzwerk von über 500 CIOs.
+  note: Internationales CIO-Netzwerk (auf Einladung)
 - id: serview27-pre-conference
   title: SERVIEW27 Pre-Conference
   start: 2027-06-07
@@ -3728,6 +4063,23 @@
   source: Recherche 08.11.2026 (serview-summit.com / messen.de)
   description_en: Europe's largest congress and expo for ITSM, ESM, ITOM and ITAM – 'Service Management in the Age of AI', 50+ sponsors.
   description_de: Europas größte Kongressmesse für ITSM, ESM, ITOM und ITAM – 'Service Management im KI-Zeitalter', über 50 Aussteller.
+- id: inno-it-kiel-2027
+  title: INNO IT 2027
+  start: 2027-06-09
+  end: 2027-06-09
+  location: Kiel (MERKUR Ostseehalle), DE
+  country: DE
+  region: DACH
+  url: https://www.tradefairdates.com/INNO-IT-M9319/Kiel.html
+  categories:
+  - Digital Transformation
+  - Security
+  relevance: related
+  status: tentative
+  format: tradefair
+  source: Favoriten-Recherche 09.11.2026 (tradefairdates (Aggregator))
+  description_en: IT and communications fair for northern Germany.
+  description_de: IT- und Kommunikationsmesse für Norddeutschland.
 - id: ooen-cyber-security-day-2027
   title: OÖNachrichten Cyber Security Day 2027
   start: 2027-06-09
@@ -3908,6 +4260,23 @@
   source: Recherche AT/CH 09.11.2026 (bakom.admin.ch)
   description_en: 5th international summit on AI governance – 'Bridging Innovation and Trust'.
   description_de: 5. internationaler Gipfel zur AI Governance – 'Bridging Innovation and Trust'.
+- id: we-it-infrastructure-operations-2027
+  title: IT Infrastructure & Operations Summit 2027
+  start: 2027-06-21
+  end: 2027-06-22
+  location: Berlin (Maritim proArte), DE
+  country: DE
+  region: DACH
+  url: https://ti.to/weconect/it-infrastructure-operations-summit-2027-bp-packages
+  categories:
+  - Cloud
+  - ITSM
+  relevance: core
+  status: tentative
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (we.CONECT-Ticketseite)
+  description_en: we.CONECT summit on infrastructure, IT operations and multi-cloud.
+  description_de: we.CONECT-Gipfel zu Infrastruktur, IT-Betrieb und Multi-Cloud.
 - id: mlcon-munich-2027
   title: MLcon Munich 2027
   start: 2027-06-21
@@ -3956,6 +4325,22 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: Conference on digital excellence and transformation.
   description_de: Konferenz zu Digital Excellence und Transformation.
+- id: kixconf-2027
+  title: KIXCONF 2027
+  start: 2027-06-23
+  end: 2027-06-24
+  location: Chemnitz (Fabrik), DE
+  country: DE
+  region: DACH
+  url: https://www.kixconf.com/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (kixconf.com)
+  description_en: KIX user conference on open-source IT service management.
+  description_de: KIX-Anwenderkonferenz zu Open-Source-IT-Service-Management.
 - id: swiss-it-leadership-forum-2027
   title: Swiss IT Leadership Forum 2027
   start: 2027-06-27
@@ -3988,6 +4373,23 @@
   source: Chatverlauf-Abgleich 09.11.2026 (aggregator (unbestätigt))
   description_en: Intranet and digital workplace conference (date from aggregator only).
   description_de: Konferenz zu Intranet und Digital Workplace (Datum nur aus Aggregator).
+- id: pn-strategy-summit-cyber-2027-06
+  title: Strategy Summit Cyber Security 2027 (Sommer)
+  start: 2027-06-29
+  end: 2027-06-30
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for CISOs and security leaders.
+  description_de: project-networks-Gipfel für CISOs und Security-Verantwortliche.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: icail-2027
   title: ICAIL 2027 – Int. Conference on AI and Law
   start: 2027-07-05
@@ -4214,6 +4616,23 @@
   source: Websuche 04.11.2026
   description_en: Public-sector digitalisation congress (date from aggregator, organiser says 'October 2027').
   description_de: 'Kongress für Verwaltungsdigitalisierung (Datum aus Aggregator, Veranstalter: ''Oktober 2027'').'
+- id: pn-strategy-summit-it-mgmt-2027-10
+  title: Strategy Summit IT Management 2027 (Herbst)
+  start: 2027-10-05
+  end: 2027-10-06
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for IT managers and CIOs.
+  description_de: project-networks-Gipfel für IT-Manager und CIOs.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
 - id: it-sa-2027
   title: it-sa Expo&Congress 2027
   start: 2027-10-05
@@ -4329,3 +4748,55 @@
   source: Recherche AT/CH 09.11.2026 (smfs.ch (Save the Date))
   description_en: Switzerland's largest service management forum.
   description_de: Grösstes Service-Management-Forum der Schweiz.
+- id: pn-strategy-summit-cyber-2027-11
+  title: Strategy Summit Cyber Security 2027 (Herbst)
+  start: 2027-11-16
+  end: 2027-11-17
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for CISOs and security leaders.
+  description_de: project-networks-Gipfel für CISOs und Security-Verantwortliche.
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
+- id: itcs-frankfurt-2027
+  title: ITCS Frankfurt 2027
+  start: 2027-11-26
+  end: 2027-11-26
+  location: Frankfurt (Messe, Halle 1.2), DE
+  country: DE
+  region: DACH
+  url: https://it-cs.io/en/events/
+  categories:
+  - Digital Transformation
+  relevance: peripheral
+  status: tentative
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (it-cs.io)
+  description_en: Tech conference, IT job fair and festival.
+  description_de: Tech-Konferenz, IT-Jobmesse und Festival.
+  note: Quellen uneinig (Nov/Dez 2027)
+- id: pn-strategy-summit-b2b-service-mgmt-2027
+  title: Strategy Summit B2B Service Management 2027
+  start: 2027-11-30
+  end: 2027-12-01
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.project-networks.com/en/events/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  format: conference
+  source: Favoriten-Recherche 09.11.2026 (project-networks.com)
+  description_en: project networks summit for service management decision-makers (AFSMI partner).
+  description_de: project-networks-Gipfel für Service-Management-Entscheider (AFSMI-Partner).
+  note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen

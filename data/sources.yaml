@@ -91,3 +91,16 @@
 - {name: digitalswitzerland Events, url: "https://www.digitalswitzerland.com/events/"}
 - {name: Swiss Cyber Storm, url: "https://www.swisscyberstorm.com/"}
 - {name: dev.events CH, url: "https://dev.events/EU/CH"}
+
+# --- Ergänzt 09.11.2026: Favoriten des Nutzers ---
+- {name: SERVIEW IT-Messe-Kalender, url: "https://www.serview.de/events/it-messe-kalender"}
+- {name: project networks Strategy Summits, url: "https://www.project-networks.com/en/events/"}
+- {name: CIOmove, url: "https://www.ciomove.com/"}
+- {name: IBITECH Messen, url: "https://www.ibitech.com/de/Ueber-IBITECH/Messen"}
+- {name: AFSMI Startseite, url: "https://www.afsmi.de/", focus: [ITSM]}
+- {name: we.CONECT Events, url: "https://www.we-conect.com/events/"}
+- {name: TBM Council Events, url: "https://www.tbmcouncil.org/events/"}
+- {name: KIXCONF, url: "https://www.kixconf.com/", focus: [ITSM]}
+- {name: Servicenerds.Camp, url: "https://servicenerds.camp/", focus: [ITSM]}
+- {name: Handelsblatt Live, url: "https://live.handelsblatt.com/"}
+- {name: cio.de Events, url: "https://www.cio.de/p/events"}

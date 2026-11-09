@@ -246,3 +246,40 @@
   url: https://www.we-conect.com/
   categories:
   - Digital Transformation
+- title: SAMS DACH 2027 (Software Asset Management)
+  expected: März 2027 (vorauss.)
+  location: Berlin, DE
+  url: https://www.clocate.com/software-asset-management-strategies-sams/19386/
+  categories:
+  - ITSM
+- title: IT Service Management Reloaded 2027 (we.CONECT)
+  expected: Juni 2027 (vorauss.)
+  location: Berlin, DE
+  url: https://www.we-conect.com/events/it-service-management-reloaded-2026/
+  categories:
+  - ITSM
+- title: Servicenerds.Camp 2027
+  expected: März 2027 (vorauss.)
+  location: DE
+  url: https://servicenerds.camp/
+  categories:
+  - ITSM
+- title: AI Infrastructure Summit Europe 2027 (we.CONECT)
+  expected: offen
+  location: DE
+  url: https://www.we-conect.com/events/ai-infrastructure-summit-europe-2027/
+  categories:
+  - AI
+  - Cloud
+- title: TBM Conference / TBM Council Europe 2027
+  expected: offen
+  location: INT/Europa
+  url: https://www.tbmcouncil.org/events/
+  categories:
+  - Digital Transformation
+- title: Data Expo 2027
+  expected: Sep 2027 (vorauss.)
+  location: Utrecht, NL
+  url: https://www.dataexpo.nl/
+  categories:
+  - AI
