@@ -8,6 +8,7 @@
 <meta name="description" content="IT-, ITSM-, KI-, Cloud- und Digital-Transformation-Veranstaltungen in DACH und Europa / IT, ITSM, AI, cloud and digital transformation events in DACH and Europe – curated by PAAN-Group Consulting.">
 <link rel="alternate" hreflang="de" href="?lang=de">
 <link rel="alternate" hreflang="en" href="?lang=en">
+<link rel="icon" href="assets/paan-group-logo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
@@ -28,7 +29,8 @@ a{color:var(--link)}
 /* Header */
 header{background:#fff;border-bottom:3px solid var(--cyan);padding:22px 16px 18px}
 header .wrap{max-width:1160px;margin:0 auto;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end;justify-content:space-between}
-.brand{font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:4px}
+.brand{display:inline-block;margin-bottom:14px;line-height:0}
+.brand img{height:34px;width:auto;display:block}
 h1{margin:0;font-weight:800;font-size:clamp(1.35rem,3vw,1.9rem);color:var(--navy);letter-spacing:-.01em}
 header p{margin:4px 0 0;color:var(--muted);font-size:.95rem}
 .hright{display:flex;flex-direction:column;align-items:flex-end;gap:8px}
@@ -122,7 +124,7 @@ footer{max-width:1160px;margin:28px auto 0;padding:14px 16px 28px;font-size:.78r
 <header>
   <div class="wrap">
     <div>
-      <div class="brand">PAAN-Group Consulting</div>
+      <a class="brand" href="https://paan-group.com" target="_blank" rel="noopener"><img src="assets/paan-group-logo.svg" alt="PAAN-Group Consulting" width="225" height="34"></a>
       <h1 data-i18n="title"></h1>
       <p data-i18n="subtitle"></p>
     </div>
