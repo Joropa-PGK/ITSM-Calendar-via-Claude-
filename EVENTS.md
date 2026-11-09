@@ -156,22 +156,39 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 04.11.2026 | [Digital Workplace Summit by Communardo](https://www.experte.de/events/digitalisierung) | Dresden, DE | ITSM |
 | 04.11.–05.11.2026 | [Service Summit 2026](https://www.deloitte.com/de/de/services/consulting/events/service-summit.html) | Düsseldorf, DE | ITSM |
 | 09.11.2026 | [Bitkom Fachtag Software x AI](https://www.bitkom.org/Termine) | Berlin, DE | verwandt |
+| 09.11.2026 | [DSLAM Night Shift Stuttgart](https://dev.events/conferences/dslam-night-shift-stuttgart-bivlkzqp) | Stuttgart | verwandt |
 | 09.11.–12.11.2026 | [Gartner IT Symposium/Xpo 2026](https://www.gartner.com/en/conferences/emea/symposium-spain) | Barcelona (CCIB), ES | verwandt |
 | 09.11.–10.11.2026 | [ITSM26](https://www.itsmf.co.uk/itsm26/) | Milton Keynes, UK | ITSM |
+| 09.11.–10.11.2026 | [ITSM26 Conference & Awards](https://www.itsmf.co.uk/event/itsm26/) | Bletchley | ITSM |
+| 09.11.–10.11.2026 | [LeadDev Berlin 2026](https://dev.events/conferences/lead-dev-berlin-2026-dped1jmz) | Berlin | verwandt |
 | 09.11.–10.11.2026 | [Unhacked 360 Germany: FutureSec Summit](https://dev.events/conferences/unhacked-360-germany-future-sec-summit-zmqcorst) | Berlin, DE | verwandt |
 | 09.11.–12.11.2026 | [Web Summit](https://websummit.com/) | Lisbon, PT | verwandt |
+| 09.11.–12.11.2026 | [Web Summit, Lisbon](https://websummit.com/) | MEO Arena, Lisbon | verwandt |
 | 09.11.2026 | [itSMF Fachforum Multi Provider Management](https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-10/) | Online | ITSM |
+| 10.11.2026 | [#92 Code Review](https://www.meetup.com/code-review/events/317012418/) | Frankfurt, de | ITSM |
 | 10.11.2026 | [Bitkom DigiFin 2026](https://www.bitkom.org/Termine) | Berlin, DE | verwandt |
 | 10.11.2026 | [SERVIEW Tool Meetup Leipzig](https://www.messen.de/de/1518/branche/it-loesungen) | Leipzig (Alte Wollkämmerei), DE | ITSM |
 | 10.11.–11.11.2026 | [protekt 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Leipzig (Kongresshalle am Zoo), DE | verwandt |
+| 11.11.–12.11.2026 | [CLC](https://dev.events/conferences/clc-djdu2lvr) | Mannheim | verwandt |
 | 11.11.–13.11.2026 | [DAFTA & RDV-Forum 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Köln (Marriott), DE | verwandt |
 | 11.11.–12.11.2026 | [Handelsblatt Jahrestagung Cybersecurity 2026 (TBC)](https://live.handelsblatt.com/) | Düsseldorf & Digital, DE | verwandt |
+| 11.11.–12.11.2026 | [Software-QS-Tag 2026](https://dev.events/conferences/software-qs-tag-2026-y8fn91ca) | Frankfurt am Main | verwandt |
+| 12.11.–13.11.2026 | [BSides Berlin 2026](https://dev.events/conferences/b-sides-berlin-2026-gai5lq0u) | Berlin | verwandt |
 | 12.11.2026 | [Bitkom Data Centre Summit 2026](https://www.bitkom.org/Termine) | Berlin, DE | verwandt |
 | 12.11.2026 | [Datadog Summit Munich](https://dev.events/conferences/datadog-summit-munich-vgfcaqhf) | München, DE | verwandt |
 | 12.11.2026 | [SERVIEW Tool Meetup Hamburg](https://www.messen.de/de/1518/branche/it-loesungen) | Hamburg (Grand Elysée), DE | ITSM |
+| 13.11.2026 | [Akademy 2026](https://dev.events/conferences/akademy-2026-1owsa4dw) | Graz | verwandt |
+| 14.11.2026 | [DevFest Berlin 2026](https://dev.events/conferences/dev-fest-berlin-2026-uhmk47lq) | Berlin | verwandt |
+| 14.11.–15.11.2026 | [DevFest Paderborn 2026](https://dev.events/conferences/dev-fest-paderborn-2026-usfatxmr) | Paderborn | verwandt |
+| 16.11.–20.11.2026 | [AI Engineering Summit](https://dev.events/conferences/ai-engineering-summit-plo5wfnt) | Berlin | verwandt |
+| 16.11.–20.11.2026 | [API Conference Berlin 2026](https://dev.events/conferences/api-conference-berlin-2026-nkwtkav6) | Berlin | verwandt |
+| 16.11.–19.11.2026 | [Agile Testing Days](https://dev.events/conferences/agile-testing-days-hff-q9vw) | Potsdam | verwandt |
+| 16.11.2026 | [HalfStack Vienna](https://dev.events/conferences/half-stack-vienna-svyfcged) | Vienna | verwandt |
 | 16.11.–17.11.2026 | [Handelsblatt KI Summit 2026](https://live.handelsblatt.com/) | München, DE | verwandt |
 | 16.11.–20.11.2026 | [MLCon Berlin 2026](https://dev.events/conferences/ml-con-berlin-2026-afekq9f6) | Berlin, DE | verwandt |
 | 16.11.–18.11.2026 | [Machine Learning Week 2026](https://www.experte.de/events/machine-learning) | München, DE | verwandt |
+| 16.11.–18.11.2026 | [Softwarearchitektur für KI-Systeme](https://dev.events/conferences/softwarearchitektur-fuer-ki-systeme-ls2jz8si) | Berlin | verwandt |
+| 16.11.–20.11.2026 | [VibeKode Berlin 2026](https://dev.events/conferences/vibe-kode-berlin-2026-39ptxama) | Berlin | verwandt |
 | 17.11.–19.11.2026 | [DOAG Konferenz 2026](https://www.experte.de/events/softwareentwicklung) | Nürnberg, DE | verwandt |
 | 17.11.–18.11.2026 | [Digitale Leute Summit 2026](https://www.experte.de/events/digitalisierung) | Köln, DE | verwandt |
 | 17.11.2026 | [ERP Future 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Kufstein (FH Kufstein Tirol), AT | verwandt |
@@ -179,17 +196,31 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 17.11.2026 | [SERVIEW Tool Meetup München](https://www.messen.de/de/1518/branche/it-loesungen) | München (Sofitel Bayerpost), DE | ITSM |
 | 18.11.2026 | [IT-Sicherheitstag Gelsenkirchen 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Gelsenkirchen (Westfälische Hochschule), DE | verwandt |
 | 19.11.2026 | [AI Coding Days 2026](https://www.experte.de/events/ki) | Köln, DE | verwandt |
+| 19.11.–20.11.2026 | [Helvetic Ruby 2026](https://dev.events/conferences/helvetic-ruby-2026-qgyfurwa) | Zurich | verwandt |
+| 19.11.2026 | [Lead27](https://dev.events/conferences/lead27-udwomo5l) | Zurich | verwandt |
 | 19.11.–20.11.2026 | [Slush](https://slush.org/) | Helsinki, FI | Rand |
+| 20.11.2026 | [Agentic Engineering Days Zurich](https://dev.events/conferences/agentic-engineering-days-zurich-zd6fwx38) | Zurich | verwandt |
 | 20.11.2026 | [itSMF Fachforum Service Desk Knowledge Management](https://www.itsmf.de/veranstaltung/fachforum-service-desk-knowledge-management-konstituierende-sitzung/) | Online | ITSM |
+| 21.11.2026 | [DevFest Münster 2026](https://dev.events/conferences/dev-fest-muenster-2026-ivoqsoxh) | Munster | verwandt |
+| 21.11.2026 | [DevFest Stuttgart 2026](https://dev.events/conferences/dev-fest-stuttgart-2026-stfsqcf3) | Stuttgart | verwandt |
 | 23.11.–24.11.2026 | [Change Congress 2026](https://live.handelsblatt.com/) | Essen, DE | verwandt |
+| 23.11.–26.11.2026 | [DDC .NET Developer Conference 2026](https://dev.events/conferences/ddc-net-developer-conference-2026-xlhoez91) | Cologne | verwandt |
 | 24.11.2026 | [Bitkom Digital Health Conference 2026](https://www.bitkom.org/Termine) | Berlin, DE | verwandt |
 | 24.11.–25.11.2026 | [IT Summit by heise 2026](https://www.experte.de/events/it-security) | München, DE | verwandt |
+| 24.11.–26.11.2026 | [Manage Agile 2026](https://dev.events/conferences/manage-agile-2026-xziuz1nu) | Leipzig | verwandt |
+| 24.11.–25.11.2026 | [NCA x Visionbites](https://dev.events/conferences/nca-x-visionbites-w42h4ngo) | Munich | verwandt |
+| 25.11.2026 | [Masterclass – AI Governance](https://www.itsmf.co.uk/event/online-masterclass-ai-governance-nov26/) | Online Delivery | ITSM |
 | 25.11.–27.11.2026 | [SECUTA 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Starnberg, DE | verwandt |
 | 26.11.2026 | [Handelsblatt Webinar: OT absichern mit Vulnerability Management & KI-Workflows](https://live.handelsblatt.com/) | Online | ITSM |
 | 26.11.–27.11.2026 | [IT Futures Wien 2026](https://www.messen.de/de/1518/branche/it-loesungen) | Wien (Austria Center), AT | verwandt |
+| 26.11.2026 | [Lunch & Learn – AI Unwrapped: The Gift of Shared Learning](https://www.itsmf.co.uk/event/online-ai-in-unwrapped-lunch-and-learn-nov26/) | Online Delivery | ITSM |
+| 26.11.–28.11.2026 | [Meeting C++ 2026](https://dev.events/conferences/meeting-c-2026-jhr0hlfa) | Berlin | verwandt |
+| 26.11.2026 | [Product Build Day // Pro](https://dev.events/conferences/product-build-day-pro-wzkgdiyz) | Berlin | verwandt |
 | 26.11.2026 | [SAP NOW AI Tour Germany](https://www.experte.de/events/digitalisierung) | Berlin, DE | verwandt |
+| 27.11.2026 | [Product Management Festival 2026](https://dev.events/conferences/product-management-festival-2026-rvvoq3nr) | Zurich | verwandt |
 | 30.11.–04.12.2026 | [DevOpsCon Munich 2026](https://dev.events/conferences/dev-ops-con-munich-2026-lt81zyfa) | München, DE | verwandt |
 | 30.11.–01.12.2026 | [Enterprise DevOps Summit 2026](https://dev.events/conferences/enterprise-dev-ops-summit-2026-onseyujt) | Berlin, DE | verwandt |
+| 30.11.–01.12.2026 | [Enterprise DevSecOps 2026](https://dev.events/conferences/enterprise-dev-sec-ops-2026-086xzhi1) | Berlin | verwandt |
 | 30.11.–04.12.2026 | [IT Security Summit München 2026](https://dev.events/conferences/it-security-summit-munich-v4y-dbrg) | München, DE | verwandt |
 | 30.11.–04.12.2026 | [W-JAX 2026](https://jax.de/) | München, DE | verwandt |
 
@@ -199,7 +230,14 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 |---|---|---|---|
 | 02.12.–03.12.2026 | [AFSMI Strategiegipfel B2B Service](https://www.project-networks.com/en/events/strategy-summit-b2b-service-management/) | Berlin, DE / Zoom | ITSM |
 | 02.12.2026 | [itSMF Fachforum KI im ITSM](https://www.itsmf.de/veranstaltung/fachforum-ki-im-itsm-8/) | Online | ITSM |
+| 03.12.–04.12.2026 | [The Principal Dev – Masterclass for Tech Leads](https://dev.events/conferences/principal-developer-online-5-2022) |  | ITSM |
+| 04.12.–07.12.2026 | [AI Coding Summit - Berlin Edition](https://dev.events/conferences/ai-coding-summit-berlin-edition-hqjzolfj) | Berlin | verwandt |
+| 04.12.–07.12.2026 | [React Day Berlin](https://dev.events/conferences/react-day-berlin-d2udhdmn) | Berlin | verwandt |
+| 05.12.2026 | [BSides Dresden 2026](https://dev.events/conferences/b-sides-dresden-2026-txu8-hqj) | Dresden | verwandt |
 | 07.12.–10.12.2026 | [IT-Tage 2026](https://www.ittage.informatik-aktuell.de/) | Frankfurt am Main (Kap Europa), DE | verwandt |
+| 09.12.–10.12.2026 | [Open Source Experience 2026](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) | Paris | ITSM |
+| 10.12.–11.12.2026 | [Clean Architecture Masterclass](https://dev.events/conferences/clean-architecture-online-4-2023) |  | ITSM |
+| 12.12.2026 | [DevFest Ahlen 2026](https://dev.events/conferences/dev-fest-ahlen-2026-qwknqhde) | Ahlen | verwandt |
 | 14.12.2026 | [itSMF Fachforum Multi Provider Management](https://www.itsmf.de/veranstaltung/fachforum-multi-provider-management-11/) | Online | ITSM |
 
 ## 2027
@@ -208,30 +246,45 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 20.01.2027 | [Women in ITSM CoP – New Year, New You: Your Next Chapter](https://www.itsmf.co.uk/event/community-event-women-in-itsm-jan27/) | Online Delivery | ITSM |
+| 26.01.2027 | [Introduction to ITSM – Part 1](https://www.itsmf.co.uk/event/introduction-to-itsm-part1-jan27/) | Online Delivery | ITSM |
 | 27.01.–28.01.2027 | [CONNECTED'27](https://connectedconference.de/) | München (Microsoft), DE | verwandt |
+| 29.01.–30.01.2027 | [CollabDays Bremen 2027](https://dev.events/conferences/collab-days-bremen-2027-ikxu0y6o) | Bremen | verwandt |
 
 ### Februar 2027
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 01.02.–06.02.2027 | [Insomni'hack 2027](https://dev.events/conferences/insomni-hack-2027-vf7lec1j) | Ecublens | verwandt |
 | 02.02.–04.02.2027 | [LEARNTEC 2027](https://www.learntec.de/) | Karlsruhe, DE | verwandt |
 | 03.02.–05.02.2027 | [Atlassian Team for Builders: Berlin](https://www.atlassian.com/company/events) | Berlin, DE | ITSM |
 | 04.02.2027 | [KI-Governance für den Mittelstand (IHK Koblenz)](https://www.veranstaltung.koblenz.ihk.de/b?p=ki-governance2027) | Koblenz, DE | verwandt |
+| 11.02.–12.02.2027 | [Angular Switzerland](https://dev.events/conferences/angular-switzerland-1u60pl4c) | Lucerne | verwandt |
 | 16.02.–18.02.2027 | [EuroCIS 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Düsseldorf (Messe), DE | Rand |
 | 17.02.–18.02.2027 | [Hamburger IT-Strategietage 2027](https://www.experte.de/events/it-security) | Hamburg, DE | verwandt |
+| 19.02.2027 | [Autoresearch Berlin Conference](https://dev.events/conferences/autoresearch-berlin-conference-5zufbae0) | Berlin | verwandt |
+| 19.02.2027 | [Voxxed Days Ticino](https://dev.events/conferences/voxxed-days-ticino-r0patfcu) | Lugano | verwandt |
 | 22.02.–25.02.2027 | [CCW 2027 (Customer Contact World)](https://www.ccw.eu/) | Berlin (Estrel), DE | ITSM |
 | 23.02.–24.02.2027 | [Industrial Metaverse Conference & Embodiment of AI](https://dev.events/EU/DE/Heilbronn/tech) | Heilbronn (Bildungscampus), DE | verwandt |
 | 23.02.–24.02.2027 | [Swiss Cyber Security Days 2027](https://swisscybersecuritydays.ch/) | Bern (BERNEXPO), CH | verwandt |
 | 24.02.–25.02.2027 | [24. Hamburger Logistiktage](https://logistik-heute.de/termine/24-hamburger-logistiktage-hamburg-1510.html) | Hamburg (Volksparkstadion), DE | Rand |
+| 25.02.2027 | [BSides Tirol](https://dev.events/conferences/b-sides-tirol-fc-djy3b) | Innsbruck | verwandt |
 
 ### März 2027
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 01.03.–05.03.2027 | [BASTA! Spring 2027](https://dev.events/conferences/basta-spring-2027-ywk7myr1) | Frankfurt | verwandt |
 | 02.03.–03.03.2027 | [Digitaler Staat 2027](https://www.digitaler-staat.org/) | Berlin, DE | verwandt |
+| 02.03.–04.03.2027 | [Mountain Camp](https://dev.events/conferences/mountain-camp-f2ukhc-g) | Davos | verwandt |
+| 04.03.2027 | [NextGen Payments & RegTech Forum Zurich](https://dev.events/conferences/next-gen-payments-and-reg-tech-forum-zurich-rms-4ny) | Zurich | verwandt |
+| 05.03.2027 | [Voxxed Days CERN Geneva](https://dev.events/conferences/voxxed-days-cern-geneva-pz5a5zef) | Geneva | verwandt |
+| 05.03.–06.03.2027 | [WordCamp Switzerland 2027](https://dev.events/conferences/word-camp-switzerland-2027-7wfbnsm8) | Murten | verwandt |
 | 09.03.2027 | [Service Space 2027](https://servicespace.acp-gruppe.com/en/) | Wien (Schönbrunn), AT | ITSM |
+| 09.03.2027 | [Voxxed Days Zürich](https://dev.events/conferences/voxxed-days-zuerich-gnjtwlsl) | Zurich | verwandt |
 | 10.03.–11.03.2027 | [authenticon 2027 (TBC)](https://www.linkedin.com/search/results/content/?keywords=authenticon%202027) | Dresden, DE | verwandt |
 | 10.03.–11.03.2027 | [secIT by heise 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Hannover (HCC), DE | verwandt |
+| 11.03.2027 | [DecompileD 2027](https://dev.events/conferences/decompile-d-2027-vj15roro) | Dresden | verwandt |
 | 15.03.–18.03.2027 | [CloudFest 2027](https://www.cloudfest.com/) | Rust (Europa-Park), DE | verwandt |
 | 15.03.–18.03.2027 | [KubeCon + CloudNativeCon Europe 2027](https://events.linuxfoundation.org/) | Barcelona, ES | verwandt |
 | 17.03.–18.03.2027 | [TRANSFORM 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Berlin (STATION-Berlin), DE | verwandt |
@@ -240,20 +293,28 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 02.04.–03.04.2027 | [WordCamp Vienna 2027](https://dev.events/conferences/word-camp-vienna-2027-6nv70vco) | Vienna | verwandt |
+| 05.04.–07.04.2027 | [APEX Connect](https://dev.events/conferences/apex-connect-gheobpw6) | Cologne | verwandt |
 | 05.04.–08.04.2027 | [Hannover Messe 2027](https://www.hannovermesse.de/) | Hannover, DE | Rand |
+| 08.04.–09.04.2027 | [KEYCLOAK DevDay 2027](https://dev.events/conferences/keycloak-dev-day-2027-gzixveis) | Darmstadt | verwandt |
+| 11.04.–12.04.2027 | [PyCon Austria 2027](https://dev.events/conferences/py-con-austria-2027-jwmk4qhj) | Eisenstadt | verwandt |
 | 13.04.–15.04.2027 | [DMEA 2027 – Connecting Digital Health](https://www.dmea.de/) | München (Messe München), DE | verwandt |
 | 13.04.–14.04.2027 | [Richmond IT Forum 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Interlaken (Victoria-Jungfrau), CH | verwandt |
+| 14.04.–15.04.2027 | [Devopsdays Zurich](https://dev.events/conferences/devopsdays-zurich-ufaff95v) | Zurich | verwandt |
 | 20.04.–22.04.2027 | [Atlassian Team '27](https://www.atlassian.com/company/events) | San Francisco (Moscone Center), US | ITSM |
 | 20.04.–21.04.2027 | [KI-X Compliance & Governance 2027](https://compliance.ki-x.berlin/) | Berlin (Quadriga Campus), DE | verwandt |
 | 21.04.–22.04.2027 | [Cybersecurity Summit Hamburg 2027](https://startupcity.hamburg/) | Hamburg, DE | verwandt |
+| 21.04.–22.04.2027 | [GITEX AI MEDITERRANEAN ITALY/ROME 2027](https://dev.events/conferences/gitex-ai-mediterranean-italy-rome-2027-rcgivosk) | Rome | ITSM |
 | 26.04.–29.04.2027 | [transport logistic 2027](https://transportlogistic.de/) | München (Messe), DE | Rand |
 | 27.04.–28.04.2027 | [CBA – Congress on Business Applications 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Aachen, DE | verwandt |
 | 28.04.–29.04.2027 | [Mastering AI 2027](https://dev.events/conferences/mastering-ai-2027-v3y-2i7u) | Karlsruhe, DE | verwandt |
+| 29.04.–30.04.2027 | [Agile Austria Conference 2027](https://dev.events/conferences/agile-austria-conference-2027-iosgalqr) | Graz | verwandt |
 
 ### Mai 2027
 
 | Datum | Veranstaltung | Ort | Relevanz |
 |---|---|---|---|
+| 03.05.–06.05.2027 | [ComoCamp 2027](https://dev.events/conferences/como-camp-2027-7tbz3myc) | Vienna | verwandt |
 | 03.05.–05.05.2027 | [OMR Festival 2027](https://omr.com/) | Hamburg (Messe), DE | Rand |
 | 04.05.2027 | [IT-Sicherheitstag Mainz 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Mainz (Hochschule), DE | verwandt |
 | 04.05.–06.05.2027 | [ServiceNow Knowledge 2027](https://www.servicenow.com/events/knowledge.html) | Las Vegas, US | ITSM |
@@ -263,8 +324,14 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 12.05.2027 | [Deutscher Innovationsgipfel 2027](https://www.experte.de/events/digitalisierung) | München, DE | verwandt |
 | 12.05.2027 | [Rise of AI Conference 2027 (TBC)](https://riseof.ai/) | Berlin (Logenhaus), DE | verwandt |
 | 12.05.–13.05.2027 | [USU World 2027](https://partnersummit.usu.com/) | Rust (Europa-Park), DE | ITSM |
+| 13.05.–14.05.2027 | [Agentic Ateliers 2027](https://dev.events/conferences/agentic-ateliers-2027-8hlbubio) | Berlin | verwandt |
+| 13.05.–14.05.2027 | [DataGrillen 2027](https://dev.events/conferences/data-grillen-2027-sbuixd6t) | Lingen | verwandt |
 | 19.05.–20.05.2027 | [Service Desk & IT Support Show (SITS) 2027](https://www.servicedeskshow.com/) | London (ExCeL), UK | ITSM |
+| 19.05.–20.05.2027 | [Tech Show Frankfurt 2026](https://www.techshowfrankfurt.de/) | Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main, Germany | verwandt |
 | 19.05.–20.05.2027 | [Tech Show Frankfurt 2027 (Cloud Expo Europe, Big Data & AI World, Data Centre World)](https://www.techshowfrankfurt.de/) | Frankfurt (Messe, Halle 3), DE | verwandt |
+| 20.05.2027 | [CodeCrafts 2027](https://dev.events/conferences/code-crafts-2027-wih9vodm) | Vienna | verwandt |
+| 21.05.–22.05.2027 | [OffensiveCon27](https://dev.events/conferences/offensive-con27-4-mgsr5) | Berlin | verwandt |
+| 25.05.–26.05.2027 | [Devopsdays Geneva](https://dev.events/conferences/devopsdays-geneva-tbnx9vrd) | Geneva | verwandt |
 
 ### Juni 2027
 
@@ -274,14 +341,18 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 07.06.2027 | [SERVIEW27 Pre-Conference](https://www.serview-summit.com/) | Seeheim-Jugenheim (Lufthansa Hotel & Campus), DE | ITSM |
 | 08.06.–10.06.2027 | [Infosecurity Europe 2027](https://www.infosecurityeurope.com/) | London (ExCeL), UK | verwandt |
 | 08.06.–10.06.2027 | [SERVIEW27 – Kongress & Expo](https://www.serview-summit.com/) | Seeheim-Jugenheim (Lufthansa Hotel & Campus), DE | ITSM |
+| 09.06.–10.06.2027 | [enterJS](https://dev.events/conferences/enter-js-d3boc7ws) | Cologne | verwandt |
 | 14.06.–15.06.2027 | [Cloud Native Summit 2027](https://dev.events/conferences/cloud-native-summit-2027-unqu0j2d) | München, DE | verwandt |
 | 14.06.–18.06.2027 | [DevOpsCon Berlin 2027](https://dev.events/conferences/dev-ops-con-berlin-2027-7qh41li5) | Berlin, DE | verwandt |
 | 14.06.–18.06.2027 | [IT Security Summit Berlin 2027](https://dev.events/conferences/it-security-summit-berlin-2027-lyvqmegg) | Berlin, DE | verwandt |
 | 14.06.–24.06.2027 | [Nürnberg Digital Festival 2027](https://dev.events/conferences/nuernberg-digital-festival-2027-hk34m-nu) | Nürnberg, DE | verwandt |
+| 14.06.–18.06.2027 | [webinale Berlin 2027](https://dev.events/conferences/webinale-berlin-2027-kw5atsp) | Berlin | verwandt |
 | 15.06.–16.06.2027 | [Accelerate Tomorrow AI Summit 2027](https://www.acceleratetomorrow.com/) | Berlin (Estrel), DE | verwandt |
 | 16.06.–17.06.2027 | [DIKITALE 2027](https://www.messen.de/de/1518/branche/it-loesungen) | Düsseldorf (Messe), DE | verwandt |
 | 16.06.–18.06.2027 | [TDWI München 2027](https://www.tdwi-konferenz.de/) | München (MOC), DE | verwandt |
 | 21.06.–25.06.2027 | [MLcon Munich 2027](https://dev.events/conferences/m-lcon-munich-2027-niz0e-mm) | München, DE | verwandt |
+| 21.06.–25.06.2027 | [VibeKode Conference 2027](https://dev.events/conferences/vibe-kode-conference-2027-hca14fcl) | Munich | verwandt |
+| 21.06.–25.06.2027 | [VibeKode Munich 2027](https://dev.events/conferences/vibe-kode-munich-2027-szaqgjqu) | Munich | verwandt |
 | 22.06.–23.06.2027 | [Serviceware Forum 2027](https://www.rmcc.de/en/veranstaltungen/serviceware-forum) | Wiesbaden (RMCC), DE | ITSM |
 | 23.06.–24.06.2027 | [13. digital excellence conference](https://www.experte.de/events/digitalisierung) | Frankfurt am Main, DE | verwandt |
 
@@ -307,3 +378,14 @@ Legende Relevanz: **ITSM** = Kernthema, verwandt = KI/Cloud/Security/Digital, Ra
 | 05.10.–07.10.2027 | [Smart Country Convention (SCCON) 2027 (TBC)](https://www.smart-country-convention.de/) | Berlin (Messe Berlin), DE | verwandt |
 | 05.10.–07.10.2027 | [it-sa Expo&Congress 2027](https://www.itsa365.de/) | Nürnberg (Messezentrum), DE | verwandt |
 | 06.10.–07.10.2027 | [Logistics Summit 2027](https://www.messen.de/de/21108/hamburg/logistics-summit/info) | Düsseldorf, DE | Rand |
+| 20.10.2027 | [AI Product Summit Berlin](https://dev.events/conferences/ai-product-summit-berlin-bap5d-ze) | Berlin | verwandt |
+| 20.10.–21.10.2027 | [CIO des Jahres](https://event.foundryco.com/cio-des-jahres/) | US | verwandt |
+| 26.10.–30.10.2027 | [webinale Munich](https://dev.events/conferences/webinale-munich-bbp7lc2z) | Munich | verwandt |
+
+## 2028
+
+### April 2028
+
+| Datum | Veranstaltung | Ort | Relevanz |
+|---|---|---|---|
+| 24.04.–27.04.2028 | [KubeCon + CloudNativeCon Europe 2028](https://dev.events/conferences/kube-con-cloud-native-con-europe-2028-eunzpe82) | Berlin | verwandt |

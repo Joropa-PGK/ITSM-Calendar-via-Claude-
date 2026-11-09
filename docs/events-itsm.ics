@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:paan-event-1706223604
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 SUMMARY:itSMF Fachforum
@@ -25,7 +25,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223607
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260204
 DTEND;VALUE=DATE:20260205
 SUMMARY:Freshworks IT Service Desk Blueprint
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223615
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Atlassian Team on Tour: Frankfurt
@@ -62,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223617
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:ServiceNow – Put AI to Work for IT
@@ -80,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223621
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260305
 DTEND;VALUE=DATE:20260306
 SUMMARY:ITSX Summit – Edinburgh
@@ -97,7 +97,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223624
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:ServiceNow Executive Dinner – Vienna
@@ -115,7 +115,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223635
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260327
 SUMMARY:ServiceNow CRM Jam Munich
@@ -133,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223637
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Service Space 2026
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223646
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260513
 DTEND;VALUE=DATE:20260515
 SUMMARY:Service Desk & IT Support Show (SITS)
@@ -165,7 +165,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223647-1
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:SERVIEW26 Pre-Congress Warm-Up
@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223647
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260522
 SUMMARY:SERVIEW26 – Congress & Expo
@@ -197,7 +197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223657
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260701
 SUMMARY:IT Service Management Summit DACH
@@ -215,7 +215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223669
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:AFSMI Service Branch Gathering
@@ -232,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:atlassian-team-26-europe@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261009
 SUMMARY:Atlassian Team '26 Europe
@@ -248,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:servicenow-ai-summit-muenchen-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:ServiceNow AI Summit München
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:smfs-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Service Management Forum Schweiz (SMFS) 2026
@@ -282,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:manageengine-userconf-ch-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:ManageEngine UserConf Schweiz 2026
@@ -298,7 +298,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:servicenow-world-forum-frankfurt-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:ServiceNow AI Summit Frankfurt
@@ -314,7 +314,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:digital-workplace-summit-communardo-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Digital Workplace Summit by Communardo
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:service-summit-duesseldorf-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
 SUMMARY:Service Summit 2026
@@ -349,7 +349,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:paan-event-1706223673
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261111
 SUMMARY:ITSM26
@@ -364,8 +364,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:itsm26-conference-awards-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:ITSM26 Conference & Awards
+URL:https://www.itsmf.co.uk/event/itsm26/
+DESCRIPTION:URL: https://www.itsmf.co.uk/event/itsm26/\n\nEN: <p>With more 
+ than 50 presentations from across the industry plus our Professional Servi
+ ce Management Awards\, ITSM26 offers a plethora of great content\, discuss
+ ions and networking opportunities.</p>\\n\n\nKategorie/Category: ITSM | Re
+ gion: Online
+LOCATION:Bletchley
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:itsmf-ff-mpm-2026-11@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:itSMF Fachforum Multi Provider Management
@@ -382,8 +399,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:92-code-review-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:#92 Code Review
+URL:https://www.meetup.com/code-review/events/317012418/
+DESCRIPTION:URL: https://www.meetup.com/code-review/events/317012418/\n\nEN
+ : Save the Date: Tuesday\, November 10th\, 2026:\n\n#CodeReview #ShowYourC
+ ode #JustWatch #Developer #Beginners #Pros #Experts #Students #Learning #F
+ un #Methods #Knowledge\n\nThis time we will be at ServiceNow\, Börsenstra
+ sse 2-4\, Goetheplatz\, near Hauptwache.\n\nWe will have food and drinks.\
+ n\nPlease bring your\n\nKategorie/Category: ITSM\, Developer | Region: Onl
+ ine
+LOCATION:Frankfurt\, de
+CATEGORIES:ITSM,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:serview-tool-meetup-leipzig-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:SERVIEW Tool Meetup Leipzig
@@ -399,7 +435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:serview-tool-meetup-hamburg-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:SERVIEW Tool Meetup Hamburg
@@ -415,7 +451,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:serview-tool-meetup-muenchen-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:SERVIEW Tool Meetup München
@@ -431,7 +467,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:itsmf-ff-knowledge-2026-11@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:itSMF Fachforum Service Desk Knowledge Management
@@ -448,8 +484,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:masterclass-ai-governance-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Masterclass – AI Governance
+URL:https://www.itsmf.co.uk/event/online-masterclass-ai-governance-nov26/
+DESCRIPTION:URL: https://www.itsmf.co.uk/event/online-masterclass-ai-govern
+ ance-nov26/\n\nEN: <p>AI is challenging how organisations govern technolog
+ y\, exposing gaps between formal structures and everyday practice. This ma
+ sterclass helps participants assess governance effectiveness\, identify AI
+ -related risks\, and strengthen accountability. Drawing on ITIL 5 governan
+ ce patterns and the ITIL A\n\nKategorie/Category: ITSM\, AI | Region: Onli
+ ne
+LOCATION:Online Delivery
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:handelsblatt-webinar-ot-servicenow-2026@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Handelsblatt Webinar: OT absichern mit Vulnerability Management & K
@@ -466,8 +521,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:lunch-learn-ai-unwrapped-the-gift-of-shared-learning-2026@itsm-calendar
+ .paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Lunch & Learn – AI Unwrapped: The Gift of Shared Learning
+URL:https://www.itsmf.co.uk/event/online-ai-in-unwrapped-lunch-and-learn-no
+ v26/
+DESCRIPTION:URL: https://www.itsmf.co.uk/event/online-ai-in-unwrapped-lunch
+ -and-learn-nov26/\n\nEN: <p>Let\\'s unwrap what we\\'ve learnt together!</
+ p>\\n<p>To round off our AI in ITSM series for 2026\, join Valerie Wilson 
+ and Vawns Murphy for a relaxed session exploring how members are approachi
+ ng AI across incident\, problem\, knowledge and change management\, alongs
+ ide AI governance.</p>\\n\n\nKategorie/Category: ITSM\, AI | Region: Onlin
+ e
+LOCATION:Online Delivery
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:paan-event-1706223675
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261204
 SUMMARY:AFSMI Strategiegipfel B2B Service
@@ -485,7 +561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:itsmf-ff-ki-itsm-2026-12@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:itSMF Fachforum KI im ITSM
@@ -501,8 +577,54 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:the-principal-dev-masterclass-for-tech-leads-2026@itsm-calendar.paan-gr
+ oup.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+SUMMARY:The Principal Dev – Masterclass for Tech Leads
+URL:https://dev.events/conferences/principal-developer-online-5-2022
+DESCRIPTION:URL: https://dev.events/conferences/principal-developer-online-
+ 5-2022\n\nEN: IT service management masterclass Online\n\nKategorie/Catego
+ ry: ITSM | Region: Online
+LOCATION:
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:open-source-experience-2026-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261211
+SUMMARY:Open Source Experience 2026
+URL:https://dev.events/conferences/open-source-experience-2026-p-ntdtj5
+DESCRIPTION:URL: https://dev.events/conferences/open-source-experience-2026
+ -p-ntdtj5\n\nEN: IT service management conference in Paris\, France\n\nKat
+ egorie/Category: ITSM\, Developer | Region: Online
+LOCATION:Paris
+CATEGORIES:ITSM,Developer
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:clean-architecture-masterclass-2026@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261212
+SUMMARY:Clean Architecture Masterclass
+URL:https://dev.events/conferences/clean-architecture-online-4-2023
+DESCRIPTION:URL: https://dev.events/conferences/clean-architecture-online-4
+ -2023\n\nEN: IT service management masterclass Online\n\nKategorie/Categor
+ y: ITSM | Region: Online
+LOCATION:
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:itsmf-ff-mpm-2026-12@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:itSMF Fachforum Multi Provider Management
@@ -519,8 +641,46 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:women-in-itsm-cop-new-year-new-you-your-next-chapter-2027@itsm-calendar
+ .paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Women in ITSM CoP – New Year\, New You: Your Next Chapter
+URL:https://www.itsmf.co.uk/event/community-event-women-in-itsm-jan27/
+DESCRIPTION:URL: https://www.itsmf.co.uk/event/community-event-women-in-its
+ m-jan27/\n\nEN: <p>In our next Women in ITSM Community of Practice (CoP) e
+ vent\, we’re going to look at mentoring from both sides of the mirror\, 
+ because whether you’re the mentor or the mentee\, and whether it’s thr
+ ough the formal itSMF UK Mentorship Programme or informal mentoring\, you 
+ have an important part to play\n\nKategorie/Category: ITSM | Region: Onlin
+ e
+LOCATION:Online Delivery
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:introduction-to-itsm-part-1-2027@itsm-calendar.paan-group.com
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Introduction to ITSM – Part 1
+URL:https://www.itsmf.co.uk/event/introduction-to-itsm-part1-jan27/
+DESCRIPTION:URL: https://www.itsmf.co.uk/event/introduction-to-itsm-part1-j
+ an27/\n\nEN: <p>Designed for apprentices\, graduates and those moving into
+  ITSM for the first time\, attendees will be able to understand best pract
+ ice for key areas in ITSM\, how they work together\, and most importantly 
+ what each practice needs to do for them all to work cohesively to provide 
+ ultimate value for th\n\nKategorie/Category: ITSM | Region: Online
+LOCATION:Online Delivery
+CATEGORIES:ITSM
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:atlassian-team-for-builders-berlin-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270206
 SUMMARY:Atlassian Team for Builders: Berlin
@@ -536,7 +696,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ccw-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270226
 SUMMARY:CCW 2027 (Customer Contact World)
@@ -552,7 +712,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:service-space-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:Service Space 2027
@@ -570,7 +730,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:atlassian-team-27@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
 SUMMARY:Atlassian Team '27
@@ -584,8 +744,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:gitex-ai-mediterranean-italy-rome-2027-2027@itsm-calendar.paan-group.co
+ m
+DTSTAMP:20261109T052817Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270423
+SUMMARY:GITEX AI MEDITERRANEAN ITALY/ROME 2027
+URL:https://dev.events/conferences/gitex-ai-mediterranean-italy-rome-2027-r
+ cgivosk
+DESCRIPTION:URL: https://dev.events/conferences/gitex-ai-mediterranean-ital
+ y-rome-2027-rcgivosk\n\nEN: IT service management conference in Rome\, Ita
+ ly\n\nKategorie/Category: ITSM\, AI | Region: Online
+LOCATION:Rome
+CATEGORIES:ITSM,AI
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:servicenow-knowledge-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270507
 SUMMARY:ServiceNow Knowledge 2027
@@ -600,7 +777,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:usu-partner-summit-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:USU International Partner Summit 2027
@@ -615,7 +792,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:usu-world-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270514
 SUMMARY:USU World 2027
@@ -631,7 +808,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:sits-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270521
 SUMMARY:Service Desk & IT Support Show (SITS) 2027
@@ -647,7 +824,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:serview27-pre-conference@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 SUMMARY:SERVIEW27 Pre-Conference
@@ -662,7 +839,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:serview27@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
 SUMMARY:SERVIEW27 – Kongress & Expo
@@ -679,7 +856,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:serviceware-forum-2027@itsm-calendar.paan-group.com
-DTSTAMP:20261108T231158Z
+DTSTAMP:20261109T052817Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270624
 SUMMARY:Serviceware Forum 2027

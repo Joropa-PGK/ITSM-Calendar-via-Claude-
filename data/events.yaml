@@ -1,7 +1,6 @@
 # Kuratierte Event-Liste (Single Source of Truth).
 # Datumsangaben inklusiv (end = letzter Veranstaltungstag). status: confirmed | tentative
 # relevance: core (ITSM/ESM) | related (KI, Cloud, Security, Digital) | peripheral
-# format: conference | tradefair | forum | workshop | meetup | webinar | training
 - id: cloud-tech-tallinn-2026-2026
   uid: paan-event-1706223601
   title: Cloud Tech Tallinn 2026
@@ -1578,6 +1577,21 @@
   source: Recherche 08.11.2026 (bitkom.org)
   description_en: How AI is changing the software world.
   description_de: Wie KI die Softwarewelt verändert.
+- id: dslam-night-shift-stuttgart-2026
+  title: DSLAM Night Shift Stuttgart
+  start: 2026-11-09
+  end: 2026-11-09
+  location: Stuttgart
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dslam-night-shift-stuttgart-bivlkzqp
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Stuttgart, Germany
+  description_de: ''
 - id: gartner-it-symposium-barcelona-2026
   title: Gartner IT Symposium/Xpo 2026
   start: 2026-11-09
@@ -1611,6 +1625,36 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: The official annual conference and awards event for itSMF UK.
   description_de: Die offizielle Jahreskonferenz mit Preisverleihung von itSMF UK.
+- id: itsm26-conference-awards-2026
+  title: ITSM26 Conference & Awards
+  start: 2026-11-09
+  end: 2026-11-10
+  location: Bletchley
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/itsm26/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-09)
+  description_en: <p>With more than 50 presentations from across the industry plus our Professional Service Management Awards, ITSM26 offers a plethora of great content, discussions and networking opportunities.</p>\n
+  description_de: ''
+- id: leaddev-berlin-2026-2026
+  title: LeadDev Berlin 2026
+  start: 2026-11-09
+  end: 2026-11-10
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/lead-dev-berlin-2026-dped1jmz
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Berlin, Germany
+  description_de: ''
 - id: unhacked-360-germany-2026
   title: 'Unhacked 360 Germany: FutureSec Summit'
   start: 2026-11-09
@@ -1643,6 +1687,21 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: One of the largest and most prominent technology conferences in the world.
   description_de: Eine der größten und bekanntesten Technologiekonferenzen der Welt.
+- id: web-summit-lisbon-2026
+  title: Web Summit, Lisbon
+  start: 2026-11-09
+  end: 2026-11-12
+  location: MEO Arena, Lisbon
+  country: null
+  region: Online
+  url: https://websummit.com/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: Web Summit 2027 (json-ld, 2026-11-09)'
+  description_en: The world's largest technology conference
+  description_de: ''
 - id: itsmf-ff-mpm-2026-11
   title: itSMF Fachforum Multi Provider Management
   start: 2026-11-09
@@ -1659,6 +1718,34 @@
   source: Recherche 08.11.2026 (itsmf.de)
   description_en: itSMF Germany working group on steering multiple IT service providers (SIAM).
   description_de: Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM).
+- id: 92-code-review-2026
+  title: '#92 Code Review'
+  start: &id001 2026-11-10
+  end: *id001
+  location: Frankfurt, de
+  country: null
+  region: Online
+  url: https://www.meetup.com/code-review/events/317012418/
+  categories:
+  - ITSM
+  - Developer
+  relevance: core
+  status: confirmed
+  source: crawler:Meetup ServiceNow DE (json-ld, 2026-11-09)
+  description_en: 'Save the Date: Tuesday, November 10th, 2026:
+
+
+    #CodeReview #ShowYourCode #JustWatch #Developer #Beginners #Pros #Experts #Students #Learning #Fun #Methods #Knowledge
+
+
+    This time we will be at ServiceNow, Börsenstrasse 2-4, Goetheplatz, near Hauptwache.
+
+
+    We will have food and drinks.
+
+
+    Please bring your'
+  description_de: ''
 - id: bitkom-digifin-2026
   title: Bitkom DigiFin 2026
   start: 2026-11-10
@@ -1708,6 +1795,21 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Conference and exhibition on protecting critical infrastructure (KRITIS).
   description_de: Konferenz und Fachausstellung zum Schutz kritischer Infrastrukturen (KRITIS).
+- id: clc-2026
+  title: CLC
+  start: 2026-11-11
+  end: 2026-11-12
+  location: Mannheim
+  country: null
+  region: Online
+  url: https://dev.events/conferences/clc-djdu2lvr
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Mannheim, Germany
+  description_de: ''
 - id: dafta-2026
   title: DAFTA & RDV-Forum 2026
   start: 2026-11-11
@@ -1740,6 +1842,36 @@
   source: Recherche 08.11.2026 (live.handelsblatt.com)
   description_en: Annual Handelsblatt cybersecurity conference (multi-day; end date to be verified).
   description_de: Handelsblatt-Jahrestagung Cybersecurity (mehrtägig; Enddatum prüfen).
+- id: software-qs-tag-2026-2026
+  title: Software-QS-Tag 2026
+  start: 2026-11-11
+  end: 2026-11-12
+  location: Frankfurt am Main
+  country: null
+  region: Online
+  url: https://dev.events/conferences/software-qs-tag-2026-y8fn91ca
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Frankfurt am Main, Germany
+  description_de: ''
+- id: bsides-berlin-2026-2026
+  title: BSides Berlin 2026
+  start: 2026-11-12
+  end: 2026-11-13
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/b-sides-berlin-2026-gai5lq0u
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Berlin, Germany
+  description_de: ''
 - id: bitkom-data-centre-summit-2026
   title: Bitkom Data Centre Summit 2026
   start: 2026-11-12
@@ -1788,6 +1920,111 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: 'Speed-dating format comparing ITSM/ESM tools: around 18 vendors pitch head-to-head.'
   description_de: 'Speed-Dating der ITSM/ESM-Tools: rund 18 Hersteller präsentieren im direkten Vergleich.'
+- id: akademy-2026-2026
+  title: Akademy 2026
+  start: 2026-11-13
+  end: 2026-11-13
+  location: Graz
+  country: null
+  region: Online
+  url: https://dev.events/conferences/akademy-2026-1owsa4dw
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Graz, Austria
+  description_de: ''
+- id: devfest-berlin-2026-2026
+  title: DevFest Berlin 2026
+  start: 2026-11-14
+  end: 2026-11-14
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-berlin-2026-uhmk47lq
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Berlin, Germany
+  description_de: ''
+- id: devfest-paderborn-2026-2026
+  title: DevFest Paderborn 2026
+  start: 2026-11-14
+  end: 2026-11-15
+  location: Paderborn
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-paderborn-2026-usfatxmr
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Paderborn, Germany
+  description_de: ''
+- id: ai-engineering-summit-2026
+  title: AI Engineering Summit
+  start: 2026-11-16
+  end: 2026-11-20
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ai-engineering-summit-plo5wfnt
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
+- id: api-conference-berlin-2026-2026
+  title: API Conference Berlin 2026
+  start: 2026-11-16
+  end: 2026-11-20
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/api-conference-berlin-2026-nkwtkav6
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Berlin, Germany and Online
+  description_de: ''
+- id: agile-testing-days-2026
+  title: Agile Testing Days
+  start: 2026-11-16
+  end: 2026-11-19
+  location: Potsdam
+  country: null
+  region: Online
+  url: https://dev.events/conferences/agile-testing-days-hff-q9vw
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Potsdam, Germany and Online
+  description_de: ''
+- id: halfstack-vienna-2026
+  title: HalfStack Vienna
+  start: 2026-11-16
+  end: 2026-11-16
+  location: Vienna
+  country: null
+  region: Online
+  url: https://dev.events/conferences/half-stack-vienna-svyfcged
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Vienna, Austria
+  description_de: ''
 - id: handelsblatt-ki-summit-2026
   title: Handelsblatt KI Summit 2026
   start: 2026-11-16
@@ -1836,6 +2073,36 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: Conference on applied machine learning and predictive analytics.
   description_de: Konferenz zu angewandtem Machine Learning und Predictive Analytics.
+- id: softwarearchitektur-fuer-ki-systeme-2026
+  title: Softwarearchitektur für KI-Systeme
+  start: 2026-11-16
+  end: 2026-11-18
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/softwarearchitektur-fuer-ki-systeme-ls2jz8si
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) masterclass in Berlin, Germany
+  description_de: ''
+- id: vibekode-berlin-2026-2026
+  title: VibeKode Berlin 2026
+  start: 2026-11-16
+  end: 2026-11-20
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/vibe-kode-berlin-2026-39ptxama
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany and Online
+  description_de: ''
 - id: doag-2026
   title: DOAG Konferenz 2026
   start: 2026-11-17
@@ -1950,6 +2217,36 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: Conference on AI-assisted software development.
   description_de: Konferenz zu KI-gestützter Softwareentwicklung.
+- id: helvetic-ruby-2026-2026
+  title: Helvetic Ruby 2026
+  start: 2026-11-19
+  end: 2026-11-20
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/helvetic-ruby-2026-qgyfurwa
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
+- id: lead27-2026
+  title: Lead27
+  start: 2026-11-19
+  end: 2026-11-19
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/lead27-udwomo5l
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
 - id: slush-2026
   uid: paan-event-1706223674
   title: Slush
@@ -1966,6 +2263,21 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: A major tech event focused on startups, founders, and venture capital.
   description_de: Ein großes Tech-Event mit Fokus auf Start-ups, Gründer und Risikokapital.
+- id: agentic-engineering-days-zurich-2026
+  title: Agentic Engineering Days Zurich
+  start: 2026-11-20
+  end: 2026-11-20
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/agentic-engineering-days-zurich-zd6fwx38
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
 - id: itsmf-ff-knowledge-2026-11
   title: itSMF Fachforum Service Desk Knowledge Management
   start: 2026-11-20
@@ -1982,6 +2294,36 @@
   source: Recherche 08.11.2026 (itsmf.de)
   description_en: Inaugural session of the itSMF working group on knowledge management in the service desk.
   description_de: Konstituierende Sitzung des itSMF-Fachforums zu Wissensmanagement im Service Desk.
+- id: devfest-muenster-2026-2026
+  title: DevFest Münster 2026
+  start: 2026-11-21
+  end: 2026-11-21
+  location: Munster
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-muenster-2026-ivoqsoxh
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Munster, Germany
+  description_de: ''
+- id: devfest-stuttgart-2026-2026
+  title: DevFest Stuttgart 2026
+  start: 2026-11-21
+  end: 2026-11-21
+  location: Stuttgart
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-stuttgart-2026-stfsqcf3
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Stuttgart, Germany
+  description_de: ''
 - id: change-congress-2026
   title: Change Congress 2026
   start: 2026-11-23
@@ -1998,6 +2340,22 @@
   source: Recherche 08.11.2026 (live.handelsblatt.com)
   description_en: Handelsblatt congress on change management and transformation.
   description_de: Handelsblatt-Kongress zu Change Management und Transformation.
+- id: ddc-net-developer-conference-2026-2026
+  title: DDC .NET Developer Conference 2026
+  start: 2026-11-23
+  end: 2026-11-26
+  location: Cologne
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ddc-net-developer-conference-2026-xlhoez91
+  categories:
+  - Cloud
+  - Developer
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Cloud (json-ld, 2026-11-09)
+  description_en: Cloud conference in Cologne, Germany
+  description_de: ''
 - id: bitkom-digital-health-2026
   title: Bitkom Digital Health Conference 2026
   start: 2026-11-24
@@ -2032,6 +2390,53 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: heise conference for IT decision-makers.
   description_de: heise-Konferenz für IT-Entscheider.
+- id: manage-agile-2026-2026
+  title: Manage Agile 2026
+  start: 2026-11-24
+  end: 2026-11-26
+  location: Leipzig
+  country: null
+  region: Online
+  url: https://dev.events/conferences/manage-agile-2026-xziuz1nu
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Leipzig, Germany
+  description_de: ''
+- id: nca-x-visionbites-2026
+  title: NCA x Visionbites
+  start: 2026-11-24
+  end: 2026-11-25
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/nca-x-visionbites-w42h4ngo
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT masterclass in Munich, Germany
+  description_de: ''
+- id: masterclass-ai-governance-2026
+  title: Masterclass – AI Governance
+  start: 2026-11-25
+  end: 2026-11-25
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/online-masterclass-ai-governance-nov26/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-09)
+  description_en: <p>AI is challenging how organisations govern technology, exposing gaps between formal structures and everyday practice. This masterclass helps participants assess governance effectiveness,
+    identify AI-related risks, and strengthen accountability. Drawing on ITIL 5 governance patterns and the ITIL A
+  description_de: ''
 - id: secuta-2026
   title: SECUTA 2026
   start: 2026-11-25
@@ -2083,6 +2488,53 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Austria's largest IT festival.
   description_de: Österreichs größtes IT-Festival.
+- id: lunch-learn-ai-unwrapped-the-gift-of-shared-learning-2026
+  title: 'Lunch & Learn – AI Unwrapped: The Gift of Shared Learning'
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/online-ai-in-unwrapped-lunch-and-learn-nov26/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-09)
+  description_en: <p>Let\'s unwrap what we\'ve learnt together!</p>\n<p>To round off our AI in ITSM series for 2026, join Valerie Wilson and Vawns Murphy for a relaxed session exploring how members are
+    approaching AI across incident, problem, knowledge and change management, alongside AI governance.</p>\n
+  description_de: ''
+- id: meeting-c-2026-2026
+  title: Meeting C++ 2026
+  start: 2026-11-26
+  end: 2026-11-28
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/meeting-c-2026-jhr0hlfa
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-09)
+  description_en: IT conference in Berlin, Germany and Online
+  description_de: ''
+- id: product-build-day-pro-2026
+  title: Product Build Day // Pro
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/product-build-day-pro-wzkgdiyz
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: sap-now-ai-tour-berlin-2026
   title: SAP NOW AI Tour Germany
   start: 2026-11-26
@@ -2100,6 +2552,21 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: SAP customer event on business AI.
   description_de: SAP-Kundenevent zu Business AI.
+- id: product-management-festival-2026-2026
+  title: Product Management Festival 2026
+  start: 2026-11-27
+  end: 2026-11-27
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/product-management-festival-2026-rvvoq3nr
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
 - id: devopscon-munich-2026
   title: DevOpsCon Munich 2026
   start: 2026-11-30
@@ -2132,6 +2599,21 @@
   source: Recherche 08.11.2026 (dev.events)
   description_en: Summit on DevOps in large organisations.
   description_de: Gipfel zu DevOps in Großorganisationen.
+- id: enterprise-devsecops-2026-2026
+  title: Enterprise DevSecOps 2026
+  start: 2026-11-30
+  end: 2026-12-01
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/enterprise-dev-sec-ops-2026-086xzhi1
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: it-security-summit-munich-2026
   title: IT Security Summit München 2026
   start: 2026-11-30
@@ -2198,6 +2680,66 @@
   source: Recherche 08.11.2026 (itsmf.de)
   description_en: itSMF Germany working group on the use and impact of AI in IT service management.
   description_de: Arbeitskreis des itSMF Deutschland zu Einsatz und Auswirkungen von KI im ITSM.
+- id: the-principal-dev-masterclass-for-tech-leads-2026
+  title: The Principal Dev – Masterclass for Tech Leads
+  start: 2026-12-03
+  end: 2026-12-04
+  location: ''
+  country: null
+  region: Online
+  url: https://dev.events/conferences/principal-developer-online-5-2022
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-09)
+  description_en: IT service management masterclass Online
+  description_de: ''
+- id: ai-coding-summit-berlin-edition-2026
+  title: AI Coding Summit - Berlin Edition
+  start: 2026-12-04
+  end: 2026-12-07
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ai-coding-summit-berlin-edition-hqjzolfj
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany and Online
+  description_de: ''
+- id: react-day-berlin-2026
+  title: React Day Berlin
+  start: 2026-12-04
+  end: 2026-12-07
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/react-day-berlin-d2udhdmn
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
+- id: bsides-dresden-2026-2026
+  title: BSides Dresden 2026
+  start: 2026-12-05
+  end: 2026-12-05
+  location: Dresden
+  country: null
+  region: Online
+  url: https://dev.events/conferences/b-sides-dresden-2026-txu8-hqj
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-09)
+  description_en: Cybersecurity / InfoSec conference in Dresden, Germany
+  description_de: ''
 - id: it-tage-2026
   title: IT-Tage 2026
   start: 2026-12-07
@@ -2217,6 +2759,52 @@
   source: Websuche 04.11.2026
   description_en: Annual IT conference covering IT management, software development, DevOps, cloud, AI and security.
   description_de: Jährliche IT-Konferenz zu IT-Management, Softwareentwicklung, DevOps, Cloud, KI und Security.
+- id: open-source-experience-2026-2026
+  title: Open Source Experience 2026
+  start: 2026-12-09
+  end: 2026-12-10
+  location: Paris
+  country: null
+  region: Online
+  url: https://dev.events/conferences/open-source-experience-2026-p-ntdtj5
+  categories:
+  - ITSM
+  - Developer
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-09)
+  description_en: IT service management conference in Paris, France
+  description_de: ''
+- id: clean-architecture-masterclass-2026
+  title: Clean Architecture Masterclass
+  start: 2026-12-10
+  end: 2026-12-11
+  location: ''
+  country: null
+  region: Online
+  url: https://dev.events/conferences/clean-architecture-online-4-2023
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-09)
+  description_en: IT service management masterclass Online
+  description_de: ''
+- id: devfest-ahlen-2026-2026
+  title: DevFest Ahlen 2026
+  start: 2026-12-12
+  end: 2026-12-12
+  location: Ahlen
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-ahlen-2026-qwknqhde
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Ahlen, Germany
+  description_de: ''
 - id: itsmf-ff-mpm-2026-12
   title: itSMF Fachforum Multi Provider Management
   start: 2026-12-14
@@ -2233,6 +2821,38 @@
   source: Recherche 08.11.2026 (itsmf.de)
   description_en: itSMF Germany working group on steering multiple IT service providers (SIAM).
   description_de: Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM).
+- id: women-in-itsm-cop-new-year-new-you-your-next-chapter-2027
+  title: 'Women in ITSM CoP – New Year, New You: Your Next Chapter'
+  start: 2027-01-20
+  end: 2027-01-20
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/community-event-women-in-itsm-jan27/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-09)
+  description_en: <p>In our next Women in ITSM Community of Practice (CoP) event, we’re going to look at mentoring from both sides of the mirror, because whether you’re the mentor or the mentee, and whether
+    it’s through the formal itSMF UK Mentorship Programme or informal mentoring, you have an important part to play
+  description_de: ''
+- id: introduction-to-itsm-part-1-2027
+  title: Introduction to ITSM – Part 1
+  start: 2027-01-26
+  end: 2027-01-26
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/introduction-to-itsm-part1-jan27/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-09)
+  description_en: <p>Designed for apprentices, graduates and those moving into ITSM for the first time, attendees will be able to understand best practice for key areas in ITSM, how they work together,
+    and most importantly what each practice needs to do for them all to work cohesively to provide ultimate value for th
+  description_de: ''
 - id: connected-27
   title: CONNECTED'27
   start: 2027-01-27
@@ -2250,6 +2870,36 @@
   source: Recherche 08.11.2026 (connectedconference.de)
   description_en: Microsoft-ecosystem conference on AI agents in operation – architecture and governance.
   description_de: Konferenz im Microsoft-Umfeld zu KI-Agenten im Betrieb – Architektur und Governance.
+- id: collabdays-bremen-2027-2027
+  title: CollabDays Bremen 2027
+  start: 2027-01-29
+  end: 2027-01-30
+  location: Bremen
+  country: null
+  region: Online
+  url: https://dev.events/conferences/collab-days-bremen-2027-ikxu0y6o
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Bremen, Germany
+  description_de: ''
+- id: insomni-hack-2027-2027
+  title: Insomni'hack 2027
+  start: 2027-02-01
+  end: 2027-02-06
+  location: Ecublens
+  country: null
+  region: Online
+  url: https://dev.events/conferences/insomni-hack-2027-vf7lec1j
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Ecublens, Switzerland
+  description_de: ''
 - id: learntec-2027
   title: LEARNTEC 2027
   start: 2027-02-02
@@ -2299,6 +2949,21 @@
   source: Recherche 08.11.2026 (ihk.de)
   description_en: SME event on AI governance obligations under the EU AI Act.
   description_de: Veranstaltung für KMU zu KI-Governance-Pflichten nach dem EU AI Act.
+- id: angular-switzerland-2027
+  title: Angular Switzerland
+  start: 2027-02-11
+  end: 2027-02-12
+  location: Lucerne
+  country: null
+  region: Online
+  url: https://dev.events/conferences/angular-switzerland-1u60pl4c
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Lucerne, Switzerland
+  description_de: ''
 - id: eurocis-2027
   title: EuroCIS 2027
   start: 2027-02-16
@@ -2331,6 +2996,36 @@
   source: Recherche 08.11.2026 (experte.de / cio.de)
   description_en: Leading CIO/IT strategy event in northern Germany (one source lists 17–19 Feb).
   description_de: Führendes CIO-/IT-Strategie-Event in Norddeutschland (eine Quelle nennt 17.–19.02.).
+- id: autoresearch-berlin-conference-2027
+  title: Autoresearch Berlin Conference
+  start: 2027-02-19
+  end: 2027-02-19
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/autoresearch-berlin-conference-5zufbae0
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
+- id: voxxed-days-ticino-2027
+  title: Voxxed Days Ticino
+  start: 2027-02-19
+  end: 2027-02-19
+  location: Lugano
+  country: null
+  region: Online
+  url: https://dev.events/conferences/voxxed-days-ticino-r0patfcu
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Lugano, Switzerland
+  description_de: ''
 - id: ccw-2027
   title: CCW 2027 (Customer Contact World)
   start: 2027-02-22
@@ -2395,6 +3090,37 @@
   source: Recherche 08.11.2026 (logistik-heute.de)
   description_en: Logistics conference incl. logistics IT and digitalisation.
   description_de: Logistikkonferenz inkl. Logistik-IT und Digitalisierung.
+- id: bsides-tirol-2027
+  title: BSides Tirol
+  start: 2027-02-25
+  end: 2027-02-25
+  location: Innsbruck
+  country: null
+  region: Online
+  url: https://dev.events/conferences/b-sides-tirol-fc-djy3b
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Innsbruck, Austria
+  description_de: ''
+- id: basta-spring-2027-2027
+  title: BASTA! Spring 2027
+  start: 2027-03-01
+  end: 2027-03-05
+  location: Frankfurt
+  country: null
+  region: Online
+  url: https://dev.events/conferences/basta-spring-2027-ywk7myr1
+  categories:
+  - AI
+  - Developer
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Frankfurt, Germany and Online
+  description_de: ''
 - id: digitaler-staat-2027
   title: Digitaler Staat 2027
   start: 2027-03-02
@@ -2411,6 +3137,66 @@
   source: Recherche 08.11.2026 (digitaler-staat.org)
   description_en: Behörden Spiegel congress on IT and public administration modernisation (~3,000 participants).
   description_de: Kongress des Behörden Spiegel zu IT und Verwaltungsmodernisierung (rund 3.000 Teilnehmende).
+- id: mountain-camp-2027
+  title: Mountain Camp
+  start: 2027-03-02
+  end: 2027-03-04
+  location: Davos
+  country: null
+  region: Online
+  url: https://dev.events/conferences/mountain-camp-f2ukhc-g
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Davos, Switzerland
+  description_de: ''
+- id: nextgen-payments-regtech-forum-zurich-2027
+  title: NextGen Payments & RegTech Forum Zurich
+  start: 2027-03-04
+  end: 2027-03-04
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/next-gen-payments-and-reg-tech-forum-zurich-rms-4ny
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
+- id: voxxed-days-cern-geneva-2027
+  title: Voxxed Days CERN Geneva
+  start: 2027-03-05
+  end: 2027-03-05
+  location: Geneva
+  country: null
+  region: Online
+  url: https://dev.events/conferences/voxxed-days-cern-geneva-pz5a5zef
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Geneva, Switzerland
+  description_de: ''
+- id: wordcamp-switzerland-2027-2027
+  title: WordCamp Switzerland 2027
+  start: 2027-03-05
+  end: 2027-03-06
+  location: Murten
+  country: null
+  region: Online
+  url: https://dev.events/conferences/word-camp-switzerland-2027-7wfbnsm8
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Murten, Switzerland
+  description_de: ''
 - id: service-space-2027
   title: Service Space 2027
   start: 2027-03-09
@@ -2427,6 +3213,21 @@
   source: Websuche 04.11.2026
   description_en: 'Austria''s leading independent ITSM conference: 32 sessions in 5 streams, PeopleCert CPD credits; service design, CMDB, AI and ESM.'
   description_de: 'Österreichs führende unabhängige ITSM-Konferenz: 32 Sessions in 5 Streams, PeopleCert-CPD-Punkte; Service Design, CMDB, KI und ESM.'
+- id: voxxed-days-zuerich-2027
+  title: Voxxed Days Zürich
+  start: 2027-03-09
+  end: 2027-03-09
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/voxxed-days-zuerich-gnjtwlsl
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
 - id: authenticon-2027
   title: authenticon 2027
   start: 2027-03-10
@@ -2459,6 +3260,21 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: heise meeting point for security users and vendors (workshop day 9 March).
   description_de: heise-Treffpunkt für Security-Anwender und -Anbieter (Workshoptag 09.03.).
+- id: decompiled-2027-2027
+  title: DecompileD 2027
+  start: 2027-03-11
+  end: 2027-03-11
+  location: Dresden
+  country: null
+  region: Online
+  url: https://dev.events/conferences/decompile-d-2027-vj15roro
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Dresden, Germany
+  description_de: ''
 - id: cloudfest-2027
   title: CloudFest 2027
   start: 2027-03-15
@@ -2506,6 +3322,36 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: Platform for corporate digital transformation.
   description_de: Plattform für die digitale Transformation von Unternehmen.
+- id: wordcamp-vienna-2027-2027
+  title: WordCamp Vienna 2027
+  start: 2027-04-02
+  end: 2027-04-03
+  location: Vienna
+  country: null
+  region: Online
+  url: https://dev.events/conferences/word-camp-vienna-2027-6nv70vco
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Vienna, Austria
+  description_de: ''
+- id: apex-connect-2027
+  title: APEX Connect
+  start: 2027-04-05
+  end: 2027-04-07
+  location: Cologne
+  country: null
+  region: Online
+  url: https://dev.events/conferences/apex-connect-gheobpw6
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Data (json-ld, 2026-11-09)
+  description_en: Data / Database conference in Cologne, Germany
+  description_de: ''
 - id: hannover-messe-2027
   title: Hannover Messe 2027
   start: 2027-04-05
@@ -2522,6 +3368,36 @@
   source: Websuche 04.11.2026
   description_en: World's leading industrial technology fair incl. AI and IT/OT tracks.
   description_de: Weltleitmesse der Industrietechnik inkl. KI- und IT/OT-Themen.
+- id: keycloak-devday-2027-2027
+  title: KEYCLOAK DevDay 2027
+  start: 2027-04-08
+  end: 2027-04-09
+  location: Darmstadt
+  country: null
+  region: Online
+  url: https://dev.events/conferences/keycloak-dev-day-2027-gzixveis
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-09)
+  description_en: Cybersecurity / InfoSec conference in Darmstadt, Germany
+  description_de: ''
+- id: pycon-austria-2027-2027
+  title: PyCon Austria 2027
+  start: 2027-04-11
+  end: 2027-04-12
+  location: Eisenstadt
+  country: null
+  region: Online
+  url: https://dev.events/conferences/py-con-austria-2027-jwmk4qhj
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Eisenstadt, Austria
+  description_de: ''
 - id: dmea-2027
   title: DMEA 2027 – Connecting Digital Health
   start: 2027-04-13
@@ -2553,6 +3429,21 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Invitation-only forum for CIOs and IT leaders.
   description_de: Forum für CIOs und IT-Verantwortliche (nur auf Einladung).
+- id: devopsdays-zurich-2027
+  title: Devopsdays Zurich
+  start: 2027-04-14
+  end: 2027-04-15
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/devopsdays-zurich-ufaff95v
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Cloud (json-ld, 2026-11-09)
+  description_en: Cloud conference in Zurich, Germany
+  description_de: ''
 - id: atlassian-team-27
   title: Atlassian Team '27
   start: 2027-04-20
@@ -2601,6 +3492,22 @@
   source: Websuche 04.11.2026
   description_en: German cybersecurity conference on cyber risk and governance.
   description_de: Deutsche Cybersecurity-Konferenz zu Cyber-Risiken und Governance.
+- id: gitex-ai-mediterranean-italy-rome-2027-2027
+  title: GITEX AI MEDITERRANEAN ITALY/ROME 2027
+  start: 2027-04-21
+  end: 2027-04-22
+  location: Rome
+  country: null
+  region: Online
+  url: https://dev.events/conferences/gitex-ai-mediterranean-italy-rome-2027-rcgivosk
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-09)
+  description_en: IT service management conference in Rome, Italy
+  description_de: ''
 - id: transport-logistic-2027
   title: transport logistic 2027
   start: 2027-04-26
@@ -2649,6 +3556,36 @@
   source: Recherche 08.11.2026 (dev.events)
   description_en: Conference on applying AI in companies.
   description_de: Konferenz zum Einsatz von KI in Unternehmen.
+- id: agile-austria-conference-2027-2027
+  title: Agile Austria Conference 2027
+  start: 2027-04-29
+  end: 2027-04-30
+  location: Graz
+  country: null
+  region: Online
+  url: https://dev.events/conferences/agile-austria-conference-2027-iosgalqr
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Graz, Austria
+  description_de: ''
+- id: comocamp-2027-2027
+  title: ComoCamp 2027
+  start: 2027-05-03
+  end: 2027-05-06
+  location: Vienna
+  country: null
+  region: Online
+  url: https://dev.events/conferences/como-camp-2027-7tbz3myc
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Vienna, Austria
+  description_de: ''
 - id: omr-festival-2027
   title: OMR Festival 2027
   start: 2027-05-03
@@ -2793,6 +3730,36 @@
   source: Recherche 08.11.2026 (partnersummit.usu.com)
   description_en: USU user conference on IT service management, knowledge management and IT asset management.
   description_de: USU-Anwenderkonferenz zu IT Service Management, Wissensmanagement und IT Asset Management.
+- id: agentic-ateliers-2027-2027
+  title: Agentic Ateliers 2027
+  start: 2027-05-13
+  end: 2027-05-14
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/agentic-ateliers-2027-8hlbubio
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
+- id: datagrillen-2027-2027
+  title: DataGrillen 2027
+  start: 2027-05-13
+  end: 2027-05-14
+  location: Lingen
+  country: null
+  region: Online
+  url: https://dev.events/conferences/data-grillen-2027-sbuixd6t
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Lingen, Germany
+  description_de: ''
 - id: sits-2027
   title: Service Desk & IT Support Show (SITS) 2027
   start: 2027-05-19
@@ -2808,6 +3775,21 @@
   source: Websuche 04.11.2026
   description_en: Europe's leading event for ITSM, service desk and IT support professionals.
   description_de: Europas führendes Event für ITSM, Service Desk und IT-Support.
+- id: tech-show-frankfurt-2026-2027
+  title: Tech Show Frankfurt 2026
+  start: 2027-05-19
+  end: 2027-05-20
+  location: Ludwig-Erhard-Anlage 1, 60327 Frankfurt am Main, Germany
+  country: DE
+  region: DACH
+  url: https://www.techshowfrankfurt.de/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:Tech Show Frankfurt (json-ld, 2026-11-09)
+  description_en: Tech Show Frankfurt, taking place 19 -20 May 2027, brings together an audience of Tech strategy leaders across our individual show brands. Listen to the big questions being answered.
+  description_de: ''
 - id: tech-show-frankfurt-2027
   title: Tech Show Frankfurt 2027 (Cloud Expo Europe, Big Data & AI World, Data Centre World)
   start: 2027-05-19
@@ -2825,6 +3807,51 @@
   source: Websuche 04.11.2026
   description_en: Co-located shows on cloud, data & AI, data centres and cyber security.
   description_de: Parallelmessen zu Cloud, Daten & KI, Rechenzentren und Cybersecurity.
+- id: codecrafts-2027-2027
+  title: CodeCrafts 2027
+  start: 2027-05-20
+  end: 2027-05-20
+  location: Vienna
+  country: null
+  region: Online
+  url: https://dev.events/conferences/code-crafts-2027-wih9vodm
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AT IT (json-ld, 2026-11-09)
+  description_en: IT conference in Vienna, Austria
+  description_de: ''
+- id: offensivecon27-2027
+  title: OffensiveCon27
+  start: 2027-05-21
+  end: 2027-05-22
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/offensive-con27-4-mgsr5
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-09)
+  description_en: Cybersecurity / InfoSec conference in Berlin, Germany
+  description_de: ''
+- id: devopsdays-geneva-2027
+  title: Devopsdays Geneva
+  start: 2027-05-25
+  end: 2027-05-26
+  location: Geneva
+  country: null
+  region: Online
+  url: https://dev.events/conferences/devopsdays-geneva-tbnx9vrd
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-09)
+  description_en: IT conference in Geneva, Switzerland
+  description_de: ''
 - id: bettercode-agentic-ai-2027
   title: betterCode() Agentic AI Summit 2027
   start: 2027-06-01
@@ -2890,6 +3917,21 @@
   source: Recherche 08.11.2026 (serview-summit.com / messen.de)
   description_en: Europe's largest congress and expo for ITSM, ESM, ITOM and ITAM – 'Service Management in the Age of AI', 50+ sponsors.
   description_de: Europas größte Kongressmesse für ITSM, ESM, ITOM und ITAM – 'Service Management im KI-Zeitalter', über 50 Aussteller.
+- id: enterjs-2027
+  title: enterJS
+  start: 2027-06-09
+  end: 2027-06-10
+  location: Cologne
+  country: null
+  region: Online
+  url: https://dev.events/conferences/enter-js-d3boc7ws
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-09)
+  description_en: Cybersecurity / InfoSec conference in Cologne, Germany
+  description_de: ''
 - id: cloud-native-summit-2027
   title: Cloud Native Summit 2027
   start: 2027-06-14
@@ -2955,6 +3997,21 @@
   source: Recherche 08.11.2026 (dev.events / experte.de)
   description_en: Ten-day festival on digitalisation in the Nuremberg metropolitan region.
   description_de: Zehntägiges Festival zur Digitalisierung in der Metropolregion Nürnberg.
+- id: webinale-berlin-2027-2027
+  title: webinale Berlin 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/webinale-berlin-2027-kw5atsp
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: accelerate-tomorrow-ai-summit-2027
   title: Accelerate Tomorrow AI Summit 2027
   start: 2027-06-15
@@ -3021,6 +4078,36 @@
   source: Recherche 08.11.2026 (dev.events)
   description_en: Machine learning and generative AI engineering conference.
   description_de: Konferenz zu Machine Learning und GenAI-Engineering.
+- id: vibekode-conference-2027-2027
+  title: VibeKode Conference 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/vibe-kode-conference-2027-hca14fcl
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Munich, Germany and Online
+  description_de: ''
+- id: vibekode-munich-2027-2027
+  title: VibeKode Munich 2027
+  start: 2027-06-21
+  end: 2027-06-25
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/vibe-kode-munich-2027-szaqgjqu
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Munich, Germany
+  description_de: ''
 - id: serviceware-forum-2027
   title: Serviceware Forum 2027
   start: 2027-06-22
@@ -3180,3 +4267,63 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Trade fair and conference on digitalising logistics.
   description_de: Messe und Konferenz zur Digitalisierung der Logistik.
+- id: ai-product-summit-berlin-2027
+  title: AI Product Summit Berlin
+  start: 2027-10-20
+  end: 2027-10-20
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ai-product-summit-berlin-bap5d-ze
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-09)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
+- id: cio-des-jahres-2027
+  title: CIO des Jahres
+  start: 2027-10-20
+  end: 2027-10-21
+  location: US
+  country: US
+  region: Europe
+  url: https://event.foundryco.com/cio-des-jahres/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: CIO des Jahres 2027 (json-ld, 2026-11-09)'
+  description_en: 'CIO des Jahres: 15.-16. Oktober 2025 in München: das führende Strategietreffen und die feierlichen Auszeichnung der besten CIOs'
+  description_de: ''
+- id: webinale-munich-2027
+  title: webinale Munich
+  start: 2027-10-26
+  end: 2027-10-30
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/webinale-munich-bbp7lc2z
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Data (json-ld, 2026-11-09)
+  description_en: Data / Database conference in Munich, Germany and Online
+  description_de: ''
+- id: kubecon-cloudnativecon-europe-2028-2028
+  title: KubeCon + CloudNativeCon Europe 2028
+  start: 2028-04-24
+  end: 2028-04-27
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/kube-con-cloud-native-con-europe-2028-eunzpe82
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Cloud (json-ld, 2026-11-09)
+  description_en: Cloud conference in Berlin, Germany
+  description_de: ''
