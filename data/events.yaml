@@ -1,7 +1,6 @@
 # Kuratierte Event-Liste (Single Source of Truth).
 # Datumsangaben inklusiv (end = letzter Veranstaltungstag). status: confirmed | tentative
 # relevance: core (ITSM/ESM) | related (KI, Cloud, Security, Digital) | peripheral
-# format: conference | tradefair | forum | workshop | meetup | webinar | training
 - id: cloud-tech-tallinn-2026-2026
   uid: paan-event-1706223601
   title: Cloud Tech Tallinn 2026
@@ -2643,6 +2642,23 @@
   source: Recherche 08.11.2026 (bitkom.org)
   description_en: Bitkom conference on digital health.
   description_de: Bitkom-Konferenz zu Digital Health.
+- id: cyber-crime-forum-salzburg-2026
+  title: CYBER CRIME FORUM Salzburg
+  start: 2026-11-24
+  end: 2026-11-24
+  location: Kleßheim 2, 5071 Salzburg, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/forum/cyber-crime-salzburg
+  categories:
+  - AI
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Österreichs IT-Security Community trifft sich am 04.011.2026 in Salzburg. Erleben Sie Top-Speaker vom Bundeskanzleramt & SBA Research und diskutieren Sie über KI, NIS 2 & Zero Trust. Jetzt
+    anmelden!
+  description_de: ''
 - id: it-summit-heise-2026
   title: IT Summit by heise 2026
   start: 2026-11-24
@@ -2677,6 +2693,38 @@
   source: dev.events DE/AT/CH (Recherche 09.11.2026)
   description_en: Conference on agile management, leadership and organisational transformation.
   description_de: Konferenz zu agilem Management, Leadership und Organisationstransformation.
+- id: nca-x-visionbites-2026
+  title: NCA x Visionbites
+  start: 2026-11-24
+  end: 2026-11-25
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/nca-x-visionbites-w42h4ngo
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-23)
+  description_en: IT masterclass in Munich, Germany
+  description_de: ''
+- id: masterclass-ai-governance-2026
+  title: Masterclass – AI Governance
+  start: 2026-11-25
+  end: 2026-11-25
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/online-masterclass-ai-governance-nov26/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-23)
+  description_en: AI is challenging how organisations govern technology, exposing gaps between formal structures and everyday practice. This masterclass helps participants assess governance effectiveness,
+    identify AI-related risks, and strengthen accountability. Drawing on ITIL 5 governance patterns and the ITIL A
+  description_de: ''
 - id: secuta-2026
   title: SECUTA 2026
   start: 2026-11-25
@@ -2745,6 +2793,39 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Austria's largest IT festival.
   description_de: Österreichs größtes IT-Festival.
+- id: it-security-cyber-lounge-strg-c-strg-v-war-gestern-pam-wechs-2026
+  title: 'IT-Security Cyber Lounge: Strg+C, Strg+V war gestern: PAM-Wechsel ohne Passwort-Export und ohne Altlasten'
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Online
+  country: null
+  region: Online
+  url: https://lsz.at/webinar/it-security-cyber-lounge-strgc-strgv-war-gestern-pam-wechsel-ohne-passwort-export-und-ohne
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: 'Ihr PAM-System passt nicht mehr, aber der Wechsel wirkt zu riskant? Damit sind Sie nicht allein. Klassische Migrationen funktionieren nach dem Prinzip Copy & Paste: Passwörter werden
+    in eine Datei exportiert, Objekte per Tabelle und Skript übertragen, und die über Jahre gewachsene Struktur zieht unv'
+  description_de: ''
+- id: lunch-learn-ai-unwrapped-the-gift-of-shared-learning-2026
+  title: 'Lunch & Learn – AI Unwrapped: The Gift of Shared Learning'
+  start: 2026-11-26
+  end: 2026-11-26
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/online-ai-in-unwrapped-lunch-and-learn-nov26/
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-23)
+  description_en: Let\'s unwrap what we\'ve learnt together!\nTo round off our AI in ITSM series for 2026, join Valerie Wilson and Vawns Murphy for a relaxed session exploring how members are approaching
+    AI across incident, problem, knowledge and change management, alongside AI governance.\n
+  description_de: ''
 - id: open-i-2026
   title: Open-i 2026 – The Swiss Innovation Platform
   start: 2026-11-26
@@ -2796,6 +2877,21 @@
   source: Chatverlauf-Abgleich 09.11.2026 (live.handelsblatt.com)
   description_en: 'Annual Euroforum/Handelsblatt conference: ''Automate everything? The new balance in enterprise service management'' incl. Service Globe Award.'
   description_de: 'Jahreskonferenz von Euroforum/Handelsblatt: ''Automate everything? Die neue Balance im Enterprise Service Management'' inkl. Service Globe Award.'
+- id: drupalcamp-frankfurt-2026-2026
+  title: DrupalCamp Frankfurt 2026
+  start: 2026-11-27
+  end: 2026-11-29
+  location: Frankfurt am Main
+  country: null
+  region: Online
+  url: https://dev.events/conferences/drupal-camp-frankfurt-2026-j-0vjxfd
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-23)
+  description_en: IT conference in Frankfurt am Main, Germany
+  description_de: ''
 - id: devopscon-munich-2026
   title: DevOpsCon Munich 2026
   start: 2026-11-30
@@ -2877,6 +2973,38 @@
   source: EU_IT_Event_Crawl_v5.ics
   description_en: B2B service management strategy summit with online access.
   description_de: Strategiegipfel B2B Service Management mit Diskussionen zu Service Management Strategien; Online-Teilnahme möglich.
+- id: cloud-expo-2026-2026
+  title: Cloud Expo 2026
+  start: 2026-12-02
+  end: 2026-12-03
+  location: Houten, NL
+  country: NL
+  region: Europe
+  url: https://cloudexpo.nl
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: Data Expo 2027 (json-ld, 2026-11-23)'
+  description_en: Het grootste cloud computing evenement van Nederland.
+  description_de: ''
+- id: cyber-crime-forum-muenchen-2026
+  title: Cyber Crime Forum München
+  start: 2026-12-02
+  end: 2026-12-02
+  location: Arnulfstrasse 2, 80335 München, Germany, DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/forum/cyber-crime-muenchen
+  categories:
+  - AI
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: 'Das Cybercrime Forum am 02.12.2026 in München. Schließen Sie das Tempo-Delta zu KI-gestützten Angreifern: Good Practices zu AI Race, Identität & Supply Chain sowie Resilienz & NIS2. Jetzt
+    für 2026 vormerken!'
+  description_de: ''
 - id: itsmf-ff-ki-itsm-2026-12
   title: itSMF Fachforum KI im ITSM
   start: 2026-12-02
@@ -2911,6 +3039,21 @@
   source: Recherche AT/CH 09.11.2026 (ffg.at)
   description_en: FFG event on the EU Digital Europe programme.
   description_de: FFG-Veranstaltung zum EU-Programm Digital Europe.
+- id: ai-coding-summit-berlin-edition-2026
+  title: AI Coding Summit - Berlin Edition
+  start: 2026-12-04
+  end: 2026-12-07
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ai-coding-summit-berlin-edition-hqjzolfj
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-23)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany and Online
+  description_de: ''
 - id: bsides-dresden-2026
   title: BSides Dresden 2026
   start: 2026-12-05
@@ -2963,6 +3106,69 @@
   source: Chatverlauf-Abgleich 09.11.2026 (bmc.com)
   description_en: BMC event for mainframe operations and automation (formerly BMC Roundtables).
   description_de: BMC-Event zu Mainframe-Betrieb und Automatisierung (ehemals BMC Roundtables).
+- id: open-source-experience-2026-2026
+  title: Open Source Experience 2026
+  start: 2026-12-09
+  end: 2026-12-10
+  location: Paris
+  country: null
+  region: Online
+  url: https://dev.events/conferences/open-source-experience-2026-p-ntdtj5
+  categories:
+  - ITSM
+  - Developer
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-23)
+  description_en: IT service management conference in Paris, France
+  description_de: ''
+- id: stelle-deinen-ersten-virtuellen-mitarbeiter-ein-wie-ki-vom-w-2026
+  title: 'Stelle deinen ersten virtuellen Mitarbeiter ein: Wie KI vom Werkzeug zum Kollegen wird'
+  start: 2026-12-09
+  end: 2026-12-09
+  location: Online
+  country: null
+  region: Online
+  url: https://lsz.at/webinar/stelle-deinen-ersten-virtuellen-mitarbeiter-ein-wie-ki-vom-werkzeug-zum-kollegen-wird
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Was dich erwartet.Wir haben unseren ersten virtuellen Mitarbeiter eingestellt. Er hat eine eigene Mailadresse, eigene Zugänge und ein Stellenprofil. Er ist kein Chatbot und keine klassische
+    Automatisierung - er nimmt eine Rolle im Unternehmen ein.
+  description_de: ''
+- id: it-security-cyber-lounge-informationssicherheitsverantwortli-2026
+  title: 'IT-Security Cyber Lounge: Informationssicherheitsverantwortliche und HR: Gemeinsam vom Pflichtklick zur Verteidigungslinie'
+  start: 2026-12-10
+  end: 2026-12-10
+  location: Online
+  country: null
+  region: Online
+  url: https://lsz.at/webinar/it-security-cyber-lounge-informationssicherheitsverantwortliche-und-hr-gemeinsam-vom
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: 'Informationssicherheitsverantwortliche und HR: Gemeinsam vom Pflichtklick zur VerteidigungslinieCyberawareness nach NIS2 wirksam umsetzen – mit einem echten Fall aus der Incident Response'
+  description_de: ''
+- id: community-insights-live-powered-by-f24-2026
+  title: Community Insights Live | powered by F24
+  start: 2026-12-14
+  end: 2026-12-14
+  location: Online
+  country: null
+  region: Online
+  url: https://lsz.at/webinar/community-insights-live-powered-f24
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Das deutsche LSZ-Team freut sich sehr, Ihnen das digitale Diskussions-Format COMMUNITY INSIGHTS LIVE vorzustellen, in dem wir regelmäßig das Know-how und die Diskussionsfreude unserer
+    Communities von überall aus zugänglich machen und so auch abseits von Face-to-Face-Events Vernetzung, Aktualität und
+  description_de: ''
 - id: itsmf-ff-mpm-2026-12
   title: itSMF Fachforum Multi Provider Management
   start: 2026-12-14
@@ -2979,6 +3185,21 @@
   source: Recherche 08.11.2026 (itsmf.de)
   description_en: itSMF Germany working group on steering multiple IT service providers (SIAM).
   description_de: Arbeitskreis des itSMF Deutschland zur Steuerung mehrerer IT-Dienstleister (SIAM).
+- id: dev-fest-essen-2026
+  title: Dev Fest Essen
+  start: 2026-12-17
+  end: 2026-12-17
+  location: Essen
+  country: null
+  region: Online
+  url: https://dev.events/conferences/dev-fest-essen-tzaicmxa
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-23)
+  description_en: IT conference in Essen, Germany
+  description_de: ''
 - id: digitalswitzerland-davos-2027
   title: digitalswitzerland in Davos 2027
   start: 2027-01-19
@@ -3012,6 +3233,22 @@
   source: Recherche AT/CH 09.11.2026 (adv.at)
   description_en: Digitalisation in healthcare.
   description_de: Digitalisierung im Gesundheitswesen.
+- id: women-in-itsm-cop-new-year-new-you-your-next-chapter-2027
+  title: 'Women in ITSM CoP – New Year, New You: Your Next Chapter'
+  start: 2027-01-20
+  end: 2027-01-20
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/community-event-women-in-itsm-jan27/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-23)
+  description_en: In our next Women in ITSM Community of Practice (CoP) event, we’re going to look at mentoring from both sides of the mirror, because whether you’re the mentor or the mentee, and whether
+    it’s through the formal itSMF UK Mentorship Programme or informal mentoring, you have an important part to play
+  description_de: ''
 - id: meet-swiss-infosec-50-2027
   title: 50. Meet Swiss Infosec!
   start: 2027-01-25
@@ -3028,6 +3265,22 @@
   source: Recherche AT/CH 09.11.2026 (itreseller.ch)
   description_en: Information security conference.
   description_de: Konferenz zur Informationssicherheit.
+- id: introduction-to-itsm-part-1-2027
+  title: Introduction to ITSM – Part 1
+  start: 2027-01-26
+  end: 2027-01-26
+  location: Online Delivery
+  country: null
+  region: Online
+  url: https://www.itsmf.co.uk/event/introduction-to-itsm-part1-jan27/
+  categories:
+  - ITSM
+  relevance: core
+  status: confirmed
+  source: crawler:itSMF UK (json-ld, 2026-11-23)
+  description_en: Designed for apprentices, graduates and those moving into ITSM for the first time, attendees will be able to understand best practice for key areas in ITSM, how they work together, and
+    most importantly what each practice needs to do for them all to work cohesively to provide ultimate value for th
+  description_de: ''
 - id: connected-27
   title: CONNECTED'27
   start: 2027-01-27
@@ -3142,6 +3395,23 @@
   source: Recherche AT/CH 09.11.2026 (swissdigitalcenter.ch)
   description_en: Digitalisation conference for SMEs.
   description_de: Digitalisierungskonferenz für KMU.
+- id: containerdays-london-2027-2027
+  title: ContainerDays London 2027
+  start: 2027-02-10
+  end: 2027-02-11
+  location: London, UK
+  country: UK
+  region: Europe
+  url: https://www.containerdays.io/containerdays-london-2027/?utm_medium=organic&utm_source=microformat
+  categories:
+  - AI
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: ContainerDays Hamburg 2027 (json-ld, 2026-11-23)'
+  description_en: Explore how cloud native, AI and physical AI interconnect through sessions and workshops at ContainerDays London, co-located with AI Context and Physical AI Summit, 10–11 February 2027
+    in London.
+  description_de: ''
 - id: adv-cyberxchange-2027
   title: ADV CyberXchange Konferenz
   start: 2027-02-11
@@ -3174,6 +3444,21 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Leading trade fair for retail technology.
   description_de: Leitmesse für Retail Technology.
+- id: ai-days-2027-2027
+  title: AI Days 2027
+  start: 2027-02-17
+  end: 2027-02-17
+  location: Geneva
+  country: null
+  region: Online
+  url: https://dev.events/conferences/ai-days-2027-vbok1rqn
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-23)
+  description_en: IT conference in Geneva, Switzerland
+  description_de: ''
 - id: hamburger-it-strategietage-2027
   title: Hamburger IT-Strategietage 2027
   start: 2027-02-17
@@ -3191,6 +3476,21 @@
   description_en: Leading CIO/IT strategy event in northern Germany (one source lists 17–19 Feb).
   description_de: Führendes CIO-/IT-Strategie-Event in Norddeutschland (eine Quelle nennt 17.–19.02.).
   note: Termin 17.–19.02.2027 im Grand Elysée laut CIOmove; experte.de nennt 17.–18.02.
+- id: autoresearch-berlin-conference-2027
+  title: Autoresearch Berlin Conference
+  start: 2027-02-19
+  end: 2027-02-19
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/autoresearch-berlin-conference-5zufbae0
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-23)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: ccw-2027
   title: CCW 2027 (Customer Contact World)
   start: 2027-02-22
@@ -3271,6 +3571,22 @@
   source: Recherche 08.11.2026 (logistik-heute.de)
   description_en: Logistics conference incl. logistics IT and digitalisation.
   description_de: Logistikkonferenz inkl. Logistik-IT und Digitalisierung.
+- id: future-ciso-connections-duesseldorf-2027
+  title: Future CISO Connections Düsseldorf
+  start: 2027-02-24
+  end: 2027-02-24
+  location: Am Hülserhof 57, 40472 Düsseldorf-Stadtbezirk 6, DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/konferenz/ciso-duesseldorf
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der Treffpunkt für CISOs in Düsseldorf. Vernetzen Sie sich mit führenden Security-Entscheidern, tauschen Sie Erfahrungen aus und diskutieren Sie die strategischen Herausforderungen von
+    morgen. Jetzt vormerken!
+  description_de: ''
 - id: genai-zurich-2027
   title: GenAI Zürich 2027
   start: 2027-02-24
@@ -3303,6 +3619,37 @@
   source: Recherche AT/CH 09.11.2026 (bsides.tirol)
   description_en: Community cybersecurity conference (free entry).
   description_de: Community-Cybersecurity-Konferenz (Eintritt frei).
+- id: hamburg-python-pizza-2027
+  title: Hamburg Python Pizza
+  start: 2027-02-27
+  end: 2027-02-27
+  location: Hamburg
+  country: null
+  region: Online
+  url: https://dev.events/conferences/hamburg-python-pizza-obwqd-hi
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE IT (json-ld, 2026-11-23)
+  description_en: IT conference in Hamburg, Germany
+  description_de: ''
+- id: software-asset-management-strategies-sams-2027-2027
+  title: Software Asset Management Strategies (SAMS 2027)
+  start: 2027-03-01
+  end: 2027-03-31
+  location: Berlin, DE
+  country: DE
+  region: DACH
+  url: https://www.clocate.com/software-asset-management-strategies-sams/19386/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: SAMS DACH 2027 (Software Asset Management) (json-ld, 2026-11-23)'
+  description_en: 'Key Topics: SAM and SLM from a management perspective: models and approaches, Effective and legally compliant software asset management and software license management in the corporate
+    practice, Implementation of a software license management, SAM / SLM from technology perspective: models, approache'
+  description_de: ''
 - id: workplace-ninjas-germany-2027
   title: Workplace Ninjas Germany 2027
   start: 2027-03-01
@@ -3386,6 +3733,21 @@
   source: dev.events DE/AT/CH (Recherche 09.11.2026)
   description_en: Forum on payments, regulatory technology and compliance.
   description_de: Forum zu Payments, RegTech und Compliance.
+- id: winterkongress-2027-2027
+  title: Winterkongress 2027
+  start: 2027-03-05
+  end: 2027-03-06
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/winterkongress-2027-i9xoiizs
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-23)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
 - id: winterkongress-digitale-gesellschaft-2027
   title: Winterkongress der Digitalen Gesellschaft 2027
   start: 2027-03-05
@@ -3435,6 +3797,39 @@
   source: Recherche AT/CH 09.11.2026 (e-governmentforum.ch)
   description_en: Switzerland's leading eGovernment conference.
   description_de: Führende eGovernment-Konferenz der Schweiz.
+- id: lsz-gesundheitskongress-2027
+  title: LSZ Gesundheitskongress
+  start: 2027-03-10
+  end: 2027-03-11
+  location: Am Goldberg 2, 3500 Krems/Wachau, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/kongress/gesundheitskongress
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der interdisziplinäre Kongress für Entscheider im Gesundheitswesen vom 30.06.-01.07.2026 in Stegersbach. Mit Experten von UNIQA & Microsoft. Diskutieren Sie über Medizin, Pflege & IT.
+    Jetzt informieren!
+  description_de: ''
+- id: production-it-2027
+  title: Production & IT
+  start: 2027-03-10
+  end: 2027-03-10
+  location: Europaplatz 2, 4020 Linz, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/konferenz/production-it-linz
+  categories:
+  - Security
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Die Fachkonferenz für IT-Verantwortliche in der Produktion. Entdecken Sie Best Practices für MES, OT-Security und die Digitalisierung der Fertigung. Tauschen Sie sich mit Branchenkollegen
+    aus. Jetzt informieren!
+  description_de: ''
 - id: trendtage-gesundheit-luzern-2027
   title: Trendtage Gesundheit Luzern 2027
   start: 2027-03-10
@@ -3483,6 +3878,37 @@
   source: Recherche 08.11.2026 (messen.de / experte.de)
   description_en: heise meeting point for security users and vendors (workshop day 9 March).
   description_de: heise-Treffpunkt für Security-Anwender und -Anbieter (Workshoptag 09.03.).
+- id: cyber-crime-forum-wien-2027
+  title: Cyber Crime Forum Wien
+  start: 2027-03-11
+  end: 2027-03-11
+  location: Eiswerkstraße 20, 1220 Wien, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/forum/cyber-crime-wien
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Das Cyber Crime Forum am 11.03.2027 in Wien. Treffen Sie führende Experten aus IT-Security und Risk Management und diskutieren Sie die neuesten Trends von NIS 2 bis Zero Trust. Jetzt kostenlos
+    anmelden!
+  description_de: ''
+- id: drupalcamp-munich-2027-2027
+  title: Drupalcamp Munich 2027
+  start: 2027-03-12
+  end: 2027-03-13
+  location: Munich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/drupalcamp-munich-2027-p6qplp0
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE S.2 (json-ld, 2026-11-23)
+  description_en: Drupal conference in Munich, Germany
+  description_de: ''
 - id: cloudfest-2027
   title: CloudFest 2027
   start: 2027-03-15
@@ -3548,6 +3974,22 @@
   source: Recherche AT/CH 09.11.2026 (confare.at)
   description_en: Austria's largest CIO and IT management summit (20th anniversary).
   description_de: Österreichs größter CIO- und IT-Management-Gipfel (20-jähriges Jubiläum).
+- id: cybercrime-forum-stuttgart-2027
+  title: Cybercrime Forum Stuttgart
+  start: 2027-03-17
+  end: 2027-03-17
+  location: Theodor-Heuss-Straße 2, 70174 Stuttgart, DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/cybercrime-stuttgart
+  categories:
+  - Cloud
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Das führende IT-Security Forum in Stuttgart. Tausche dich mit Experten über aktuelle Cyber-Bedrohungen, Cloud Security und Compliance aus. Jetzt für 2027 vormerken!
+  description_de: ''
 - id: transform-berlin-2027
   title: TRANSFORM 2027
   start: 2027-03-17
@@ -3645,6 +4087,21 @@
   source: Websuche 04.11.2026
   description_en: World's leading industrial technology fair incl. AI and IT/OT tracks.
   description_de: Weltleitmesse der Industrietechnik inkl. KI- und IT/OT-Themen.
+- id: opensearchcon-europe-2027
+  title: OpenSearchCon Europe
+  start: 2027-04-07
+  end: 2027-04-08
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/open-search-con-europe-d1b6ivoy
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-23)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: adv-data-ai-excellence-2027
   title: ADV Data & AI Excellence Konferenz 2027
   start: 2027-04-08
@@ -3710,6 +4167,21 @@
   description_en: project networks summit for IT managers and CIOs.
   description_de: project-networks-Gipfel für IT-Manager und CIOs.
   note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
+- id: transform-together-2027-2027
+  title: Transform Together 2027
+  start: 2027-04-13
+  end: 2027-04-14
+  location: Leipzig
+  country: null
+  region: Online
+  url: https://dev.events/conferences/transform-together-2027-admwohn5
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE S.2 (json-ld, 2026-11-23)
+  description_en: HR / Hiring / Recruiting conference in Leipzig, Germany
+  description_de: ''
 - id: devopsdays-zurich-2027
   title: DevOpsDays Zürich 2027
   start: 2027-04-14
@@ -3726,6 +4198,21 @@
   source: Recherche AT/CH 09.11.2026 (dev.events)
   description_en: Community conference on DevOps and IT operations.
   description_de: Community-Konferenz zu DevOps und IT-Betrieb.
+- id: data-business-forum-2027
+  title: Data Business Forum
+  start: 2027-04-15
+  end: 2027-04-15
+  location: Robert-Stolz-Platz 1, 1010 Wien, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/forum/data-business-forum-wien
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: 'Das Forum für Data & Analytics Experten & IT Verantwortliche: 15.04.2027, Wien. Holen Sie sich das jährliche Update - Create Value & Insights from Data. Jetzt anmelden!'
+  description_de: ''
 - id: sekop-2027
   title: SEKOP 2027
   start: 2027-04-15
@@ -3823,6 +4310,22 @@
   source: Websuche 04.11.2026
   description_en: German cybersecurity conference on cyber risk and governance.
   description_de: Deutsche Cybersecurity-Konferenz zu Cyber-Risiken und Governance.
+- id: gitex-ai-mediterranean-italy-rome-2027-2027
+  title: GITEX AI MEDITERRANEAN ITALY/ROME 2027
+  start: 2027-04-21
+  end: 2027-04-22
+  location: Rome
+  country: null
+  region: Online
+  url: https://dev.events/conferences/gitex-ai-mediterranean-italy-rome-2027-rcgivosk
+  categories:
+  - ITSM
+  - AI
+  relevance: core
+  status: confirmed
+  source: crawler:dev.events ITSM (json-ld, 2026-11-23)
+  description_en: IT service management conference in Rome, Italy
+  description_de: ''
 - id: transport-logistic-2027
   title: transport logistic 2027
   start: 2027-04-26
@@ -4049,6 +4552,21 @@
   source: Recherche 08.11.2026 (experte.de)
   description_en: Summit on innovation and digital transformation.
   description_de: Gipfel zu Innovation und digitaler Transformation.
+- id: future-of-work-der-hr-kongress-2027
+  title: FUTURE OF WORK – der HR-Kongress
+  start: 2027-05-12
+  end: 2027-05-13
+  location: Europaplatz 800, 8970 Schladming, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/kongress/future-of-work-schladming
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: 'Der führende HR-Kongress Future of Work: 12.–13. Mai 2027 im Congress Schladming. Über 300 HR-Expert:innen, Keynotes & Workshops. Jetzt Ticket sichern!'
+  description_de: ''
 - id: rise-of-ai-2027
   title: Rise of AI Conference 2027
   start: 2027-05-12
@@ -4129,6 +4647,21 @@
   source: Websuche 04.11.2026
   description_en: Co-located shows on cloud, data & AI, data centres and cyber security.
   description_de: Parallelmessen zu Cloud, Daten & KI, Rechenzentren und Cybersecurity.
+- id: offensivecon27-2027
+  title: OffensiveCon27
+  start: 2027-05-21
+  end: 2027-05-22
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/offensive-con27-4-mgsr5
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-23)
+  description_en: Cybersecurity / InfoSec conference in Berlin, Germany
+  description_de: ''
 - id: devopsdays-geneva-2027
   title: DevOpsDays Genf 2027
   start: 2027-05-25
@@ -4145,6 +4678,37 @@
   source: dev.events DE/AT/CH (Recherche 09.11.2026)
   description_en: Community conference on DevOps and IT operations.
   description_de: Community-Konferenz zu DevOps und IT-Betrieb.
+- id: future-chro-connections-leipzig-2027
+  title: Future CHRO Connections Leipzig
+  start: 2027-05-25
+  end: 2027-05-25
+  location: DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/konferenz/chro-leipzig
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der exklusive Treffpunkt für CHROs und HR-Entscheider am 10.11.2027 in Frankfurt. Vernetzen Sie sich auf Top-Niveau und diskutieren Sie die Zukunft von HR, Leadership und Unternehmenskultur.
+    Jetzt anmelden!
+  description_de: ''
+- id: cloudland-2027-2027
+  title: Cloudland 2027
+  start: 2027-05-31
+  end: 2027-06-02
+  location: Soltau
+  country: null
+  region: Online
+  url: https://dev.events/conferences/cloudland-2027-vsqxfvp
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Cloud (json-ld, 2026-11-23)
+  description_en: Cloud conference in Soltau, Germany
+  description_de: ''
 - id: sds-2027
   title: SDS2027 – IEEE Swiss Conference on Data Science and AI
   start: 2027-05-31
@@ -4161,6 +4725,21 @@
   source: Recherche AT/CH 09.11.2026 (sds2027.ch)
   description_en: Swiss data science and AI conference (workshop day 1 June).
   description_de: Schweizer Konferenz zu Data Science und KI (Workshoptag 01.06.).
+- id: unhacked-360-germany-futuresec-summit-2027
+  title: 'Unhacked 360 Germany: FutureSec Summit'
+  start: 2027-05-31
+  end: 2027-06-01
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/unhacked-360-germany-future-sec-summit-kyrcye5q
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Security (json-ld, 2026-11-23)
+  description_en: Cybersecurity / InfoSec conference in Berlin, Germany
+  description_de: ''
 - id: bettercode-agentic-ai-2027
   title: betterCode() Agentic AI Summit 2027
   start: 2027-06-01
@@ -4211,6 +4790,21 @@
   source: Recherche 08.11.2026 (serview-summit.com)
   description_en: Pre-conference day of SERVIEW27.
   description_de: Vortag (Pre-Conference) der SERVIEW27.
+- id: 21st-silicon-saxony-days-2027
+  title: 21st Silicon Saxony Days
+  start: 2027-06-08
+  end: 2027-06-09
+  location: Dresden
+  country: null
+  region: Online
+  url: https://dev.events/conferences/21st-silicon-saxony-days-f7ujmf8x
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE S.3 (json-ld, 2026-11-23)
+  description_en: Tech conference in Dresden, Germany
+  description_de: ''
 - id: infosecurity-europe-2027
   title: Infosecurity Europe 2027
   start: 2027-06-08
@@ -4308,6 +4902,21 @@
   source: Recherche 08.11.2026 (dev.events)
   description_en: Conference on DevOps, platform engineering and cloud.
   description_de: Konferenz zu DevOps, Platform Engineering und Cloud.
+- id: heyai-2027-2027
+  title: HeyAI 2027
+  start: 2027-06-14
+  end: 2027-06-17
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/hey-ai-2027-y87xg4ga
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events AI DE (json-ld, 2026-11-23)
+  description_en: Artificial Intelligence (AI) conference in Berlin, Germany
+  description_de: ''
 - id: it-security-summit-berlin-2027
   title: IT Security Summit Berlin 2027
   start: 2027-06-14
@@ -4686,6 +5295,21 @@
   source: Recherche AT/CH 09.11.2026 (lsz.at)
   description_en: Cyber defence forum for Styria.
   description_de: Forum zur Cyber-Abwehr für die Steiermark.
+- id: tacon-2027-2027
+  title: TACON 2027
+  start: 2027-09-15
+  end: 2027-09-16
+  location: Leipzig
+  country: null
+  region: Online
+  url: https://dev.events/conferences/tacon-2027-6muxbk-m
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE S.4 (json-ld, 2026-11-23)
+  description_en: Testing / QA conference in Leipzig, Germany
+  description_de: ''
 - id: aidaq-2027
   title: Bitkom AIDAQ 2027
   start: 2027-09-21
@@ -4703,6 +5327,22 @@
   source: Recherche 08.11.2026 (bitkom / aidaq.berlin)
   description_en: Bitkom's AI, data & quantum conference incl. strategy and governance.
   description_de: KI-, Daten- und Quanten-Konferenz des Bitkom inkl. Strategie und Governance.
+- id: future-of-work-west-2027
+  title: FUTURE OF WORK WEST
+  start: 2027-09-21
+  end: 2027-09-22
+  location: Tauern Spa Platz 1, 5710 Kaprun, Österreich, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/kongress/future-of-work-west
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der HR-Kongress für West-Österreich vom 17.-18.09.2025 in Kaprun. Diskutieren Sie mit Experten von Hilti & whatchado über KI im HR, Leadership und die Zukunft der Arbeit. Jetzt Ticket
+    sichern!
+  description_de: ''
 - id: lsz-it-security-herbst-2027
   title: IT Security Herbst 2027
   start: 2027-09-21
@@ -4861,6 +5501,36 @@
   source: Recherche 08.11.2026 (messen.de)
   description_en: Trade fair and conference on digitalising logistics.
   description_de: Messe und Konferenz zur Digitalisierung der Logistik.
+- id: cio-des-jahres-2027
+  title: CIO des Jahres
+  start: 2027-10-13
+  end: 2027-10-14
+  location: US
+  country: US
+  region: Europe
+  url: https://event.foundryco.com/cio-des-jahres/
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: 'crawler:Watchlist: CIO des Jahres 2027 (json-ld, 2026-11-23)'
+  description_en: 'CIO des Jahres: 15.-16. Oktober 2025 in München: das führende Strategietreffen und die feierlichen Auszeichnung der besten CIOs'
+  description_de: ''
+- id: data-ai-workbench-muenchen-2027
+  title: Data & AI Workbench München
+  start: 2027-10-13
+  end: 2027-10-13
+  location: Arnulfstrasse 2, 80335 München, Germany, DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/konferenz/data-ai-workbench-muenchen
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der Treffpunkt für Data & Analytics Professionals am 12.05.2027 in München. Tauschen Sie sich mit Experten über die neuesten Trends aus. Jetzt anmelden!
+  description_de: ''
 - id: lsz-cio-kongress-2027
   title: CIO Kongress 2027 – RE:HUMAN
   start: 2027-10-17
@@ -4962,6 +5632,39 @@
   source: Recherche AT/CH 09.11.2026 (smfs.ch (Save the Date))
   description_en: Switzerland's largest service management forum.
   description_de: Grösstes Service-Management-Forum der Schweiz.
+- id: future-ciso-connections-frankfurt-2027
+  title: Future CISO Connections Frankfurt
+  start: 2027-11-10
+  end: 2027-11-10
+  location: Frankfurt am Main, Deutschland, DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/konferenz/ciso-frankfurt
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der strategische Austausch für CISOs und Security-Leader am 10.11.2027 in Frankfurt. Diskutieren Sie mit Peers über aktuelle Bedrohungen, Compliance und zukunftsfähige Sicherheitsarchitekturen.
+    Jetzt anmelden!
+  description_de: ''
+- id: production-it-rankweil-2027
+  title: Production & IT Rankweil
+  start: 2027-11-16
+  end: 2027-11-16
+  location: Römergrund 1 , 6830 Rankweil , AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/konferenz/production-it-rankweil
+  categories:
+  - Security
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Die Fachkonferenz für IT-Verantwortliche in der Produktion. Entdecken Sie Best Practices für MES, OT-Security und die Digitalisierung der Fertigung. Tauschen Sie sich mit Branchenkollegen
+    aus. Jetzt informieren!
+  description_de: ''
 - id: pn-strategy-summit-cyber-2027-11
   title: Strategy Summit Cyber Security 2027 (Herbst)
   start: 2027-11-16
@@ -4979,6 +5682,52 @@
   description_en: project networks summit for CISOs and security leaders.
   description_de: project-networks-Gipfel für CISOs und Security-Verantwortliche.
   note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
+- id: agentic-engineering-days-zurich-2027-2027
+  title: Agentic Engineering Days Zurich 2027
+  start: 2027-11-17
+  end: 2027-11-18
+  location: Zurich
+  country: null
+  region: Online
+  url: https://dev.events/conferences/agentic-engineering-days-zurich-2027-agfwal6c
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events CH IT (json-ld, 2026-11-23)
+  description_en: IT conference in Zurich, Switzerland
+  description_de: ''
+- id: talents-for-it-future-wien-2027
+  title: Talents for IT-Future Wien
+  start: 2027-11-17
+  end: 2027-11-17
+  location: Wehlistraße 66, 1200 Wien, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/karriere-event/talents-for-it-future-wien
+  categories:
+  - Digital Transformation
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Der Karriere-Event für IT-Talente am 17.11.2027 in Wien. Treffen Sie Top-Arbeitgeber wie REWE & Wiener Stadtwerke, erhalten Sie einen kostenlosen CV-Check und finden Sie Ihren Traumjob
+    in der IT. Jetzt kostenlos anmelden!
+  description_de: ''
+- id: ai-challenge-accepted-summit-2027
+  title: AI-Challenge Accepted! Summit
+  start: 2027-11-18
+  end: 2027-11-18
+  location: Europaplatz 2, 4020 Linz, AT
+  country: AT
+  region: DACH
+  url: https://lsz.at/summit/ai-challenge-accepted
+  categories:
+  - AI
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Erleben Sie Österreichs führenden AI Summit 2027 in Linz. Sichern Sie sich jetzt Ihr Ticket zur AI-Challenge!
+  description_de: ''
 - id: itcs-frankfurt-2027
   title: ITCS Frankfurt 2027
   start: 2027-11-26
@@ -5014,3 +5763,33 @@
   description_en: project networks summit for service management decision-makers (AFSMI partner).
   description_de: project-networks-Gipfel für Service-Management-Entscheider (AFSMI-Partner).
   note: Ort laut Strategy Summit B2B Service Management (Riu Plaza Berlin); für diese Ausgabe bitte prüfen
+- id: test-event-2028
+  title: TEST Event
+  start: 2028-01-01
+  end: 2028-01-01
+  location: DE
+  country: DE
+  region: DACH
+  url: https://lsz.at/Test
+  categories:
+  - Security
+  relevance: related
+  status: confirmed
+  source: crawler:LSZ Events (AT) (json-ld, 2026-11-23)
+  description_en: Exklusiver Austausch für CISOs und Security-Leader am 01.07.2027 in München. Diskutieren Sie mit Experten von State Street & GEA Group über die Zukunft der Cyber Security. Jetzt vormerken!
+  description_de: ''
+- id: kubecon-cloudnativecon-europe-2028-2028
+  title: KubeCon + CloudNativeCon Europe 2028
+  start: 2028-04-24
+  end: 2028-04-27
+  location: Berlin
+  country: null
+  region: Online
+  url: https://dev.events/conferences/kube-con-cloud-native-con-europe-2028-eunzpe82
+  categories:
+  - Cloud
+  relevance: related
+  status: confirmed
+  source: crawler:dev.events DE Cloud (json-ld, 2026-11-23)
+  description_en: Cloud conference in Berlin, Germany
+  description_de: ''
